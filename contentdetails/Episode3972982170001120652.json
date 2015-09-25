@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 555,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1414/3965454539001_4122851507001_3965454539001-4097712454001-3965454539001-3972984063001-CST010-CAPECOD-CLAMS-copy-1.jpg?pubId=3965454539001",
+			"oigid" : -1797571188,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/1V1ZVQ99UEM4/m3u8/1V1ZVQ99UEM4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "On the season finale of Coastal, Byron is in Cape Cod, MA to meet up with Steve Hoxie. They're heading to one of Steve's favorite clamming spots to show Byron how to harvest quahogs for his recipe.",
+	"t" : "Cape Cod Stuffed Clams",
+	"uuid" : "Episode3972982170001120652"
+}

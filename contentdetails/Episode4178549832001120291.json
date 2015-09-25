@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 268,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1004/3965454539001_4179699011001_Muffin-de-Abobrinha-com-Couve-flor---Vamos-pra-Coz.jpg?pubId=3965454539001",
+			"oigid" : -1222535133,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/3A85QRC298QB/m3u8/3A85QRC298QB.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Os muffins de abobrinha e couve-flor são uma opção saudável para quem quer matar a fome da tarde com aquele lanchinho que fica faltando antes do jantar, ou pode ser trocado pela quiche e ser servido com uma saladinha como uma opção mais leve.",
+	"t" : "Muffin de Abobrinha com Couve Flor",
+	"uuid" : "Episode4178549832001120291"
+}

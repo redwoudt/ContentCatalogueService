@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 153,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2169/3965454539001_4230327798001_8cocadalimpo.jpg?pubId=3965454539001",
+			"oigid" : -1992348898,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/NFTA9P8O01Q2/m3u8/NFTA9P8O01Q2.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Inspirada pela praia de Trancoso, Isadora ensina como fazer um dos mais famosos doces baianos: a cocada. Fazer essa receita é simples e são necessários apenas três ingredientes: coco, açúcar e água.",
+	"t" : "8. Cocada",
+	"uuid" : "Episode4178549857001110302"
+}

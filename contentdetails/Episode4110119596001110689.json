@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 64,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2367/3965454539001_4159425761001_4.jpg?pubId=3965454539001",
+			"oigid" : -999343455,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/146NWKPCCY4B/m3u8/146NWKPCCY4B.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben’s Next Door has it all – happy hour seven days a week and great soul food (the shrimp and grits and bread pudding are just like heaven). This place is popular, so get there early or make a reservation on the weekends.",
+	"t" : "4. Ben's Next Door",
+	"uuid" : "Episode4110119596001110689"
+}

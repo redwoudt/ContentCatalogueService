@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 65,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/675/3965454539001_4110142036001_QBdhhtcWSC2x0QwRK3oVog-th.jpg?pubId=3965454539001",
+			"oigid" : 1022095769,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/V51OX15P0OFI/m3u8/V51OX15P0OFI.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Let the fun – and the feasting -- begin at Bourbon Steak’s happy hour! Order the foie gras special if they have it and any of the excellent burgers.",
+	"t" : "8. Bourbon Steak",
+	"uuid" : "Episode4110117787001110937"
+}

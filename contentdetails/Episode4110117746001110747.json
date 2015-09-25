@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2065/3965454539001_4159175063001_1.jpg?pubId=3965454539001",
+			"oigid" : -1323198757,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/7UQYX9ENRF8B/m3u8/7UQYX9ENRF8B.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Traditional Latin cuisine with a global twist awaits at Isla del Mojito. Enjoy live music and brunch on the weekends, and be sure to order the biscuits and gravy, and creamy polenta. Free parking is an added bonus.",
+	"t" : "1. Isla Del Mojito",
+	"uuid" : "Episode4110117746001110747"
+}

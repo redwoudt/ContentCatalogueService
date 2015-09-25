@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 219,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1466/3965454539001_4001423437001_SF031-RED-VELVET-TRIFLE.jpg?pubId=3965454539001",
+			"oigid" : -1222535324,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/0ITCIMR5GF0W/m3u8/0ITCIMR5GF0W.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Barry give the classic trifle a much needed facelift. Merged with fresh berries, red velvet sponge, and cointreau, it's super British and a bit old school.",
+	"t" : "Red Velvet Trifle",
+	"uuid" : "Episode3978557832001120100"
+}

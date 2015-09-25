@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1617/3965454539001_4159518667001_8-1.jpg?pubId=3965454539001",
+			"oigid" : 1713138363,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/2EUNURN8QDJW/m3u8/2EUNURN8QDJW.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The world’s best chocolate chip cookie goes even better with a terrific cup of coffee at Blind Dog Café. Be bold and order the off-the-menu espresso soda for something unique, delicious and refreshing.",
+	"t" : "8. Blind Dog Cafe",
+	"uuid" : "Episode4110114268001110715"
+}

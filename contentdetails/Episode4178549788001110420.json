@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 206,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/921/3965454539001_4230428926001_54bonnie.jpg?pubId=3965454539001",
+			"oigid" : 2022095252,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/BD8FABYCV0WP/m3u8/BD8FABYCV0WP.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Nesse episódio de Comida de Cinema, Isadora Becker se inspira no famoso filme do casal de criminosos \"Bonnie & Clyde\" e prepara o delicioso hambúrguer que os dois saboreiam em uma das cenas.",
+	"t" : "54. Hambúrguer de \"Bonnie & Clyde\"",
+	"uuid" : "Episode4178549788001110420"
+}

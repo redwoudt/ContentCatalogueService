@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 227,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1883/3965454539001_4003458741001_spanishtapas.jpg?pubId=3965454539001",
+			"oigid" : 1777464708,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/KLPEXYQVT8FK/m3u8/KLPEXYQVT8FK.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Jamie make platter of Spanish Tapas that are easy easy to make, yet together they offer a feast of tasty Spanish-inspired food",
+	"t" : "Spanish Tapas",
+	"uuid" : "Episode3978557835001120132"
+}

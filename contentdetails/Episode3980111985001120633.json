@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 134,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1207/3965454539001_4134348323001_vlcsnap-2015-03-25-14h41m20s76.jpg?pubId=3965454539001",
+			"oigid" : 1453609849,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/B8B8SC05HQRF/m3u8/B8B8SC05HQRF.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Created in Spain, many countries have their own version of Horchata. This recipe is inspired by the regional rice-based variations across Mexico.",
+	"t" : "Mexican Horchata",
+	"uuid" : "Episode3980111985001120633"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 265,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1501/3965454539001_4003492652001_seafood-orzo.jpg?pubId=3965454539001",
+			"oigid" : -1337633416,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/EG4EYJ90GP9J/m3u8/EG4EYJ90GP9J.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Jamie make a Seafood Orzo with a very interesting coastal vegetable as a side dish.",
+	"t" : "Seafood Orzo",
+	"uuid" : "Episode3978557819001120120"
+}

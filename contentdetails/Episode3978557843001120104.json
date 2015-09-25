@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 222,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/254/3965454539001_4001431080001_SF020-BEETROOT-BROWNIES.jpg?pubId=3965454539001",
+			"oigid" : 1187530088,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/SMTJ2ZHCTJJZ/m3u8/SMTJ2ZHCTJJZ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Jamie make a batch of brownies with an unlikely ingredient.",
+	"t" : "Chocolate Beetroot Brownies",
+	"uuid" : "Episode3978557843001120104"
+}

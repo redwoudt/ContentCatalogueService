@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2653/3965454539001_4110115289001_fqw-A8xCSGupSi7mb2Qx8g-th.jpg?pubId=3965454539001",
+			"oigid" : 986212036,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/G3A2E9N7T54C/m3u8/G3A2E9N7T54C.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The name may be sweet, but don’t irritate Rosebud’s chef by ordering off the menu. Better to stick with tried-and-true winners like the whole wheat pancakes and sausage Benedict — it will rock your world.",
+	"t" : "5. Rosebud",
+	"uuid" : "Episode4109982671001110212"
+}

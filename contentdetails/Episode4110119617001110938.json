@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/883/3965454539001_4110142009001_idmyzkbURzWzfnec1JTfKQ-th.jpg?pubId=3965454539001",
+			"oigid" : -1474179686,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/6Q98XUOAILRI/m3u8/6Q98XUOAILRI.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "It’s your pick at Lagniappe, where you get to choose your own meats and cheeses directly from the fridge to make your own charcuterie board. The wine and atmosphere are fantastic, so come here for a good time!",
+	"t" : "7. Lagniappe",
+	"uuid" : "Episode4110119617001110938"
+}

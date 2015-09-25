@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1653/3965454539001_4110115621001_ROpbVR5lSN-GCmGrsfA1KA-th.jpg?pubId=3965454539001",
+			"oigid" : -13787956,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/G5MOEFWQ60SO/m3u8/G5MOEFWQ60SO.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "True to its name, Twin Smokers is all about the smoked meats, so go for the brisket and burnt ends chili. Bonus: You get a take-home beery koozie when you order a cold one — you can never have too many!",
+	"t" : "4. Twin Smokers BBQ",
+	"uuid" : "Episode4109982670001110220"
+}

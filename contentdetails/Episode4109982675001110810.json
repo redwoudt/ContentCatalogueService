@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1863/3965454539001_4158472920001_2-1.jpg?pubId=3965454539001",
+			"oigid" : 691245338,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/LP4UCI0YEABJ/m3u8/LP4UCI0YEABJ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Empire Café has been serving casual café fare since 1994, so you know they’re doing something right. Standout dishes include the mushroom and goat cheese stuffed ravioli and the crispy “not fried” chicken sandwich.",
+	"t" : "2. Empire Cafe",
+	"uuid" : "Episode4109982675001110810"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 125,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/291/3965454539001_4185192050001_1.jpg?pubId=3965454539001",
+			"oigid" : 1777919043,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/KQE9CQVMJKJ1/m3u8/KQE9CQVMJKJ1.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A \"Coxinha da Dadá\" é famosa em São Paulo e se destaca pela massa cremosa. Recheadas com frango e um creme especial, essas coxinhas são servidas no Z Carniceria acompanhadas de geleia de pimenta.",
+	"t" : "Coxinha da Dadá (Z Carniceria)",
+	"uuid" : "Episode4173356238001120323"
+}

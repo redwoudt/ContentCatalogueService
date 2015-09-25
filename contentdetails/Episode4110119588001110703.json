@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 67,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1349/3965454539001_4110136149001_I9LVtzzZQWCIEeFf9hv08Q-th.jpg?pubId=3965454539001",
+			"oigid" : -409408849,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/2CH0GYEHUYKT/m3u8/2CH0GYEHUYKT.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Nothing says American food like tortillas…right? Head to Tortilla Café and try a little of everything: tamales, yucca fries, fajitas, and, of course, a decadently cheesy pupusa. Have your order ready because the line is long and people want to eat.",
+	"t" : "1. Tortilla Cafe",
+	"uuid" : "Episode4110119588001110703"
+}

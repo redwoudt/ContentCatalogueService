@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 131,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2974/3965454539001_4223316611001_V2-ES-00-00-05-21-Still001--2-.jpg?pubId=3965454539001",
+			"oigid" : 87320528,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/IHHDR1JQQ0CS/m3u8/IHHDR1JQQ0CS.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A hot tea for a hot day? This Middle Eastern drink will make you forget all about ice cubes, even in the middle of the desert.",
+	"t" : "4. Loomi Tea",
+	"uuid" : "Episode4223207159001110480"
+}

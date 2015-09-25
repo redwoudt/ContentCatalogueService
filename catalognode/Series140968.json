@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3165/3965454539001_4110138649001_N-GhFwscRfiiI8JPOGxUkQ-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114275001110960",
+			"sy" : "If the way to a woman’s heart is through macarons, Bisous Ciao is about to give your love life a boost. Seasonal flavors like spicy pumpkin are fantastic, as are delicately flavored classics like rose and salted caramel.",
+			"t" : "6. Bisous Ciao Macarons"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/675/3965454539001_4110138755001_GYRglN6pSsKjbbnDA1PD1Q-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117779001110961",
+			"sy" : "Sugar and caffeine make for a tasty midday pick-me-up at Culture Espresso Bar. Try the flat white with a touch of almond milk, but if you want one of their famous cookies, don’t show up until after 11:30am. Bonus: They’ve got free wi-fi.",
+			"t" : "7. Culture Espresso Bar"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1165/3965454539001_4110138813001_nQm2K0XfSVKxYbNGPUmBAA-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114273001110962",
+			"sy" : "For colorful cupcakes, a tantalizing array of puddings (try the banana) and more dessert delicacies, head Sugar Sweet Sunshine – they’re even open until 10pm to cover your after-dark sugar fix.",
+			"t" : "4. Sugar Sweet Sunshine"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2165/3965454539001_4110138647001_D4pUCwmbSvGThmYi7kU2BQ-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114274001110963",
+			"sy" : "Get your gobble, gobble on with Momofuku Milk Bar’s Thanksgiving Day croissant, pumpkin pie cake ball truffles and hot chocolate with extra marshmallows. Come on Cake Walk Saturday, which is like an adult game of musical chairs.",
+			"t" : "5. Momofuku Milk Bar"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/165/3965454539001_4110138616001_vjLQuQgHQ6m8r9y9hyiL4A-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114272001110964",
+			"sy" : "There’s a reason Magnolia has become a New York institution -- from the out-of-control banana pudding to the classic chocolate cupcakes, this bakery delivers the goods and helps us all to get in touch with our inner Carrie.",
+			"t" : "2. Magnolia Bakery"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2402/3965454539001_4122117852001_vlcsnap-2015-03-19-11h05m22s163.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119599001110965",
+			"sy" : "You’ll go crazy for donuts at this Upper East Side bake shop. Dough Loco switches up their flavors a lot, but the blueberry pancake, sugar and cinnamon and miso glazed are all winners. Call ahead to make sure they have your favorites.",
+			"t" : "3. Dough Loco"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3349/3965454539001_4110138657001_MSCFet0ASA6mm2Oy2HW3Ig-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119598001110966",
+			"sy" : "For a lip-schmacking good time, come to Schmackary in Hell’s Kitchen, aka the best cookie joint in New York City. Colossal cookies in an array of flavors are served in a super-cute, fun, gay-friendly environment.",
+			"t" : "1. Schmackary's"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/6PKj4lWZqgwIgW0cIOwaQM/36b1db1962c0b9561284d399ba55d43c/connected-devices-thumbnail-new-york-best-sugar-buzz.png",
+	"nodeid" : "Series140968",
+	"nodetype" : "MENU",
+	"t" : "Sugar Buzz"
+}

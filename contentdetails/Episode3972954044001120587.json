@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 184,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1932/3965454539001_3976278225001_RVNG004-TRUFFLES.jpg?pubId=3965454539001",
+			"oigid" : 1051447627,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/RE4CCD4GI8BI/m3u8/RE4CCD4GI8BI.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The chocolate truffles we all know and love are pretty bad for us - no one will argue that. So this week, Laura's making raw truffles that not only taste great, but are packed with nutrients as well.",
+	"t" : "Chocolate Truffles",
+	"uuid" : "Episode3972954044001120587"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 83,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/607/3965454539001_4134736840001_4134502316001-th.jpg?pubId=3965454539001",
+			"oigid" : -1826469052,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/M5TZZ1OE1EG7/m3u8/M5TZZ1OE1EG7.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "If you’re looking for a delicious way to detox in a stylish setting, head to the juice bar at the Ace Hotel in Shoreditch. Order the banana and soy or avocado and greens smoothie for a healthy, tasty treat.",
+	"t" : "1. Ace Hotel",
+	"uuid" : "Episode4134502316001110852"
+}

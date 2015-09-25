@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 425,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3478/3965454539001_4122851441001_3965454539001-4097712447001-3965454539001-3972984045001-CST003-MONTERREY-SPOT-PRAWNS-copy.jpg?pubId=3965454539001",
+			"oigid" : -207636591,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/H559LRNPK00P/m3u8/H559LRNPK00P.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Byron checks out Monterey's legendary Cannery Row with award winning chef John Cox and then makes a Roasted Spot Prawn recipe inspired by the day's adventure.",
+	"t" : "Monterey Pine Roasted Spot Prawns",
+	"uuid" : "Episode3972982163001120657"
+}

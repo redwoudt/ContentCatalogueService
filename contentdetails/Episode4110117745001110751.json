@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 83,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2097/3965454539001_4159113627001_5.jpg?pubId=3965454539001",
+			"oigid" : 1971768543,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/BQ9CNC7QO2LR/m3u8/BQ9CNC7QO2LR.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Whether you’re looking for a tasty brunch, a good date spot or late-night drinks, the versatile Café Pettirosso has you covered. Brunch offerings include a little something for everyone, like the tofu scramble, French toast or cheese & egg sandwich.",
+	"t" : "5. Cafe Pettirosso",
+	"uuid" : "Episode4110117745001110751"
+}

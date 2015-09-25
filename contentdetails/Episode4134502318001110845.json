@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/446/3965454539001_4156871821001_3.jpg?pubId=3965454539001",
+			"oigid" : 173530941,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/TD3GVUNNLFHB/m3u8/TD3GVUNNLFHB.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A premier sourdough pizza experience awaits at any of Franco Manca’s locations. The pizza never disappoints with its perfectly chewy dough, lovely cheese and excellent tomato sauce.",
+	"t" : "7. Franco Manca",
+	"uuid" : "Episode4134502318001110845"
+}

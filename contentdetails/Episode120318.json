@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3ILxZBTDVKA2uM8gCo6ig6/91e7fe678d2ca235fb39b26ce46f2049/connected-devices-thumbnail-praias-do-mundo.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora leva você a uma viagem pelas praias mais bonitas do mundo através de oito receitas deliciosas. Os pratos são inspirados em lugares como Garopaba (SC) e Trancoso (BA), além de outros litorais famosos, como Mykonos (Grécia) e Shark Bay (Austrália). Aprenda a fazer desde um saboroso Pastel de Camarão a até um Drink de Goiaba e Lichia. Todos os episódios vem com o barulho do mar, para inspirar quem está perto e fazer quem está longe se sentir na praia.",
+	"t" : "Praias do Mundo",
+	"uuid" : "Episode120318"
+}

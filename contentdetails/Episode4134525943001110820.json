@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/585/3965454539001_4134736979001_4134525943001-th.jpg?pubId=3965454539001",
+			"oigid" : -1891694300,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/VFU3KYGBI9CJ/m3u8/VFU3KYGBI9CJ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "",
+	"t" : "1. Crate Brewery",
+	"uuid" : "Episode4134525943001110820"
+}

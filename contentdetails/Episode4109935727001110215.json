@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 66,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2467/3965454539001_4110116020001_Pv7lQvGWTW2G0y-v42NI1Q-th.jpg?pubId=3965454539001",
+			"oigid" : 1151637191,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/KU7J6D5O0JBO/m3u8/KU7J6D5O0JBO.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Visit the original location of Flying Biscuit Café and indulge in locally famous faves like the Piedmont omelet with grits, heavenly French toast and, of course, the famous flying biscuits with apple butter.",
+	"t" : "4. The Flying Biscuit Cafe",
+	"uuid" : "Episode4109935727001110215"
+}

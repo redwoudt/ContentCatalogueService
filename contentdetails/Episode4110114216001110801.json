@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3625/3965454539001_4158522302001_2-1.jpg?pubId=3965454539001",
+			"oigid" : 1252746001,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/ODG8YBF58WTP/m3u8/ODG8YBF58WTP.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Crave Cupcakes has your quick sugar fix covered. Whether you order a classic flavor like vanilla with chocolate frosting, or something a little different like pumpkin or red velvet, all the cupcakes are made with delicious, artisanal ingredients.",
+	"t" : "2. Crave Cupcakes",
+	"uuid" : "Episode4110114216001110801"
+}

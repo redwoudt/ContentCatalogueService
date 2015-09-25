@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 238,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2173/3965454539001_4219200939001_CHKN-POTPIE-120814-v10-DELIVERY-YOUTUBE-00-00-06-07-Still004.jpg?pubId=3965454539001",
+			"oigid" : 698249973,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/0EQ3ITGZSU4L/m3u8/0EQ3ITGZSU4L.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A delicious and easy way to use up leftover roast chicken and feed a crowd? Chicken Pot Pie is a classic comfort food and the perfect meal to come in from the cold to.",
+	"t" : "Chicken Pot Pie",
+	"uuid" : "Episode4001048937001120501"
+}

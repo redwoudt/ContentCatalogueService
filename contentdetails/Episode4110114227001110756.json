@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 70,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1577/3965454539001_4159126406001_2.jpg?pubId=3965454539001",
+			"oigid" : -632155932,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/2OCD6AKN8MU8/m3u8/2OCD6AKN8MU8.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Enjoy Sunday at Sun Ya, where they serve up some of the dim sum in town. The Chinese broccoli, duck, and pork and shrimp dumplings are all delicious, but also very filling, so bring a friend along to share.",
+	"t" : "2. Sun Ya Seafood Restaurant",
+	"uuid" : "Episode4110114227001110756"
+}

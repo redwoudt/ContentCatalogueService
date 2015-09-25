@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 289,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1904/3965454539001_4302674195001_godfather-new-No-text.jpg?pubId=3965454539001",
+			"oigid" : -610707675,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/Q2CA3005BITK/m3u8/Q2CA3005BITK.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This is a foolproof homemade pasta recipe inspired by the one and only Godfather! Think earthy beet, garlic, fresh basil and tangy goat cheese. Delicious and so satisfying!",
+	"t" : "The Godfather | Homemade Beet Pasta",
+	"uuid" : "Episode4298171416001120037"
+}

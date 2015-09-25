@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1198/3965454539001_4119780726001_Screen-Shot-2015-03-18-at-11-41-44-AM.jpg?pubId=3965454539001",
+			"oigid" : -1553395507,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/PNVXQ6PEA0PC/m3u8/PNVXQ6PEA0PC.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Community Q BBQ in Decatur may be famous for their beef brisket, but be sure to also try the mac and cheese made with fat rigatoni noodles and fresh seasoned fries. If it’s nice out, grab a seat on the patio and enjoy some sunshine with your ‘cue.",
+	"t" : "5. Community Q BBQ",
+	"uuid" : "Episode4109935720001110221"
+}

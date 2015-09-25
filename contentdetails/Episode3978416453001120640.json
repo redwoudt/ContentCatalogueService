@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 121,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2313/3965454539001_3987731033001_vietnamesecoffee.jpg?pubId=3965454539001",
+			"oigid" : 2029554560,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/3QTFLYIS4NKI/m3u8/3QTFLYIS4NKI.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This is a rich, sweet, caffeinated treat, that's anything but your average cup of coffee.",
+	"t" : "Vietnamese Coffee",
+	"uuid" : "Episode3978416453001120640"
+}

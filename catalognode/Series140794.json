@@ -1,0 +1,93 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1001/3965454539001_4158732602001_12.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114223001110781",
+			"sy" : "Come to Blacksmith for the iced coffee made with a double shot of espresso and evaporated milk and stay for awesome breakfast dishes like homemade biscuits with marmalade and crème fraiche and Vietnamese-style steak and eggs.",
+			"t" : "12. Blacksmith"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3831/3965454539001_4158681866001_10.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982693001110783",
+			"sy" : "You can try something new every day at Doshi House. The all-vegan menu of items like Thai red curry changes daily, and they make a killer coffee, too.",
+			"t" : "10. Doshi House"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3055/3965454539001_4158743083001_11-1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114222001110784",
+			"sy" : "Montrose neighborhood coffee shop Siphon invites customers to linger over their specialty siphon-made coffees and from-scratch pastries. Be sure to grab a seat by the window if you need to plug in your laptop.",
+			"t" : "11. Siphon Coffee"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/569/3965454539001_4158631816001_8.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982691001110785",
+			"sy" : "The folks at farm-to-table restaurant Down House know how to keep their customers happy with quality food and a fun atmosphere. You’re sure to be pleased by the smoked Gouda grilled cheese, kimchi burger, or pretty much anything else on the seasonal.",
+			"t" : "8. Down House"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2031/3965454539001_4158694955001_9.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982692001110786",
+			"sy" : "You have to keep an eye out for Southside Espresso, a hidden gem tucked away on a side street. The super-chill atmosphere makes this a great place to sip a cappuccino and work on your laptop for a couple of hours… or you can go another way and enjoy.",
+			"t" : "9. Southside Espresso"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2679/3965454539001_4158633894001_6.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114221001110787",
+			"sy" : "Serving coffee, wine, sandwiches and pastries in the Museum District, BOSTA has all of your culinary and spiritual needs covered. You’ll find featured red, white and sparking wines for just $5 at happy hour, and half off wines by the glass or bottle.",
+			"t" : "6. BOSTA"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2727/3965454539001_4158631804001_7.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982690001110788",
+			"sy" : "Tamales, French toast and fresh-squeezed OJ make for a complete and delicious breakfast at Brasil. You can find parking on the residential streets behind the restaurant.",
+			"t" : "7. Brasil"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/73/3965454539001_4158588310001_5.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982689001110789",
+			"sy" : "Inspired by the outdoor cafes of Austin, Onion Creek may be the answer to your patio-dining dreams. Crowd-pleasing entrees and snacks like pizza, burgers, salads, nachos and fried pickles, plus a DJ spinning every Wednesday night.",
+			"t" : "5. Onion Creek Coffee House"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2367/3965454539001_4158573773001_3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114220001110790",
+			"sy" : "A craft butcher shop, a grocery specializing in locally sourced items, and a café all in one, Revival Market is your one-stop shopping and dining destination. Come on a Saturday to try one of their rotating breakfast dishes like house-made bagels.",
+			"t" : "3. Revival Market"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3073/3965454539001_4158588297001_4.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982688001110791",
+			"sy" : "Antidote can get you going in the morning with a great cup of coffee, and if you need something stronger, they also serve beer and wine until midnight. Do yourself a favor and try one of their wonderful pastries as well.",
+			"t" : "4. Antidote"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2431/3965454539001_4158573733001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982687001110792",
+			"sy" : "If you’re hungry in east downtown Houston, head to Toot Suite and order the open-faced salmon and egg sandwich & avocado and honey toast. Plenty of charging stations make this a great spot for work collaboration — aka the tastiest meeting spot ever.",
+			"t" : "1. Tout Suite"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/865/3965454539001_4158573749001_2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114219001110793",
+			"sy" : "Coffee and caffeine are a potent mix, and Midtown’s Double Trouble has them both. Come between 4pm to 8pm Monday through Friday for happy hour — you’ll be glad you did.",
+			"t" : "2. Double Trouble"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/6wbvJwaaPuK82EUq6omQew/bb48b1739af414dea09c8483866f3ecd/connected-devices-thumbnail-houston-best-coffee.png",
+	"nodeid" : "Series140794",
+	"nodetype" : "MENU",
+	"t" : "Perk Up! 12 Hot Houston Coffee Spots"
+}

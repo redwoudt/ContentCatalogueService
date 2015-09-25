@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 506,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201502/451/3965454539001_4049950466001_RVNG022-BeetLasagna.jpg?pubId=3965454539001",
+			"oigid" : -128421576,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/9JQNO4CGJ9S4/m3u8/9JQNO4CGJ9S4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Does a dairy-free, grain-free pasta dish sound impossible? It's not! Laura's got another raw, vegan trick up her sleeve guaranteed to impress at your next dinner party.",
+	"t" : "Beet Lasagna",
+	"uuid" : "Episode3972954060001120568"
+}

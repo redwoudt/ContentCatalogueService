@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 217,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3264/3965454539001_4300953973001_21folhado.jpg?pubId=3965454539001",
+			"oigid" : -1358628285,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/TSPIENCYY2QG/m3u8/TSPIENCYY2QG.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Folhado de Espinafre e Ricota é uma opção leve e deliciosa para você que quer comer algo diferente e gostoso sem ter muito trabalho na cozinha!",
+	"t" : "21. Folhado de Espinafre e Ricota",
+	"uuid" : "Episode4298553033001110083"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2431/3965454539001_4158573733001_1.jpg?pubId=3965454539001",
+			"oigid" : -193656568,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/GV2QPXUVMBLV/m3u8/GV2QPXUVMBLV.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "If you’re hungry in east downtown Houston, head to Toot Suite and order the open-faced salmon and egg sandwich & avocado and honey toast. Plenty of charging stations make this a great spot for work collaboration — aka the tastiest meeting spot ever.",
+	"t" : "1. Tout Suite",
+	"uuid" : "Episode4109982687001110792"
+}

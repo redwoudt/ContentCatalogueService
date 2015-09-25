@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1702/3965454539001_4119619459001_Screen-Shot-2015-03-18-at-10-35-01-AM.jpg?pubId=3965454539001",
+			"oigid" : 1921441750,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/P23VPG74VJGI/m3u8/P23VPG74VJGI.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A small ramen outpost with big flavor in San Gabriel, Benten keeps the menu simple with just three ramen options: spicy miso, tonkotsu and shoyu, and the tsukemen dipping noodles. Pro tip: Don’t miss out on the medium-boiled, soy sauce-injected egg.",
+	"t" : "2. Ramen House Benten",
+	"uuid" : "Episode4109935702001110998"
+}

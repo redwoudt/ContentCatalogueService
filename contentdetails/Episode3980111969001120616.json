@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 119,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1287/3965454539001_3989965071001_TF036-AguadeAvena.jpg?pubId=3965454539001",
+			"oigid" : -1661488280,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/1KW389ZGDWBC/m3u8/1KW389ZGDWBC.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "If you like Horchata but are looking for something a bit heartier (thanks to the rolled oats), then this is the drink for you.",
+	"t" : "Agua de Avena",
+	"uuid" : "Episode3980111969001120616"
+}

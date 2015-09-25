@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 265,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2558/3965454539001_4001466192001_SF022-CIDER-MUSSELS.jpg?pubId=3965454539001",
+			"oigid" : -812469879,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/N3UZJB3K4JNA/m3u8/N3UZJB3K4JNA.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Mike make one of easiest, yet most impressive recipes they've done - a simple to make soda bread and mussels in a creamy cider sauce, perfect for dipping. Yummy!",
+	"t" : "Cider Mussels and Soda Bread",
+	"uuid" : "Episode3978557841001120137"
+}

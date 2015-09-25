@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/5bEpLGjEfSYGiO4SIUqAkg/7485466de183cc10961ae9eedd6e8796/connected-devices-thumbnail-houston-best-desserts.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "From the cutest of cupcakes crafted with artisanal products at Crave Cupcakes in Uptown Park, to Ooh La La Dessert Boutique in Town & Country Village, your sweet tooth can rejoice in these sweet somethings.",
+	"t" : "Delectable Sweets for Your Sweet Tooth",
+	"uuid" : "Episode120804"
+}

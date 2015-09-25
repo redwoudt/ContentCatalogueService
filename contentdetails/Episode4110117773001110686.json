@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 61,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/367/3965454539001_4159425771001_5.jpg?pubId=3965454539001",
+			"oigid" : -93002594,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/B16RV7XR2F3F/m3u8/B16RV7XR2F3F.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Tucked away in an alley near the waterfront, Saturday Morning Café is Baltimore’s premier spot for Southern scratch cooking and that means you MUST order the chicken and waffles.",
+	"t" : "5. Saturday Morning Cafe",
+	"uuid" : "Episode4110117773001110686"
+}

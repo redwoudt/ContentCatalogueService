@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 70,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2650/3965454539001_4119763915001_buttermilk-kitchen.jpg?pubId=3965454539001",
+			"oigid" : 151637190,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/7O71FQW9KI2Q/m3u8/7O71FQW9KI2Q.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A 45-minute wait on a Sunday is a small price to pay for the best breakfast in Buckhead. A bruschetta scramble, crispy bacon and potatoes, chicken biscuit, fresh squeezed OJ & French press coffee at Buttermilk Kitchen make for an all-star breakfast.",
+	"t" : "3. Buttermilk Kitchen",
+	"uuid" : "Episode4109935726001110214"
+}

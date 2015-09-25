@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3p3ruqHWZqoYcAYca4Oscg/64cc7ccd4cb33d34dae17dec719ccdd2/connected-devices-thumbnail-miami-best-hot-now.jpg",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "From #SobeWFF Burger Bash award winner Pincho Factory in Coral Gables to Scott Conant's new restaurant Corsair in Aventura, these buzzworthy locales are really giving Miami something to talk about.",
+	"t" : "Buzzworthy/Hot Now",
+	"uuid" : "Episode120952"
+}

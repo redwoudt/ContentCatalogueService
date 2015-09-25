@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 193,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2927/3965454539001_4230314685001_4batatas.jpg?pubId=3965454539001",
+			"oigid" : 2007651109,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/2L87AA8BZS2T/m3u8/2L87AA8BZS2T.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Prática e muito saborosa, essa receita de batatas temperadas é inspirada nas Ilhas Maldivas. O tempero fica por conta do gengibre e do curry, além de ser acompanhada de cebola, alho e pimenta dedo-de-moça.",
+	"t" : "4. Batatas Temperadas",
+	"uuid" : "Episode4178549861001110309"
+}

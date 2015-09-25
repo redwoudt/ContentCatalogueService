@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 446,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/896/3965454539001_3991404736001_RVNG018-LAVENDER-BEET-CHEESECAKE-XMAS.jpg?pubId=3965454539001",
+			"oigid" : -423388869,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/EY3C7PHD6PHQ/m3u8/EY3C7PHD6PHQ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This beautiful raw, vegan cheesecake is appropriate for all kinds of gatherings.",
+	"t" : "Lavender & Beet \"Cheesecake\"",
+	"uuid" : "Episode3972954064001120571"
+}

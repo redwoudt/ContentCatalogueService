@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2845/3965454539001_4117352180001_Screen-Shot-2015-03-17-at-12-11-58-PM.jpg?pubId=3965454539001",
+			"oigid" : -1157773403,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/OAJ1F9U5BOLI/m3u8/OAJ1F9U5BOLI.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Barbecue, bourbon and bar games await at Smashed Flamingo, a limited-time pop-up experience catered by Fat Man’s barbecue. Order the ribs, chicken or both and you won’t be sorry.",
+	"t" : "4. Smashed Flamingo",
+	"uuid" : "Episode4110117802001110949"
+}

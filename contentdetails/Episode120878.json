@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/5Hf7nf9SZaqkWUCCMeCecm/af62e06c14bb1e8a1096569caabb9528/connected-devices-thumbnail-nashville-coffee-.jpg",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Need a cuppa joe? Some high octane rocket fuel? A little leaded java? These Nashville brewers can kickstart your day whether you're in West End, East Nashville, Hillsboro or So Bro. Here's some of our favorite places serving cups of lightning.",
+	"t" : "Best Coffee Spots",
+	"uuid" : "Episode120878"
+}

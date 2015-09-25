@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 187,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3482/3965454539001_4001343549001_SF012-FISH-TACOS.jpg?pubId=3965454539001",
+			"oigid" : -1035217002,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/UNGUR78YGJI1/m3u8/UNGUR78YGJI1.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Sorted Food makes a DIY version of the always-popular fish taco.",
+	"t" : "Fish Tacos",
+	"uuid" : "Episode3978599480001120150"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 66,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/466/3965454539001_4122666786001_3965454539001-4110125733001-BopbC7xmTNa7bVEo3CExJA.jpg?pubId=3965454539001",
+			"oigid" : 1187975017,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/Q21M2AX66TDN/m3u8/Q21M2AX66TDN.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Combining a classy atmosphere with slap-yo-mama good food, Prima offers a one-of-a-kind dining experience in Nashville. The dynamic duo of lobster gnocchi and braised short ribs with a side of crispy sweet potatoes is a good place to start.",
+	"t" : "4. Prima",
+	"uuid" : "Episode4110114246001110889"
+}

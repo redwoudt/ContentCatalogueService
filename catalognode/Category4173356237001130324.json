@@ -1,0 +1,44 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1349/3965454539001_4185223417001_5.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4173356237001120324",
+			"sy" : "Linguiça de bacalhau existe sim, e essa delícia é servida no Galeto Sat's. Em sua receita vai cebola, pimentões (verde, amarelo e vermelho), azeitona, ovos, alho e azeite. É um petisco de dar água na boca.",
+			"t" : "Linguiça de Bacalhau (Galeto Sat's)"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2627/3965454539001_4185255886001_4.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4173356236001120325",
+			"sy" : "Bacalhão é um criativo bolinho de bacalhau com camarão. Servido no boteco Enchendo Linguiça, no Rio de Janeiro, esse bolinho tem sua massa feita com purê de batata, bacalhau cozido e salsinha. O camarão, é claro, está no recheio.",
+			"t" : "Bolinho de Bacalhão (Enchendo Linguiça)"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2819/3965454539001_4185215126001_3-1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4173356235001120326",
+			"sy" : "Parmesão, gorgonzola, gruyere e mussarela são os queijos que vão no Bolinho de Queijo com Macarrão do Botto Bar. Essas delícias são fritas e depois servidas com molho agridoce feito com damasco e gengibre.",
+			"t" : "Bolinho de Queijo com Macarrão (Botto Bar)"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1877/3965454539001_4185192139001_2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4173356234001120327",
+			"sy" : "O Bolinho de Feijoada do Aconchego Carioca tem sua massa feita com feijão preto cozido, caldo de carnes e farinha de mandioca. O recheio é de couve  bacon. O resultado é uma delícia.",
+			"t" : "Bolinho de Feijoada (Aconchego Carioca)"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1883/3965454539001_4185223393001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4173356243001120328",
+			"sy" : "A tábua \"Infarto Completo\" tem mais de 3 kg de comida e mais de 5 mil calorias. O prato é feito de farofa, carne de sol, cebola e salsinha, linguiça calebresa, coração de frango, aipim, carne seca e torresmo, e é servido no Cachambeer.",
+			"t" : "Infarto Completo (Cachambeer)"
+		}
+	],
+	"imageUri" : "",
+	"nodeid" : "Category4173356237001130324",
+	"nodetype" : "MENU",
+	"t" : "Tastemade Brasil/Cozinha de Boteco &#8212; Rio de Janeiro"
+}

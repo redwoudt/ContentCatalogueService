@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 3510,
+			"hd" : false,
+			"imageUri" : "http://skychnl-tastemade.s3.amazonaws.com/9BNJL7MN/thumbs/1055922.jpg",
+			"oigid" : -1647044602,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5M2S70XUYY92/m3u8/5M2S70XUYY92.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "150508_TastemadeTV_NUTS",
+	"t" : "5. Now Playing - These Nuts",
+	"uuid" : "Episode4230040896001120262"
+}

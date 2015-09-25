@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 70,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/615/3965454539001_4159518676001_2.jpg?pubId=3965454539001",
+			"oigid" : 1496932021,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/LS7LAAOFM53R/m3u8/LS7LAAOFM53R.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Whether you come to Sorak Garden for bibimbap or do-it-yourself barbecued meats (or both!), be sure to order the barley tea, which pairs beautifully with the banchan dishes.",
+	"t" : "3. Sorak Garden",
+	"uuid" : "Episode4110117766001110709"
+}

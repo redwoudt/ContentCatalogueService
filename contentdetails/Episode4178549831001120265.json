@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 171,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2892/3965454539001_4179730112001_Masala-de-Camarao---Vamos-pra-Cozinha--18.jpg?pubId=3965454539001",
+			"oigid" : 2072432137,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/UZARMOKU2E0G/m3u8/UZARMOKU2E0G.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Masala é um prato tipicamente indiano onde o tempero garam masala dá um sabor único e especial à preparação. Normalmente ele é feito com algum tipo de carne frita no ghee, que é uma manteiga clarificada, para realçar o sabor do garam masala.",
+	"t" : "Masala de Camarão",
+	"uuid" : "Episode4178549831001120265"
+}

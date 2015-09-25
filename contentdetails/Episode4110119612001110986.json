@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3349/3965454539001_4117788917001_Screen-Shot-2015-03-17-at-3-28-37-PM.jpg?pubId=3965454539001",
+			"oigid" : 2115754954,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/EEKUM9VIAUD8/m3u8/EEKUM9VIAUD8.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "At Jack’s Wife Freda you’ll want to start with the duck wing appetizer – the meat is so tender it falls off the bone -- followed by the fish of the day. Come to the newer West Village location before word gets out.",
+	"t" : "4. Jack's Wife Freda",
+	"uuid" : "Episode4110119612001110986"
+}

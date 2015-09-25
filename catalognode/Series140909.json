@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1557/3965454539001_4110125748001_yZpnpONKTRS-wEzFJwclzw-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117762001110901",
+			"sy" : "You know you’re in for some authentic New York-style Italian when the parking lot is packed 15 minutes before opening time. And Joey’s House of Pizza delivers with phenomenal homemade food, from the baked ziti to the gooey pizza by the slice.",
+			"t" : "7. Joey's House of Pizza"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3806/3965454539001_4122602260001_3965454539001-4110126318001-RXge-TnbSvKI1E5uV47Tkw-2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119576001110903",
+			"sy" : "Tasty enough even to please native New Yorkers, Pizza Perfect’s thin-crust pies and meatball sub are perfectly delicious. Come on a Monday between 5pm and 10pm for 2-for-1 slices AND beers – who knew you could improve on perfect?",
+			"t" : "6. Pizza Perfect"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2131/3965454539001_4110125730001_1-x0C-CNRPycqAtiQwJZyg-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114249001110904",
+			"sy" : "Bring your own bottle of wine to DeSano Pizza Bakery, and then sit back to watch the experts toss dough as you enjoy an evening of awesome wood-fired pizza with family and friends.",
+			"t" : "5. DeSano Pizza Bakery"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1930/3965454539001_4122550529001_3965454539001-4110126283001-aNizWAyHTNyRan1MkmJY4g.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119575001110905",
+			"sy" : "Bella Napoli has fantastic wood-fired pizzas, to be sure, but you should also try the al dente spaghetti pomodoro, which is anything but boring. Also consider the calzone: it’s equal to about three meals, costs less than a pizza & re-heats perfectly.",
+			"t" : "4. Bella Napoli Pizzeria"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3026/3965454539001_4122292554001_3965454539001-4110126238001-X2j8lE1USZS8RrVtESqnAQ.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117761001110906",
+			"sy" : "Always-bustling Five Points is the spot for authentic New York style pizza in the heart of East Nashville. The must-order garlic knots – crispy, chewy and knock-your-socks-off garlicky -- pair perfectly with a beer.",
+			"t" : "3. Five Points Pizza"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3557/3965454539001_4110125772001_4FO3LCl9Siuwnh9ve4jU0A-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117760001110907",
+			"sy" : "You CAN find authentic Chicago-style pizza in Nashville, and it’s right here at 312 Pizza Company. Thin crust or deep dish, you can’t go wrong. And the baked pretzel is awesome, as well.",
+			"t" : "2. 312 Pizza Company"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2470/3965454539001_4122281051001_3965454539001-4110126297001-rszlLSpiS-KRUlpnG2HLjA.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114248001110908",
+			"sy" : "The deliciously crispy, and chewy NYC-style crust makes for incredible pies at House of Pizza, but the meatball subs and lasagna are pretty fantastic, too. You can pretty much eat here all of the time and count on never having a bad meal.",
+			"t" : "1. House of Pizza"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/3BSLycFZYsogEgQiqo2OCy/98c8ba6b94556d0d8736a707d957e2a8/connected-devices-thumbnail-nashville-best-pizza.jpg",
+	"nodeid" : "Series140909",
+	"nodetype" : "MENU",
+	"t" : "Pizzapalooza"
+}

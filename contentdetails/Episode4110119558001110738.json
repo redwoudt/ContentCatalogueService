@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 81,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2295/3965454539001_4159174942001_1.jpg?pubId=3965454539001",
+			"oigid" : -344637742,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/FNTFG5XE4UDX/m3u8/FNTFG5XE4UDX.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "There’s nothing like a steaming bowl of pho to warm and fill your belly on a cold day, and Green Leaf’s other dishes — like the omelet with pan-fried tofu — are delicious and hearty as well.",
+	"t" : "2. Green Leaf Vietnamese Restaurant",
+	"uuid" : "Episode4110119558001110738"
+}

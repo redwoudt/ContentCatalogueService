@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 253,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2033/3965454539001_4230488425001_56bombas.jpg?pubId=3965454539001",
+			"oigid" : 1497385874,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/I0W9FF92RGKO/m3u8/I0W9FF92RGKO.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora se inspira no filme \"Simplesmente Irresistível\" e prepara as famosas Bombas de Creme Carameladas do filme. Uma delícia de fazer e saborear!",
+	"t" : "56. Bombas de Creme de \"Simplesmente Irresistível\"",
+	"uuid" : "Episode4178398169001110418"
+}

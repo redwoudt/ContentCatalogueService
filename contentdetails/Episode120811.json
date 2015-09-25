@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/4IJXuGiLbyM62C28esuWMc/179deeff9effd97d043d7af2ed1fb6d8/connected-devices-thumbnail-houston-best-sandwiches.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You can’t go wrong with anything on the menu at Local Foods in the Rice Village, or with one of the fantastic specimens at Common Bond in Montrose. When it comes to sandwiches, Houston’s got you covered.",
+	"t" : "Best Sandwiches in Houston",
+	"uuid" : "Episode120811"
+}

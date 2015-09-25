@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 211,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2215/3965454539001_4230408578001_36croissant.jpg?pubId=3965454539001",
+			"oigid" : 1317062568,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/606GLF3IL4L1/m3u8/606GLF3IL4L1.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Esse Croissant au Chocolat, além de ser muito delicioso, vem de uma das cenas mais divertidas do filme \"Simplesmente Complicado\".",
+	"t" : "36. Croissant au Chocolat de \"Simplesmente Complicado\" | Comida de Cinema",
+	"uuid" : "Episode4178549783001110440"
+}

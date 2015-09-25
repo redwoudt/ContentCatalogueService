@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 219,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2293/3965454539001_4185367839001_Screen-Shot-2015-04-20-at-5-13-35-PM.jpg?pubId=3965454539001",
+			"oigid" : 432170617,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/73KV4SWQB34J/m3u8/73KV4SWQB34J.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "O filme \"O Sentido da Vida\", do grupo Monty Python, foi a inspiração desse episódio. Isadora Becker prepara uma receita deliciosa: mousse de salmão!",
+	"t" : "Mousse de Salmão de \"O Sentido da Vida\"",
+	"uuid" : "Episode4178549795001120377"
+}

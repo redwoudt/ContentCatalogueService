@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1702/3965454539001_4122666867001_3965454539001-4110121294001-d00uYXEXR0-UCjREf0dCNA.jpg?pubId=3965454539001",
+			"oigid" : 1360395095,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/02R598BN7BV9/m3u8/02R598BN7BV9.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Premier roaster Lisa Wood serves consistently fantastic coffee at Eighth and Roast. The coffee shop buys their beans fair and direct trade from growers in South and Central America and change up their offerings all the time to keep things fresh.",
+	"t" : "6. Eighth And Roast",
+	"uuid" : "Episode4110119564001110871"
+}

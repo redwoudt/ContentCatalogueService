@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 83,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/681/3965454539001_4159518714001_1.jpg?pubId=3965454539001",
+			"oigid" : 590591152,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/20O2T8NATGVK/m3u8/20O2T8NATGVK.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Little-known holes in the wall are hard to find these days, but Gloria’s Restaurant fits the bill. Here you can get three pupusas, sides and passion fruit juice, all for under 10 bucks, or try the Gloria’s Special for a real treat.",
+	"t" : "2. Gloria's Restaurant",
+	"uuid" : "Episode4110119589001110704"
+}

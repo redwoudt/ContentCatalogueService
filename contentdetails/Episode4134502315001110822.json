@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 62,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3607/3965454539001_4134736821001_4134502315001-th.jpg?pubId=3965454539001",
+			"oigid" : 1468498214,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/XS4AIY2YQE0G/m3u8/XS4AIY2YQE0G.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The perfect spot to grab Sunday morning brunch in East London, Bistrotheque serves up delicious dishes like avocado on toast with sautéed tomatoes and potatoes and the classic English breakfast, along with a great vibe and good music.",
+	"t" : "7. Bistrotheque",
+	"uuid" : "Episode4134502315001110822"
+}

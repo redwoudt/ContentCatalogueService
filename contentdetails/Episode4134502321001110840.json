@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 69,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3518/3965454539001_4156942409001_6.jpg?pubId=3965454539001",
+			"oigid" : -1121436360,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/PAME76UT7NKG/m3u8/PAME76UT7NKG.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The Coffeeworks Project in Camden Passage makes the perfect lunch break stop, serving amazing coffees, baked treats like brownies and jam tarts, and delicious sandwiches, all in a great atmosphere.",
+	"t" : "6. The Coffeeworks Project",
+	"uuid" : "Episode4134502321001110840"
+}

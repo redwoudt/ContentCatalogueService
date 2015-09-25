@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 373,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3749/3965454539001_4108291132001_DT006-Spice-Crusted-Beef---Day-Tripper-by-Bondi-Harvest.jpg?pubId=3965454539001",
+			"oigid" : -1618156545,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/1ZJR72TSIDON/m3u8/1ZJR72TSIDON.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Chef Turland takes a surf trip to Narrabeen and cooks up an amazing spice-crusted beef roast on the beach.",
+	"t" : "Spice Crusted Beef",
+	"uuid" : "Episode3972194750001120255"
+}

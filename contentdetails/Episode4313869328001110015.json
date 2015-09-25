@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 170,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/693/3965454539001_4313923636001_Ep-6---honduras.jpg?pubId=3965454539001",
+			"oigid" : 1583595519,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/IRYQNLAK0SZ1/m3u8/IRYQNLAK0SZ1.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Honduras seems to come with a lot of travel warnings, but that didn't stop Macca and Brianna from travelling there and seeing it for themselves.",
+	"t" : "7. Honduras",
+	"uuid" : "Episode4313869328001110015"
+}

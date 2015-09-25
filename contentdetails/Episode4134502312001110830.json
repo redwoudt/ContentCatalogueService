@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 62,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/802/3965454539001_4156968073001_3.jpg?pubId=3965454539001",
+			"oigid" : -1531501778,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/C7Y02F1QP2V9/m3u8/C7Y02F1QP2V9.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Sip champagne and enjoy an afternoon tea of beautiful scones and delicate pastries in the beautiful lobby of the Landmark. It’s the perfect place to take your mum.",
+	"t" : "6. The Landmark London",
+	"uuid" : "Episode4134502312001110830"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 63,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2863/3965454539001_4159079127001_4.jpg?pubId=3965454539001",
+			"oigid" : -618166041,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/TAAGAGF0GPYO/m3u8/TAAGAGF0GPYO.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Seattle’s primo java spot, Analog Coffee in Capitol Hill serves delicious Herkimer coffee with Fresh Breeze Organic milk and cream. You can get your fix here everyday from 7am to 6pm.",
+	"t" : "4. Analog Coffee",
+	"uuid" : "Episode4110117751001110759"
+}

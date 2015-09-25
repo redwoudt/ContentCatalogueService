@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 184,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2457/3965454539001_4230438714001_59benhe.jpg?pubId=3965454539001",
+			"oigid" : 1547722833,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/A6WZZD8NYGGX/m3u8/A6WZZD8NYGGX.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora prepara uma receita baseada em um clássico da Disney: Beignets de \"A Princesa e o Sapo\". No filme, Tiana é uma cozinheira de mão cheia e essa receita vai te mostrar o porquê.",
+	"t" : "Beignets de \"A Princesa e o Sapo\"",
+	"uuid" : "Episode4185051212001120337"
+}

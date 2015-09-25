@@ -1,0 +1,51 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/21/3965454539001_4117325373001_Screen-Shot-2015-03-17-at-12-14-20-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114298001110945",
+			"sy" : "The Ms. Cheezious food truck finally has a permanent location, and there’s even a huge garden out back where you can relax and enjoy your grilled cheese. Standouts include the havarti with apples, pulled pork, and bleu cheese and bacon.",
+			"t" : "7. Ms. Cheezious"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2413/3965454539001_4110160721001_Q9V1DZ5GQSuQiW8IKAlgjg-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119641001110947",
+			"sy" : "A casual neighborhood pizza joint from a former sous chef at Bourbon Steak, Proof serves Neapolitan pizza that’s cooked to order in less than 90 seconds. Try the fennel sausage pizza and angel hair pasta with crab and lemon breadcrumbs.",
+			"t" : "6. Proof Pizza and Pasta"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3418/3965454539001_4121861855001_Screen-Shot-2015-03-19-at-9-18-58-AM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117801001110948",
+			"sy" : "La Terrasse serves the usual French cuisine classics like foie gras, duck confit, escargots, crème brulee and French fries, of course! The rack of lamb and truffle pasta are standouts, as well, so you really can’t go wrong ordering anything.",
+			"t" : "3. La Terrasse"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2845/3965454539001_4117352180001_Screen-Shot-2015-03-17-at-12-11-58-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117802001110949",
+			"sy" : "Barbecue, bourbon and bar games await at Smashed Flamingo, a limited-time pop-up experience catered by Fat Man’s barbecue. Order the ribs, chicken or both and you won’t be sorry.",
+			"t" : "4. Smashed Flamingo"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3211/3965454539001_4117325345001_Screen-Shot-2015-03-17-at-12-10-27-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119639001110950",
+			"sy" : "Outstanding grilled octopus, ricotta cavatelli, and the roasted chicken was great!",
+			"t" : "1. Corsair by Scott Conant"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2746/3965454539001_4121865267001_Screen-Shot-2015-03-19-at-9-15-08-AM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117800001110951",
+			"sy" : "Dinner and entertainment come together at Ted’s at the YoungArts building. Must-order items include the tomatoes and burrata, the pork bao buns and cheesecake for dessert. Check out the lineup of musical acts on their website before you come.",
+			"t" : "2. Ted's At YoungArts"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/3p3ruqHWZqoYcAYca4Oscg/64cc7ccd4cb33d34dae17dec719ccdd2/connected-devices-thumbnail-miami-best-hot-now.jpg",
+	"nodeid" : "Series140952",
+	"nodetype" : "MENU",
+	"t" : "Buzzworthy/Hot Now"
+}

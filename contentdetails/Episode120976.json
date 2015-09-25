@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/Lw340Wo7YW2WM6q2AoMya/07b07a5f0844991d4e6f3ec1400bf835/connected-devices-thumbnail-new-york-best-pizza.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The city that never sleeps also never stops eating pizza. From the traditional pie shops of the West Village to Motorino's Brussels sprouts and pancetta pizza, the iconic dish is here to stay. Oh, and don't miss the place where Madonna ate her first slice — Angelo's.",
+	"t" : "Pizzapalooza",
+	"uuid" : "Episode120976"
+}

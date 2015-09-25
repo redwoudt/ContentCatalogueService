@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 65,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3991/3965454539001_4158743130001_2.jpg?pubId=3965454539001",
+			"oigid" : 266735866,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/R6U0ZG7BN9G8/m3u8/R6U0ZG7BN9G8.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Eat your Frank the Pretzel sandwich and thrice-cooked fries at the shaded picnic benches out on Eatsie Boys’ charming patio. Pro tip: BYOB because they don’t serve alcohol.",
+	"t" : "2. Eatsie Boys Cafe",
+	"uuid" : "Episode4110117739001110778"
+}

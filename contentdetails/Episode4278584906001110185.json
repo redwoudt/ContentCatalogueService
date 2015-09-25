@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 139,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/397/3965454539001_4278834954001_67tapenade.jpg?pubId=3965454539001",
+			"oigid" : -236989271,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/XXUVIF8X56DI/m3u8/XXUVIF8X56DI.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora prepara uma receita simples e deliciosa nesse Comida de Cinema: Tapenade de Coco com Curry. A inspiração para o aperitivo veio da comédia Esquadrão Classe A.",
+	"t" : "67. Tapenade de Coco com Curry de \"Esquadrão Classe A\"",
+	"uuid" : "Episode4278584906001110185"
+}

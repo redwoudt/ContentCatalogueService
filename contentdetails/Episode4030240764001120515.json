@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 213,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3477/3965454539001_4218313840001_V4-WITH-MASTER-APPLE-00-00-07-23-Still003.jpg?pubId=3965454539001",
+			"oigid" : -503058173,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/56YJ5ETOVEZ6/m3u8/56YJ5ETOVEZ6.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "We're creating the ultimate Swedish Smörgåsbord feast, starting with one of the most iconic dishes - a cured salmon delicacy known as Gravlax.",
+	"t" : "Gravlax",
+	"uuid" : "Episode4030240764001120515"
+}

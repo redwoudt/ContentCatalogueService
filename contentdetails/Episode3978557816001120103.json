@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 258,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2413/3965454539001_4003458766001_french-toast.jpg?pubId=3965454539001",
+			"oigid" : -42666137,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/UY0TJ18Z5RHQ/m3u8/UY0TJ18Z5RHQ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Mike make French Toast Dippers with, you ready correctly....bacon jam.",
+	"t" : "French Toast Dippers with Bacon Jam",
+	"uuid" : "Episode3978557816001120103"
+}

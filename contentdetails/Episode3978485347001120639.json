@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 94,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3159/3965454539001_3987745173001_TF014-Sharbat.jpg?pubId=3965454539001",
+			"oigid" : -891230337,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/SMZ2GNIMCLH3/m3u8/SMZ2GNIMCLH3.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A perfect Summer drink that's also super healthy for you (thanks to the Chia seeds).",
+	"t" : "Iranian Sharbat",
+	"uuid" : "Episode3978485347001120639"
+}

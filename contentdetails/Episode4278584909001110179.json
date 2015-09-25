@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 178,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3581/3965454539001_4278938544001_71petit.jpg?pubId=3965454539001",
+			"oigid" : -1531956573,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/MB0PI5IGJWOD/m3u8/MB0PI5IGJWOD.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Apaixonada pelo incrível filme francês \"Os Intocáveis\", Isadora prepara um Petit Gateau de chocolate delicioso que vai deixar qualquer um com água na boca.",
+	"t" : "71. Petit Gateau de \"Os Intocáveis\"",
+	"uuid" : "Episode4278584909001110179"
+}

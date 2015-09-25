@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 192,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2380/3965454539001_4179688143001_Suco-Verde-e-Amarelo---Vamos-pra-Cozinha--09.jpg?pubId=3965454539001",
+			"oigid" : 1482487563,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/JGWE4SQSPWQR/m3u8/JGWE4SQSPWQR.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Este é um ótimo suco para começar o dia com muita energia e vitalidade. Além disso, ele te sacia por bastante tempo o que ajuda a não chegar na hora do almoço com tanta fome",
+	"t" : "9. Suco Verde e Amarelo",
+	"uuid" : "Episode4178549839001110283"
+}

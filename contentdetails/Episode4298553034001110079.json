@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 98,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/48/3965454539001_4301033875001_Screen-Shot-2015-06-16-at-4-28-39-PM.jpg?pubId=3965454539001",
+			"oigid" : -358628289,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/8U9ZZ1C0HINZ/m3u8/8U9ZZ1C0HINZ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Essa pizza com molho pesto é uma alternativa para o clássico molho de tomate e fica uma delícia!",
+	"t" : "22. Pizza Pesto",
+	"uuid" : "Episode4298553034001110079"
+}

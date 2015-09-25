@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 83,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1490/3965454539001_4122602306001_3965454539001-4110126278001-0ZtrsUWTR8O41tsUSxAEDA.jpg?pubId=3965454539001",
+			"oigid" : -2106992269,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/ATHFWKWLKXT0/m3u8/ATHFWKWLKXT0.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "From the quiche to the shrimp and crab cakes to the pasta du jour, everything at Porter House Bistro is so delicately and deliciously prepared, you’ll be hard-pressed not to lick your plate.",
+	"t" : "1. Porter House Bistro",
+	"uuid" : "Episode4110114247001110899"
+}

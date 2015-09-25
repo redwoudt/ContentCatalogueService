@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 463,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3032/3965454539001_3991465275001_RVNG024-CauliflowerPizza.jpg?pubId=3965454539001",
+			"oigid" : -2128421577,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/3DLPRXZ4V24D/m3u8/3DLPRXZ4V24D.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "It's pizza time! This all-veggie, guilt-free masterpiece is the perfect thing for that movie night you've been wanting to have.",
+	"t" : "Cauliflower Pizza",
+	"uuid" : "Episode3972954058001120567"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1514/3965454539001_4120268629001_Screen-Shot-2015-03-18-at-4-02-05-PM.jpg?pubId=3965454539001",
+			"oigid" : 360394982,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/8NURJAG6OLH8/m3u8/8NURJAG6OLH8.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Serving up much more than the name implies (as if wine and coffee weren’t enough to keep people happy), Vif Wine and Coffee also offers hearty soups, small plates and tempting desserts — & they make it all themselves, so you know it’s gonna be good.",
+	"t" : "7. Vif Wine and Coffee",
+	"uuid" : "Episode4110119563001110758"
+}

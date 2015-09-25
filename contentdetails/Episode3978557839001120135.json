@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 217,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/978/3965454539001_4001431094001_SF024-SWEET-CHERRY-RAVIOLI.jpg?pubId=3965454539001",
+			"oigid" : 1482497415,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5YC35D8NPYDW/m3u8/5YC35D8NPYDW.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Barry make sweet cherry dessert ravioli that throws all the boys for a loop.",
+	"t" : "Sweet Cherry Ravioli",
+	"uuid" : "Episode3978557839001120135"
+}

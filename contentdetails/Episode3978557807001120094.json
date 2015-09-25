@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 198,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1781/3965454539001_3978706697001_SF056-STRUDEL.jpg?pubId=3965454539001",
+			"oigid" : -452731554,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/56XYD6H1ODTY/m3u8/56XYD6H1ODTY.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Mike from Sorted Food make a warm winter blackberry and fig strudel.",
+	"t" : "Fig and Blackberry Strudel",
+	"uuid" : "Episode3978557807001120094"
+}

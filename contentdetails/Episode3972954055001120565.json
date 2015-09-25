@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 672,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3032/3965454539001_3991465279001_RVNG027-OJAI-ROADTRIP.jpg?pubId=3965454539001",
+			"oigid" : -833454283,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/Y25437E0RSZH/m3u8/Y25437E0RSZH.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Woah! Laura broke out of the studio and hit the streets in our extra special NOT LIVE season finale. Come along for the ride in our first-ever California road trip.",
+	"t" : "Ojai Road Trip!",
+	"uuid" : "Episode3972954055001120565"
+}

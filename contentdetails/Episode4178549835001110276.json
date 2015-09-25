@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 198,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/76/3965454539001_4179726755001_Salada-de-Quinua---Vamos-pra-Cozinha--12.jpg?pubId=3965454539001",
+			"oigid" : 1777454852,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/HJ8EQNV7M5AQ/m3u8/HJ8EQNV7M5AQ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Uma salada morna de quinua com couve e um tofu defumado gralhado é tudo que você precisa para fazer um jantar leve e saudável.",
+	"t" : "12. Salada de Quinua",
+	"uuid" : "Episode4178549835001110276"
+}

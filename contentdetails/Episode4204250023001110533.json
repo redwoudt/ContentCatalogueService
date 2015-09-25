@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 225,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2977/3965454539001_4204275330001_V7-4-16-15-00-00-05-10-Still001.jpg?pubId=3965454539001",
+			"oigid" : 1526274053,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/6U9B05AENPYV/m3u8/6U9B05AENPYV.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "In case you've never made this delicious wine punch, here are three unique recipes to inspire you.",
+	"t" : "3. Sangria",
+	"uuid" : "Episode4204250023001110533"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 222,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3798/3965454539001_4257777477001_2.jpg?pubId=3965454539001",
+			"oigid" : 468043481,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/09FJPFXQKAEX/m3u8/09FJPFXQKAEX.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Breakfast in a glass? You bet. This South American \"drink\" is chock full of unique regional ingredients like Mote and Quince.",
+	"t" : "5. Champus",
+	"uuid" : "Episode4251932911001110233"
+}

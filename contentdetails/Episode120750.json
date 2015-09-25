@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1LDbgKaVGw0yGKMwY2swaE/63391aabac87d915bc0ff505504cd2d3/connected-devices-thumbnail-seattle-best-hangover-food.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The prescription for the morning after is to shake it off with a big ol’ breakfast and a Bloody. The Mecca Cafe will take care of that aching head with a tall stack of pancakes, and Kona Kitchen’s ultra-rich eggs Benedict gives you strength to power through until the next happy hour. And those succulent cheesesteaks at Calozzi’s will cure anything that ails you.",
+	"t" : "Hangover Helpers",
+	"uuid" : "Episode120750"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2930/3965454539001_4122616046001_3965454539001-4110125719001-DwFMEFKHSeGV4chYwId7Og.jpg?pubId=3965454539001",
+			"oigid" : 1086866801,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/G8WMYRSGZLQ4/m3u8/G8WMYRSGZLQ4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "What do you order at Otaku South at Pop? It’s pretty simple, really: Start with the bourbon miso meatballs and pork belly buns and then get the lemon chicken paitan ramen and top it with red chili oil.",
+	"t" : "3. Otaku South at Pop",
+	"uuid" : "Episode4110117757001110897"
+}

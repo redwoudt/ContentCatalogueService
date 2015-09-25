@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1501/3965454539001_4117673036001_Screen-Shot-2015-03-17-at-3-01-36-PM.jpg?pubId=3965454539001",
+			"oigid" : -682936901,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/G00X2US0LVHK/m3u8/G00X2US0LVHK.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The best Neapolitan pizza outside of Naples can be found at Keste, where the fast-baked crust is simultaneously gooey, crisp and thin – in other words, perfect.",
+	"t" : "3. Kesté",
+	"uuid" : "Episode4110117781001110971"
+}

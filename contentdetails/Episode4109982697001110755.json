@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 83,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3839/3965454539001_4159129325001_1.jpg?pubId=3965454539001",
+			"oigid" : 1216408803,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/53XQSQOI6ZFX/m3u8/53XQSQOI6ZFX.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Café Turko may be best known for dinner, but their little-known weekend breakfast service includes tasty dishes and drinks like stellar omelets and sour cherry juice.",
+	"t" : "1. Cafe Turko",
+	"uuid" : "Episode4109982697001110755"
+}

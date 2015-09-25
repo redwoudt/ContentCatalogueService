@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 315,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2945/3965454539001_4262684952001_bondi-thumb.jpg?pubId=3965454539001",
+			"oigid" : -1502614344,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/0FF8AZ6HUCTO/m3u8/0FF8AZ6HUCTO.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Recently we traveled to the US and went camping on the Olympic Peninsula thanks to support from evrgrn. It was an epic trip with lots of camping cooking goodness.",
+	"t" : "2. Camping and cooking on the Olympic Peninsula",
+	"uuid" : "Episode4262556166001110200"
+}

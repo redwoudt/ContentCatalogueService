@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 206,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2351/3965454539001_4262684946001_Megan.jpg?pubId=3965454539001",
+			"oigid" : -502604343,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/S42PV0DZX75H/m3u8/S42PV0DZX75H.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Chef Megan Mitchell was sent a package full of goodies and an invitation to head outdoors.",
+	"t" : "Camping and Cooking in Malibu with Megan Mitchell",
+	"uuid" : "Episode4262556167001120201"
+}

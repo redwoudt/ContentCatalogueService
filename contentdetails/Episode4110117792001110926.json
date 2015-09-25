@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 65,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3978/3965454539001_4121921825001_Screen-Shot-2015-03-19-at-9-40-08-AM-copy.jpg?pubId=3965454539001",
+			"oigid" : 1727128462,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/2L9CJKJX4VI3/m3u8/2L9CJKJX4VI3.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You’ll find fresh fish, naturally, alongside the beautiful Miami River at Garcia’s. From the grouper sandwiches to the chowder to the seasonal stone crab, everything is delicious, but the smoked fish dip appetizer may be the best thing on the menu.",
+	"t" : "2. Garcia's Seafood Grille and Fish Market",
+	"uuid" : "Episode4110117792001110926"
+}

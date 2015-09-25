@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 257,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/721/3965454539001_4230368297001_12matilda.jpg?pubId=3965454539001",
+			"oigid" : -1502614082,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/GI8IQ6NGP9ME/m3u8/GI8IQ6NGP9ME.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Nada como um delicioso bolo de chocolate, com recheio de chocolate e cobertura de chocolate! E tudo isso inspirado no filme \"Matilda\", de 1996.",
+	"t" : "12. Bolo de Chocolate de \"Matilda\"",
+	"uuid" : "Episode4178398166001110462"
+}

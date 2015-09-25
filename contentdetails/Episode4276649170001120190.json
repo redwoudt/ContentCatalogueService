@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 658,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3790/3965454539001_4276700306001_cocktailbeauty1.jpg?pubId=3965454539001",
+			"oigid" : -1797571650,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/GRDMR3RVINL6/m3u8/GRDMR3RVINL6.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "In this episode, Shawn Thomas and bartender Dan Sabo of The Ace Hotel explore unique Los Angeles flavors, mango paletas and spicy sriracha, to find inspiration for a brand new cocktail.",
+	"t" : "Sriracha Mango Cocktail",
+	"uuid" : "Episode4276649170001120190"
+}

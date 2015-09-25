@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 267,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/932/3965454539001_3976278228001_RVNG005-VEGAN-TACOS.jpg?pubId=3965454539001",
+			"oigid" : -1243519671,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/GIV1DHD1D6VN/m3u8/GIV1DHD1D6VN.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "While they aren't authentic, these tacos are a tasty and healthy alternative for those who don't dig on the carne asada.",
+	"t" : "Vegan Tacos",
+	"uuid" : "Episode3972954046001120585"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3530/3965454539001_4122642257001_3965454539001-4110126319001-w9YK-VWKQAiepDFW4l0oDQ.jpg?pubId=3965454539001",
+			"oigid" : 2086866802,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/CRXK7RNFW3U7/m3u8/CRXK7RNFW3U7.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Serving legit, locally sourced food with a menu that changes just often enough to keep things exciting, Lockeland Table can satisfy just about any craving. Pork and shrimp dumplings, wood-fired pizzas, and bone-in pork loin are all winners.",
+	"t" : "4. Lockeland Table",
+	"uuid" : "Episode4110117758001110898"
+}

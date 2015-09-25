@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 492,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/2639/3965454539001_4298499047001_tartetatin.jpg?pubId=3965454539001",
+			"oigid" : -258428367,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/WLN37USBPGIM/m3u8/WLN37USBPGIM.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Neste primeiro episódio, a jornalista Uiara Araújo visita o Marché des Enfants Rouges para comprar maçãs e fazer uma Tarte Tatin.",
+	"t" : "1. Tarte Tatin",
+	"uuid" : "Episode4291346717001110065"
+}

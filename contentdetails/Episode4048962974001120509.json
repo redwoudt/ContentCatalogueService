@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 171,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3189/3965454539001_4218326432001_V4-APPLE-00-00-05-08-Still002.jpg?pubId=3965454539001",
+			"oigid" : -956455683,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/M4RFLCFK4CLU/m3u8/M4RFLCFK4CLU.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Braised cabbage meets apples and red onions in this delicious sweet and sour dish that's perfect for your Scandanavian feast.",
+	"t" : "Rødkål",
+	"uuid" : "Episode4048962974001120509"
+}

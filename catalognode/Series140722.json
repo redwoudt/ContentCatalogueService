@@ -1,0 +1,65 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/593/3965454539001_4159460247001_7.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119593001110714",
+			"sy" : "Exceptional espresso means Peregrine is always packed, so come on a weekday if you can. Always ask for the special, which is sure to be amazing.",
+			"t" : "7. Peregrine Espresso"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1617/3965454539001_4159518667001_8-1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114268001110715",
+			"sy" : "The world’s best chocolate chip cookie goes even better with a terrific cup of coffee at Blind Dog Café. Be bold and order the off-the-menu espresso soda for something unique, delicious and refreshing.",
+			"t" : "8. Blind Dog Cafe"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1417/3965454539001_4159449834001_6-1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119592001110716",
+			"sy" : "What’s that adorable coffeehouse around the corner? It’s La Colombe, where they serve a terrific iced coffee with a shot of espresso that goes great with any of their yummy baked goods. They even offer tasting classes on Fridays.",
+			"t" : "6. La Colombe"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1303/3965454539001_4159425826001_3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114266001110717",
+			"sy" : "Whether you’re in the mood for pork buns, ramen, draft beer or single origin coffee, Dooby’s has you covered. No matter what you order, try paring a chocolate budino with a Colombian pour-over for dessert.",
+			"t" : "4. Dooby's"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3417/3965454539001_4159449828001_5.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114267001110718",
+			"sy" : "Whether you’re in the mood for a simple harvest blend coffee or something sweeter like a salted caramel custard latte, Ebenezers delivers with top-notch coffee and an awesome atmosphere.",
+			"t" : "5. Ebenezers Coffeehouse"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1879/3965454539001_4159449818001_2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117771001110719",
+			"sy" : "Located above Union Market, Dolcezza serves amazingly fresh, handcrafted, small batch gelato – try the hazelnut and vanilla bean flavors – along with gorgeous pastries and a rotating roster of Stumptown coffees.",
+			"t" : "2. Dolcezza Gelato Factory And Coffee Lab"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/879/3965454539001_4159449819001_3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114265001110720",
+			"sy" : "Tryst is a coffee house, cafe and a full bar rolled up into one cozy package, so you really can have it all here -- from a latte and apple pie to a beer and nachos.",
+			"t" : "3. Washington, D.C. Perk Up Coffee Spots"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1303/3965454539001_4159425814001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119591001110721",
+			"sy" : "Little Red Fox may be best known for their yummy sandwiches, but the breakfast burrito with eggs, bacon, avocado, beans, cheddar and corn really stands out, as well.",
+			"t" : "1. Little Red Fox"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/7b2WwRiQ1yCEAi0KQ0i4qE/ff007e9833640cdc586b6935bb779284/connected-devices-thumbnail-washington-dc-best-coffee.png",
+	"nodeid" : "Series140722",
+	"nodetype" : "MENU",
+	"t" : "Perk Up Coffee Spots"
+}

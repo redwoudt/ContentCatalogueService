@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2349/3965454539001_4110138627001_LqYCy0y4R5C52I8bXHjd4A-th.jpg?pubId=3965454539001",
+			"oigid" : 656811,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/EDFY6IHNA2XX/m3u8/EDFY6IHNA2XX.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Whether your Japanese delicacy of choice is ramen or gyoza, Dojo has you covered. The tonkatsu comes with delectably tender pork and the gyoza are pan fried to golden perfection. Grab a seat by the ramen bar if you can to see the chefs in action.",
+	"t" : "4. Dojo",
+	"uuid" : "Episode4110119597001110955"
+}

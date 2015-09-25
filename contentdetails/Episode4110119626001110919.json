@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 81,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3883/3965454539001_4110143124001_OerQPPrEQHWky94h16Jo-w-th.jpg?pubId=3965454539001",
+			"oigid" : -1064114297,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/P2H3PKQT21QP/m3u8/P2H3PKQT21QP.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Dress up and come to Mignonette if you want to get fancy and enjoy some killer seafood. Choose from a wide selection of sexy oysters, and also be sure to order the lobster deviled eggs and redfish.",
+	"t" : "10. Mignonette",
+	"uuid" : "Episode4110119626001110919"
+}

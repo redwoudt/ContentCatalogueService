@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/562/3965454539001_4122670982001_3965454539001-4110121027001-wZEO10HRS0mHYN-HEIOTow.jpg?pubId=3965454539001",
+			"oigid" : 777909595,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/LVD2SEFJCMZ1/m3u8/LVD2SEFJCMZ1.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "From coffee to cigars to groceries, JJ’s has everything you need. Treat yourself to the specialty Mound of Joy drink with espresso, coconut, milk and chocolate, and also order one of the yummy muffins made by a local baker.",
+	"t" : "2. Jj's Market",
+	"uuid" : "Episode4110114237001110875"
+}

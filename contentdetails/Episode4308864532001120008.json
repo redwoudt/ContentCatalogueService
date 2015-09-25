@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 454,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/2466/3965454539001_4308937873001_ceviche-leite-de-coco.jpg?pubId=3965454539001",
+			"oigid" : -574824696,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/A0QVYCWS7TU8/m3u8/A0QVYCWS7TU8.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Fazer Ceviche nunca foi tão fácil e delicioso! Além disso, o Mohamad e a Luanda ensinam a fazer um incrível picles de cebola!",
+	"t" : "Ceviche com Leite de Coco",
+	"uuid" : "Episode4308864532001120008"
+}

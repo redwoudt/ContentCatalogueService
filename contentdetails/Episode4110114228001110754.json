@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 63,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3131/3965454539001_4110119846001_qGbMj87gSciICcX6xyYhsQ-th.jpg?pubId=3965454539001",
+			"oigid" : 367844066,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/KFVUYALXLMR4/m3u8/KFVUYALXLMR4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A big, hot bowl of San Fernando’s chicken noodle soup is perfect on a chilly night in Seattle, and their succulent roasted Peruvian chicken is a treat in any kind of weather. Check out the banquet room in the back if you need to host a big event.",
+	"t" : "4. San Fernando Roasted Peruvian Chicken",
+	"uuid" : "Episode4110114228001110754"
+}

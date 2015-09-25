@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 623,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1960/3965454539001_3991418443001_RVNG020-MovieSnacks.jpg?pubId=3965454539001",
+			"oigid" : 1871578426,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/E5Y8D65GYIQK/m3u8/E5Y8D65GYIQK.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Laura and Jimmy Wong talk movies and make some healthy, delicious alternatives to the gross stuff you often find at movie theaters.",
+	"t" : "Movie Snacks Featuring Jimmy Wong",
+	"uuid" : "Episode3972954062001120570"
+}

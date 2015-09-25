@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 209,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1279/3965454539001_4230408535001_27manjar.jpg?pubId=3965454539001",
+			"oigid" : 727137905,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/LENZ4QQ422V4/m3u8/LENZ4QQ422V4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora incorpora a Feiticeira Branca e ensina a preparar o famoso Manjar Turco, doce mais conhecido como \"goma árabe\". Em Crônicas de Nárnia, é isso que Edmundo escolhe comer quando a feiticeira lhe oferece qualquer coisa.",
+	"t" : "Manjar Turco de \"Crônicas de Nárnia\"",
+	"uuid" : "Episode4178549791001120369"
+}

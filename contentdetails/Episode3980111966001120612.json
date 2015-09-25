@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 142,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2513/3965454539001_3989970734001_TF039-AoleVeraJuice.jpg?pubId=3965454539001",
+			"oigid" : -366520988,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/63F9DF1CP1Z9/m3u8/63F9DF1CP1Z9.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "People have been drinking Aloe Vera for thousands of years - why? It's super healthy for you, and makes a great base for a whole bevvy of beverages.",
+	"t" : "Aloe Vera Juice",
+	"uuid" : "Episode3980111966001120612"
+}

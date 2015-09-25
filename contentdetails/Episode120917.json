@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1zMsaLl6zuOkYQioAIU6Io/dbaf9178b555269187f66d2a0a8692c8/connected-devices-thumbnail-miami-best-coffee.jpg",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "More than just a beverage, coffee is the centerpiece of Miami culture. So much so, Miami even has it's own official coffee break time, aka #305Cafecito. Loyal Miamians can choose to sip $2 Cuban cafecitos at the famous Versailles, experiment with caffeine concoctions at The Alchemist, or even consort with hipsters all day at Panther coffee. ¡Salud!",
+	"t" : "Best Coffee Spots",
+	"uuid" : "Episode120917"
+}

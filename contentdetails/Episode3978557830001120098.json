@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 221,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/978/3965454539001_4001431118001_SF033-SMORES.jpg?pubId=3965454539001",
+			"oigid" : 1072431970,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/EPCBN9LGUIAQ/m3u8/EPCBN9LGUIAQ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Mike take a classic American treat and turn it into a super awesome cheesecake!",
+	"t" : "Chocolate S'mores Cheesecake",
+	"uuid" : "Episode3978557830001120098"
+}

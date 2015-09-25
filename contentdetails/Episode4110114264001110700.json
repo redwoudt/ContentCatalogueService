@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 57,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1681/3965454539001_4159518731001_5.jpg?pubId=3965454539001",
+			"oigid" : 2008105644,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/LG7XO7YPST1O/m3u8/LG7XO7YPST1O.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Tucked in among D.C.’s townhouses, you’ll find El Rinconcito II, which features a huge menu including cheese-, bean- and pork-filled pupusas. The portions are huge (leftover pupusas for breakfast!) and the prices are low.",
+	"t" : "6. El Rinconcito II",
+	"uuid" : "Episode4110114264001110700"
+}

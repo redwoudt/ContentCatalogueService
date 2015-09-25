@@ -1,0 +1,37 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/2466/3965454539001_4308937873001_ceviche-leite-de-coco.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4308864532001120008",
+			"sy" : "Fazer Ceviche nunca foi tão fácil e delicioso! Além disso, o Mohamad e a Luanda ensinam a fazer um incrível picles de cebola!",
+			"t" : "Ceviche com Leite de Coco"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/190/3965454539001_4308888125001_frame-03.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4308864531001120009",
+			"sy" : "Luanda preparam uma receita fácil e deliciosa que todo mundo pode fazer em casa.",
+			"t" : "Arroz Cremoso com Carne Seca"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3042/3965454539001_4308888141001_cheese-bacon-love.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4308864534001120012",
+			"sy" : "Luanda e Mohamad preparam um Cheese Bacon delicioso para preparar para a janta de dia dos namorados, mesmo que você esteja solteiro!",
+			"t" : "Cheese Bacon Love"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/485/3965454539001_4313515862001_canjica-brulee.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4308864535001120013",
+			"sy" : "Luanda e Mohamad preparam uma Canjica Brûlée em homenagem às festas juninas desse mês. Nada melhor que um prato temático, né?",
+			"t" : "Canjica Brûlée"
+		}
+	],
+	"imageUri" : "",
+	"nodeid" : "Category4308864532001130008",
+	"nodetype" : "MENU",
+	"t" : "Tastemade Brasil/Prato Do Dia"
+}

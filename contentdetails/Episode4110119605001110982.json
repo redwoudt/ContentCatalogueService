@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 64,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/381/3965454539001_4117752016001_Screen-Shot-2015-03-17-at-3-19-11-PM.jpg?pubId=3965454539001",
+			"oigid" : -589277754,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/FB3MWFI0N03X/m3u8/FB3MWFI0N03X.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You’ve got to order the renowned pancakes if it’s your first time having breakfast at Clinton Street, but try the specials on subsequent visits – decadent options like the crab cake eggs Benedict and apple pie waffle won’t disappoint.",
+	"t" : "2. Clinton St. Baking Company",
+	"uuid" : "Episode4110119605001110982"
+}

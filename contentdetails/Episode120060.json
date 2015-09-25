@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6pUxRDMEGQEKaUKskm2wQO/80f304c63d1e33c417f611a26a45148c/connected-devices-thumbnail-vaga-brothers.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Travel with Marko and Alex Ayling: brothers, backpackers, and bloggers on a mission to discover the world by meeting with other young people.",
+	"t" : "Vagabrothers",
+	"uuid" : "Episode120060"
+}

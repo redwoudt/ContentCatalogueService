@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2999/3965454539001_4134736849001_4134530379001-th.jpg?pubId=3965454539001",
+			"oigid" : 1043988800,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/IGVM0VTSLX6J/m3u8/IGVM0VTSLX6J.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The Dim Sum Sunday experience at Hakkasan means insane food, mouthwatering cocktails and incredible dim sum, of course. You’re sure to come back.",
+	"t" : "6. Hakkasan",
+	"uuid" : "Episode4134530379001110848"
+}

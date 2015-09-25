@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/165/3965454539001_4110143146001_NHe-UEC7QnC7-xwsni0ABg-th.jpg?pubId=3965454539001",
+			"oigid" : 238302080,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/1MEM08TYF6CG/m3u8/1MEM08TYF6CG.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Coffee lovers who are tired of Starbucks should definitely check out Alaska Coffee Roasting and order the white chocolate mocha. But this place isn’t all about the java – try the pulled pork sandwich with spinach, barbecue sauce and onions.",
+	"t" : "5. Alaska Coffee Roasting Co.",
+	"uuid" : "Episode4110114288001110912"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2766/3965454539001_4122666810001_3965454539001-4110121166001-UkqNvkLDQ2SnValxSrbRNg.jpg?pubId=3965454539001",
+			"oigid" : 482942306,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/8SIWQN2QTPDK/m3u8/8SIWQN2QTPDK.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "What’s a meat and three, you ask? Find out at Swett’s, where they’ve been serving hungry Nashvillians since 1954. (Answer: It’s one delicious serving of protein and three awesome sides.)",
+	"t" : "2. Swett's",
+	"uuid" : "Episode4110114241001110882"
+}

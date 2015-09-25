@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 143,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1569/3965454539001_3987805036001_moteconhuesillo.jpg?pubId=3965454539001",
+			"oigid" : -251422857,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/77D8MIIIHDYB/m3u8/77D8MIIIHDYB.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Step out onto a street in Chile in the Summertime, and you're likely to find this fruity and filling drink - trust us, it's pretty darn peachy.",
+	"t" : "Mote con Huesillo",
+	"uuid" : "Episode3980111979001120631"
+}

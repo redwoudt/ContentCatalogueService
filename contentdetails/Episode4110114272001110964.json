@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/165/3965454539001_4110138616001_vjLQuQgHQ6m8r9y9hyiL4A-th.jpg?pubId=3965454539001",
+			"oigid" : 1418171316,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/AJOLQ3B3HUWU/m3u8/AJOLQ3B3HUWU.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "There’s a reason Magnolia has become a New York institution -- from the out-of-control banana pudding to the classic chocolate cupcakes, this bakery delivers the goods and helps us all to get in touch with our inner Carrie.",
+	"t" : "2. Magnolia Bakery",
+	"uuid" : "Episode4110114272001110964"
+}

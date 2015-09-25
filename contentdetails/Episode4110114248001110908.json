@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2470/3965454539001_4122281051001_3965454539001-4110126297001-rszlLSpiS-KRUlpnG2HLjA.jpg?pubId=3965454539001",
+			"oigid" : -1106992260,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/OYU39YYIZSAH/m3u8/OYU39YYIZSAH.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The deliciously crispy, and chewy NYC-style crust makes for incredible pies at House of Pizza, but the meatball subs and lasagna are pretty fantastic, too. You can pretty much eat here all of the time and count on never having a bad meal.",
+	"t" : "1. House of Pizza",
+	"uuid" : "Episode4110114248001110908"
+}

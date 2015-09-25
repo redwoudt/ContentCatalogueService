@@ -1,0 +1,51 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2530/3965454539001_4122666840001_3965454539001-4110125786001-Jw7aasPMTOWH1Bnf8EW-LQ.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114244001110877",
+			"sy" : "The menu at Arnold’s changes every day, but you can usually get the awesome roast beef. The mac and cheese, smoked chicken and pork chops are all fantastic, as well, and the moist, delicious pecan pie is an absolute must.",
+			"t" : "7. Arnold's Country Kitchen"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/131/3965454539001_4110121061001_ZmRkmdluRNyaepn8uSXD9g-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114243001110879",
+			"sy" : "Monell’s is housed in a Victorian that’s been standing since 1880. The menu changes daily and includes hearty dishes like mashed potatoes, green beans, country dumpling, ribs and fried chicken.",
+			"t" : "6. Monell's Dining and Catering"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1766/3965454539001_4122666823001_3965454539001-4110121096001-puV-Svq6SE2mSFpukgOrkw-1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114242001110880",
+			"sy" : "Big Al’s Deli isn’t just about comfort food and home cooking – they serve up good company and conversation, as well. You’ll be welcomed with a hearty greeting and won’t leave until your belly is full. Big Al will no doubt win your heart forever.",
+			"t" : "4. Big Al's Deli"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/562/3965454539001_4122670962001_3965454539001-4110123714001-yCx6qpqCTPSBKoa5l-QMog-1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117754001110881",
+			"sy" : "The food’s all ready to go when you walk in to Copper Kettle, so order your meat and three – fried catfish, sweet potato pie, grits and hush puppies makes a winning combination – and you’ll be chowing down right away.",
+			"t" : "5. Copper Kettle"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2766/3965454539001_4122666810001_3965454539001-4110121166001-UkqNvkLDQ2SnValxSrbRNg.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114241001110882",
+			"sy" : "What’s a meat and three, you ask? Find out at Swett’s, where they’ve been serving hungry Nashvillians since 1954. (Answer: It’s one delicious serving of protein and three awesome sides.)",
+			"t" : "2. Swett's"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1766/3965454539001_4122666819001_3965454539001-4110121138001-OiK-gqF-THqBNHHIXOmEIA.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119567001110883",
+			"sy" : "For real deal Southern cooking and all-day breakfast, head on over to Wendell Smith’s. Home fries, biscuits, maybe a side of sweet potatoes and greens? Go for all of it. Save room for pecan pie – it tastes like pure heaven.",
+			"t" : "3. Wendell Smith's Restaurant"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/2ksVamdKqwUGaKMOmS02yc/441d40d6ea49953fcf5e205f33a2f1b7/connected-devices-thumbnail-nashville-best-meat-and-three.jpg",
+	"nodeid" : "Series140885",
+	"nodetype" : "MENU",
+	"t" : "Meat ‘n’ Three"
+}

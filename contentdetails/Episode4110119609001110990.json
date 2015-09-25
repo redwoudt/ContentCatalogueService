@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 79,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/762/3965454539001_4120486983001_Screen-Shot-2015-03-18-at-5-52-16-PM.jpg?pubId=3965454539001",
+			"oigid" : -884245042,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/8TMNBEWEKPG1/m3u8/8TMNBEWEKPG1.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Pylos in the heart of the East Village serves wonderful Greek cuisine that you really must try. Five or six appetizers should be enough to keep two people happy – no need to even order an entrée.",
+	"t" : "1. Pylos",
+	"uuid" : "Episode4110119609001110990"
+}

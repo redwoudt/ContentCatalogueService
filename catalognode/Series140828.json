@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/585/3965454539001_4134736884001_4134525939001-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134525939001110821",
+			"sy" : "American-style bistro Jackson & Rye serves up delicious breakfast dishes like sausage patties, grits and country-style potatoes that will give you a newfound appreciation for Southern cuisine.",
+			"t" : "6. Bring on the Brunch"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3607/3965454539001_4134736821001_4134502315001-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134502315001110822",
+			"sy" : "The perfect spot to grab Sunday morning brunch in East London, Bistrotheque serves up delicious dishes like avocado on toast with sautéed tomatoes and potatoes and the classic English breakfast, along with a great vibe and good music.",
+			"t" : "7. Bistrotheque"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/618/3965454539001_4157011902001_4.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134525938001110823",
+			"sy" : "Looking for the perfect hangover cure? The Breakfast Club will bring you back to the land of the living with their French toast topped with bananas, crispy bacon and loads of maple syrup.",
+			"t" : "4. The Breakfast Club"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2102/3965454539001_4157077990001_5.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134502314001110824",
+			"sy" : "Your decadent breakfast at Ben’s Canteen may consist of a butternut squash and chorizo sandwich, or a classic like pancakes with bananas and crispy bacon. Either way, washing it all down with a fruit smoothie will make you feel healthier.",
+			"t" : "5. Ben's Canteen"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1618/3965454539001_4157011891001_3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134525937001110825",
+			"sy" : "Head to the Bombay breakfast at Dishoom and be sure to order the scrumptious bacon naan roll, which goes great with a tall lassi…it’s so good you’ll be tempted to go back for dinner.",
+			"t" : "3. Dishoom"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/638/3965454539001_4157002693001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134525936001110826",
+			"sy" : "The Counter Café isn’t just a coffee and breakfast spot; it’s also an art gallery with amazing views of the Olympic stadium. Turkish eggs with garlic sauce and salmon with poached eggs on potato cakes make the perfect brunch. Be sure to try the delic",
+			"t" : "1. The Counter Cafe"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/678/3965454539001_4157011880001_2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134502313001110827",
+			"sy" : "The Lido’s Café is as famous as its swimming pool. Head to the Lido Café’s weekend brunch and order the full English breakfast with bacon, sausage, poached eggs, mushrooms, baked beans and roasted tomatoes.",
+			"t" : "2. The Lido Cafe"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/4pj2i6xiMEiqQ2k08QGeyC/a8688f1e0fb880b61839ed8b0c087df9/connected-devices-thumbnail-london-best-brunch.png",
+	"nodeid" : "Series140828",
+	"nodetype" : "MENU",
+	"t" : "Bring on the Brunch"
+}

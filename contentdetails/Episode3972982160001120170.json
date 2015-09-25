@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 531,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3612/3965454539001_3974672255001_biteclub-a.jpg?pubId=3965454539001",
+			"oigid" : 1087330218,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/K9O8ZRH2CJ4H/m3u8/K9O8ZRH2CJ4H.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "We're making recipes inspired by one of the greatest summer blockbusters of all time - 1993's Jurassic Park. Journey back to Isla Nublar with Edible Amber and T-Rex Goat Ribs. Dino babies not included (unfortunately).",
+	"t" : "Jurassic Park — Edible Amber and T-Rex Goat Ribs",
+	"uuid" : "Episode3972982160001120170"
+}

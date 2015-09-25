@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 217,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2437/3965454539001_4219238578001_FARROSALAD-V6-DELIVERY-YOUTUBE-00-00-08-04-Still002.jpg?pubId=3965454539001",
+			"oigid" : -1301760032,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/DGMXJKQCQ1W9/m3u8/DGMXJKQCQ1W9.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Winterize salad with hearty grains. This Roasted Root Vegetable & Farro Salad will keep you fueled and filled through the winter season.",
+	"t" : "5. Roasted Root Vegetable and Farro Salad",
+	"uuid" : "Episode4001048935001110496"
+}

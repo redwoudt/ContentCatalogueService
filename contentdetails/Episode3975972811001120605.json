@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 185,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2719/3965454539001_3989970760001_TF048-LONDON-FOG.jpg?pubId=3965454539001",
+			"oigid" : -747698339,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/PO4WVNWAOI2X/m3u8/PO4WVNWAOI2X.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "In the Northwest, it can get pretty foggy and cold. So if you're looking for a good defense, make yourself some London Fog.",
+	"t" : "London Fog",
+	"uuid" : "Episode3975972811001120605"
+}

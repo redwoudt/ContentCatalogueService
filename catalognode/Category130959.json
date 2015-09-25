@@ -1,0 +1,44 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/5ZOVwGyoGA8M2oGY0qoC6G/030ad736696ef04c70ce86d7f3c72aaf/connected-devices-thumbnail-new-york-best-ramen.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120959",
+			"sy" : "Because it's always the right time for a steaming bowl of soup filled to the brim with pork, a soft boiled egg and bouncy noodles. From Momofuku Noodle Bar's nouveau ramen to classic Japanese ramen in Midtown East to an actual ramen burger downtown, these Tastemakers have you covered. Oodles of noodles are coming your way!",
+			"t" : "Rockin’ Ramen"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6PKj4lWZqgwIgW0cIOwaQM/36b1db1962c0b9561284d399ba55d43c/connected-devices-thumbnail-new-york-best-sugar-buzz.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120968",
+			"sy" : "Life is short, so make it sweet for certain with uptown doughnuts, downtown macarons and the world-class pudding from Sugar Sweet Sunshine.",
+			"t" : "Sugar Buzz"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/Lw340Wo7YW2WM6q2AoMya/07b07a5f0844991d4e6f3ec1400bf835/connected-devices-thumbnail-new-york-best-pizza.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120976",
+			"sy" : "The city that never sleeps also never stops eating pizza. From the traditional pie shops of the West Village to Motorino's Brussels sprouts and pancetta pizza, the iconic dish is here to stay. Oh, and don't miss the place where Madonna ate her first slice — Angelo's.",
+			"t" : "Pizzapalooza"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1SNsgP0KfeMwkCCawAI6oa/d50eb6f2d9fb824e2023c8f0d93bdef0/connected-devices-thumbnail-new-york-best-breakfast.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120984",
+			"sy" : "From dumplings on the Lower East Side to Toad in a Hole in Brooklyn, we have you covered! Savory, sweet and everything in between — plus, the spill on how to avoid the super long waits at Clinton Street Baking Company. Waking up has never been so delicious!",
+			"t" : "Breakfast Beat"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/22hnYnRqyYeOaOkmuW2yiI/11ae2fdfca1c815a006eb7bfe82beba5/connected-devices-thumbnail-new-york-best-date-spots.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120991",
+			"sy" : "Put on those fancy duds and pull out the smooth moves. From West Village hit Charlie Bird to Daniel Boulud's pâté and charcuterie on the Upper West Side, there's a date spot here for everyone. Don't miss Brandy Library for a tasting flight to kick off the night.",
+			"t" : "Date Night"
+		}
+	],
+	"imageUri" : "",
+	"nodeid" : "Category130959",
+	"nodetype" : "MENU",
+	"t" : "Tastemade/Video City Guides/New York"
+}

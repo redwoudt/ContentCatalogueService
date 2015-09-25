@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 64,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1870/3965454539001_4119775938001_mountainbuscuits.jpg?pubId=3965454539001",
+			"oigid" : 2137647301,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/II8R6O5ICDE2/m3u8/II8R6O5ICDE2.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Enjoy your meal in the shadow of Kennesaw Mountain at Mountain Biscuits. Warm, buttery, aromatic biscuits topped with honey will satisfy your sweet tooth, while the in-house smoker will fulfill your desire for something meatier.",
+	"t" : "6. Mountain Biscuits",
+	"uuid" : "Episode4110114204001110213"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 65,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/945/3965454539001_4159374619001_2.jpg?pubId=3965454539001",
+			"oigid" : -1093002592,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/PJCJB09AKZ2N/m3u8/PJCJB09AKZ2N.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Whoa. Did someone say “fried chicken and donut sandwich”? It may sound crazy, but order it and you won’t regret it. And then get another donut for dessert – the flavors change daily. Get there early because some flavors may run out.",
+	"t" : "2. Astro Doughnuts and Fried Chicken",
+	"uuid" : "Episode4110117772001110688"
+}

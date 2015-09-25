@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 68,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1967/3965454539001_4159374963001_1-1.jpg?pubId=3965454539001",
+			"oigid" : 72876756,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/4ACN1XW3913H/m3u8/4ACN1XW3913H.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "There’s always a huge line for the banh mi at Saigon Deli, and for good reason. Double ham, barbecue ham, spring roll –  it’s all incredible. Food is take-away only, so settle in at a nearby park to enjoy your sandwiches.",
+	"t" : "1. Saigon Deli",
+	"uuid" : "Episode4110114232001110740"
+}

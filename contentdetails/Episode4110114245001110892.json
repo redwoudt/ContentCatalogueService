@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/530/3965454539001_4122642270001_3965454539001-4110121332001-5rEf4FMJRr6pmjHzWlbnCA.jpg?pubId=3965454539001",
+			"oigid" : 187975020,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/77DHIEG8W9JW/m3u8/77DHIEG8W9JW.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Whether it’s date night, friend night, or any night, prepare to get your mind blown by the amazingly prepared food at The 404 Kitchen. Must-order items include the black truffle burrata, dry aged beef tartar and, most importantly, the lamb sugo.",
+	"t" : "1. The 404 Kitchen",
+	"uuid" : "Episode4110114245001110892"
+}

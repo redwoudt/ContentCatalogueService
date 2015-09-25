@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/D27l6xdUgoEUEkSEkOuOO/7f41235a6ac6b5ccabebaff6650a9535/connected-devices-thumbnail-a-brit-and-a-broad.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A Brit and A Broad, hosted by Macca Sherifi and Brianna Wiens, is all about bringing people and places to you at home in a stylish travel video blog.",
+	"t" : "A Brit and a Broad",
+	"uuid" : "Episode120248"
+}

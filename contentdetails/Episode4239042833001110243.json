@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 130,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3770/3965454539001_4239256412001_EP03-oaxaca.jpg?pubId=3965454539001",
+			"oigid" : -222545181,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/QUHWEKFCTFHC/m3u8/QUHWEKFCTFHC.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "In this episode Macca and Brianna get a little taste of Oaxaca, a city that's famous for its food.",
+	"t" : "3. Oaxaca, Mexico",
+	"uuid" : "Episode4239042833001110243"
+}

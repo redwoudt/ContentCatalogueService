@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 146,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3675/3965454539001_4185511921001_Screen-Shot-2015-04-20-at-6-24-26-PM.jpg?pubId=3965454539001",
+			"oigid" : 137193355,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/H1F6B8I3Y0B3/m3u8/H1F6B8I3Y0B3.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora prepara uma das receitas de \"18 Comidas\", filme galego que conta várias histórias que acontecem ao redor da mesa, envolvendo vários pratos diferentes.",
+	"t" : "64. Peixe em Crosta de Sal de \"18 Comidas\"",
+	"uuid" : "Episode4178549799001110411"
+}

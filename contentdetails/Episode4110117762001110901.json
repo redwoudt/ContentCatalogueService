@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 62,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1557/3965454539001_4110125748001_yZpnpONKTRS-wEzFJwclzw-th.jpg?pubId=3965454539001",
+			"oigid" : 1791899509,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/EX0DVUWTC0H2/m3u8/EX0DVUWTC0H2.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You know you’re in for some authentic New York-style Italian when the parking lot is packed 15 minutes before opening time. And Joey’s House of Pizza delivers with phenomenal homemade food, from the baked ziti to the gooey pizza by the slice.",
+	"t" : "7. Joey's House of Pizza",
+	"uuid" : "Episode4110117762001110901"
+}

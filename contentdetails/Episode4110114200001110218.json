@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3198/3965454539001_4119780736001_Screen-Shot-2015-03-18-at-11-44-30-AM.jpg?pubId=3965454539001",
+			"oigid" : -1862352694,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/0GLIJ6V7R7UN/m3u8/0GLIJ6V7R7UN.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Enjoy the aroma of the in-house smoker as you chow down on some wings at Fox Bros Bar-B-Q — don’t forget the wing sauce! And get there early because this place is popular.",
+	"t" : "6. Fox Bros Bar-B-Q",
+	"uuid" : "Episode4110114200001110218"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3845/3965454539001_4117352171001_Screen-Shot-2015-03-17-at-12-08-30-PM.jpg?pubId=3965454539001",
+			"oigid" : 1238302081,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/6LG5A0AQG4K5/m3u8/6LG5A0AQG4K5.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A great little find in Wilton Manors, The Alchemist serves great coffee and even better hot cocoa – you can even make your own by stirring chocolate shavings into hot frothy milk. Perfection.",
+	"t" : "6. The Alchemist",
+	"uuid" : "Episode4110114289001110913"
+}

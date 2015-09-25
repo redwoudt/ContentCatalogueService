@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 65,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/562/3965454539001_4122670962001_3965454539001-4110123714001-yCx6qpqCTPSBKoa5l-QMog-1.jpg?pubId=3965454539001",
+			"oigid" : -1913133215,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/SWGA0IFW2EMQ/m3u8/SWGA0IFW2EMQ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The food’s all ready to go when you walk in to Copper Kettle, so order your meat and three – fried catfish, sweet potato pie, grits and hush puppies makes a winning combination – and you’ll be chowing down right away.",
+	"t" : "5. Copper Kettle",
+	"uuid" : "Episode4110117754001110881"
+}

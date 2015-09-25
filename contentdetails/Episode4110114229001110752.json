@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3457/3965454539001_4159129365001_6-1.jpg?pubId=3965454539001",
+			"oigid" : 1367844064,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/TLYJSYTPP369/m3u8/TLYJSYTPP369.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "It started out as one of Seattle’s favorite food trucks, and now Marination has a great waterside location. Tacos and the kimchi rice bowl are customer favorites, but don’t miss out on the Spam slider with nunya sauce.",
+	"t" : "6. Marination Ma Kai",
+	"uuid" : "Episode4110114229001110752"
+}

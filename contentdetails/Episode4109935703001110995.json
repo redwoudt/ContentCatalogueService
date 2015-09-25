@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/765/3965454539001_4110098686001_T27W5jlTR5W6Fi541XHE5g-th.jpg?pubId=3965454539001",
+			"oigid" : -1373525549,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/58V6D1LCS3BZ/m3u8/58V6D1LCS3BZ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Tatsu Ramen on Sawtelle is high-tech: Place your order on an iPad and be sure to specify your preferred level of spice. If you come for lunch, you better allow extra time to wait in line — this place is that good.",
+	"t" : "6. Tatsu Ramen",
+	"uuid" : "Episode4109935703001110995"
+}

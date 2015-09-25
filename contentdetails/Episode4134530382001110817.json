@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1999/3965454539001_4134737232001_4134530382001-th.jpg?pubId=3965454539001",
+			"oigid" : -250978527,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/UYMJSUU8C6V5/m3u8/UYMJSUU8C6V5.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "",
+	"t" : "4. Lansdowne Pub",
+	"uuid" : "Episode4134530382001110817"
+}

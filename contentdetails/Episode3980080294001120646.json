@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/927/3965454539001_3994398924001_maxresdefault.jpg?pubId=3965454539001",
+			"oigid" : 1943344518,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/6EWUXZ6K3GHY/m3u8/6EWUXZ6K3GHY.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Coffee drinkers of the world, get ready for a very strange brew. A delicious, little known method of making coffee that requires, you guessed it, an egg.",
+	"t" : "Norwegian Egg Coffee",
+	"uuid" : "Episode3980080294001120646"
+}

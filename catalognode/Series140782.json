@@ -1,0 +1,51 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1617/3965454539001_4158781383001_7.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117740001110774",
+			"sy" : "With a ton of great beers on tap and a dog-friendly patio, there’s an awful lot to like about Cottonwood. Awesome entrees include the squirrel master burger, jerk chicken sandwich and barbecued oysters.",
+			"t" : "6. Cottonwood"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/642/3965454539001_4120195024001_Screen-Shot-2015-03-18-at-2-56-17-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982681001110776",
+			"sy" : "Boasting one of Houston’s best outdoor patios, Tiny Boxwoods is a no-brainer brunch destination on a gorgeous Sunday.  The food — whether you order the Caesar salad, burger and fries, or goat cheese and pancetta pizza — lives up to the setting.",
+			"t" : "4. Tiny Boxwoods"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2161/3965454539001_4158745059001_6.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982683001110777",
+			"sy" : "Lucille’s serves up fried soul food gold in the heart of the Museum District. Depending on what’s in season, you may find fried green tomatoes or red snapper on the menu. Try to get a table on the charming patio, nestled into the chef’s herb garden.",
+			"t" : "5. Lucille's"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3991/3965454539001_4158743130001_2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117739001110778",
+			"sy" : "Eat your Frank the Pretzel sandwich and thrice-cooked fries at the shaded picnic benches out on Eatsie Boys’ charming patio. Pro tip: BYOB because they don’t serve alcohol.",
+			"t" : "2. Eatsie Boys Cafe"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1135/3965454539001_4158745043001_3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114215001110779",
+			"sy" : "A former neighborhood icehouse dating back to 1959, D & T Drive Inn is now an awesome outdoor patio restaurant with 50 beers on tap and a tantalizing menu that isn’t good for the indecisive or anyone on a diet. Go big and order the gumbo.",
+			"t" : "3. D&T Drive Inn"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3991/3965454539001_4158743122001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114214001110780",
+			"sy" : "Lillo and Ella serves up big bold flavors in their pan-Asian street food. You’ve got to try the crispy calamari and al dente Thai Muu noodles. Killer cocktails are an added bonus, and you can get great deals on drinks and bites at happy hour.",
+			"t" : "1. Lillo and Ella"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/Q01MCypy2ywyqKMqKWCsW/223758ab64cffe89e12a3e14c4a5aab3/connected-devices-thumbnail-houston-best-patios.png",
+	"nodeid" : "Series140782",
+	"nodetype" : "MENU",
+	"t" : "Top Patios in Houston"
+}

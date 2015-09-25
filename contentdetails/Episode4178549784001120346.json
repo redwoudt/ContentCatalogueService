@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 264,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1599/3965454539001_4230457335001_50bonecalux.jpg?pubId=3965454539001",
+			"oigid" : -1977894822,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/JC7QGFGJH4SW/m3u8/JC7QGFGJH4SW.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora ensina como fazer o Folhado Dinamarquês delicioso que Holly Golightly saboreia na primeira cena do clássico do cinema \"Bonequinha de Luxo\".",
+	"t" : "Folhado Dinamarquês de \"Bonequinha de Luxo\"",
+	"uuid" : "Episode4178549784001120346"
+}

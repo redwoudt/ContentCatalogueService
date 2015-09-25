@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 1010,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1712/3965454539001_4200469540001_vlcsnap-2015-04-27-17h57m10s198.jpg?pubId=3965454539001",
+			"oigid" : -157319673,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/I3OLNLYN2LLF/m3u8/I3OLNLYN2LLF.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Harry and Bruce finish up Season 1 of Day of Gluttony by devouring 24 amazing drinks and plates on Canada's West Coast.",
+	"t" : "10. 24 Vancouver Restaurants in 24 Hours",
+	"uuid" : "Episode4165574206001110535"
+}

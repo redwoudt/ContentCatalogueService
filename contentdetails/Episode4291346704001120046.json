@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 401,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1734/3965454539001_4293202812001_Cancun-.jpg?pubId=3965454539001",
+			"oigid" : -373516498,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/OCO2DHZ96LUY/m3u8/OCO2DHZ96LUY.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Our tips on how to move past the tourist traps and explore the Riviera Maya's cultural heritage and gorgeous natural surroundings!",
+	"t" : "Cancún, Mexico",
+	"uuid" : "Episode4291346704001120046"
+}

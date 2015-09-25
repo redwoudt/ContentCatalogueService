@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2158/3965454539001_4120369574001_Screen-Shot-2015-03-18-at-4-30-36-PM.jpg?pubId=3965454539001",
+			"oigid" : -1114441546,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/XSMA9C0ITR2E/m3u8/XSMA9C0ITR2E.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Annandale is informally known as “Little Korea,” and Honey Pig fits right in here with their stellar Korean barbecue and highly efficient service. You can’t go wrong with classics like bulgogi and kalbi beef ribs, all cooked right at your table.",
+	"t" : "4. Honey Pig Gooldaegee Korean Grill",
+	"uuid" : "Episode4110119583001110710"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 239,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3922/3965454539001_4001395322001_SF003-LAMB-BIRYANI.jpg?pubId=3965454539001",
+			"oigid" : -402404465,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/7YYCUH3FCD67/m3u8/7YYCUH3FCD67.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Mike whip up a Lamb Biryani that some of the group find a little too hot to handle.",
+	"t" : "Lamb Biryani",
+	"uuid" : "Episode3978557850001120143"
+}

@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3037/3965454539001_4117769756001_Screen-Shot-2015-03-17-at-3-22-42-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117783001110975",
+			"sy" : "Located inside the Essex Street Market, Shopsin’s serves a legendary mac and cheese pancake that is perfectly salty, sweet and crisp around the edges, along with other crazy-decadent delicacies like donut sliders.",
+			"t" : "7. Shopsin's"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2165/3965454539001_4110139447001_ZVAXYYw7SwKkY6mAz8EraA-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114278001110977",
+			"sy" : "There is one thing you must get at Alchemy and that is the toad in a hole: a hollowed-out piece of bread filled with egg and topped with cream, dill and tomatoes. Wash it down with a fresh-squeezed orange juice…and then wash that down with a beer.",
+			"t" : "6. Alchemy"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2338/3965454539001_4120503948001_Screen-Shot-2015-03-18-at-5-59-55-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119608001110978",
+			"sy" : "The aptly named Tasty Dumpling is rumored to have the best dumplings in all of Manhattan. Order five pork and chive dumplings for just $1.25. If they weren’t so greasy, you might end up eating them for every meal.",
+			"t" : "5. Tasty Dumpling"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3883/3965454539001_4110139381001_HKvkb1OaS5WXEofCW-aWGw-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119606001110979",
+			"sy" : "Whether you top your toasted-everything bagel with tofu scallion cream cheese or bacon, eggs and cheese, you can count on Terrace to serve the best bagels in Brooklyn. Prospect Park is just a block away.",
+			"t" : "3. Terrace Bagels"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2883/3965454539001_4110139365001_KZ6KEUhaRD-MuR2pSQTr7g-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119607001110980",
+			"sy" : "Get your nosh on at Lower East Side institution Russ and Daughters. Try a bagel topped with pastrami-smoked salmon and an insanely good salted caramel macaroon for dessert. You can also get your specialty candies, jewel-toned lox, and fancy caviar.",
+			"t" : "4. Russ And Daughters"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2958/3965454539001_4120503942001_Screen-Shot-2015-03-18-at-5-57-08-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117782001110981",
+			"sy" : "Is Egg Shop in Nolita all it’s cracked up to be? See for yourself when you order the Spandex, a bowl of miso quinoa, pickled vegetables, avocado and a poached egg, along with yummy smashed avocado toast. It all tastes supremely fresh and healthy.",
+			"t" : "1. Egg Shop"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/381/3965454539001_4117752016001_Screen-Shot-2015-03-17-at-3-19-11-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119605001110982",
+			"sy" : "You’ve got to order the renowned pancakes if it’s your first time having breakfast at Clinton Street, but try the specials on subsequent visits – decadent options like the crab cake eggs Benedict and apple pie waffle won’t disappoint.",
+			"t" : "2. Clinton St. Baking Company"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/1SNsgP0KfeMwkCCawAI6oa/d50eb6f2d9fb824e2023c8f0d93bdef0/connected-devices-thumbnail-new-york-best-breakfast.png",
+	"nodeid" : "Series140984",
+	"nodetype" : "MENU",
+	"t" : "Breakfast Beat"
+}

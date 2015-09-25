@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 63,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1978/3965454539001_4121921831001_Screen-Shot-2015-03-19-at-9-44-06-AM.jpg?pubId=3965454539001",
+			"oigid" : -1761697909,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/E2MZZUAXJMKV/m3u8/E2MZZUAXJMKV.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Cvi.che serves up wonderful Peruvian seafood like sea scallops drenched in parmesan cheese and their delicious namesake ceviche 105. Arrive early on the weekends because it gets packed and they don’t take reservations.",
+	"t" : "5. Cvi.Che 105",
+	"uuid" : "Episode4110114286001110923"
+}

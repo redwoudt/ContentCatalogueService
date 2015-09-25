@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 312,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/835/3965454539001_4108368619001_DT002-Cured-Salmon-with-Raw-Beetroot-Salad---Day-Tripper3.jpg?pubId=3965454539001",
+			"oigid" : 576156668,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/DSFHA8C6A28J/m3u8/DSFHA8C6A28J.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Chef Guy Turland makes a cured salmon and raw beetroot salad and shows us a view you have to see to believe.",
+	"t" : "Cured Salmon with Raw Beetroot Salad",
+	"uuid" : "Episode3972194662001120252"
+}

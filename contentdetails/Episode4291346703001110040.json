@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 557,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/2734/3965454539001_4293202827001_Bavaria.jpg?pubId=3965454539001",
+			"oigid" : -1373526504,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/H8J9A8S842PO/m3u8/H8J9A8S842PO.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Discover the beautiful Bavaria with us. Beers, Lederhosen, Mountains and much more.",
+	"t" : "10. Bavaria, Germany",
+	"uuid" : "Episode4291346703001110040"
+}

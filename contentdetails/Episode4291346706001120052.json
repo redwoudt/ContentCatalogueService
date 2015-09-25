@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 200,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1498/3965454539001_4293202804001_Paris-2.jpg?pubId=3965454539001",
+			"oigid" : 1626483508,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/PCMZJ77K5F1G/m3u8/PCMZJ77K5F1G.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "We spend a week in Paris and talk about cliches, secret spots, and how to experience Paris like a local.",
+	"t" : "Paris, France",
+	"uuid" : "Episode4291346706001120052"
+}

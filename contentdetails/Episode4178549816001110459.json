@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 163,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2629/3965454539001_4185410513001_Screen-Shot-2015-04-20-at-5-12-37-PM.jpg?pubId=3965454539001",
+			"oigid" : -42675781,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/15G03VDTEUHD/m3u8/15G03VDTEUHD.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Inspirada pela comédia \"Casamento Grego\", Isadora Becker prepara spanakopita: pasteizinhos de massa filo com recheio de espinafre e queijo de cabra ou de ovelha. Bem crocantes, uma delícia!",
+	"t" : "17. Spanakopita de \"Casamento Grego\"",
+	"uuid" : "Episode4178549816001110459"
+}

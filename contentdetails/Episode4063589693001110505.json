@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 175,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/755/3965454539001_4218313809001_HF-SWEDEN-POTATOSALAD-RoughDraft-V1-Copy-01-00-00-08-08-Still002.jpg?pubId=3965454539001",
+			"oigid" : 1511375849,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/1NKC0ATBP9V2/m3u8/1NKC0ATBP9V2.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The coveted new potato is used many Scandinavian dishes.  Though none is more popular than a traditional Swedish Potato Salad, or Färskpotatissalad.",
+	"t" : "5. Potato Salad",
+	"uuid" : "Episode4063589693001110505"
+}

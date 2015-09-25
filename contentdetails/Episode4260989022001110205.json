@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 19,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3175/3965454539001_4260983227001_Screen-Shot-2015-05-27-at-4-33-39-PM.jpg?pubId=3965454539001",
+			"oigid" : 526273725,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/BN8KFCLPSH05/m3u8/BN8KFCLPSH05.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Grab your sweetie and head over to one of Buford Highway's gems, Sweet Hut Bakery and Cafe. This unique bakery is full of unexpected sweets, from traditional East Asian sweets buns to bubble tea. Enjoy the sweet aroma indoors or on the cozy patio.",
+	"t" : "7. Sweet Hut Bakery and Cafe",
+	"uuid" : "Episode4260989022001110205"
+}

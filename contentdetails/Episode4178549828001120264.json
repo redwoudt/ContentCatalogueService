@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 137,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/956/3965454539001_4179730070001_Clafoutis-de-Tomatinho-e-Queijo-Feta---Vamos-pra-C.jpg?pubId=3965454539001",
+			"oigid" : -927567864,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/TVWBYXS0JOXH/m3u8/TVWBYXS0JOXH.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Clafoutis salgado com tomatinhos, queijo feta e manjericão é a opção perfeita para um acompanhamento rápido ou para servir a noite com uma saladinha.",
+	"t" : "Clafoutis de Tomatinho e Queijo Feta",
+	"uuid" : "Episode4178549828001120264"
+}

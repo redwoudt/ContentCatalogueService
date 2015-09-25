@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 561,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3200/3965454539001_3991465300001_BC009-PULP-FICTION-BURGER.jpg?pubId=3965454539001",
+			"oigid" : -1912669784,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/1UQZSFA7XZBD/m3u8/1UQZSFA7XZBD.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "We're making recipes from the iconic Quentin Tarantino film, Pulp Fiction. Big Kahuna Burger, check. Five Dollar Shake, check. Adrenaline Cocktail served in a syringe - you bet.",
+	"t" : "Pulp Fiction — Adrenaline Shot Cocktail & Big Kahuna Burger",
+	"uuid" : "Episode3972982157001120168"
+}

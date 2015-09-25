@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 154,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/589/3965454539001_4187015156001_Citron--ThirstyFor.jpg?pubId=3965454539001",
+			"oigid" : -581828973,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/TH5LK27J3S11/m3u8/TH5LK27J3S11.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "When it comes to lemonade recipes, Citron Presse is in a league of its own. And though it's enjoyed best at a Parisian cafe, it's still pretty darn good from the comfort of your own home.",
+	"t" : "2. Citron Presse",
+	"uuid" : "Episode4186963270001110675"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 296,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/439/3965454539001_4230428836001_32coqauvin.jpg?pubId=3965454539001",
+			"oigid" : 1907451306,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/X2U4V1O3ZQIG/m3u8/X2U4V1O3ZQIG.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Essa receita é do filme brasileiro \"O Contador de Histórias\", sobre um menino que passou a infância na Febem e depois foi adotado por uma pedagoga francesa. Em uma das cenas, ela faz para ele esse tradicional prato francês de frango ao vinho.",
+	"t" : "32. Coq Au Vin de \"O Contador de Histórias\" |",
+	"uuid" : "Episode4178398178001110442"
+}

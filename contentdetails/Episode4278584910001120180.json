@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 197,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3581/3965454539001_4278938548001_72kung.jpg?pubId=3965454539001",
+			"oigid" : -531946572,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/PUERYGIIQ08W/m3u8/PUERYGIIQ08W.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Depois de assistir o filme de desenho animado \"Kung Fu Panda\", Isadora se apaixonou pelo pãozinho chinês do filme e ensina a receita nesse episódio.",
+	"t" : "Pãozinho Chinês de \"Kung Fu Panda\"",
+	"uuid" : "Episode4278584910001120180"
+}

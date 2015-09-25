@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 235,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/439/3965454539001_4230428840001_34cassoulet.jpg?pubId=3965454539001",
+			"oigid" : 202428521,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/YMI9HCCWVOT0/m3u8/YMI9HCCWVOT0.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "\"Os Sabores do Palácio\" é um filme que conta a história de uma cozinheira que vira chef pessoal do presidente da França. Ele pede que ela faça preparações com sabores de avó. O Cassoulet é uma espécie de feijoada francesa com feijão branco.",
+	"t" : "Cassoulet de \"Os Sabores do Palácio\" | Comida de Cinema",
+	"uuid" : "Episode4178398172001120361"
+}

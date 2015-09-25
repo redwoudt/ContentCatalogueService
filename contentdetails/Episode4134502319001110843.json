@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 66,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3850/3965454539001_4156871838001_1.jpg?pubId=3965454539001",
+			"oigid" : 1173530939,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/KP9M6KH2WA66/m3u8/KP9M6KH2WA66.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The deserving winner of London Coffee Shop of the Year in 2013, Benugo serves up wonderful coffee, tea, pastries and cakes in a fun atmosphere. What a delicious way to start the day.",
+	"t" : "1. Benugo",
+	"uuid" : "Episode4134502319001110843"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 612,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/2361/3965454539001_4305733886001_EP03.jpg?pubId=3965454539001",
+			"oigid" : 22104850,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5G27NX83RX32/m3u8/5G27NX83RX32.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "In this episode of Local Flight Shawn and Mariena Mercer of the Cosmopolitan venture off the strip and into the wild west for an ingredient that pays homage to the natural desert and lives up to the high standards of Mariena's creative bar program.",
+	"t" : "Desert Cactus Cocktail — Las Vegas",
+	"uuid" : "Episode4305734786001120018"
+}

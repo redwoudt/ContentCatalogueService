@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 204,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/674/3965454539001_4001466236001_SF039-EGG-CUSTARD-TARTS.jpg?pubId=3965454539001",
+			"oigid" : -632600736,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/11UYAMFGXIOM/m3u8/11UYAMFGXIOM.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Jamie make an egg custard tart with chocolate and pistachio!",
+	"t" : "Egg Custard Tarts",
+	"uuid" : "Episode3978557824001120096"
+}

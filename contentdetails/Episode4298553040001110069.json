@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 90,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1048/3965454539001_4301033892001_Screen-Shot-2015-06-16-at-4-38-02-PM.jpg?pubId=3965454539001",
+			"oigid" : 1346404405,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/YJI6W9USXXZI/m3u8/YJI6W9USXXZI.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A Dani Noce ensina um smoothie delicioso, que não leva lactose. Perfeito para adoçar as tardes durante a semana!",
+	"t" : "28. Smoothie Chocolatudo",
+	"uuid" : "Episode4298553040001110069"
+}

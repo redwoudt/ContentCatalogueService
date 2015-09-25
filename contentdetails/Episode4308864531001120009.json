@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 338,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/190/3965454539001_4308888125001_frame-03.jpg?pubId=3965454539001",
+			"oigid" : -1574824695,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/DZ4C5C7K43N0/m3u8/DZ4C5C7K43N0.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Luanda preparam uma receita fácil e deliciosa que todo mundo pode fazer em casa.",
+	"t" : "Arroz Cremoso com Carne Seca",
+	"uuid" : "Episode4308864531001120009"
+}

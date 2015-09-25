@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 253,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1941/3965454539001_4003473647001_beef-trnecher.jpg?pubId=3965454539001",
+			"oigid" : -1157764241,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5Z12MJQT3QK5/m3u8/5Z12MJQT3QK5.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "In this episode of SortedFood @ The Table, Ben and Mike make a stuffed Roast Beef Sandwich, unlike any you've ever had.",
+	"t" : "Roast Beef Trencher",
+	"uuid" : "Episode3978557802001120111"
+}

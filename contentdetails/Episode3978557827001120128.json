@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 219,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3674/3965454539001_4001466229001_SF036-CAESAR-SALAD.jpg?pubId=3965454539001",
+			"oigid" : -1927568000,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/BUNTKLDDR7GI/m3u8/BUNTKLDDR7GI.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Mike deconstruct the classic caesar salad and throw in some twists on the classic ingredients.",
+	"t" : "Epic Caesar Salad",
+	"uuid" : "Episode3978557827001120128"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 127,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/2206/3965454539001_4290735509001_HALOHALO-V5-DT-050715-00-00-05-06-Still001.jpg?pubId=3965454539001",
+			"oigid" : 1518824587,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/FSQQUBC22MGJ/m3u8/FSQQUBC22MGJ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Is it a dessert?  Is it a drink?  Either way this popular Filipino shaved ice delicacy, which translates to \"Mix Mix\", is chock full of interesting ingredients.",
+	"t" : "9. Halo Halo",
+	"uuid" : "Episode4290562358001110155"
+}

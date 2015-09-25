@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 173,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2287/3965454539001_3989965058001_TF032-Boba-Tea.jpg?pubId=3965454539001",
+			"oigid" : -1841357460,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/4GWLHW0KK1V0/m3u8/4GWLHW0KK1V0.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Bubble Tea (aka Boba), needs no introduction. You've had it many times - though the thought of making it at home seems daunting. It's not. And it tastes delicious.",
+	"t" : "Bubble Tea (Boba)",
+	"uuid" : "Episode3980111986001120620"
+}

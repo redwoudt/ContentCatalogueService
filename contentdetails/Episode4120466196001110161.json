@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 1423,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3730/3965454539001_4122113070001_garden-cupcakes-07.jpg?pubId=3965454539001",
+			"oigid" : -1567385455,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/DZ5GRH4F1AI8/m3u8/DZ5GRH4F1AI8.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "",
+	"t" : "7. Fondant Modeling",
+	"uuid" : "Episode4120466196001110161"
+}

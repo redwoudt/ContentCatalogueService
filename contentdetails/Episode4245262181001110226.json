@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 158,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2506/3965454539001_4258370413001_Screen-Shot-2015-05-26-at-3-01-28-PM.jpg?pubId=3965454539001",
+			"oigid" : 612483794,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/2387S1U47C2A/m3u8/2387S1U47C2A.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This 500 year old Arabic Coffee is a complex caffeinated combination of flavors.",
+	"t" : "6. Qahwa",
+	"uuid" : "Episode4245262181001110226"
+}

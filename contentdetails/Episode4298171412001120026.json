@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 237,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1648/3965454539001_4300216327001_Bleu-Valentine-no-text.jpg?pubId=3965454539001",
+			"oigid" : -315740390,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/E9YGAJ3APW2C/m3u8/E9YGAJ3APW2C.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Inspired by Blue Valentine, I can promise that when your marriage fails you... these cakes will not. Deliciously rich a moist white chocolate cake with a bright blueberry reduction and creamy vanilla pudding.",
+	"t" : "Blue Valentine | Mini BlueBerry Vanilla Cakes",
+	"uuid" : "Episode4298171412001120026"
+}

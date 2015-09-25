@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1467/3965454539001_4110115280001_3zJW8QBJTousc3kdjN7sFg-th.jpg?pubId=3965454539001",
+			"oigid" : -1848362820,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/YI51E8RKMQF0/m3u8/YI51E8RKMQF0.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Get your no-frills, authentic, cheap Mexican food fix anytime you need it at Buford Highway’s Taco Veloz — they’re open 365 days a year because you always gotta have tacos.",
+	"t" : "6. Taco Veloz",
+	"uuid" : "Episode4109935724001110204"
+}

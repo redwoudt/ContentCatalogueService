@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 250,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3355/3965454539001_4003473613001_pork-cider.jpg?pubId=3965454539001",
+			"oigid" : 252301172,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/ST1ZWI9WZR0E/m3u8/ST1ZWI9WZR0E.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Barry make pork chops with cider cabbage and delicious roast potatoes.",
+	"t" : "Pork with Cider Cabbage",
+	"uuid" : "Episode3978557812001120116"
+}

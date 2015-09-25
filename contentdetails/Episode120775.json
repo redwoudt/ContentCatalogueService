@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1jSVVRt9DQAuKcIA646gg4/bcda9e122d3387fee8a798d72ec26a8f/connected-devices-thumbnail-houston-best-indian-food.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "They say that Indian food, once you have it, is quite addicting, so what are you waiting for? Head to Pondicheri in Upper Kirby for a breakfast thali, then go fine dining at Kiran’s in The Galleria. Can’t stop, won’t stop.",
+	"t" : "Houston's Best Indian Food",
+	"uuid" : "Episode120775"
+}

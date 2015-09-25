@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1dhXeCJRSMwM82SU8aYcME/2090ec9eab3572124cd1219f26fd5f4f/connected-devices-thumbnail-tastemade-tv.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Tastemade TV — Brasil",
+	"t" : "Tastemade TV — Brasil",
+	"uuid" : "Episode120197"
+}

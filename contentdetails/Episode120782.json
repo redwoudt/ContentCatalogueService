@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/Q01MCypy2ywyqKMqKWCsW/223758ab64cffe89e12a3e14c4a5aab3/connected-devices-thumbnail-houston-best-patios.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Just spend a day at Cottonwood in the Heights or chill on the backyard patio at Lucille’s in the Museum District, and we think you’ll agree: We have fabulous patios in Houston. Go find one.",
+	"t" : "Top Patios in Houston",
+	"uuid" : "Episode120782"
+}

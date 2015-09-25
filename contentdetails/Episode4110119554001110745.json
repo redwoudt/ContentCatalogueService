@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 67,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2359/3965454539001_4159174874001_3.jpg?pubId=3965454539001",
+			"oigid" : -49670439,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/EZ43PL5ZUK85/m3u8/EZ43PL5ZUK85.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Enjoy a bit of Hawaii in Seattle at Kona Kitchen. All-day breakfast items like the eggs Benedict are pretty mind-blowing, as are traditional Hawaiian stars like the loco moco. Plenty of parking, ample seating and friendly service add to Kona Kitchen’",
+	"t" : "3. Kona Kitchen",
+	"uuid" : "Episode4110119554001110745"
+}

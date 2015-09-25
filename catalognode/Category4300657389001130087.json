@@ -1,0 +1,23 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "http://skychnl-tastemade.s3.amazonaws.com/9BNJL7MN/thumbs/1181057.jpg",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4300657389001120087",
+			"sy" : "Delícias Vegetarianas",
+			"t" : "No Ar Agora"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1952/3965454539001_4266967700001_th-556ab316e4b0683ba7c4ece7-1083021587001.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4266375711001120196",
+			"sy" : "Tastemade TV",
+			"t" : "No Ar Agora"
+		}
+	],
+	"imageUri" : "",
+	"nodeid" : "Category4300657389001130087",
+	"nodetype" : "MENU",
+	"t" : "Tastemade Brasil/Tastemade TV &#8212; Brasil"
+}

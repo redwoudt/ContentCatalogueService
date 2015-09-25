@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 405,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3522/3965454539001_4293130097001_Pilsen---Czech-Republic.jpg?pubId=3965454539001",
+			"oigid" : -1963461085,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/M4M565KSAHKV/m3u8/M4M565KSAHKV.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "We travel to Pilsen, Czech Republic, the birthplace of pilsner-style beer, to celebrate Pilsen becoming the European Capital of Culture for 2015...with lots of beer.",
+	"t" : "4. Pilsen, Czech Republic",
+	"uuid" : "Episode4291346711001110051"
+}

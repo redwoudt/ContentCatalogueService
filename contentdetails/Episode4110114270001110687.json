@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/353/3965454539001_4159449781001_6-1.jpg?pubId=3965454539001",
+			"oigid" : -581828961,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/C52ZORHFDOTK/m3u8/C52ZORHFDOTK.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Boasting the ultimate street cred of being the oldest soul food restaurant in the world, Florida Avenue Grill serves a mean Sunday brunch – be sure to order the mind-blowing French toast. You can beat the morning rush by coming around noon or so.",
+	"t" : "6. Florida Avenue Grill",
+	"uuid" : "Episode4110114270001110687"
+}

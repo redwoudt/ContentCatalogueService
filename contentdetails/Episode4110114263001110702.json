@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2089/3965454539001_4159552930001_4.jpg?pubId=3965454539001",
+			"oigid" : 1008105646,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/HVD6KYLROFDT/m3u8/HVD6KYLROFDT.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "One of DC’s best-kept secrets, Judy Restaurant serves scrumptious Salvadorean dishes like lomo saltado and pork puposas – wash it all down with an authentic Salvadorean cerveza.",
+	"t" : "5. Judy restaurant",
+	"uuid" : "Episode4110114263001110702"
+}

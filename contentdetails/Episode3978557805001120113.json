@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 227,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2731/3965454539001_4003492687001_curried-gnocchi.jpg?pubId=3965454539001",
+			"oigid" : 1842235761,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/46LEK0CZQPJE/m3u8/46LEK0CZQPJE.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Barry make a homemade curried parsnip gnocchi.",
+	"t" : "Curried Parsnip Gnocchi",
+	"uuid" : "Episode3978557805001120113"
+}

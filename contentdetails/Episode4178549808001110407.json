@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 216,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1199/3965454539001_4230488473001_69foolsgold.jpg?pubId=3965454539001",
+			"oigid" : 547258759,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/R3E3DWH95GQC/m3u8/R3E3DWH95GQC.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Inspirada na comédia romântica \"Será Que?\", Isadora prepara um sanduíche que promete tirar o fôlego de qualquer um e ainda alimentar uma turma de amigos.",
+	"t" : "67. Sanduíche Fool's Gold de \"Será Que?\"",
+	"uuid" : "Episode4178549808001110407"
+}

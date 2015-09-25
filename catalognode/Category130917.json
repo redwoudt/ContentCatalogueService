@@ -1,0 +1,44 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1zMsaLl6zuOkYQioAIU6Io/dbaf9178b555269187f66d2a0a8692c8/connected-devices-thumbnail-miami-best-coffee.jpg",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120917",
+			"sy" : "More than just a beverage, coffee is the centerpiece of Miami culture. So much so, Miami even has it's own official coffee break time, aka #305Cafecito. Loyal Miamians can choose to sip $2 Cuban cafecitos at the famous Versailles, experiment with caffeine concoctions at The Alchemist, or even consort with hipsters all day at Panther coffee. ¡Salud!",
+			"t" : "Best Coffee Spots"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/hDemM0etXieOgIKIEOGGo/1a99182c51bf1f0f65a3d57cd2adf344/connected-devices-thumbnail-miami-best-seafood.jpg",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120928",
+			"sy" : "One of the many benefits of living in a coastal city is the abundance of fresh seafood. Venture down the River District at Garcia's and Casablanca, or stroll along South Beach at De Rodriguez on Ocean and Joe's Take Away. A maritime aphrodisiac is never too far away.",
+			"t" : "Seafood And Eat It"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/2WSrSjuHW80CsY8OSg8WkW/916149e7a6b37e886cb98ae85cdc4901/connected-devices-thumbnail-miami-best-pizza.jpg",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120935",
+			"sy" : "Whether you are soulmates, haven't yet DTR'd (define the relationship), or just met on Tinder, Miami offers a variety of venues to suit any courtship level. Cozy up in Mandolin's charming garden, people-watch at Meat Market on Lincoln Road, or share wine and charcuterie to the sound of live tunes at Lagniappe — these date night options make your evening memorable, even if your date isn't.",
+			"t" : "Pizzapalooza"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3Y9LipmVhSMECwYqG48kgQ/1504da4dce3d0decee7d1125bbbd2199/connected-devices-thumbnail-miami-best-date-spot.jpg",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120946",
+			"sy" : "Whether you are soulmates, haven't yet DTR'd (define the relationship), or just met on Tinder, Miami offers a variety of venues to suit any courtship level. Cozy up in Mandolin's charming garden, people-watch at Meat Market on Lincoln Road, or share wine and charcuterie to the sound of live tunes at Lagniappe — these date night options make your evening memorable, even if your date isn't.",
+			"t" : "Great Date Spots"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3p3ruqHWZqoYcAYca4Oscg/64cc7ccd4cb33d34dae17dec719ccdd2/connected-devices-thumbnail-miami-best-hot-now.jpg",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120952",
+			"sy" : "From #SobeWFF Burger Bash award winner Pincho Factory in Coral Gables to Scott Conant's new restaurant Corsair in Aventura, these buzzworthy locales are really giving Miami something to talk about.",
+			"t" : "Buzzworthy/Hot Now"
+		}
+	],
+	"imageUri" : "",
+	"nodeid" : "Category130917",
+	"nodetype" : "MENU",
+	"t" : "Tastemade/Video City Guides/Miami"
+}

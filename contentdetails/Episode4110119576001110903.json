@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 68,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3806/3965454539001_4122602260001_3965454539001-4110126318001-RXge-TnbSvKI1E5uV47Tkw-2.jpg?pubId=3965454539001",
+			"oigid" : 475493239,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/JW9AF7QXQOAJ/m3u8/JW9AF7QXQOAJ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Tasty enough even to please native New Yorkers, Pizza Perfect’s thin-crust pies and meatball sub are perfectly delicious. Come on a Monday between 5pm and 10pm for 2-for-1 slices AND beers – who knew you could improve on perfect?",
+	"t" : "6. Pizza Perfect",
+	"uuid" : "Episode4110119576001110903"
+}

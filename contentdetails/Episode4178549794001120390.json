@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 139,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3303/3965454539001_4230382886001_6moussebranc.jpg?pubId=3965454539001",
+			"oigid" : -567829370,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/DHT8UY1W18HK/m3u8/DHT8UY1W18HK.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Inspirada no filme de 2009, \"Soul Kitchen\", Isadora Becker prepara uma receita de Mousse de Chocolate Branco com Canela para adoçar qualquer refeição.",
+	"t" : "Mousse de Chocolate Branco e Canela de \"Soul Kitchen\"",
+	"uuid" : "Episode4178549794001120390"
+}

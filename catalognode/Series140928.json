@@ -1,0 +1,79 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/883/3965454539001_4110140018001_cj2bYHPbQQeRbaHRw3jDAQ-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119625001110918",
+			"sy" : "Come to the River Seafood after work for happy hour and enjoy amazingly fresh oysters for just $1.50 along with your cocktails.",
+			"t" : "9. Seafood And Eat It"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3883/3965454539001_4110143124001_OerQPPrEQHWky94h16Jo-w-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119626001110919",
+			"sy" : "Dress up and come to Mignonette if you want to get fancy and enjoy some killer seafood. Choose from a wide selection of sexy oysters, and also be sure to order the lobster deviled eggs and redfish.",
+			"t" : "10. Mignonette"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2883/3965454539001_4110142767001_Jf74BQWkS1--dQhu1bvKoA-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119623001110920",
+			"sy" : "Located inside the Hilton Bentley in South Beach, De Rodriguez give you the opportunity to dine both poolside and oceanside. Celebrity chef Douglas Rodriguez crafts delicious pastas, heirloom tomato burrata and more for you to enjoy.",
+			"t" : "8. De Rodriguez On Ocean"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2978/3965454539001_4121921840001_Screen-Shot-2015-03-19-at-9-45-26-AM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119622001110921",
+			"sy" : "The main draw at Midtown Oyster Bar may be their raw seafood, but they also make a mean lobster roll and a phenomenal hamburger. Enjoy half-off oysters and $4 glasses of Prosecco during happy hour.",
+			"t" : "6. Midtown Oyster Bar"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3486/3965454539001_4121922656001_Screen-Shot-2015-03-19-at-9-47-21-AM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114287001110922",
+			"sy" : "Joe’s Take Away isn’t just about fresh seafood; they also serve what may be the best Key lime pie you’ve ever tasted. The crab claws are sweet, juicy, delicious and well worth the price. Come hungry because you’ll want to try a little of everything.",
+			"t" : "7. Joe's Take Away"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1978/3965454539001_4121921831001_Screen-Shot-2015-03-19-at-9-44-06-AM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114286001110923",
+			"sy" : "Cvi.che serves up wonderful Peruvian seafood like sea scallops drenched in parmesan cheese and their delicious namesake ceviche 105. Arrive early on the weekends because it gets packed and they don’t take reservations.",
+			"t" : "5. Cvi.Che 105"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1165/3965454539001_4110140009001_AiRcDeG5QZaVBkMCWMhfZQ-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114285001110924",
+			"sy" : "Come enjoy a beer and fresh Cuban seafood on the beach at Lighthouse Café in Key Biscayne. Whether you order the grouper or the mahi mahi, be sure to get it with a side of black beans and rice.",
+			"t" : "3. Lighthouse Cafe"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/883/3965454539001_4110140002001_Y-WvgT30S7WKaXTLS-RqHQ-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119621001110925",
+			"sy" : "At Segundo Muelle in Coral Gables you can enjoy some familiar flavors in unfamiliar ways, such as lomo risotto and a Bloody Mary made with tiger milk and a fried prawn. Come for live music on Fridays and Saturdays.",
+			"t" : "4. Segundo Muelle"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3978/3965454539001_4121921825001_Screen-Shot-2015-03-19-at-9-40-08-AM-copy.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117792001110926",
+			"sy" : "You’ll find fresh fish, naturally, alongside the beautiful Miami River at Garcia’s. From the grouper sandwiches to the chowder to the seasonal stone crab, everything is delicious, but the smoked fish dip appetizer may be the best thing on the menu.",
+			"t" : "2. Garcia's Seafood Grille and Fish Market"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/318/3965454539001_4121921812001_Screen-Shot-2015-03-19-at-9-38-26-AM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117791001110927",
+			"sy" : "Enjoy a beautiful night outside with friends by the Miami River at Casablanca, where they serve fantastic fresh seafood like phenomenal paella and crispy coconut shrimp Come during happy hour for half-priced oysters.",
+			"t" : "1. Casablanca Seafood Bar and Grill"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/hDemM0etXieOgIKIEOGGo/1a99182c51bf1f0f65a3d57cd2adf344/connected-devices-thumbnail-miami-best-seafood.jpg",
+	"nodeid" : "Series140928",
+	"nodetype" : "MENU",
+	"t" : "Seafood And Eat It"
+}

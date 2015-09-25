@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 3603,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1913/3965454539001_4297860352001_150615-TMTV-Mangia-Tutti-new-120x68.jpg?pubId=3965454539001",
+			"oigid" : -840913785,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/NVHMAG4L4B1B/m3u8/NVHMAG4L4B1B.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Now Playing",
+	"t" : "10. Now Playing",
+	"uuid" : "Episode4293833390001110151"
+}

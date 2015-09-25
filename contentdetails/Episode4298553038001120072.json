@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 208,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/272/3965454539001_4301032807001_26pannacotta.jpg?pubId=3965454539001",
+			"oigid" : -653585592,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/3LS3B4ALSJ34/m3u8/3LS3B4ALSJ34.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Uma Pannacotta saudável e super deliciosa para o lanche da tarde.",
+	"t" : "Pannacotta",
+	"uuid" : "Episode4298553038001120072"
+}

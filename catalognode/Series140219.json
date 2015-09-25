@@ -1,0 +1,51 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2653/3965454539001_4110115289001_fqw-A8xCSGupSi7mb2Qx8g-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982671001110212",
+			"sy" : "The name may be sweet, but don’t irritate Rosebud’s chef by ordering off the menu. Better to stick with tried-and-true winners like the whole wheat pancakes and sausage Benedict — it will rock your world.",
+			"t" : "5. Rosebud"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1870/3965454539001_4119775938001_mountainbuscuits.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114204001110213",
+			"sy" : "Enjoy your meal in the shadow of Kennesaw Mountain at Mountain Biscuits. Warm, buttery, aromatic biscuits topped with honey will satisfy your sweet tooth, while the in-house smoker will fulfill your desire for something meatier.",
+			"t" : "6. Mountain Biscuits"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2650/3965454539001_4119763915001_buttermilk-kitchen.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109935726001110214",
+			"sy" : "A 45-minute wait on a Sunday is a small price to pay for the best breakfast in Buckhead. A bruschetta scramble, crispy bacon and potatoes, chicken biscuit, fresh squeezed OJ & French press coffee at Buttermilk Kitchen make for an all-star breakfast.",
+			"t" : "3. Buttermilk Kitchen"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2467/3965454539001_4110116020001_Pv7lQvGWTW2G0y-v42NI1Q-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109935727001110215",
+			"sy" : "Visit the original location of Flying Biscuit Café and indulge in locally famous faves like the Piedmont omelet with grits, heavenly French toast and, of course, the famous flying biscuits with apple butter.",
+			"t" : "4. The Flying Biscuit Cafe"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3101/3965454539001_4110115297001_m-j8V2YPQni0SyCTQ1Gs5g-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114203001110216",
+			"sy" : "Southern fried comfort food — with a fresh, organic twist — awaits at Home Grown. Go for the fried catfish, fried green tomatoes, grits and maybe a lunch pancake — why not? Be sure to check out the work of local artists hanging on the walls.",
+			"t" : "2. Home Grown"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2198/3965454539001_4119780745001_javajivecoffeehouse.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109935725001110217",
+			"sy" : "Breakfast is served all day at the cool, retro Java Jive. Whether you go with the savory scrambles, grits and home fries or sweet biscuits and wheat germ pancakes (or gingerbread waffles on weekends!), you can count on a solidly delicious meal.",
+			"t" : "1. Java Jive Coffee House and Cafe"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/2WPu9aj35m4a8K2Y8yYOe/bb7e748ada78d9879aa9dcbd7118908a/connected-devices-thumbnail-atlanta-best-southern-biscuits.png",
+	"nodeid" : "Series140219",
+	"nodetype" : "MENU",
+	"t" : "The Most Delicious Southern Biscuits"
+}

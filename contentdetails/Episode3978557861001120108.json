@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 206,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3174/3965454539001_4001351121001_SF009-BANOFFEE-BITES.jpg?pubId=3965454539001",
+			"oigid" : 2007660908,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/D7IOIX71APJC/m3u8/D7IOIX71APJC.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "SortedFood makes Banoffee Bites, a deconstructed version of a classic (and delicious) English dessert made from bananas and toffee.",
+	"t" : "Banoffee Bites",
+	"uuid" : "Episode3978557861001120108"
+}

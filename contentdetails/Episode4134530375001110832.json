@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 66,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2999/3965454539001_4134736434001_4134530375001-th.jpg?pubId=3965454539001",
+			"oigid" : 1338956080,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/SSN7BDM6LFPM/m3u8/SSN7BDM6LFPM.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Go hybrid at Bea's Of Bloomsbury. The famous cafe is known for it's afternoon teas, townies & duffins. #cake #bloomsbury #tea #h",
+	"t" : "4. Bea's Of Bloomsbury",
+	"uuid" : "Episode4134530375001110832"
+}

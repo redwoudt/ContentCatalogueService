@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 144,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1208/3965454539001_4301032878001_Screen-Shot-2015-06-16-at-4-34-18-PM.jpg?pubId=3965454539001",
+			"oigid" : 641371709,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/G4YB831IGDC3/m3u8/G4YB831IGDC3.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Essa é uma sopa de lentilha muito especial e que tem um sabor marcante. Além disso, a mistura da sopa com a deliciosa coalhada seca e a refrescância das folhinhas de coentro me fazem lembrar que existe aconchego na vida.",
+	"t" : "23. Sopa de Lentilha",
+	"uuid" : "Episode4298553035001110077"
+}

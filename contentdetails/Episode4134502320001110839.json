@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 63,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2506/3965454539001_4156952382001_5.jpg?pubId=3965454539001",
+			"oigid" : -2121436361,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/LZ98X0QMJT4D/m3u8/LZ98X0QMJT4D.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Caravan serves a very nice – and very strong -- latte in Exmouth Market and makes an excellent alternative to Starbucks for true coffee connoisseurs.",
+	"t" : "5. Caravan",
+	"uuid" : "Episode4134502320001110839"
+}

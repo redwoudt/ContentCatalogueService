@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 132,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3313/3965454539001_3987731026001_TF009-bandrek.jpg?pubId=3965454539001",
+			"oigid" : 1986676612,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/BRYPR8VJURWY/m3u8/BRYPR8VJURWY.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Take a trip to Southeast Asia, with this sweet, spicy, traditional Indonesian drink.",
+	"t" : "Bandrek",
+	"uuid" : "Episode3978579075001120644"
+}

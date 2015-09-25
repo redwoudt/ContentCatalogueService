@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1433/3965454539001_4158472968001_5.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114211001110803",
+			"sy" : "Local Foods serves beautiful salads and sandwiches — the crunchy chicken is an instant classic. Wash it down with the bursting-with-flavor orange grapefruit and mint ade. Don’t worry if you can’t find a seat inside; the patio is plenty charming.",
+			"t" : "8. Local Foods"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/689/3965454539001_4158481419001_4.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982677001110805",
+			"sy" : "Get ready to load up on carbs because Common Bond serves flavorful sandwiches and what may be the best croissant you’ve ever had. Arrive early because the secret’s out about these incredible pastries — you’ll want to get yours before they run out.",
+			"t" : "7. Common Bond Cafe and Bakery"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2302/3965454539001_4120101148001_Screen-Shot-2015-03-18-at-2-22-14-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982676001110806",
+			"sy" : "The Lord of the Rings décor and huge beer selection is reason enough to come to Hobbit Café. Fortunately, the food is great, too. Come hungry and order the soup of the day and fire-roasted burger with carrot cake for dessert.",
+			"t" : "4. Hobbit Cafe"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1255/3965454539001_4158485844001_3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114210001110807",
+			"sy" : "The Eatsie Boys are three dudes who grew up in Houston and love food almost as much as they love their city. Standout sandwiches include the Philly cheesesteak and Frank the Pretzel, & you’ll definitely want to save room for their decadent ice cream.",
+			"t" : "6. Eatsie Boys"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1666/3965454539001_4120105968001_Screen-Shot-2015-03-18-at-2-20-33-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109935732001110808",
+			"sy" : "Whether you want to dine in or grab it to go, Les Givral’s is reliably quick, convenient and delicious. Order the pho, banh mi and Vietnamese coffee … and don’t be dismayed by the long line; it moves fast and the food comes out quickly.",
+			"t" : "3. Les Givral's"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3601/3965454539001_4158431151001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114209001110809",
+			"sy" : "The sandwiches at Thim Hing are served on fresh and crunchy baguettes that are a little thinner than your typical banh mi, offering an ideal filling to bread ratio — order yours with an egg for a special treat.",
+			"t" : "1. Thim Hing"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1863/3965454539001_4158472920001_2-1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982675001110810",
+			"sy" : "Empire Café has been serving casual café fare since 1994, so you know they’re doing something right. Standout dishes include the mushroom and goat cheese stuffed ravioli and the crispy “not fried” chicken sandwich.",
+			"t" : "2. Empire Cafe"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/4IJXuGiLbyM62C28esuWMc/179deeff9effd97d043d7af2ed1fb6d8/connected-devices-thumbnail-houston-best-sandwiches.png",
+	"nodeid" : "Series140811",
+	"nodetype" : "MENU",
+	"t" : "Best Sandwiches in Houston"
+}

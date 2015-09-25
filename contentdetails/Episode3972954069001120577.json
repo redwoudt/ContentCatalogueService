@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 382,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/400/3965454539001_3991404682001_RVNG013-Halloween.jpg?pubId=3965454539001",
+			"oigid" : 281643841,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/SCWY37FV7N9N/m3u8/SCWY37FV7N9N.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This week Laura hosts a very special guest in her spoooky Halloween Special...",
+	"t" : "Spooky Halloween Special ft. Vegan Black Metal Chef",
+	"uuid" : "Episode3972954069001120577"
+}

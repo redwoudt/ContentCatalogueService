@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 151,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1341/3965454539001_4219308287001_quinua.jpg?pubId=3965454539001",
+			"oigid" : -589268247,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/Q6WVF9L37O9H/m3u8/Q6WVF9L37O9H.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Long before it was a trendy superfood, quinoa was one of the staples of Peruvian cuisine.  This traditional preparation brings some delicious regional flavors to this regional grain.",
+	"t" : "Quinua Atamalada",
+	"uuid" : "Episode4014134605001120489"
+}

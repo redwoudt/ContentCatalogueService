@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 306,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3749/3965454539001_4108291120001_DT008-Marinated-Pork-with-Green-Apple-Salad---Day-Trippe.jpg?pubId=3965454539001",
+			"oigid" : 662820865,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/LGOBFDPW3TB2/m3u8/LGOBFDPW3TB2.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Chef Guy Turland takes a Ferry trip to Cockatoo Island and brings along an amazing 12-hour marinated pork to cook up alongside a green apple salad.",
+	"t" : "Marinated Pork with Green Apple Salad",
+	"uuid" : "Episode3972284224001120257"
+}

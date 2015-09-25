@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 532,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3614/3965454539001_4119579612001_series-local-flight-e01.jpg?pubId=3965454539001",
+			"oigid" : 1727592345,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/22UOP37WXY9W/m3u8/22UOP37WXY9W.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Shawn Thomas heads to a Southern California citrus farm and then brings his bounty back to Melrose Umbrella Co., where bartender and owner Zach Patterson works his magic!",
+	"t" : "California Citrus Cocktail — Los Angeles",
+	"uuid" : "Episode3972982195001120665"
+}

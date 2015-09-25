@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 200,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3558/3965454539001_4001466201001_SF025-LAMB-KEBABS.jpg?pubId=3965454539001",
+			"oigid" : 482497413,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/HQVFDKV90UMX/m3u8/HQVFDKV90UMX.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Barry make a delicious lamb kebab with a GIANT couscous salad.",
+	"t" : "Lamb Kebabs with Giant Couscous",
+	"uuid" : "Episode3978557838001120133"
+}

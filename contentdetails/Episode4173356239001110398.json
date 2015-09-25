@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 152,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3477/3965454539001_4185215095001_2.jpg?pubId=3965454539001",
+			"oigid" : -1517058178,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/UKE2KLOYFZZO/m3u8/UKE2KLOYFZZO.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Deliciosa iguaria feita com feijão fradinho, os mini acarajés do Sotero são feitos com uma técnica especial, além, é claro, de serem fritos no popular azeite de dendê até ficarem bem dourados.",
+	"t" : "2. Mini Acarajés (Sotero)",
+	"uuid" : "Episode4173356239001110398"
+}

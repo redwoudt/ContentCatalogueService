@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 234,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3514/3965454539001_4001495077001_SF040-RIBS.jpg?pubId=3965454539001",
+			"oigid" : -1632600708,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/D44LM4NPDR17/m3u8/D44LM4NPDR17.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Barry make a platter of delicious ribs with coconut sticky rice.",
+	"t" : "Ribs and Coconut Rice",
+	"uuid" : "Episode3978557823001120124"
+}

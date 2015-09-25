@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/618/3965454539001_4157011902001_4.jpg?pubId=3965454539001",
+			"oigid" : 1698240295,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/6VB851C1UXFY/m3u8/6VB851C1UXFY.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Looking for the perfect hangover cure? The Breakfast Club will bring you back to the land of the living with their French toast topped with bananas, crispy bacon and loads of maple syrup.",
+	"t" : "4. The Breakfast Club",
+	"uuid" : "Episode4134525938001110823"
+}

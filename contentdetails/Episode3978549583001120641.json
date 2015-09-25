@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 114,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3399/3965454539001_4134348489001_vlcsnap-2015-03-25-14h37m51s146.jpg?pubId=3965454539001",
+			"oigid" : -1114431615,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/TBBD27XFKTCK/m3u8/TBBD27XFKTCK.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Sweet, creamy deliciousness - pair this tea with a spicy dish and you're in for a treat.",
+	"t" : "Thai Iced Tea",
+	"uuid" : "Episode3978549583001120641"
+}

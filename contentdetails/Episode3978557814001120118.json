@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 211,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201502/576/3965454539001_4060917754001_mqdefault.jpg?pubId=3965454539001",
+			"oigid" : -2042666122,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/91X2RBR98YE3/m3u8/91X2RBR98YE3.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Mike make a hearty pumpkin soup with tempura squash that's perfect for a fall feast.",
+	"t" : "Pumpkin Soup",
+	"uuid" : "Episode3978557814001120118"
+}

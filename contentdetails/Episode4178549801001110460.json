@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 300,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1573/3965454539001_4185358353001_Screen-Shot-2015-04-20-at-5-10-42-PM.jpg?pubId=3965454539001",
+			"oigid" : 2137193404,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/AXJ5BZQE111F/m3u8/AXJ5BZQE111F.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "De todas as comidas que Elizabeth Gilbert comeu em \"Comer, Rezar, Amar\", Isadora Becker escolheu a pizza margherita para reproduzir desde o início.",
+	"t" : "14. Pizza Margherita de \"Comer, Rezar, Amar\"",
+	"uuid" : "Episode4178549801001110460"
+}

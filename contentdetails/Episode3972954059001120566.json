@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 481,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3032/3965454539001_3991465271001_RVNG023-VDAY-CANDY.jpg?pubId=3965454539001",
+			"oigid" : -1128421578,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/NY464YTHNBG9/m3u8/NY464YTHNBG9.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Need a little inspiration for the Raw Vegan Valentine in your life? Laura's got a lip-smackin' lolli you're all gonna love.",
+	"t" : "Valentine's Day Candy",
+	"uuid" : "Episode3972954059001120566"
+}

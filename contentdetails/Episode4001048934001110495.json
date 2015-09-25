@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 193,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/173/3965454539001_4219200949001_GINGERCOOKIES-V4-00-00-07-22-Still001.jpg?pubId=3965454539001",
+			"oigid" : 1993207263,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/U84VQ7EH4ETG/m3u8/U84VQ7EH4ETG.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The weather outside might be frightful, but the smell from the oven is delightful! If winter has you in the kitchen baking these Chewy Ginger Cookies, then we say, “let it snow!”",
+	"t" : "6. Ginger Cookies",
+	"uuid" : "Episode4001048934001110495"
+}

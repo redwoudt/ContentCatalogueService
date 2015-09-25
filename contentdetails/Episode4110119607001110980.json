@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2883/3965454539001_4110139365001_KZ6KEUhaRD-MuR2pSQTr7g-th.jpg?pubId=3965454539001",
+			"oigid" : 1410722244,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/B6J13Y6QNILT/m3u8/B6J13Y6QNILT.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Get your nosh on at Lower East Side institution Russ and Daughters. Try a bagel topped with pastrami-smoked salmon and an insanely good salted caramel macaroon for dessert. You can also get your specialty candies, jewel-toned lox, and fancy caviar.",
+	"t" : "4. Russ And Daughters",
+	"uuid" : "Episode4110119607001110980"
+}

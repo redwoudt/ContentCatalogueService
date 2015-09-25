@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3486/3965454539001_4121922656001_Screen-Shot-2015-03-19-at-9-47-21-AM.jpg?pubId=3965454539001",
+			"oigid" : -761697910,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/WFM7JYU91BJE/m3u8/WFM7JYU91BJE.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Joe’s Take Away isn’t just about fresh seafood; they also serve what may be the best Key lime pie you’ve ever tasted. The crab claws are sweet, juicy, delicious and well worth the price. Come hungry because you’ll want to try a little of everything.",
+	"t" : "7. Joe's Take Away",
+	"uuid" : "Episode4110114287001110922"
+}

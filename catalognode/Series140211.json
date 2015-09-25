@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1467/3965454539001_4110115280001_3zJW8QBJTousc3kdjN7sFg-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109935724001110204",
+			"sy" : "Get your no-frills, authentic, cheap Mexican food fix anytime you need it at Buford Highway’s Taco Veloz — they’re open 365 days a year because you always gotta have tacos.",
+			"t" : "6. Taco Veloz"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3175/3965454539001_4260983227001_Screen-Shot-2015-05-27-at-4-33-39-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4260989022001110205",
+			"sy" : "Grab your sweetie and head over to one of Buford Highway's gems, Sweet Hut Bakery and Cafe. This unique bakery is full of unexpected sweets, from traditional East Asian sweets buns to bubble tea. Enjoy the sweet aroma indoors or on the cozy patio.",
+			"t" : "7. Sweet Hut Bakery and Cafe"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2101/3965454539001_4110115684001_IrE9ZyAeQwKENDtkcfPDIg-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114202001110206",
+			"sy" : "When the weather outside is frightful, Bo Bo Garden’s three-kind dumpling noodle soup will warm you up from the inside out. The crispy chicken with garlic is yummy, too, and killer lunch deals start at just $5.",
+			"t" : "4. Bo Bo Garden"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2467/3965454539001_4110115706001_8S-wsz6zTu2iKhJ9jl90OQ-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109935723001110207",
+			"sy" : "If you love Cajun food or just fresh seafood, Crawfish Shack Seafood is a must-stop on Buford Highway. Go all out and order the “Shacktastic,” with crawfish, snow crab, mussels and more. And on the weekends, there are beignets!",
+			"t" : "5. Crawfish Shack Seafood"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/467/3965454539001_4110115673001_uzTDMV-uRpKKgwAYkumYQQ-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109935721001110208",
+			"sy" : "If it looks good, get it — the dim sum at Happy Valley Seafood will never let you down. Wash it down with jasmine tea and be sure to save room for egg custard.",
+			"t" : "2. Happy Valley Seafood Restaurant"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3467/3965454539001_4110118219001_PyD5PQWDQiODKqvkKRhkqA-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109935722001110209",
+			"sy" : "It’s pretty simple: If you’re hungry, go to Lee’s Bakery. Nothing goes together quite like a big chicken banh mi, Sriracha sauce and a boba tea. It’s cheap, fast and good.",
+			"t" : "3. Lee's Bakery"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1101/3965454539001_4110115638001_oZXcMiHXRCC7w94nLUYbJQ-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114201001110210",
+			"sy" : "Buford Highway Farmers Market stocks hard-to-find international produce like sugar cane, banana leaves and durian, along with an impressive selection of cheeses and fresh seafood.  Grab lunch at the food court while you’re there.",
+			"t" : "1. Buford Highway Farmers Market"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/2KrikKngtGM6uCIMKmAYWK/055b785a87a68dce335ef439ee111ef8/connected-devices-thumbnail-atlanta-best-buford-highway.png",
+	"nodeid" : "Series140211",
+	"nodetype" : "MENU",
+	"t" : "The Best of Buford Highway"
+}

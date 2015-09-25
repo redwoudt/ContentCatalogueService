@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 216,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2402/3965454539001_4225469159001_vlcsnap-2015-05-08-07h55m01s155.jpg?pubId=3965454539001",
+			"oigid" : -1618166316,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/TUHHX7L55YN6/m3u8/TUHHX7L55YN6.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "These traditional South American sandwich cookies are perfect on the coffee table or as a way to end a Peruvian-inspired feast.",
+	"t" : "5. Alfajores",
+	"uuid" : "Episode4003548750001110484"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 130,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3095/3965454539001_3987745225001_rabarbar.jpg?pubId=3965454539001",
+			"oigid" : 928446324,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/VA5WVGSQN7A9/m3u8/VA5WVGSQN7A9.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Rhubarb is so hot right now ... so if you wanna be cool (and cool off) why not try this refreshing Polish drink.",
+	"t" : "Rabarbar z Miodem (Polish Rhubarb Drink)",
+	"uuid" : "Episode3980111963001120628"
+}

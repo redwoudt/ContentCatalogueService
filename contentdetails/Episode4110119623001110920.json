@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2883/3965454539001_4110142767001_Jf74BQWkS1--dQhu1bvKoA-th.jpg?pubId=3965454539001",
+			"oigid" : 230853000,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/GC8Z6C17683Y/m3u8/GC8Z6C17683Y.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Located inside the Hilton Bentley in South Beach, De Rodriguez give you the opportunity to dine both poolside and oceanside. Celebrity chef Douglas Rodriguez crafts delicious pastas, heirloom tomato burrata and more for you to enjoy.",
+	"t" : "8. De Rodriguez On Ocean",
+	"uuid" : "Episode4110119623001110920"
+}

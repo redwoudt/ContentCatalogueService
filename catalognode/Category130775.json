@@ -1,0 +1,44 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1jSVVRt9DQAuKcIA646gg4/bcda9e122d3387fee8a798d72ec26a8f/connected-devices-thumbnail-houston-best-indian-food.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120775",
+			"sy" : "They say that Indian food, once you have it, is quite addicting, so what are you waiting for? Head to Pondicheri in Upper Kirby for a breakfast thali, then go fine dining at Kiran’s in The Galleria. Can’t stop, won’t stop.",
+			"t" : "Houston's Best Indian Food"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/Q01MCypy2ywyqKMqKWCsW/223758ab64cffe89e12a3e14c4a5aab3/connected-devices-thumbnail-houston-best-patios.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120782",
+			"sy" : "Just spend a day at Cottonwood in the Heights or chill on the backyard patio at Lucille’s in the Museum District, and we think you’ll agree: We have fabulous patios in Houston. Go find one.",
+			"t" : "Top Patios in Houston"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6wbvJwaaPuK82EUq6omQew/bb48b1739af414dea09c8483866f3ecd/connected-devices-thumbnail-houston-best-coffee.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120794",
+			"sy" : "It’s never been easier to get a fantastic cup of ‘joe in Houston. For your a great flat white, Blacksmith in Montrose is about as perfect as it gets. Meanwhile, not far away in the ‘trose, Siphon Coffee beckons with a chill environment and siphon coffeemakers that light up the room.",
+			"t" : "Perk Up! 12 Hot Houston Coffee Spots"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/5bEpLGjEfSYGiO4SIUqAkg/7485466de183cc10961ae9eedd6e8796/connected-devices-thumbnail-houston-best-desserts.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120804",
+			"sy" : "From the cutest of cupcakes crafted with artisanal products at Crave Cupcakes in Uptown Park, to Ooh La La Dessert Boutique in Town & Country Village, your sweet tooth can rejoice in these sweet somethings.",
+			"t" : "Delectable Sweets for Your Sweet Tooth"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/4IJXuGiLbyM62C28esuWMc/179deeff9effd97d043d7af2ed1fb6d8/connected-devices-thumbnail-houston-best-sandwiches.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120811",
+			"sy" : "You can’t go wrong with anything on the menu at Local Foods in the Rice Village, or with one of the fantastic specimens at Common Bond in Montrose. When it comes to sandwiches, Houston’s got you covered.",
+			"t" : "Best Sandwiches in Houston"
+		}
+	],
+	"imageUri" : "",
+	"nodeid" : "Category130775",
+	"nodetype" : "MENU",
+	"t" : "Tastemade/Video City Guides/Houston"
+}

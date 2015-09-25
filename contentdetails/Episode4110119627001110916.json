@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2883/3965454539001_4110143116001_J-laXBwoQOym4m8d0qLAiQ-th.jpg?pubId=3965454539001",
+			"oigid" : -64114300,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/WFUQ2Y2N0OMI/m3u8/WFUQ2Y2N0OMI.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Miracle Mile’s Café Curuba serves Counterculture and Panther coffee, along with plenty of yummy things to eat. Order the refreshing quinoa salad if you’re in the mood for something light, or a chorizo sandwich for something heartier.",
+	"t" : "3. Cafe Curuba",
+	"uuid" : "Episode4110119627001110916"
+}

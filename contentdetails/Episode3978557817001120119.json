@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 207,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1877/3965454539001_4003473587001_jerk-poussin.jpg?pubId=3965454539001",
+			"oigid" : 957333879,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/HO6OI418KS0G/m3u8/HO6OI418KS0G.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Jamie make Jerk Poussin with a sweet potato salad.",
+	"t" : "Jerk Poussin",
+	"uuid" : "Episode3978557817001120119"
+}

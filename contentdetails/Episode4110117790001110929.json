@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 70,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3835/3965454539001_4117385379001_Screen-Shot-2015-03-17-at-12-40-24-PM.jpg?pubId=3965454539001",
+			"oigid" : -272871535,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/QIB31ZAHXRFA/m3u8/QIB31ZAHXRFA.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Harry’s Pizzeria serves a different kind of pizza and soup every day of the week, so always check out the specials. And be sure to get the out-of-this-world polenta fries served with tomato jam.",
+	"t" : "6. Harry's Pizzeria",
+	"uuid" : "Episode4110117790001110929"
+}

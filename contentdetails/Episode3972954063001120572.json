@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 399,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1960/3965454539001_3991418451001_RVNG019-WINTER-VEGGIES.jpg?pubId=3965454539001",
+			"oigid" : -1423388868,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/R3G41B9Q8A7K/m3u8/R3G41B9Q8A7K.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Stumped as to what you can do with winter vegetables? Well, Laura Miller's got a few awesome ideas for you.",
+	"t" : "Winter Vegetables",
+	"uuid" : "Episode3972954063001120572"
+}

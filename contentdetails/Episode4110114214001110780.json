@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3991/3965454539001_4158743122001_1.jpg?pubId=3965454539001",
+			"oigid" : -747254020,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/JLD0TL8YYICZ/m3u8/JLD0TL8YYICZ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Lillo and Ella serves up big bold flavors in their pan-Asian street food. You’ve got to try the crispy calamari and al dente Thai Muu noodles. Killer cocktails are an added bonus, and you can get great deals on drinks and bites at happy hour.",
+	"t" : "1. Lillo and Ella",
+	"uuid" : "Episode4110114214001110780"
+}

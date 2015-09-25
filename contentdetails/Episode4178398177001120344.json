@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 264,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/457/3965454539001_4230438696001_52alice.jpg?pubId=3965454539001",
+			"oigid" : 907461208,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/B2WZ0VP8O3K0/m3u8/B2WZ0VP8O3K0.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora se inspirou em um filme clássico que fez a infância de muita gente e é adorado até hoje: Alice no País das Maravilhas. No vídeo, ela ensina a preparar a poção que faz Alice crescer e os biscoitos que a encolhem.",
+	"t" : "Cookies e Poção de \"Alice no País das Maravilhas\"",
+	"uuid" : "Episode4178398177001120344"
+}

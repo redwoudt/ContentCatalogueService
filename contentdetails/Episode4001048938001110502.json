@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 242,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2891/3965454539001_4219226352001_HF-CABIN-PASTABAKE-v2-00-00-06-08-Still002.jpg?pubId=3965454539001",
+			"oigid" : 1698239974,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/M6Q132ON5LW0/m3u8/M6Q132ON5LW0.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Cozy up in the cabin with a little Butternut Squash Pasta Bake. The perfect recipe for an après ski feast!",
+	"t" : "2. Butternut Squash Pasta Bake",
+	"uuid" : "Episode4001048938001110502"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 81,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2702/3965454539001_4122666878001_3965454539001-4110121306001-hQDrNd5xS6yzir5Qb72ybg.jpg?pubId=3965454539001",
+			"oigid" : -934572205,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/WC08RESVH2CX/m3u8/WC08RESVH2CX.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Part of the Bongo Java coffee roasting empire, Fido similarly serves up fantastic food along with their stellar coffee. You must order the Bachelor: a cinnamon raisin bagel topped with almond butter, bananas and honey.",
+	"t" : "10. Fido",
+	"uuid" : "Episode4110119566001110867"
+}

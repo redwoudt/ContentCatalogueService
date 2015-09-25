@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 215,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2457/3965454539001_4230438710001_55lasanha.jpg?pubId=3965454539001",
+			"oigid" : -1272862122,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/04VN9SR8IBKL/m3u8/04VN9SR8IBKL.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Nesse episódio de Comida de Cinema, Isadora ensina o prato favorito (e muito saboroso) de um dos gatos mais queridos e fofos do cinema, o \"Garfield\".",
+	"t" : "Lasanha Bolonhesa de \"Garfield\"",
+	"uuid" : "Episode4178549789001120342"
+}

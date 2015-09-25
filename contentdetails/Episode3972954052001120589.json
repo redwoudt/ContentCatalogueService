@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 173,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2420/3965454539001_3976277710001_RVNG001-KALE-CHIPS.jpg?pubId=3965454539001",
+			"oigid" : 461513037,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/Z5NDN4CU62D0/m3u8/Z5NDN4CU62D0.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Raw. Vegan. Not Gross, hosted by Laura Miller, a chef with a mission to make Raw, Vegan food approachable and great-tasting. This week, she's showing you how to make Kale Chips.",
+	"t" : "Kale Chips",
+	"uuid" : "Episode3972954052001120589"
+}

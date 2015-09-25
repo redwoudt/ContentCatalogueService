@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 289,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3076/3965454539001_4179726750001_Pudim-de-Chia---Vamos-Pra-Cozinha--01.jpg?pubId=3965454539001",
+			"oigid" : -222545124,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/V7KZ489PS7OM/m3u8/V7KZ489PS7OM.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Esse pudim é uma alternativa saudável e deliciosa para quem quer comer algo doce após o almoço ou ainda um lanchinho da tarde. Inclusive o mesmo pudim serve para fazer um picolé fácil e delicioso.",
+	"t" : "1. Pudim de Chia",
+	"uuid" : "Episode4178549833001110300"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2102/3965454539001_4157077990001_5.jpg?pubId=3965454539001",
+			"oigid" : 468498216,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/A31GSP5XT2WZ/m3u8/A31GSP5XT2WZ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Your decadent breakfast at Ben’s Canteen may consist of a butternut squash and chorizo sandwich, or a classic like pancakes with bananas and crispy bacon. Either way, washing it all down with a fruit smoothie will make you feel healthier.",
+	"t" : "5. Ben's Canteen",
+	"uuid" : "Episode4134502314001110824"
+}

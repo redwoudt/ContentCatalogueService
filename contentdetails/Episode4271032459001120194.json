@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 192,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1271/3965454539001_4271085191001_TF-KVASS-V3-051315-00-00-05-17-Still001.jpg?pubId=3965454539001",
+			"oigid" : -560380478,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/P2I2OPURNB7N/m3u8/P2I2OPURNB7N.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Though not as trendy as Kombucha, this traditional Russian fermented beverage has been served throughout Eastern Europe since the Middle ages.",
+	"t" : "Kvass",
+	"uuid" : "Episode4271032459001120194"
+}

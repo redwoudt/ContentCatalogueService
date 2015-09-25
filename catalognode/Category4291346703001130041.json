@@ -1,0 +1,79 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/2734/3965454539001_4293202827001_Bavaria.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4291346703001120041",
+			"sy" : "Discover the beautiful Bavaria with us. Beers, Lederhosen, Mountains and much more.",
+			"t" : "Bavaria, Germany"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1522/3965454539001_4293130103001_Ottawa.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4291346710001120043",
+			"sy" : "Canada's capital has undergone a food and drink renaissance that's transformed the city for locals and visitors alike.",
+			"t" : "Ottawa, Canada"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1734/3965454539001_4293202812001_Cancun-.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4291346704001120046",
+			"sy" : "Our tips on how to move past the tourist traps and explore the Riviera Maya's cultural heritage and gorgeous natural surroundings!",
+			"t" : "Cancún, Mexico"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1498/3965454539001_4293202776001_Ticino---Switzerland.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4291346708001120047",
+			"sy" : "we explore Ticino, the Italian speaking Canton of southern Switzerland for a week of paragliding, bungee jumping, canyoning, a Film Festival and an after party.",
+			"t" : "Ticino, Switzerland"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/230/3965454539001_4293167496001_Chamonix---France.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4291346705001120049",
+			"sy" : "Base Jumping, Paragliding,Dog Sledding and Snowboarding!!! Join us for an extreme week in Chamonix, France.",
+			"t" : "Chamonix, France"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1498/3965454539001_4293202804001_Paris-2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4291346706001120052",
+			"sy" : "We spend a week in Paris and talk about cliches, secret spots, and how to experience Paris like a local.",
+			"t" : "Paris, France"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3522/3965454539001_4293130097001_Pilsen---Czech-Republic.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4291346711001120054",
+			"sy" : "We travel to Pilsen, Czech Republic, the birthplace of pilsner-style beer, to celebrate Pilsen becoming the European Capital of Culture for 2015...with lots of beer.",
+			"t" : "Pilsen, Czech Republic"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1638/3965454539001_4293174244001_Craft-Beer-LONDON-2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4291346707001120055",
+			"sy" : "Let us take you on a pub crawl through London to show you the best of the beer scene - from traditional pubs to trend-setting craft breweries!",
+			"t" : "London, England"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3594/3965454539001_4293174214001_Geneva-2---Switzerland.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4291346709001120056",
+			"sy" : "We head to Switerzland to spend a week in Geneva, one of the world's most cosmopolitan and international cities in the world!",
+			"t" : "Geneva, Switzerland"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/774/3965454539001_4293130084001_Tijuana-1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4291346712001120059",
+			"sy" : "We cross the border and move past the myths about Tijuana, Mexico to explore the cultural revival that's turning Tijuana from a border town into a rising travel destination.",
+			"t" : "The New Tijuana, Mexico"
+		}
+	],
+	"imageUri" : "",
+	"nodeid" : "Category4291346703001130041",
+	"nodetype" : "MENU",
+	"t" : "Tastemade/Vagabrothers"
+}

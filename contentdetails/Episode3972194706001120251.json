@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 338,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2707/3965454539001_4108360561001_DT003-King-Prawn-Frittata---Day-Tripper-by-Bondi-Harvest2.jpg?pubId=3965454539001",
+			"oigid" : 1626483707,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/YON2Z89E9USH/m3u8/YON2Z89E9USH.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Guy takes us on a trip up Manly Beach to make a King Prawn Frittata with Smoked Trout Aioli.",
+	"t" : "King Prawn Frittata",
+	"uuid" : "Episode3972194706001120251"
+}

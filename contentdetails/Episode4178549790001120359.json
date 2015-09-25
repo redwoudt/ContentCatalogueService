@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 210,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2215/3965454539001_4230408582001_37lembas.jpg?pubId=3965454539001",
+			"oigid" : -272862105,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/SJ1YWVAT6VD6/m3u8/SJ1YWVAT6VD6.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora ensina a preparar sua versão das lembas élficas de \"O Senhor dos Anéis\". Além de nutritivo, esse pãozinho fica super gostoso.",
+	"t" : "Lembas de \"O Senhor dos Anéis\"",
+	"uuid" : "Episode4178549790001120359"
+}

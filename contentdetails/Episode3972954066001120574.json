@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 483,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201502/1827/3965454539001_4049964170001_RVNG016-DIPS.jpg?pubId=3965454539001",
+			"oigid" : 1576611134,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/B7L90JRL9CAK/m3u8/B7L90JRL9CAK.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Stressed about what to bring to this year's holiday party? This week Laura whips up 3 easy and delicious dips that are bound to impress your pickiest party-goers.",
+	"t" : "Party Dips",
+	"uuid" : "Episode3972954066001120574"
+}

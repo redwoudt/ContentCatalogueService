@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 259,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201502/1424/3965454539001_4060886164001_maxresdefault.jpg?pubId=3965454539001",
+			"oigid" : -222535336,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/50H99DLXNJBF/m3u8/50H99DLXNJBF.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Welcome to a very special episode of SortedFood @ The Table. Today Mike and Jamie leave the Sorted kitchen and head to Matt's Bakery in London to roll up their sleeves and get involved with making some of his speciality chocolate brownies.",
+	"t" : "Chocolate Brownies",
+	"uuid" : "Episode3978557833001120088"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 169,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2290/3965454539001_4243037509001_Mexico-city2.jpg?pubId=3965454539001",
+			"oigid" : -1222545180,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/F34UQ35MHZTN/m3u8/F34UQ35MHZTN.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "In this episode Macca and Brianna wander the streets of Mexico City, taking in all that it has to offer.",
+	"t" : "2. Mexico City, Mexico",
+	"uuid" : "Episode4239042832001110244"
+}

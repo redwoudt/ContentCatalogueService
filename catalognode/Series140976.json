@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3051/3965454539001_4117747057001_Screen-Shot-2015-03-17-at-3-17-02-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119604001110967",
+			"sy" : "John’s may be one of the quintessential New York pizza spots in the West Village, but they don’t serve by the slice, so bring a friend or a big appetite. The pizza is damn near perfect -- ooey gooey mozzarella with an ideal sauce-to-cheese ratio.",
+			"t" : "7. John's Pizzeria"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3851/3965454539001_4117751973001_Screen-Shot-2015-03-17-at-3-12-03-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114276001110969",
+			"sy" : "Plenty of places vie for the title of best pizza in New York, and Saluggi’s is definitely a contender because they make their own mozzarella. Whether you order classic pepperoni, or any other pie, the fresh taste of handmade mozzarella shines through",
+			"t" : "5. Saluggi's"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1195/3965454539001_4117769721001_Screen-Shot-2015-03-17-at-3-15-13-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114277001110970",
+			"sy" : "If you want to find really good pizza in the Financial District, head Underground. Skip the dollar-a-slice joints and pony up a bit more to get a truly delicious slice of authentically New York, greasy pepperoni pizza – you’re worth it.",
+			"t" : "6. Underground Pizza"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1501/3965454539001_4117673036001_Screen-Shot-2015-03-17-at-3-01-36-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117781001110971",
+			"sy" : "The best Neapolitan pizza outside of Naples can be found at Keste, where the fast-baked crust is simultaneously gooey, crisp and thin – in other words, perfect.",
+			"t" : "3. Kesté"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2501/3965454539001_4117722175001_Screen-Shot-2015-03-17-at-3-05-07-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119603001110972",
+			"sy" : "Brick oven pizza at its finest can be found at Patsy’s. Order a one-two punch of Caprese salad followed by pepperoni pizza. Try your best to hold back and eat only one of the fresh-baked rolls served before your meal.",
+			"t" : "4. Patsy's Pizzeria"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1349/3965454539001_4110138732001_zjPiVXyvQTGr3JZp4mSb-A-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119600001110973",
+			"sy" : "With locations in Williamsburg and East Village, Motorino is a dependable neighborhood pizzeria where you can count on everything to be perfectly satisfying.",
+			"t" : "1. Motorino"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/338/3965454539001_4120503966001_Screen-Shot-2015-03-18-at-6-06-43-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119601001110974",
+			"sy" : "Angelo’s Pizzeria is located next to the Ed Sullivan Theater, and when Madonna claimed she’d never tried pizza before, David Letterman took her here. If it’s good enough for Madonna, it’s good enough for you.",
+			"t" : "2. Angelo's Pizzeria"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/Lw340Wo7YW2WM6q2AoMya/07b07a5f0844991d4e6f3ec1400bf835/connected-devices-thumbnail-new-york-best-pizza.png",
+	"nodeid" : "Series140976",
+	"nodetype" : "MENU",
+	"t" : "Pizzapalooza"
+}

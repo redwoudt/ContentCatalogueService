@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 468,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3712/3965454539001_4093947751001_RVNG025-BONDI-CHILLISLICE.jpg?pubId=3965454539001",
+			"oigid" : 1166545715,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/QPBC84QAR1BJ/m3u8/QPBC84QAR1BJ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This week Laura teams up with Guy Turland of \"Day Tripper\" for the cutest collaboration of all time. Guy shows Laura how to make a raw Coconut Chili Slice (or \"cake\" if you don't speak Australian).",
+	"t" : "Coconut Chili Slice",
+	"uuid" : "Episode3972954057001120563"
+}

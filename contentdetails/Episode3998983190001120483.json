@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 162,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1694/3965454539001_4225439635001_vlcsnap-2015-05-08-08h00m35s158.jpg?pubId=3965454539001",
+			"oigid" : 1022559459,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/AGWPRWRIQIZC/m3u8/AGWPRWRIQIZC.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A staple up and down South America, this Peruvian Ceviche spices things up with some unique ingredients.",
+	"t" : "Peruvian Ceviche",
+	"uuid" : "Episode3998983190001120483"
+}

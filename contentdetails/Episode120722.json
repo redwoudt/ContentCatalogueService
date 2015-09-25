@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/7b2WwRiQ1yCEAi0KQ0i4qE/ff007e9833640cdc586b6935bb779284/connected-devices-thumbnail-washington-dc-best-coffee.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Navigating the world without your invigorating cup of joe? Don't worry, we have your back with these top spots to perk up. You don't want to miss the #protips at these selected locations, too!",
+	"t" : "Perk Up Coffee Spots",
+	"uuid" : "Episode120722"
+}

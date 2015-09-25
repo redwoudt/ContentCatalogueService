@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 256,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1156/3965454539001_4179726789001_Tomates-Recheados---Vamos-pra-Cozinha--04.jpg?pubId=3965454539001",
+			"oigid" : -1812479724,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/JUUWSVLKCJAJ/m3u8/JUUWSVLKCJAJ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Essa é uma receita que serve perfeitamente como acompanhamento para uma carne ou até mesmo como janta se você quiser balancear a sua alimentação.",
+	"t" : "4. Tomates Recheados",
+	"uuid" : "Episode4178549840001110292"
+}

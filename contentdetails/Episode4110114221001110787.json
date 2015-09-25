@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2679/3965454539001_4158633894001_6.jpg?pubId=3965454539001",
+			"oigid" : 1957778691,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/H0MY9BF5JPGJ/m3u8/H0MY9BF5JPGJ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Serving coffee, wine, sandwiches and pastries in the Museum District, BOSTA has all of your culinary and spiritual needs covered. You’ll find featured red, white and sparking wines for just $5 at happy hour, and half off wines by the glass or bottle.",
+	"t" : "6. BOSTA",
+	"uuid" : "Episode4110114221001110787"
+}

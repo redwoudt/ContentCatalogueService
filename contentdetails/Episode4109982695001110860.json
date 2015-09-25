@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3450/3965454539001_4120268555001_Screen-Shot-2015-03-18-at-3-35-47-PM.jpg?pubId=3965454539001",
+			"oigid" : -783591092,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/93PRCYHE9F8S/m3u8/93PRCYHE9F8S.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Are you ready for the most incredible, juicy, perfect burger you’ve ever tasted? L’il Woody’s delivers with big and small versions of their classically delicious meat and bread creation.",
+	"t" : "5. Li'l Woody's",
+	"uuid" : "Episode4109982695001110860"
+}

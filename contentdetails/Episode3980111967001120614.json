@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 172,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2609/3965454539001_3989958530001_TF038-Sikhye.jpg?pubId=3965454539001",
+			"oigid" : 633479014,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/UHB6MTR2CWXO/m3u8/UHB6MTR2CWXO.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This drink takes a long, long time to make - worth it? Absolutely. Delicate, sweet, and gratifying, you won't make Sikhye everyday - but it's a drink you should try to make at least once.",
+	"t" : "Sikhye",
+	"uuid" : "Episode3980111967001120614"
+}

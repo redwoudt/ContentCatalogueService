@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 515,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/501/3965454539001_4143301451001_RVNG-DAD.jpg?pubId=3965454539001",
+			"oigid" : 411176270,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/XMSMTZJBZ6WL/m3u8/XMSMTZJBZ6WL.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Laura's getting out of the studio this week and meeting up with a very special guest... her Dad, for gardening, dogs and an easy Spring vegetable recipe.",
+	"t" : "9. Fresh Veggie Salad with Laura's Dad",
+	"uuid" : "Episode4143182009001110862"
+}

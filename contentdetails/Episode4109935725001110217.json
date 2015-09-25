@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 81,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2198/3965454539001_4119780745001_javajivecoffeehouse.jpg?pubId=3965454539001",
+			"oigid" : -848362807,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5IR5BPO8I2QP/m3u8/5IR5BPO8I2QP.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Breakfast is served all day at the cool, retro Java Jive. Whether you go with the savory scrambles, grits and home fries or sweet biscuits and wheat germ pancakes (or gingerbread waffles on weekends!), you can count on a solidly delicious meal.",
+	"t" : "1. Java Jive Coffee House and Cafe",
+	"uuid" : "Episode4109935725001110217"
+}

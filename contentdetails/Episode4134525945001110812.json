@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 67,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2038/3965454539001_4157078070001_6.jpg?pubId=3965454539001",
+			"oigid" : 108305692,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/SUJUP8AHS8DH/m3u8/SUJUP8AHS8DH.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A classically delicious Sunday roast awaits at The Rye. Whether you order the roast pork, beef or chicken, be sure to try it with the delectable crackling and Yorkshire pudding.",
+	"t" : "8. The Rye",
+	"uuid" : "Episode4134525945001110812"
+}

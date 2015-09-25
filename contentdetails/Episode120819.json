@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6H5cHyeqhG84yssscUmASS/96671a7bbb90814d0bd7c86625185582/connected-devices-thumbnail-london-best-pub-grub.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Londoners love a good pub and we've got the best here for you. Enjoy top notch roast dinners, including yorkshire puddings the size of your face, at The Pig & Buthcher, The Easton or The Copper Cow. Or if you fancy something a bit different grab a pizza at The Crate Brewery, which brews its own beer, or indulge in Italian tapas at hip The Ape & Bird. It's what Sunday afternoons were made for!",
+	"t" : "Top Pub Grub",
+	"uuid" : "Episode120819"
+}

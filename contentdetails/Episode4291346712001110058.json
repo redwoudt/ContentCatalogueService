@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 632,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/774/3965454539001_4293130084001_Tijuana-1.jpg?pubId=3965454539001",
+			"oigid" : -963461078,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/CTM53GTKHEZB/m3u8/CTM53GTKHEZB.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "We cross the border and move past the myths about Tijuana, Mexico to explore the cultural revival that's turning Tijuana from a border town into a rising travel destination.",
+	"t" : "1. The New Tijuana, Mexico",
+	"uuid" : "Episode4291346712001110058"
+}

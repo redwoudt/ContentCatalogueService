@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2011/3965454539001_4117502271001_Screen-Shot-2015-03-17-at-1-15-53-PM.jpg?pubId=3965454539001",
+			"oigid" : -229539480,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/EV4L6LBS4M2U/m3u8/EV4L6LBS4M2U.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The menu at Sinema is overseen by a “Top Chef” alum, so it’s going to change a lot, but be sure to get the stroganoff and the “surf, surf and surf” if you can. Dinner is amazing, but the Sunday brunch (with no reservations needed) is great too.",
+	"t" : "6. Sinema",
+	"uuid" : "Episode4110119571001110888"
+}

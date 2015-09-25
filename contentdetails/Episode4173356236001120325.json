@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 82,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2627/3965454539001_4185255886001_4.jpg?pubId=3965454539001",
+			"oigid" : -222080955,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/9BO6HJCFFC9R/m3u8/9BO6HJCFFC9R.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Bacalhão é um criativo bolinho de bacalhau com camarão. Servido no boteco Enchendo Linguiça, no Rio de Janeiro, esse bolinho tem sua massa feita com purê de batata, bacalhau cozido e salsinha. O camarão, é claro, está no recheio.",
+	"t" : "Bolinho de Bacalhão (Enchendo Linguiça)",
+	"uuid" : "Episode4173356236001120325"
+}

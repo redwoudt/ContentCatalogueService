@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 236,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2599/3965454539001_4230457358001_57tortapessego.jpg?pubId=3965454539001",
+			"oigid" : 1662366803,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/44A7RSFNGDFQ/m3u8/44A7RSFNGDFQ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora Becker prepara uma receita que envolve uma grande história de amor: a Torta de Pêssego do filme \"Refém da Paixão\". Perfeita para unir corações!",
+	"t" : "Torta de Pêssedo de \"Refém da Paixão\"",
+	"uuid" : "Episode4178549822001120339"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/cjIL7Y3SVMiOWSQaQ8euY/d5d06e1f14fd62f0f5ce89380c4d82d4/connected-devices-thumbnail-cozinha-de-boteco-sp.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Petiscos a preços acessíveis e em fartas porções para dividir com os amigos são apresentados pelo casal Carol e Duca na série \"Cozinha de Boteco\". Com foco na cidade de São Paulo, os episódios mostram iguarias criativas e deliciosas, como a Coxinha da Dadá (Z Carniceria), os Mini Acarajés (Sotero), as Tulipas Recheadas (Deep Bar 611), o Croquete de Mortadela (Bar do Mané) e a Linguiça Bêbada (Caiubier). Curiosos ainda podem conferir as técnicas utilizadas na preparação de cada prato.",
+	"t" : "Cozinha de Boteco — São Paulo",
+	"uuid" : "Episode120402"
+}

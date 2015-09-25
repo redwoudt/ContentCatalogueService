@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 255,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2017/3965454539001_4230408563001_31bananasplit.jpg?pubId=3965454539001",
+			"oigid" : 1957778349,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/OFJ57C46S9Z5/m3u8/OFJ57C46S9Z5.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora ensina uma versão mais incrementada e deliciosa do sorvete que Kevin come no hotel de \"Esqueceram de Mim 2\".",
+	"t" : "31. Banana Split de \"Esqueceram de Mim\"",
+	"uuid" : "Episode4185051221001110445"
+}

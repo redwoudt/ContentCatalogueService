@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2675/3965454539001_4110143108001_XQNaQFu-TZygyFrKYI6tyA-th.jpg?pubId=3965454539001",
+			"oigid" : -1567838845,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/H3EAB6Z15D1R/m3u8/H3EAB6Z15D1R.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Take a break from shopping on Lincoln Road and head to Café Charlotte for great Argentinean food. The skirt steak is grilled to perfection before your eyes and the fried yucca tastes better than French fries.",
+	"t" : "2. Cafe Charlotte",
+	"uuid" : "Episode4110117793001110915"
+}

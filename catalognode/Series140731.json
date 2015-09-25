@@ -1,0 +1,65 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/303/3965454539001_4159425807001_7.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119586001110723",
+			"sy" : "It may look like random apartment buildings from the outside, but 2 Birds 1 Stone is actually an awesome bar with great food, too. If proprietor and cocktail master Adam Bernbach is behind the bar, be sure to take advantage & order something special.",
+			"t" : "8. 2 Birds 1 Stone"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1303/3965454539001_4159425810001_8.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119587001110724",
+			"sy" : "Barmini is the No. 1 cocktail bar in the city, so it’s not easy to get a seat, but it’s absolutely worth the wait. Forget about the menu and trust the bartenders to create something beautiful – they’ll never let you down.",
+			"t" : "9. Barmini"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/158/3965454539001_4120369584001_Screen-Shot-2015-03-18-at-4-38-14-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114261001110725",
+			"sy" : "Room 11 serves a wonderful selection of mulled wines, along with carefully paired menu items like charcuterie and burrata. If the bar is too crowded, take your drinks and snacks over to the café side where you can sip and nibble in comfort.",
+			"t" : "5. Room 11"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3879/3965454539001_4159449804001_5.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119585001110726",
+			"sy" : "Chinese, Japanese and Peruvian flavors come together beautifully at Jose Andres’ China Chilcano, from the lomo saltado to the siu mai. Be sure to sit at the ceviche bar and ask for the sweetie drops.",
+			"t" : "6. China Chilcano"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/929/3965454539001_4159425789001_3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117770001110727",
+			"sy" : "Offering 25 different kinds of bourbon, along with beer and wine and great food, Barrel makes a great neighborhood watering hole. You must order the fried chicken biscuits with gravy, and don’t forget to get a cocktail.",
+			"t" : "3. Barrel"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3529/3965454539001_4159460194001_4.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114259001110728",
+			"sy" : "There’s only one place to go for sherry in D.C., and that place is Mockingbird Hill. A little bit of sherry, some Spanish tapas and a group of friends makes for a perfect evening.",
+			"t" : "4. Mockingbird Hill"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3353/3965454539001_4159449792001_2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114258001110729",
+			"sy" : "For comfort food at its finest, come to Boundary Road and order the pirogi, which comes with cracked black pepper and an incredible sauce just like grandma used to make. Order it as an entrée instead of an appetizer and they’ll double the size.",
+			"t" : "2. Boundary Road"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1529/3965454539001_4159460184001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117769001110730",
+			"sy" : "Jack Rose is known for its whiskey selection, but their seafood dishes will blow you out of the water – order the amazing oysters and scallops. And if you’re new to whiskey, order the tasting flight to find you really love.",
+			"t" : "1. Jack Rose Dining Saloon"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/6bEIyFWpLGmEq2OGSUYaYm/03a6e9b72b37c7da5f5221dd25e1f2ef/connected-devices-thumbnail-washington-dc-best-cocktails.png",
+	"nodeid" : "Series140731",
+	"nodetype" : "MENU",
+	"t" : "Craftiest Cocktails"
+}

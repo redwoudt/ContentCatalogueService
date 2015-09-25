@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/165/3965454539001_4110142745001_sO3DheBnSzKWZD0rKqvkmw-th.jpg?pubId=3965454539001",
+			"oigid" : 533269396,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/6LYZYJKC1G3Z/m3u8/6LYZYJKC1G3Z.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "For Neapolitan-style pizza in Little River, head to Iron Side. A ton of great white and red sauce pizza options offers something to please everybody, and the fresh artichoke, parmesan and pine nut salad is fantastic, too.",
+	"t" : "5. Iron Side Pizza",
+	"uuid" : "Episode4110114284001110932"
+}

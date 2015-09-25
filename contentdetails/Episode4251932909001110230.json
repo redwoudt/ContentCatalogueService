@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 438,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/798/3965454539001_4257777472001_1.jpg?pubId=3965454539001",
+			"oigid" : -1531956522,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/XDJTY63UB9WQ/m3u8/XDJTY63UB9WQ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Probiotics! Yogurt's full of them and they're good for your digestion. This is the simplest yogurt recipe ever. Buy a few coconuts and you're 50% there. It's Raw, Vegan, Yogurt folks. Just watch this video and you'll be halfway to healthy digestion.",
+	"t" : "16. Coconut Yogurt",
+	"uuid" : "Episode4251932909001110230"
+}

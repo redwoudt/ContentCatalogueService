@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 408,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/8/3965454539001_4302648674001_Rocky-No-Text.jpg?pubId=3965454539001",
+			"oigid" : 1684259612,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/Y3NMEX1R2ZE7/m3u8/Y3NMEX1R2ZE7.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Quinoa Waffle Sandwich with cumin lime Chicken, for those days you need extra protein after your workout. Recipe inspired by the movie Rocky.",
+	"t" : "Rocky | Quinoa Waffle Sandwich with Cumin Lime Chicken",
+	"uuid" : "Episode4298171414001120028"
+}

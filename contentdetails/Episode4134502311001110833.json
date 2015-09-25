@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 62,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3607/3965454539001_4134736439001_4134502311001-th.jpg?pubId=3965454539001",
+			"oigid" : 1763465521,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/7DGIWOJNNMQM/m3u8/7DGIWOJNNMQM.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The cakes at Konditor & Cook are legendary. The perfect place to order your cake from for a big birthday or wedding #cake #lunch",
+	"t" : "5. Time for Tea & Cake",
+	"uuid" : "Episode4134502311001110833"
+}

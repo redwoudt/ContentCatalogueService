@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 140,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201502/2949/3965454539001_4050049649001_maxresdefault-4.jpg?pubId=3965454539001",
+			"oigid" : -1366520977,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/M1NOZ4AO306U/m3u8/M1NOZ4AO306U.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Though this drink was originally created for Pehlwani wrestlers to get refreshed and energized before a fight - you don't have to get in to a ring to enjoy the intriguing taste of this drink.",
+	"t" : "Thadal",
+	"uuid" : "Episode3980111965001120623"
+}

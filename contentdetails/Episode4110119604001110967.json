@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3051/3965454539001_4117747057001_Screen-Shot-2015-03-17-at-3-17-02-PM.jpg?pubId=3965454539001",
+			"oigid" : -1589277769,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/SP805GXZ6YDR/m3u8/SP805GXZ6YDR.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "John’s may be one of the quintessential New York pizza spots in the West Village, but they don’t serve by the slice, so bring a friend or a big appetite. The pizza is damn near perfect -- ooey gooey mozzarella with an ideal sauce-to-cheese ratio.",
+	"t" : "7. John's Pizzeria",
+	"uuid" : "Episode4110119604001110967"
+}

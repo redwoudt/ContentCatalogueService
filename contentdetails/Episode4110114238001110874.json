@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/610/3965454539001_4122730424001_3965454539001-4110123705001-hNuCTWyUSiC-cPOnAXqtww-3.jpg?pubId=3965454539001",
+			"oigid" : 1777909594,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/GFGUJ4VOG5VT/m3u8/GFGUJ4VOG5VT.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "For great coffee, an incredible assortment of looseleaf teas and yummy breakfast tacos and sandwiches, head to The Jam. Breakfast is served all day…or at least until 3pm, which is closing time. Just don’t come on a Sunday - they're closed.",
+	"t" : "3. The Jam Coffee House",
+	"uuid" : "Episode4110114238001110874"
+}

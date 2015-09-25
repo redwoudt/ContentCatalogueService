@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/2WPu9aj35m4a8K2Y8yYOe/bb7e748ada78d9879aa9dcbd7118908a/connected-devices-thumbnail-atlanta-best-southern-biscuits.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A true southern breakfast means hot fresh biscuits. Atlanta's best are fresh, steamy, flaky and buttery. Add a side of grits and it's the ultimate South in your mouth.",
+	"t" : "The Most Delicious Southern Biscuits",
+	"uuid" : "Episode120219"
+}

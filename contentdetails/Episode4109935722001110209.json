@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3467/3965454539001_4110118219001_PyD5PQWDQiODKqvkKRhkqA-th.jpg?pubId=3965454539001",
+			"oigid" : 446604481,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/0EOQIW7I6VLF/m3u8/0EOQIW7I6VLF.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "It’s pretty simple: If you’re hungry, go to Lee’s Bakery. Nothing goes together quite like a big chicken banh mi, Sriracha sauce and a boba tea. It’s cheap, fast and good.",
+	"t" : "3. Lee's Bakery",
+	"uuid" : "Episode4109935722001110209"
+}

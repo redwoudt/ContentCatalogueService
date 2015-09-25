@@ -1,0 +1,44 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2883/3965454539001_4185223378001_4.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4173356241001110396",
+			"sy" : "O Croquete de Mortadela do Bar do Mané, no Mercado Municipal de São Paulo, é uma saborosa alternativa aos tradicionais sanduíches e bolinhos de bacalhau das redondezas.",
+			"t" : "4. Croquete de Mortadela (Bar do Mané)"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3883/3965454539001_4185223379001_5.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4173356242001110397",
+			"sy" : "Linguiça flambada na cachaça acompanhada de purê de mandioca (feito com leite e manteiga de garrafa) e servido com pão, molho rosê e geleia de pimenta. Essa é a deliciosa Linguiça Bêbada do Caiubier.",
+			"t" : "5. Linguiça Bêbada (Caiubier)"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3477/3965454539001_4185215095001_2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4173356239001110398",
+			"sy" : "Deliciosa iguaria feita com feijão fradinho, os mini acarajés do Sotero são feitos com uma técnica especial, além, é claro, de serem fritos no popular azeite de dendê até ficarem bem dourados.",
+			"t" : "2. Mini Acarajés (Sotero)"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1355/3965454539001_4185192115001_3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4173356240001110399",
+			"sy" : "As tulipas do Deep Bar 611 são asas de frango recheadas com bacon, queijo coalho, linguiça portuguesa, picles, cenoura e nabo, além de serem empanadas na farinha de rosca para depois serem fritas e servidas com molhos de sua preferência.",
+			"t" : "3. Tulipas Recheadas (Deep Bar 611)"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/291/3965454539001_4185192050001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4173356238001110400",
+			"sy" : "A \"Coxinha da Dadá\" é famosa em São Paulo e se destaca pela massa cremosa. Recheadas com frango e um creme especial, essas coxinhas são servidas no Z Carniceria acompanhadas de geleia de pimenta.",
+			"t" : "1. Coxinha da Dadá (Z Carniceria)"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/cjIL7Y3SVMiOWSQaQ8euY/d5d06e1f14fd62f0f5ce89380c4d82d4/connected-devices-thumbnail-cozinha-de-boteco-sp.png",
+	"nodeid" : "Series140402",
+	"nodetype" : "MENU",
+	"t" : "Cozinha de Boteco — São Paulo"
+}

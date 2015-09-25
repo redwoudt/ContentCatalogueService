@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 132,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/399/3965454539001_4134348518001_vlcsnap-2015-03-25-14h48m25s113.jpg?pubId=3965454539001",
+			"oigid" : 1173540734,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/NAQYFJ4TJ07A/m3u8/NAQYFJ4TJ07A.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This traditional Korean drink, balances the delicate pear flavor with a strong hit of ginger - all combining to create a wonderful drink for someone who's a bit under the weather.",
+	"t" : "Korean Baesuk",
+	"uuid" : "Episode3978458319001120638"
+}

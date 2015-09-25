@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 65,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2402/3965454539001_4122117852001_vlcsnap-2015-03-19-11h05m22s163.jpg?pubId=3965454539001",
+			"oigid" : 2000656821,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/JOONB3R38W4R/m3u8/JOONB3R38W4R.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You’ll go crazy for donuts at this Upper East Side bake shop. Dough Loco switches up their flavors a lot, but the blueberry pancake, sugar and cinnamon and miso glazed are all winners. Call ahead to make sure they have your favorites.",
+	"t" : "3. Dough Loco",
+	"uuid" : "Episode4110119599001110965"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2738/3965454539001_4156886059001_2.jpg?pubId=3965454539001",
+			"oigid" : 403273020,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/VON6B349JEVO/m3u8/VON6B349JEVO.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Buzz yourself in to one of the newest, most intriguing coffee shops in town. Ziferblat is a Russian-style cafe where you can help yourself to their excellent coffee, tea, toast and biscuits -- just keep an eye on the clock because they charge by the",
+	"t" : "2. Ziferblat",
+	"uuid" : "Episode4134525941001110844"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 255,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2017/3965454539001_4230408539001_28creme.jpg?pubId=3965454539001",
+			"oigid" : 317072496,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/0O0R73DSJP81/m3u8/0O0R73DSJP81.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "O fabuloso Crème Brûlée de Amélie Poulain é muito mais fácil de fazer do que parece. E neste vídeo, Isadora ensina um truque para criar a casquinha crocante mesmo sem ter um maçarico de cozinha.",
+	"t" : "Crème Brûlée de \"Amélie Poulain\"",
+	"uuid" : "Episode4178549782001120368"
+}

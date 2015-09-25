@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 83,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3101/3965454539001_4110115297001_m-j8V2YPQni0SyCTQ1Gs5g-th.jpg?pubId=3965454539001",
+			"oigid" : 1137647304,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/P5AAUOJ8W735/m3u8/P5AAUOJ8W735.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Southern fried comfort food — with a fresh, organic twist — awaits at Home Grown. Go for the fried catfish, fried green tomatoes, grits and maybe a lunch pancake — why not? Be sure to check out the work of local artists hanging on the walls.",
+	"t" : "2. Home Grown",
+	"uuid" : "Episode4110114203001110216"
+}

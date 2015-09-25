@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 70,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3353/3965454539001_4159449792001_2.jpg?pubId=3965454539001",
+			"oigid" : 303072969,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/6GUBT7IASQYS/m3u8/6GUBT7IASQYS.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "For comfort food at its finest, come to Boundary Road and order the pirogi, which comes with cracked black pepper and an incredible sauce just like grandma used to make. Order it as an entrée instead of an appetizer and they’ll double the size.",
+	"t" : "2. Boundary Road",
+	"uuid" : "Episode4110114258001110729"
+}

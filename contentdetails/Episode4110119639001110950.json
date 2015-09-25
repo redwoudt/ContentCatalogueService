@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3211/3965454539001_4117325345001_Screen-Shot-2015-03-17-at-12-10-27-PM.jpg?pubId=3965454539001",
+			"oigid" : -949016154,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/76X06AS49QCM/m3u8/76X06AS49QCM.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Outstanding grilled octopus, ricotta cavatelli, and the roasted chicken was great!",
+	"t" : "1. Corsair by Scott Conant",
+	"uuid" : "Episode4110119639001110950"
+}

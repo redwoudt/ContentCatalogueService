@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6PKj4lWZqgwIgW0cIOwaQM/36b1db1962c0b9561284d399ba55d43c/connected-devices-thumbnail-new-york-best-sugar-buzz.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Life is short, so make it sweet for certain with uptown doughnuts, downtown macarons and the world-class pudding from Sugar Sweet Sunshine.",
+	"t" : "Sugar Buzz",
+	"uuid" : "Episode120968"
+}

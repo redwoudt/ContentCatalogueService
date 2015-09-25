@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 302,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3975/3965454539001_4230386310001_40blueberry.jpg?pubId=3965454539001",
+			"oigid" : -1337643102,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/OXDHE8RMIP8P/m3u8/OXDHE8RMIP8P.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Essa Torta de Mirtilos dá nome ao filme \"Um Beijo Roubado\", que no original é \"My Blueberry Nights\". Com uma bola de sorvete de creme, fica incrível!",
+	"t" : "40. Torta de Blueberry de \"Um Beijo Roubado\"",
+	"uuid" : "Episode4178549819001110434"
+}

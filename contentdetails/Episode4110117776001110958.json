@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 64,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1942/3965454539001_4120567417001_Screen-Shot-2015-03-18-at-6-15-19-PM.jpg?pubId=3965454539001",
+			"oigid" : -1387969618,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/EB4MIRI868XG/m3u8/EB4MIRI868XG.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You’ve got to order ramen when you come to Momofuku – the momofuku with pork belly and spicy miso with chicken are two standouts. And if for some reason you aren’t in the mood for ramen, you can pre-order two whole fried chickens for lunch or dinner.",
+	"t" : "3. Momofuku Noodle Bar",
+	"uuid" : "Episode4110117776001110958"
+}

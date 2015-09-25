@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 169,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/55/3965454539001_3990005233001_TF050-YAK-TEA.jpg?pubId=3965454539001",
+			"oigid" : 439619932,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/FH598MAKT3PQ/m3u8/FH598MAKT3PQ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "For the season finale and the winner of the viewer's choice, we're making Tibetan Butter Tea! Acquired taste? Yes. Worth trying? Absolutely.",
+	"t" : "Tibetan Butter Tea",
+	"uuid" : "Episode3980311460001120604"
+}

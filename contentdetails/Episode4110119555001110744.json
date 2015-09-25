@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1359/3965454539001_4159174887001_4.jpg?pubId=3965454539001",
+			"oigid" : 950329560,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/NEAZNLDBFS8K/m3u8/NEAZNLDBFS8K.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Calozzi’s serves up real deal cheesesteaks in Seattle. Try the original with onions and Cheez Whiz. Take it to go and wash it down with a beer at Two Beers Brewing. Just be sure you eat it while it’s still hot for the optimum Philly cheesesteak.",
+	"t" : "6. Calozzi's Georgetown",
+	"uuid" : "Episode4110119555001110744"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 273,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3599/3965454539001_4230457329001_49chopsuey.jpg?pubId=3965454539001",
+			"oigid" : -2092538789,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/YAUS44M2XOZ9/m3u8/YAUS44M2XOZ9.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora ensina duas receitas inspiradas pelo clássico Ghostbusters. A primeira é o delicioso macarrão Chop Suey que os personagens comem num jantar e a segunda, uns s'mores em homenagem ao Homem de Marshmallows",
+	"t" : "Chop Suey + S'Mores de \"Ghostbusters\"",
+	"uuid" : "Episode4178398174001120347"
+}

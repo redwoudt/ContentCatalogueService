@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 63,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/158/3965454539001_4120369584001_Screen-Shot-2015-03-18-at-4-38-14-PM.jpg?pubId=3965454539001",
+			"oigid" : -991894331,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5BGI84BTCKY2/m3u8/5BGI84BTCKY2.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Room 11 serves a wonderful selection of mulled wines, along with carefully paired menu items like charcuterie and burrata. If the bar is too crowded, take your drinks and snacks over to the café side where you can sip and nibble in comfort.",
+	"t" : "5. Room 11",
+	"uuid" : "Episode4110114261001110725"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/211/3965454539001_4117325334001_Screen-Shot-2015-03-17-at-12-06-20-PM.jpg?pubId=3965454539001",
+			"oigid" : -567838846,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/R0MUTDIR34GO/m3u8/R0MUTDIR34GO.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Threefold Café serves up delicious homey eats in a cool, hip setting. Try the popular Pope Benedict on top of hash browns with a cauliflower puree. But be warned: Popular dishes sell out pretty early, so get there at opening time.",
+	"t" : "4. Threefold Cafe",
+	"uuid" : "Episode4110117794001110914"
+}

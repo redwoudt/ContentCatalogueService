@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1LV8rsAbfKWCQc6kgCi8Wq/449fd4503f47f7937705f0c947e540d8/connected-devices-thumbnail-london-best-tea-and-cake.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Brits know their tea and they love their cakes! Devour melt-in-the-mouth brownies at bakery Konditor & Cook, or hybrid cakes at Bea of Bloomsbury. However, if you're looking for pure indulgence, you can't beat a fancy afternoon tea among the palm trees at The Landmark London, or mix it up at Sketch, known as much for it's tea as it's legendary toilets!",
+	"t" : "Time for Tea & Cake",
+	"uuid" : "Episode120837"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 149,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1017/3965454539001_4134408761001_vlcsnap-2015-03-25-14h51m32s184.jpg?pubId=3965454539001",
+			"oigid" : -841357450,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/G29XZWRH3TIE/m3u8/G29XZWRH3TIE.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Even though this Agua Fresca is dead simple to make, it's pretty much the most refreshing thing you could ever make with watermelon.",
+	"t" : "Watermelon Agua Fresca",
+	"uuid" : "Episode3980111987001120630"
+}

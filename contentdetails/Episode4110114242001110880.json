@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1766/3965454539001_4122666823001_3965454539001-4110121096001-puV-Svq6SE2mSFpukgOrkw-1.jpg?pubId=3965454539001",
+			"oigid" : 1482942304,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/TG1OG93RDH2H/m3u8/TG1OG93RDH2H.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Big Al’s Deli isn’t just about comfort food and home cooking – they serve up good company and conversation, as well. You’ll be welcomed with a hearty greeting and won’t leave until your belly is full. Big Al will no doubt win your heart forever.",
+	"t" : "4. Big Al's Deli",
+	"uuid" : "Episode4110114242001110880"
+}

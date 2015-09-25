@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2413/3965454539001_4110160721001_Q9V1DZ5GQSuQiW8IKAlgjg-th.jpg?pubId=3965454539001",
+			"oigid" : 1050983843,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/GO1L1XVRQ9G6/m3u8/GO1L1XVRQ9G6.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A casual neighborhood pizza joint from a former sous chef at Bourbon Steak, Proof serves Neapolitan pizza that’s cooked to order in less than 90 seconds. Try the fennel sausage pizza and angel hair pasta with crab and lemon breadcrumbs.",
+	"t" : "6. Proof Pizza and Pasta",
+	"uuid" : "Episode4110119641001110947"
+}

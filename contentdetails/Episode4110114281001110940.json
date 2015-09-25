@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 84,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3486/3965454539001_4121865320001_Screen-Shot-2015-03-19-at-9-18-58-AM.jpg?pubId=3965454539001",
+			"oigid" : 1828236700,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/ZN3M71JW4574/m3u8/ZN3M71JW4574.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "La Terrasse serves the usual French cuisine classics like foie gras, duck confit, escargots, crème brulee and French fries, of course! The rack of lamb and truffle pasta are standouts, as well, so you really can’t go wrong ordering anything.",
+	"t" : "4. La Terrasse",
+	"uuid" : "Episode4110114281001110940"
+}

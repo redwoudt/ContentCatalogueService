@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1618/3965454539001_4157011891001_3.jpg?pubId=3965454539001",
+			"oigid" : 698240297,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/87CQ3KH1WGKY/m3u8/87CQ3KH1WGKY.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Head to the Bombay breakfast at Dishoom and be sure to order the scrumptious bacon naan roll, which goes great with a tall lassi…it’s so good you’ll be tempted to go back for dinner.",
+	"t" : "3. Dishoom",
+	"uuid" : "Episode4134525937001110825"
+}

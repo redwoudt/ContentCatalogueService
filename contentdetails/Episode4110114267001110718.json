@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 62,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3417/3965454539001_4159449828001_5.jpg?pubId=3965454539001",
+			"oigid" : 713138366,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/FIYZMGJ1E9JO/m3u8/FIYZMGJ1E9JO.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Whether you’re in the mood for a simple harvest blend coffee or something sweeter like a salted caramel custard latte, Ebenezers delivers with top-notch coffee and an awesome atmosphere.",
+	"t" : "5. Ebenezers Coffeehouse",
+	"uuid" : "Episode4110114267001110718"
+}

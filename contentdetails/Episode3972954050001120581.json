@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 270,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/76/3965454539001_3976282582001_RVNG010-NUGGETS.jpg?pubId=3965454539001",
+			"oigid" : -1538486971,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/C032ZHZ1EG29/m3u8/C032ZHZ1EG29.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Are these the same thing you'll find at a fast food joint? No way. Are they better for you though? Without a doubt. Plus, they're a ton of fun to make.",
+	"t" : "Not Chicken Nuggets",
+	"uuid" : "Episode3972954050001120581"
+}

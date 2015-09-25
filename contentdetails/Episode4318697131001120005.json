@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 3588,
+			"hd" : false,
+			"imageUri" : "null",
+			"oigid" : -2142866171,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/S3MBPG2QSR50/m3u8/S3MBPG2QSR50.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "150624_TMTV_Carne Diem",
+	"t" : "Carne Diem",
+	"uuid" : "Episode4318697131001120005"
+}

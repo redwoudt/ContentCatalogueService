@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/61myPycY7uagkuCswK0kW6/fd3ab0647daee879e55b3ac3a87cbe00/connected-devices-thumbnail-washington-dc-best-soul-food.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "From the fried chicken at Astro Doughnuts to the BBQ at Hill Country Backyard Barbecue, we promise you'll be smiling all the way home with a full belly and a warm heart at these great D.C. restaurants for soul food.",
+	"t" : "Soul Food Hot Spots",
+	"uuid" : "Episode120733"
+}

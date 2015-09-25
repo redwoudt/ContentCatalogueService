@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/586/3965454539001_4119763861001_smokebellybbq.jpg?pubId=3965454539001",
+			"oigid" : -1013787954,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/3KRV63Z5NVU8/m3u8/3KRV63Z5NVU8.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Nothing tastes better than Southern comfort food after a long, hard day at work. Find your comfort at Smokebelly BBQ with tasty ribs, classic potato salad, mac and cheese, brisket and sweet potato soufflé, and be sure to ask for Jason’s secret sauce.",
+	"t" : "3. Smokebelly BBQ",
+	"uuid" : "Episode4109982669001110222"
+}

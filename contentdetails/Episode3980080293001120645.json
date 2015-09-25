@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 100,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3303/3965454539001_3994338889001_maxresdefault.jpg?pubId=3965454539001",
+			"oigid" : 943344517,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/YEF101N02JHZ/m3u8/YEF101N02JHZ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A classic Swedish drink recipe, handmade from the Blueberry's Nordic cousin, the Bilberry! No trip to IKEA required.",
+	"t" : "Blåbärssoppa (Swedish Blueberry Drink)",
+	"uuid" : "Episode3980080293001120645"
+}

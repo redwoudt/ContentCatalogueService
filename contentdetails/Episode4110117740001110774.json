@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1617/3965454539001_4158781383001_7.jpg?pubId=3965454539001",
+			"oigid" : 1266735862,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/VZE236XVFPS2/m3u8/VZE236XVFPS2.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "With a ton of great beers on tap and a dog-friendly patio, there’s an awful lot to like about Cottonwood. Awesome entrees include the squirrel master burger, jerk chicken sandwich and barbecued oysters.",
+	"t" : "6. Cottonwood",
+	"uuid" : "Episode4110117740001110774"
+}

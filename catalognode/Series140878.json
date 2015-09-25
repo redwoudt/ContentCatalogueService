@@ -1,0 +1,79 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2702/3965454539001_4122666878001_3965454539001-4110121306001-hQDrNd5xS6yzir5Qb72ybg.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119566001110867",
+			"sy" : "Part of the Bongo Java coffee roasting empire, Fido similarly serves up fantastic food along with their stellar coffee. You must order the Bachelor: a cinnamon raisin bagel topped with almond butter, bananas and honey.",
+			"t" : "10. Fido"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/670/3965454539001_4122671012001_3965454539001-4110121368001-cZW8FRVrSnOyGjkVNWGBmw.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119565001110868",
+			"sy" : "Barista Parlor is oozing with ambience and serves great food, to boot – don’t miss out on the speedy biscuit with ham and maple syrup and the oatmeal topped with apple butter. But the main event here is still the coffee.",
+			"t" : "9. Barista Parlor"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2603/3965454539001_4117525413001_Screen-Shot-2015-03-17-at-1-28-02-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114240001110869",
+			"sy" : "A nationally awarded independent coffee shop in the heart of downtown Nashville, Crema sources their beans directly from growers around the world to make a darn good cup of coffee. Crema’s baristas even offer coffee classes.",
+			"t" : "7. Crema"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/702/3965454539001_4122666872001_3965454539001-4110121363001-ViXrBU2NR7aFD5TDBG9Jyg.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117753001110870",
+			"sy" : "So much more than just locally roasted, organic, fair trade coffee, Bongo Java also serves food that goes way beyond your typical coffeehouse fare. Follow up your fancy cheeseburger with a tasty vegan muffin (even if it sounds counterintuitive).",
+			"t" : "8. Bongo Java"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1702/3965454539001_4122666867001_3965454539001-4110121294001-d00uYXEXR0-UCjREf0dCNA.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119564001110871",
+			"sy" : "Premier roaster Lisa Wood serves consistently fantastic coffee at Eighth and Roast. The coffee shop buys their beans fair and direct trade from growers in South and Central America and change up their offerings all the time to keep things fresh.",
+			"t" : "6. Eighth And Roast"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3562/3965454539001_4122670989001_3965454539001-4110121101001---WbA7lvS4e-SZ7DFrx37A.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114239001110872",
+			"sy" : "The Post in East Nashville serves up great coffee and breakfast, including lots of gluten-free options. Come to the Bluegrass brunch on Sunday for waffles…with or without gluten.",
+			"t" : "4. The Post"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3557/3965454539001_4110120725001_CHeq-j-fQDC2IRvc25uEsg-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117752001110873",
+			"sy" : "Head to Headquarters for killer espresso and Cafe Americano, along with vegan offerings, muffins and other tasty pastries. You’ll find a lovely patio out back if it’s too crowded inside.",
+			"t" : "5. Headquarters"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/610/3965454539001_4122730424001_3965454539001-4110123705001-hNuCTWyUSiC-cPOnAXqtww-3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114238001110874",
+			"sy" : "For great coffee, an incredible assortment of looseleaf teas and yummy breakfast tacos and sandwiches, head to The Jam. Breakfast is served all day…or at least until 3pm, which is closing time. Just don’t come on a Sunday - they're closed.",
+			"t" : "3. The Jam Coffee House"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/562/3965454539001_4122670982001_3965454539001-4110121027001-wZEO10HRS0mHYN-HEIOTow.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114237001110875",
+			"sy" : "From coffee to cigars to groceries, JJ’s has everything you need. Treat yourself to the specialty Mound of Joy drink with espresso, coconut, milk and chocolate, and also order one of the yummy muffins made by a local baker.",
+			"t" : "2. Jj's Market"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1693/3965454539001_4117525392001_Screen-Shot-2015-03-17-at-1-22-37-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114236001110876",
+			"sy" : "Dose serves up delicious breakfast sandwiches, pastries and coffee in many wonderful manifestations. The rosemary, egg and ham sandwich and blueberry raisin bran muffins come highly recommended. Beat the crowd by calling in your order ahead of time.",
+			"t" : "1. Dose Coffee and Tea"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/5Hf7nf9SZaqkWUCCMeCecm/af62e06c14bb1e8a1096569caabb9528/connected-devices-thumbnail-nashville-coffee-.jpg",
+	"nodeid" : "Series140878",
+	"nodetype" : "MENU",
+	"t" : "Best Coffee Spots"
+}

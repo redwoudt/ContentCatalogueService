@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 176,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3721/3965454539001_4230368316001_23espangles.jpg?pubId=3965454539001",
+			"oigid" : 1432160691,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/8F04990FLEVZ/m3u8/8F04990FLEVZ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "O melhor sanduíche do mundo é o lanchinho noturno do chef interpretado por Adam Sandler em \"Espanglês\". Aprenda a receita original!",
+	"t" : "23. O Melhor Sanduíche do Mundo de \"Espanglês\" | Comida de Cinema",
+	"uuid" : "Episode4178549796001110451"
+}

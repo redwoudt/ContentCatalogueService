@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/2289EnxX1aQieg8iQa4Icu/256d88d2aecd5f79f194c0c5a039af8e/connected-devices-thumbnail-london-best-coffee.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Calling all caffeine fiends, we've got a treat for you in London. Get your coffee buzz among the hustle and bustle of Borough Market, at London's famous Monmouth Coffee, or if you like to enjoy your quality coffee in style, get down to trendy Farringdon and watch it being ground in front of you at Workshop Coffee Co.",
+	"t" : "Perk Up at Top Coffee Spots",
+	"uuid" : "Episode120846"
+}

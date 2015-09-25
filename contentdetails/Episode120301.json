@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6DsXJDCMgMyGWUiIAkK0ag/4f2ecec14e8370f6a1dbaa8ad091b3bf/connected-devices-thumbnail-vamos-pra-cozinha.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Danielle Noce ensina como fazer receitas maravilhosas para quem quer comer mais saudável, mas não abre mão do sabor. Aprenda a fazer Trufas de Frutas Secas para não fugir da dieta, Suco Verde e Amarelo para começar o dia cheio de energia, Sorbet de Manga para se nutrir e se refrescar, Smoothie Chocolatudo que não tem lactose, Macarrão Fácil para salvar a vida naqueles dias corridos e ainda um Folhado de Espinafre com Ricota para comer algo diferente e saudável sem ter muito trabalho na cozinha.",
+	"t" : "Vamos pra Cozinha",
+	"uuid" : "Episode120301"
+}

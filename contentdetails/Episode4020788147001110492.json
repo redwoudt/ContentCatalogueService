@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 208,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1978/3965454539001_4225445190001_vlcsnap-2015-05-08-08h01m12s32.jpg?pubId=3965454539001",
+			"oigid" : 972222428,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/POUMZDC07LU7/m3u8/POUMZDC07LU7.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Crispy roast chicken is a staple all across South America .  Paired with a spicy, creamy sauce, this dish becomes Peruvian perfection.",
+	"t" : "1. Pollo Brasa",
+	"uuid" : "Episode4020788147001110492"
+}

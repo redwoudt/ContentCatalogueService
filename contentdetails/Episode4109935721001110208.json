@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 65,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/467/3965454539001_4110115673001_uzTDMV-uRpKKgwAYkumYQQ-th.jpg?pubId=3965454539001",
+			"oigid" : -553395520,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/J9RD8T2X9D3B/m3u8/J9RD8T2X9D3B.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "If it looks good, get it — the dim sum at Happy Valley Seafood will never let you down. Wash it down with jasmine tea and be sure to save room for egg custard.",
+	"t" : "2. Happy Valley Seafood Restaurant",
+	"uuid" : "Episode4109935721001110208"
+}

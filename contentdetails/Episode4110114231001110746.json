@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/131/3965454539001_4110120256001_rtVw0DGMQtmWg6EdB-ecxw-th.jpg?pubId=3965454539001",
+			"oigid" : -927123238,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/7BZU3VWTW87M/m3u8/7BZU3VWTW87M.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You really can’t lose with $2.99 burgers and fries and dollar beers at happy hour at Lost Lake Café & Lounge, especially when it all tastes so good.",
+	"t" : "4. Hangover Helpers",
+	"uuid" : "Episode4110114231001110746"
+}

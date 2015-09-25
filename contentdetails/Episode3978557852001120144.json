@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 217,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2922/3965454539001_4001395319001_SF005-FESTIVE-POTATO-BAKE.jpg?pubId=3965454539001",
+			"oigid" : 1597595536,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/7M200GI7746Q/m3u8/7M200GI7746Q.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Mike make a festive recipe featuring some of Mike's least favorite ingredients!",
+	"t" : "Festive Potato Bake",
+	"uuid" : "Episode3978557852001120144"
+}

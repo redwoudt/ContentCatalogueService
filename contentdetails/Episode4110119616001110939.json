@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 67,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1883/3965454539001_4110137715001_Q0Hqo22-R06tEjE9aJceUQ-th.jpg?pubId=3965454539001",
+			"oigid" : 1820787611,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/PS6BHN1KF6HR/m3u8/PS6BHN1KF6HR.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Relatively new on the Miami food scene, 27 at The Freehand is making waves and really good food. Order several shareable plates like the vegetable lasagna, kimchi fried rice and red snapper ceviche topped with popcorn.",
+	"t" : "6. 27 Restaurant",
+	"uuid" : "Episode4110119616001110939"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 390,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/960/3965454539001_3991418456001_RVNG021-CEREAL.jpg?pubId=3965454539001",
+			"oigid" : 871578425,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/98EVZD1O9GER/m3u8/98EVZD1O9GER.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Grab a seat, Laura's making breakfast. These groats, with a bonus apple crumble and cream, are a great alternative to those humdrum smoothies and can be served warm during cold winter months.",
+	"t" : "Breakfast Cereal",
+	"uuid" : "Episode3972954061001120569"
+}

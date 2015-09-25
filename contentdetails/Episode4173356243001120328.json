@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 79,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1883/3965454539001_4185223393001_1.jpg?pubId=3965454539001",
+			"oigid" : -1812015544,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/JCP0120BQU1O/m3u8/JCP0120BQU1O.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A tábua \"Infarto Completo\" tem mais de 3 kg de comida e mais de 5 mil calorias. O prato é feito de farofa, carne de sol, cebola e salsinha, linguiça calebresa, coração de frango, aipim, carne seca e torresmo, e é servido no Cachambeer.",
+	"t" : "Infarto Completo (Cachambeer)",
+	"uuid" : "Episode4173356243001120328"
+}

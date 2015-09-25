@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 563,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1182/3965454539001_4122801556001_3965454539001-4097712451001-3965454539001-3972984056001-CST007-CASCOBAY-FISHANDCHIPS-copy.jpg?pubId=3965454539001",
+			"oigid" : -502603992,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/B1B1J3H3Q5L4/m3u8/B1B1J3H3Q5L4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Byron is in Casco Bay, heading out at the crack of dawn to go deep sea fishing with hopes to catch something for his Fish and Chips recipe.",
+	"t" : "Casco Bay Fish & \"Chips\"",
+	"uuid" : "Episode3972982167001120552"
+}

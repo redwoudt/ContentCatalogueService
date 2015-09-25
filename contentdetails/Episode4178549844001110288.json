@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 233,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1916/3965454539001_4179688126001_Verrine-de-Granola-e-Iogurte----Vamos-pra-Cozinha-.jpg?pubId=3965454539001",
+			"oigid" : -2107447024,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/DSI47J5AZBJ4/m3u8/DSI47J5AZBJ4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Fazer a sua própria granola é inesquecível, pois você pode colocar os ingredientes que você mais gosta e que te fazem bem. Para completar a felicidade, faça essa verrine com iogurte grego, geleia de morango sem açúcar e frutas vermelhas frescas",
+	"t" : "7. Verrine de Granola e Iogurte",
+	"uuid" : "Episode4178549844001110288"
+}

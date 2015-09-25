@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 257,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1375/3965454539001_4230428907001_48waltermitty.jpg?pubId=3965454539001",
+			"oigid" : 497385882,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/DIX5P49IEI5R/m3u8/DIX5P49IEI5R.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora Becker ensina a famosa receita de Bolo de Tangerina do filme \"A Vida Secreta de Walter Mitty\". A massa fica super fofa e deliciosa. A decoração de fatias da fruta confitadas é de comer com os olhos!",
+	"t" : "48. Bolo de Tangerina de \"Walter Mitty\"",
+	"uuid" : "Episode4178398168001110426"
+}

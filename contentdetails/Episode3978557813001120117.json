@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 248,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3731/3965454539001_4003492674001_hassleback-potatoes.jpg?pubId=3965454539001",
+			"oigid" : 1252301173,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/RJS4OC4XI1IN/m3u8/RJS4OC4XI1IN.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Mike are making, literally the best baked potato you've ever tried. We're not joking - these guys are delicious.",
+	"t" : "Hassleback Potatoes",
+	"uuid" : "Episode3978557813001120117"
+}

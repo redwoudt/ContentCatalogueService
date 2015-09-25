@@ -1,0 +1,51 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3198/3965454539001_4119780736001_Screen-Shot-2015-03-18-at-11-44-30-AM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114200001110218",
+			"sy" : "Enjoy the aroma of the in-house smoker as you chow down on some wings at Fox Bros Bar-B-Q — don’t forget the wing sauce! And get there early because this place is popular.",
+			"t" : "6. Fox Bros Bar-B-Q"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1653/3965454539001_4110115621001_ROpbVR5lSN-GCmGrsfA1KA-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982670001110220",
+			"sy" : "True to its name, Twin Smokers is all about the smoked meats, so go for the brisket and burnt ends chili. Bonus: You get a take-home beery koozie when you order a cold one — you can never have too many!",
+			"t" : "4. Twin Smokers BBQ"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1198/3965454539001_4119780726001_Screen-Shot-2015-03-18-at-11-41-44-AM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109935720001110221",
+			"sy" : "Community Q BBQ in Decatur may be famous for their beef brisket, but be sure to also try the mac and cheese made with fat rigatoni noodles and fresh seasoned fries. If it’s nice out, grab a seat on the patio and enjoy some sunshine with your ‘cue.",
+			"t" : "5. Community Q BBQ"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/586/3965454539001_4119763861001_smokebellybbq.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982669001110222",
+			"sy" : "Nothing tastes better than Southern comfort food after a long, hard day at work. Find your comfort at Smokebelly BBQ with tasty ribs, classic potato salad, mac and cheese, brisket and sweet potato soufflé, and be sure to ask for Jason’s secret sauce.",
+			"t" : "3. Smokebelly BBQ"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/46/3965454539001_4119700002001_pignchik.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109917249001110223",
+			"sy" : "Straightforward as the name implies, Pig-N-Chik serves inexpensive, fast, tasty barbecue … and you know you’re at a good BBQ joint when each tables has its own roll of paper towels. Try the pulled pork sandwich and smoked wings.",
+			"t" : "2. Pig-N-Chik"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3515/3965454539001_4110113979001_njb-6vL8Rh29Xi4aelGuuQ-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109917248001110224",
+			"sy" : "Lest you think Roswell’s Swallow at the Hollow is all about the baby back ribs, be sure to order the sweet potatoes from across the street at Greenwood’s, as well — the two restaurants share a menu. And save room for pie!",
+			"t" : "1. Swallow At The Hollow"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/1VIXvyH2PiUKuq6kYoeCmI/ea7b333d4b6d57102d8b33cfc00c4d07/connected-devices-thumbnail-atlanta-best-bbq.png",
+	"nodeid" : "Series140225",
+	"nodetype" : "MENU",
+	"t" : "Badass BBQ"
+}

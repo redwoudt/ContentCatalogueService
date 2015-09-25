@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 79,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2978/3965454539001_4121921840001_Screen-Shot-2015-03-19-at-9-45-26-AM.jpg?pubId=3965454539001",
+			"oigid" : -769146999,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/3IHP85TUMVFS/m3u8/3IHP85TUMVFS.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The main draw at Midtown Oyster Bar may be their raw seafood, but they also make a mean lobster roll and a phenomenal hamburger. Enjoy half-off oysters and $4 glasses of Prosecco during happy hour.",
+	"t" : "6. Midtown Oyster Bar",
+	"uuid" : "Episode4110119622001110921"
+}

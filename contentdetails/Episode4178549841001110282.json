@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 285,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/156/3965454539001_4179726794001_Torradas-Del-cia---Vamos-Pra-Cozinha--10.jpg?pubId=3965454539001",
+			"oigid" : -812479734,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/VMV3XBW6F4SF/m3u8/VMV3XBW6F4SF.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Nesse episódio, Dani Noce mostra duas torradas deliciosas para você aproveitar como um jantar rápido ou como um bom lanche da tarde.",
+	"t" : "10. Torradas Delíca",
+	"uuid" : "Episode4178549841001110282"
+}

@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2494/3965454539001_4156968033001_7.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134502322001110838",
+			"sy" : "You may go to Workshop in Clerkenwell for their excellent coffee, but will probably be enticed into also ordering something delicious to eat – like their yummy roasted tomato soup.",
+			"t" : "7. Workshop Coffee Co."
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2506/3965454539001_4156952382001_5.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134502320001110839",
+			"sy" : "Caravan serves a very nice – and very strong -- latte in Exmouth Market and makes an excellent alternative to Starbucks for true coffee connoisseurs.",
+			"t" : "5. Caravan"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3518/3965454539001_4156942409001_6.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134502321001110840",
+			"sy" : "The Coffeeworks Project in Camden Passage makes the perfect lunch break stop, serving amazing coffees, baked treats like brownies and jam tarts, and delicious sandwiches, all in a great atmosphere.",
+			"t" : "6. The Coffeeworks Project"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3790/3965454539001_4156952359001_3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134525942001110841",
+			"sy" : "When the hour is ungodly and you need a shot of caffeine straight to your brain, head to Monmouth Coffee Company. This place is well established and well known, so be prepared to wait a half an hour on the weekend or after 10am on a weekday.",
+			"t" : "3. Monmouth Coffee Company"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/790/3965454539001_4156952370001_4.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134530380001110842",
+			"sy" : "Where better to get your coffee than in an old, converted, underground male lavatory? The Attendant is certainly one of the most unusual places to order a gingerbread latte and salted caramel brownie, but fear not – it’s classy and clean.",
+			"t" : "4. The Attendant"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3850/3965454539001_4156871838001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134502319001110843",
+			"sy" : "The deserving winner of London Coffee Shop of the Year in 2013, Benugo serves up wonderful coffee, tea, pastries and cakes in a fun atmosphere. What a delicious way to start the day.",
+			"t" : "1. Benugo"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2738/3965454539001_4156886059001_2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134525941001110844",
+			"sy" : "Buzz yourself in to one of the newest, most intriguing coffee shops in town. Ziferblat is a Russian-style cafe where you can help yourself to their excellent coffee, tea, toast and biscuits -- just keep an eye on the clock because they charge by the",
+			"t" : "2. Ziferblat"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/2289EnxX1aQieg8iQa4Icu/256d88d2aecd5f79f194c0c5a039af8e/connected-devices-thumbnail-london-best-coffee.png",
+	"nodeid" : "Series140846",
+	"nodetype" : "MENU",
+	"t" : "Perk Up at Top Coffee Spots"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 227,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/173/3965454539001_4219200941001_CHOCO-PUDDING-V7-00-00-07-07-Still003.jpg?pubId=3965454539001",
+			"oigid" : -301750029,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/N43RJNUZ647R/m3u8/N43RJNUZ647R.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "After a day on the slopes, you deserve a treat! A childhood favorite gets a little heat; with this Spiced Chocolate Pudding you’re sure to keep warm all winter long.",
+	"t" : "Spiced Chocolate Pudding",
+	"uuid" : "Episode4001048936001120499"
+}

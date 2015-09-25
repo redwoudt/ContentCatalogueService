@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 151,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3461/3965454539001_4278835001001_70omelete.jpg?pubId=3965454539001",
+			"oigid" : 1763020726,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/1O7N5IGYKT3V/m3u8/1O7N5IGYKT3V.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora repete a receita do delicioso omelete com um toque indiano do filme \"A 100 Passos de um Sonho\". Uma receita simples, mas que deixa um sabor incrível.",
+	"t" : "Omelete de \"A 100 Passos de um Sonho\"",
+	"uuid" : "Episode4278584908001120182"
+}

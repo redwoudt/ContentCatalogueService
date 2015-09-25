@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 79,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3557/3965454539001_4110125772001_4FO3LCl9Siuwnh9ve4jU0A-th.jpg?pubId=3965454539001",
+			"oigid" : -208100485,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/JNZ4K555E49S/m3u8/JNZ4K555E49S.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You CAN find authentic Chicago-style pizza in Nashville, and it’s right here at 312 Pizza Company. Thin crust or deep dish, you can’t go wrong. And the baked pretzel is awesome, as well.",
+	"t" : "2. 312 Pizza Company",
+	"uuid" : "Episode4110117760001110907"
+}

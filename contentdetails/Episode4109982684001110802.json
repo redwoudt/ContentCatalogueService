@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/543/3965454539001_4158481457001_1.jpg?pubId=3965454539001",
+			"oigid" : 1101310738,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/ZFWDQDZJJV1T/m3u8/ZFWDQDZJJV1T.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The chocolate croissant bread pudding with bourbon caramel sauce more than lives up to they hype at Red’s Dessert Dive. Dollars to donuts you’ll end up taking a box of extra goodies home.",
+	"t" : "1. Red Dessert Dive",
+	"uuid" : "Episode4109982684001110802"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 124,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1287/3965454539001_3989965067001_TF034-Mazagran.jpg?pubId=3965454539001",
+			"oigid" : 338511721,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/YP9J8DDU7RWQ/m3u8/YP9J8DDU7RWQ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "When life gives you lemons - make Mazagran. Seriously, the Portuguese know their coffee, so trust them on this one.",
+	"t" : "Mazagran",
+	"uuid" : "Episode3980111971001120617"
+}

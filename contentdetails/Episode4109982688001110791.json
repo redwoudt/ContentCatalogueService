@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 65,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3073/3965454539001_4158588297001_4.jpg?pubId=3965454539001",
+			"oigid" : 806343431,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/S42KR3F4QF6H/m3u8/S42KR3F4QF6H.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Antidote can get you going in the morning with a great cup of coffee, and if you need something stronger, they also serve beer and wine until midnight. Do yourself a favor and try one of their wonderful pastries as well.",
+	"t" : "4. Antidote",
+	"uuid" : "Episode4109982688001110791"
+}

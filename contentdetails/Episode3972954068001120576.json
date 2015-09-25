@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 349,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3192/3965454539001_3991371223001_RVNG014-PASTA.jpg?pubId=3965454539001",
+			"oigid" : -718356160,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/24UQWC631P6H/m3u8/24UQWC631P6H.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This pasta ain't your nona's recipe - but it's also way better for you. Add in some amazing sauce and raw vegan \"meatballs\" and you've got yourself a meal. Buon Appetito!",
+	"t" : "Zucchini Pasta and Meatballs",
+	"uuid" : "Episode3972954068001120576"
+}

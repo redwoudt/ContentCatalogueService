@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 211,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/674/3965454539001_4001466240001_SF043-ARANCINI-BALLS.jpg?pubId=3965454539001",
+			"oigid" : -337633439,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/AHN50KO7GCAS/m3u8/AHN50KO7GCAS.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Mike make sweet arancini balls served with fresh fruit and chocolate drizzle.",
+	"t" : "Sweet Arancini Balls",
+	"uuid" : "Episode3978557820001120097"
+}

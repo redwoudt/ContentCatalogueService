@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 68,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1561/3965454539001_4159357836001_3.jpg?pubId=3965454539001",
+			"oigid" : 1072876755,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/TX0SC6528MZZ/m3u8/TX0SC6528MZZ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Gourmet Noodle Bowl serves up hearty portions of its noodles, soups and dumplings, so be prepared to share. Start off with flavorful appetizers like the Taiwanese pork bun with peanut topping and Shanghai-style steamed dumplings.",
+	"t" : "4. Gourmet Noodle Bowl",
+	"uuid" : "Episode4110114233001110739"
+}

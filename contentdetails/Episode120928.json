@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/hDemM0etXieOgIKIEOGGo/1a99182c51bf1f0f65a3d57cd2adf344/connected-devices-thumbnail-miami-best-seafood.jpg",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "One of the many benefits of living in a coastal city is the abundance of fresh seafood. Venture down the River District at Garcia's and Casablanca, or stroll along South Beach at De Rodriguez on Ocean and Joe's Take Away. A maritime aphrodisiac is never too far away.",
+	"t" : "Seafood And Eat It",
+	"uuid" : "Episode120928"
+}

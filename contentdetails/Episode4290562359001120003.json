@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 128,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3824/3965454539001_4300410679001_Picon-punch---PLUS.jpg?pubId=3965454539001",
+			"oigid" : -1776132861,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/9YHY08O0IE18/m3u8/9YHY08O0IE18.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This Basque-American drink really packs a punch. With Amer Picon almost impossible to find in the states, this recipe is as close to the original as we can get.",
+	"t" : "Picon Punch",
+	"uuid" : "Episode4290562359001120003"
+}

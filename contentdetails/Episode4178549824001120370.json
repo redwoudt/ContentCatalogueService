@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 290,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2993/3965454539001_4230382929001_26meatpir.jpg?pubId=3965454539001",
+			"oigid" : -632600462,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5LFOEVNGG974/m3u8/5LFOEVNGG974.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora Becker reproduz as tortinhas de carne da Sra. Lovett de \"Sweeney Todd\". Só que aqui, claro, elas são feitas com carne bovina e não humana.",
+	"t" : "Tortinha de Carne de \"Sweeney Todd\"",
+	"uuid" : "Episode4178549824001120370"
+}

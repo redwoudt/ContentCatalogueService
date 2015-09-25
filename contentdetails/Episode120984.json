@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1SNsgP0KfeMwkCCawAI6oa/d50eb6f2d9fb824e2023c8f0d93bdef0/connected-devices-thumbnail-new-york-best-breakfast.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "From dumplings on the Lower East Side to Toad in a Hole in Brooklyn, we have you covered! Savory, sweet and everything in between — plus, the spill on how to avoid the super long waits at Clinton Street Baking Company. Waking up has never been so delicious!",
+	"t" : "Breakfast Beat",
+	"uuid" : "Episode120984"
+}

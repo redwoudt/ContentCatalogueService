@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3055/3965454539001_4158743083001_11-1.jpg?pubId=3965454539001",
+			"oigid" : -1337188608,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/AF72HB56SCRC/m3u8/AF72HB56SCRC.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Montrose neighborhood coffee shop Siphon invites customers to linger over their specialty siphon-made coffees and from-scratch pastries. Be sure to grab a seat by the window if you need to plug in your laptop.",
+	"t" : "11. Siphon Coffee",
+	"uuid" : "Episode4110114222001110784"
+}

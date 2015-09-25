@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 3381,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1952/3965454539001_4266967700001_th-556ab316e4b0683ba7c4ece7-1083021587001.jpg?pubId=3965454539001",
+			"oigid" : -1963460941,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/EKDGGNE3NFFP/m3u8/EKDGGNE3NFFP.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Tastemade TV",
+	"t" : "1. No Ar Agora",
+	"uuid" : "Episode4266375711001110195"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 69,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3601/3965454539001_4158431151001_1.jpg?pubId=3965454539001",
+			"oigid" : -1452286695,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/1A3SWUY3MPFP/m3u8/1A3SWUY3MPFP.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The sandwiches at Thim Hing are served on fresh and crunchy baguettes that are a little thinner than your typical banh mi, offering an ideal filling to bread ratio — order yours with an egg for a special treat.",
+	"t" : "1. Thim Hing",
+	"uuid" : "Episode4110114209001110809"
+}

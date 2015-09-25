@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1001/3965454539001_4158732602001_12.jpg?pubId=3965454539001",
+			"oigid" : -337188611,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/X6XJNVXV86AW/m3u8/X6XJNVXV86AW.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Come to Blacksmith for the iced coffee made with a double shot of espresso and evaporated milk and stay for awesome breakfast dishes like homemade biscuits with marmalade and crème fraiche and Vietnamese-style steak and eggs.",
+	"t" : "12. Blacksmith",
+	"uuid" : "Episode4110114223001110781"
+}

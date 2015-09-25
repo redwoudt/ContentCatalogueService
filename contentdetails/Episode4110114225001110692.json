@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2471/3965454539001_4159082604001_2.jpg?pubId=3965454539001",
+			"oigid" : 1662811300,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/6BYYRJ8C99A7/m3u8/6BYYRJ8C99A7.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You can’t go wrong with fish and chips or a bleu cheese bacon burger, onion rings with Mill sauce and milkshake at Red Mill Totem House. On a nice day, take it to go so you can eat across the street and watch the ships go by at the Ballard Locks.",
+	"t" : "2. Red Mill Totem House",
+	"uuid" : "Episode4110114225001110692"
+}

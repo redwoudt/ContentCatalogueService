@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3585/3965454539001_4134736894001_4134525940001-th.jpg?pubId=3965454539001",
+			"oigid" : -596726975,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/QRUXPXZ0IL4Q/m3u8/QRUXPXZ0IL4Q.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Sensational Italian food can be found in Soho at Bocca di Lupo. You have to order the burrata, the tagliatelle and mussels, and be sure to get order extra bread to sop up all the broth.",
+	"t" : "3. Bocca Di Lupo",
+	"uuid" : "Episode4134525940001110849"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1638/3965454539001_4121864115001_Screen-Shot-2015-03-19-at-9-29-02-AM.jpg?pubId=3965454539001",
+			"oigid" : 828236704,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/3GO00HF8H1C5/m3u8/3GO00HF8H1C5.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Indomania in South Beach serves delectably complex and multilayered Indonesian food. The shrimp curry and shrimp crackers are knockouts, but order the buffet of 18 different dishes to get a taste of virtually the whole menu.",
+	"t" : "1. Indomania",
+	"uuid" : "Episode4110114280001110944"
+}

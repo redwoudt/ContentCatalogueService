@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 65,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3165/3965454539001_4110138561001_DKyKoQiHRxGH3j3MOdR99w-th.jpg?pubId=3965454539001",
+			"oigid" : 418171306,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/X250ZDKJG9F4/m3u8/X250ZDKJG9F4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Could that really be a ramen burger? As a matter of fact, it is. A juicy beef patty and slice of bacon sandwiched between two crispy ramen patties equals pure bliss at Ramen Co.",
+	"t" : "6. RAMEN Co by Keizo Shimamoto",
+	"uuid" : "Episode4110114271001110954"
+}

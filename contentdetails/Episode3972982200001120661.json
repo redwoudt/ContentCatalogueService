@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 508,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/594/3965454539001_4119619494001_series-local-flight-e06.jpg?pubId=3965454539001",
+			"oigid" : -1862342251,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/DJUA95O590GQ/m3u8/DJUA95O590GQ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Shawn heads to Philadelphia, where he meets up with bartender Chauncey Scates at Square 1682, and visits America's oldest candy shop.",
+	"t" : "Hard Candy and Cherry Cocktail — Philadelphia",
+	"uuid" : "Episode3972982200001120661"
+}

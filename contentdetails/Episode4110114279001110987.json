@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3165/3965454539001_4110137689001_A6QOBdRXTkO-ct4QW32Jpw-th.jpg?pubId=3965454539001",
+			"oigid" : -171763253,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/NFLX7D9U0PDC/m3u8/NFLX7D9U0PDC.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Enjoy a French getaway without the price of airfare at Bar Boulud. Start with a nice glass of wine and the pate before considering the other amazing menu options.",
+	"t" : "5. Bar Boulud",
+	"uuid" : "Episode4110114279001110987"
+}

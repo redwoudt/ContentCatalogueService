@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 126,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2199/3965454539001_4230488464001_65manga.jpg?pubId=3965454539001",
+			"oigid" : 1727137868,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/MSPNZQZQJ5WS/m3u8/MSPNZQZQJ5WS.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A inspiração de Isadora nesse Comida de Cinema vem de \"Coraline\", um filme incrível de animação. O Milkshake de Manga que a garota pede no filme é a receita de hoje.",
+	"t" : "Milkshake de Manga de \"Coraline\"",
+	"uuid" : "Episode4178549792001120332"
+}

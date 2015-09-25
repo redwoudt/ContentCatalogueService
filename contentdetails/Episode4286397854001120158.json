@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 3603,
+			"hd" : false,
+			"imageUri" : "http://skychnl-tastemade.s3.amazonaws.com/9BNJL7MN/thumbs/1163514.jpg",
+			"oigid" : -697371746,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/VCB078TLDO8M/m3u8/VCB078TLDO8M.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Now Playing",
+	"t" : "Snacks Attached",
+	"uuid" : "Episode4286397854001120158"
+}

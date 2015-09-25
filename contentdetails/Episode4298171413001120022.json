@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 235,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/2264/3965454539001_4300233066001_Forrest-Thumb-no-Text.jpg?pubId=3965454539001",
+			"oigid" : 684259606,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/M04Q5BB7EKJP/m3u8/M04Q5BB7EKJP.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Delicious summer party dish: Shrimp bake filled with clams, kelbasa, corn, potatoes and of course shrimp. All inspired by one of my favourite movies: Forrest Gump.",
+	"t" : "Forrest Gump | Summer Shrimp Bake",
+	"uuid" : "Episode4298171413001120022"
+}

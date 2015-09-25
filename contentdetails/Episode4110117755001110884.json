@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 80,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3734/3965454539001_4122670929001_3965454539001-4110126276001--M83npDkSlGzMrqyNgaYDQ-1.jpg?pubId=3965454539001",
+			"oigid" : -913133212,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/M65KAUTWHO0W/m3u8/M65KAUTWHO0W.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Where’s a true biscuit lover to go? The answer is pretty obvious. Whether you top it with a classic burger or fried chicken with sausage gravy, a flaky, buttery biscuit from Biscuit Love is sure to make you swoon.",
+	"t" : "8. Biscuit Love",
+	"uuid" : "Episode4110117755001110884"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 66,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2501/3965454539001_4117722175001_Screen-Shot-2015-03-17-at-3-05-07-PM.jpg?pubId=3965454539001",
+			"oigid" : 1705689532,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/EH44LQZ844ME/m3u8/EH44LQZ844ME.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Brick oven pizza at its finest can be found at Patsy’s. Order a one-two punch of Caprese salad followed by pepperoni pizza. Try your best to hold back and eat only one of the fresh-baked rolls served before your meal.",
+	"t" : "4. Patsy's Pizzeria",
+	"uuid" : "Episode4110119603001110972"
+}

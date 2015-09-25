@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2819/3965454539001_4185215126001_3-1.jpg?pubId=3965454539001",
+			"oigid" : -1222080954,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/95N14A2SUXQ0/m3u8/95N14A2SUXQ0.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Parmesão, gorgonzola, gruyere e mussarela são os queijos que vão no Bolinho de Queijo com Macarrão do Botto Bar. Essas delícias são fritas e depois servidas com molho agridoce feito com damasco e gengibre.",
+	"t" : "Bolinho de Queijo com Macarrão (Botto Bar)",
+	"uuid" : "Episode4173356235001120326"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 65,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2958/3965454539001_4120503942001_Screen-Shot-2015-03-18-at-5-57-08-PM.jpg?pubId=3965454539001",
+			"oigid" : 317063109,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/3YT4OQV6ZLPJ/m3u8/3YT4OQV6ZLPJ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Is Egg Shop in Nolita all it’s cracked up to be? See for yourself when you order the Spandex, a bowl of miso quinoa, pickled vegetables, avocado and a poached egg, along with yummy smashed avocado toast. It all tastes supremely fresh and healthy.",
+	"t" : "1. Egg Shop",
+	"uuid" : "Episode4110117782001110981"
+}

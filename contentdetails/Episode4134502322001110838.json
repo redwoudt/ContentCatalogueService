@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 62,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2494/3965454539001_4156968033001_7.jpg?pubId=3965454539001",
+			"oigid" : -121436362,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/X74PAO3RI4P2/m3u8/X74PAO3RI4P2.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You may go to Workshop in Clerkenwell for their excellent coffee, but will probably be enticed into also ordering something delicious to eat – like their yummy roasted tomato soup.",
+	"t" : "7. Workshop Coffee Co.",
+	"uuid" : "Episode4134502322001110838"
+}

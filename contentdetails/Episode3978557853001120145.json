@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 206,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2174/3965454539001_4001351128001_SF006-BLACK-PUDDING.jpg?pubId=3965454539001",
+			"oigid" : -1697371759,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/X88F13R80O2F/m3u8/X88F13R80O2F.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Barry make a crowd-pleasing recipe using an unlikely ingredient!",
+	"t" : "Black Pudding Fritters",
+	"uuid" : "Episode3978557853001120145"
+}

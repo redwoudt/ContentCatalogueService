@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2274/3965454539001_4122707556001_3965454539001-4110125715001-rh1V9FUnSOG7aGzEbADoBg.jpg?pubId=3965454539001",
+			"oigid" : 770460518,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/Q3G07X7HDGL2/m3u8/Q3G07X7HDGL2.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Top Chef winner Richard Blais has opened a burger boutique in Nashville, and the food lives up to the hype. Do NOT miss out on the fries – they’re cooked in beef fat and the whole process takes 2 days…but they’ll probably all be gone in 2 minutes.",
+	"t" : "7. Flip Burger",
+	"uuid" : "Episode4110119572001110886"
+}

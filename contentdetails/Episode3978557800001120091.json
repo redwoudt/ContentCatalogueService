@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 312,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3933/3965454539001_4003536084001_fig.jpg?pubId=3965454539001",
+			"oigid" : 1137203035,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/6ITZLM8CPDHH/m3u8/6ITZLM8CPDHH.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "In this episode of Sorted Food @ The Table, Ben and Jamie make an old school Roly Poly with a homemade fig jam.",
+	"t" : "Fig Jam Roly-Poly",
+	"uuid" : "Episode3978557800001120091"
+}

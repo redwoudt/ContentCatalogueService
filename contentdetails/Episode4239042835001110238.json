@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 241,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1770/3965454539001_4239256418001_EP04-guatemala.jpg?pubId=3965454539001",
+			"oigid" : 1777454814,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/VRJEUOM25433/m3u8/VRJEUOM25433.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Guatemala is a bit of a favourite amongst backpackers with nothing but good times to be had, as Macca and Brianna found out for themselves.",
+	"t" : "5. Guatemala",
+	"uuid" : "Episode4239042835001110238"
+}

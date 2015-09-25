@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1930/3965454539001_4122550529001_3965454539001-4110126283001-aNizWAyHTNyRan1MkmJY4g.jpg?pubId=3965454539001",
+			"oigid" : -524506759,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/8GR1K442SFMU/m3u8/8GR1K442SFMU.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Bella Napoli has fantastic wood-fired pizzas, to be sure, but you should also try the al dente spaghetti pomodoro, which is anything but boring. Also consider the calzone: it’s equal to about three meals, costs less than a pizza & re-heats perfectly.",
+	"t" : "4. Bella Napoli Pizzeria",
+	"uuid" : "Episode4110119575001110905"
+}

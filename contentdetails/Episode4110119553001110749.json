@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2655/3965454539001_4159126461001_5.jpg?pubId=3965454539001",
+			"oigid" : -1049670435,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/S70ZF2B1NJ7M/m3u8/S70ZF2B1NJ7M.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "If you haven’t been to Dick’s, you haven’t been to Seattle. This classic spot serves great cheeseburgers, fries and shakes. Make sure to separate your compost from your recyclables when you’re all done.",
+	"t" : "7. Dick's Drive-In",
+	"uuid" : "Episode4110119553001110749"
+}

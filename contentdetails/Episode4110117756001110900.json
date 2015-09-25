@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/742/3965454539001_4122602315001_3965454539001-4110125781001-qy-8QYGDQ5mwOTK9KIWPKA.jpg?pubId=3965454539001",
+			"oigid" : 86866804,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/IPBB7TCIQ05D/m3u8/IPBB7TCIQ05D.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Part of Japanese tavern and ramen house Izakaya, Two Ten Jack serves sweet, tender, juicy yakitori – go for the chicken negima.  The shishito peppers are a must-order, as well, but beware: One in every 10 is super spicy.",
+	"t" : "2. Two Ten Jack",
+	"uuid" : "Episode4110117756001110900"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/883/3965454539001_4110140018001_cj2bYHPbQQeRbaHRw3jDAQ-th.jpg?pubId=3965454539001",
+			"oigid" : -2064114298,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/KTBBHJD0UFPC/m3u8/KTBBHJD0UFPC.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Come to the River Seafood after work for happy hour and enjoy amazingly fresh oysters for just $1.50 along with your cocktails.",
+	"t" : "9. Seafood And Eat It",
+	"uuid" : "Episode4110119625001110918"
+}

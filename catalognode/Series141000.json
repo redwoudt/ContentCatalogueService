@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1234/3965454539001_4122012202001_vlcsnap-2015-03-19-10h15m43s227.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109935704001110993",
+			"sy" : "Patience pays off at Tsujita LA. They boil their broth for 60 hours to achieve rich, thick and creamy perfection, with just the right balance of sweetness. Customers need to be patient, too, since there’s usually a line … and you better bring cash.",
+			"t" : "7. Tsujita LA Artisan Noodle"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3146/3965454539001_4122011097001_vlcsnap-2015-03-19-10h18m00s70.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109917229001110994",
+			"sy" : "If you’re in the mood for something rich, order Silverlake Ramen’s pork belly tonkatsu — it has a delicious melt-in-your-mouth layer of fat that lends an intense creaminess to the broth. But be warned: “Medium” spicy means very spicy.",
+			"t" : "5. Silverlake Ramen"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/765/3965454539001_4110098686001_T27W5jlTR5W6Fi541XHE5g-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109935703001110995",
+			"sy" : "Tatsu Ramen on Sawtelle is high-tech: Place your order on an iPad and be sure to specify your preferred level of spice. If you come for lunch, you better allow extra time to wait in line — this place is that good.",
+			"t" : "6. Tatsu Ramen"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3515/3965454539001_4110098678001_cBEKXTmvToaiYWeN721QyQ-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109917228001110996",
+			"sy" : "When you find noodles this chewy, ingredients this fresh and broth this hearty, it’s easy to become hooked. And if you aren’t careful, Ramen Jinya may be all you’ll ever want to eat again.",
+			"t" : "3. Ramen Jinya"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2643/3965454539001_4110098670001_m-HRq6fiSI-xUI7RP6aRDw-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982645001110997",
+			"sy" : "There’s a reason Daikokuya in Little Tokyo always seems to have a line out the door — out of this world tsukemen dipping noodles, broth and cold noodle salad. Bring cash because they don’t take credit cards.",
+			"t" : "4. Daikokuya"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1702/3965454539001_4119619459001_Screen-Shot-2015-03-18-at-10-35-01-AM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109935702001110998",
+			"sy" : "A small ramen outpost with big flavor in San Gabriel, Benten keeps the menu simple with just three ramen options: spicy miso, tonkotsu and shoyu, and the tsukemen dipping noodles. Pro tip: Don’t miss out on the medium-boiled, soy sauce-injected egg.",
+			"t" : "2. Ramen House Benten"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3958/3965454539001_4120503913001_ramenyamadaya.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109917227001110999",
+			"sy" : "Killer pork broth go spicy & adjust from there. Lots of sides to choose from spicy goza yum! Back and street parking metered. #",
+			"t" : "1. Ramen Yamadaya"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/3uvyU4Q91mMCkEmSoOKUAq/fbcb66b583351eb7c8462dc977be04bf/connected-devices-thumbnail-los-angeles-best-ramen.jpg",
+	"nodeid" : "Series141000",
+	"nodetype" : "MENU",
+	"t" : "Ramen Run"
+}

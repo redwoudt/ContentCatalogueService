@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 213,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1939/3965454539001_4218302741001_V5-WITH-MASTER-APPLE-00-00-05-00-Still003.jpg?pubId=3965454539001",
+			"oigid" : -93002768,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/QVYLR2VEMYDD/m3u8/QVYLR2VEMYDD.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Give your Ikea meatballs an upgrade with this homemade take on the icon Swedish dish.",
+	"t" : "2. Swedish Meatballs",
+	"uuid" : "Episode4035516773001110512"
+}

@@ -1,0 +1,51 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1514/3965454539001_4120268629001_Screen-Shot-2015-03-18-at-4-02-05-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119563001110758",
+			"sy" : "Serving up much more than the name implies (as if wine and coffee weren’t enough to keep people happy), Vif Wine and Coffee also offers hearty soups, small plates and tempting desserts — & they make it all themselves, so you know it’s gonna be good.",
+			"t" : "7. Vif Wine and Coffee"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2863/3965454539001_4159079127001_4.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117751001110759",
+			"sy" : "Seattle’s primo java spot, Analog Coffee in Capitol Hill serves delicious Herkimer coffee with Fresh Breeze Organic milk and cream. You can get your fix here everyday from 7am to 6pm.",
+			"t" : "4. Analog Coffee"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/863/3965454539001_4159079149001_5.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114235001110760",
+			"sy" : "Take your coffee game up a notch by ordering the tasting flight at Slate Coffee Roasters. Try a four-course selection of a pour-over, a deconstructed latte, a cold brew and a dessert course served with specialty roasts from Ethiopia and Rwanda.",
+			"t" : "6. Slate Coffee Bar"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2497/3965454539001_4158882613001_2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114234001110761",
+			"sy" : "",
+			"t" : "2. Espresso To Go"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2535/3965454539001_4159082540001_3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117750001110762",
+			"sy" : "Single origin, sustainably grown, painstakingly roasted beans make coffee at Caffe Vita a treat to be savored. You can look forward to fun events and cool promotions as the café prepares to celebrate its 20th anniversary.",
+			"t" : "3. Caffe Vita"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3479/3965454539001_4158874726001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117749001110763",
+			"sy" : "The pastries baked in-house go great with Uptown Espresso’s proprietary Velvet Foam coffee roast, which is as smooth & delicious as it sounds. There are locations all over the city, but visit the Pier 70 cafe located next to the sculpture garden.",
+			"t" : "1. Uptown Espresso and Bakery"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/WGQYLi08O4GceWqcwwMYK/893bfe0a48435ebf6e2b27a4fa9156d8/connected-devices-thumbnail-seattle-best-coffee.png",
+	"nodeid" : "Series140765",
+	"nodetype" : "MENU",
+	"t" : "Perk Up: Top Coffee Spots"
+}

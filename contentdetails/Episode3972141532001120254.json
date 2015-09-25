@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 269,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2133/3965454539001_4108299718001_DT004-Barbecued-Snapper-with-Pesto-Pasta---Day-Tripper-2.jpg?pubId=3965454539001",
+			"oigid" : -574824450,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/WS7D7JW4C6F4/m3u8/WS7D7JW4C6F4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Chef Guy Turland takes us to Camp Cove to make a plate-sized barbecued snapper with a rustic pesto pasta.",
+	"t" : "Barbecued Snapper with Pesto Pasta",
+	"uuid" : "Episode3972141532001120254"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2535/3965454539001_4159082540001_3.jpg?pubId=3965454539001",
+			"oigid" : -1618166038,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/H0XPARY8A6QX/m3u8/H0XPARY8A6QX.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Single origin, sustainably grown, painstakingly roasted beans make coffee at Caffe Vita a treat to be savored. You can look forward to fun events and cool promotions as the café prepares to celebrate its 20th anniversary.",
+	"t" : "3. Caffe Vita",
+	"uuid" : "Episode4110117750001110762"
+}

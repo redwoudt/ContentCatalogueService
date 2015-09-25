@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 350,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/400/3965454539001_3991404678001_RVNG012-Banana.jpg?pubId=3965454539001",
+			"oigid" : 1281643842,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/8H2Y190W9MAF/m3u8/8H2Y190W9MAF.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Welcome to Season 2! This week Laura Miller makes soft serve -- no dairy, no nuts, no fancy ice cream contraption... you're gonna go bananas for this.",
+	"t" : "Banana Ice Cream",
+	"uuid" : "Episode3972954070001120578"
+}

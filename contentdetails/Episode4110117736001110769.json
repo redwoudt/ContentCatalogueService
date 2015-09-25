@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 69,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2570/3965454539001_4120159097001_Screen-Shot-2015-03-18-at-2-40-58-PM.jpg?pubId=3965454539001",
+			"oigid" : 1561703153,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/0IKAB1XPYC5I/m3u8/0IKAB1XPYC5I.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "It was named the best Indian restaurant in the country by Travel + Leisure magazine, so you know you’re in for something incredible at Indika. Contemporary and creative dishes include pork belly chaat, seared scallops and ghost pepper vindaloo.",
+	"t" : "6. Indika",
+	"uuid" : "Episode4110117736001110769"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 241,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3239/3965454539001_4230382970001_30bolognesa.jpg?pubId=3965454539001",
+			"oigid" : -2042675796,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/EW3PMCRVYH1X/m3u8/EW3PMCRVYH1X.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora reproduz a receita do delicioso Spaghetti Bolonhesa que aparece em várias cenas do conceituado \"Azul é a Cor Mais Quente\".",
+	"t" : "30. Spaghetti Bolonhesa de \"Azul é a Cor Mais Quente\"",
+	"uuid" : "Episode4178549814001110444"
+}

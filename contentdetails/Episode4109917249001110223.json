@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/46/3965454539001_4119700002001_pignchik.jpg?pubId=3965454539001",
+			"oigid" : -106992945,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/WNXJNAVBRO54/m3u8/WNXJNAVBRO54.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Straightforward as the name implies, Pig-N-Chik serves inexpensive, fast, tasty barbecue … and you know you’re at a good BBQ joint when each tables has its own roll of paper towels. Try the pulled pork sandwich and smoked wings.",
+	"t" : "2. Pig-N-Chik",
+	"uuid" : "Episode4109917249001110223"
+}

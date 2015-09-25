@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 183,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/2832/3965454539001_4301103891001_Screen-Shot-2015-06-16-at-4-40-04-PM.jpg?pubId=3965454539001",
+			"oigid" : 1936339012,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/O429SXCICW4K/m3u8/O429SXCICW4K.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A Terrine de Frutas Vermelhas é uma ótima opção vegana para aqueles que não querem abandonar a sobremesa e ainda deixar tudo mais saudável com muitas frutas!",
+	"t" : "20. Terrine de Frutas com Ágar-Ágar",
+	"uuid" : "Episode4298553032001110084"
+}

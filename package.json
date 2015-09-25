@@ -1,0 +1,21 @@
+{
+  "name": "ott-niche-video",
+  "version": "1.0.0",
+  "description": "ott niche video front end",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://fredelinghuys@bitbucket.org/fredelinghuys/serverfrontend.git"
+  },
+  "author": "Ferdinand Redelinghuys",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/fredelinghuys/serverfrontend#readme"
+}

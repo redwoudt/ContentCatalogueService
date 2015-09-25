@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 209,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/766/3965454539001_4001423424001_SF023-THAI-CHICKEN-BROTH.jpg?pubId=3965454539001",
+			"oigid" : -1812469880,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/QD5CHLHLJUEH/m3u8/QD5CHLHLJUEH.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Mike make a deconstructed Thai chicken broth recipe, that is both delicious and a bit healthy!",
+	"t" : "Thai Chicken Broth",
+	"uuid" : "Episode3978557840001120136"
+}

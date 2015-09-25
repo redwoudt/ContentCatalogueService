@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 81,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1315/3965454539001_4117414512001_Screen-Shot-2015-03-17-at-12-36-47-PM.jpg?pubId=3965454539001",
+			"oigid" : -474179690,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/RBEOFTSDFR2B/m3u8/RBEOFTSDFR2B.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "There’s a reason Frankie’s has been around or almost 60 years: Whether you top it with jalapeno, pepperoni, green peppers, or all three, it’s gonna be good. If you’re pressed for time to make dinner, you can even order a half-baked or frozen pie.",
+	"t" : "2. Frankie's Pizza",
+	"uuid" : "Episode4110119618001110934"
+}

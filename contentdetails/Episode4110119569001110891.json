@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 79,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1285/3965454539001_4117502251001_Screen-Shot-2015-03-17-at-1-11-05-PM.jpg?pubId=3965454539001",
+			"oigid" : 2065427819,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/H1YHNJ8TT5LC/m3u8/H1YHNJ8TT5LC.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The Sutler Saloon’s all-new menu includes can’t-miss gems like honey and bacon popcorn, Yukon gold potatoes with crème fraiche, and fried shallots with cheddar cheese. Check out Bluegrass Sundays & the cool event space downstairs.",
+	"t" : "3. The Sutler Saloon",
+	"uuid" : "Episode4110119569001110891"
+}

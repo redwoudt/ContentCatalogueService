@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3675/3965454539001_4110135005001_-eYPn1drQhWBXJ-vl5I3Iw-th.jpg?pubId=3965454539001",
+			"oigid" : -798035277,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/MS2E763O4R42/m3u8/MS2E763O4R42.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "What makes Korean food taste so incredibly delicious inside of a taco? TaKorean has the answer. You’re going to want to try a little of everything, so order the three tacos for $9 and get three different meats with three different toppings.",
+	"t" : "7. TaKorean",
+	"uuid" : "Episode4110117768001110707"
+}

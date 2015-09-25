@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 416,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/915/3965454539001_4209731244001_RVNG-THUMB-SQUASH.jpg?pubId=3965454539001",
+			"oigid" : 878563324,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/1NQQQ4ON74YD/m3u8/1NQQQ4ON74YD.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ever see an acorn squash in the grocery store and wonder, 'what would I do with that?'  Laura knows!  Tune in for one fantastic recipe and plenty more tips and tricks for what to do with your acorn squash.",
+	"t" : "11. Stuffed Acorn Squash",
+	"uuid" : "Episode4207932323001110524"
+}

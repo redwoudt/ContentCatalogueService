@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 83,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2810/3965454539001_4121865343001_Screen-Shot-2015-03-19-at-9-34-34-AM.jpg?pubId=3965454539001",
+			"oigid" : 2022095768,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/ZD6VNQE04TZX/m3u8/ZD6VNQE04TZX.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Mandolin Aegean Bistro serves delicious, organic Mediterranean food in a beautiful setting – you can visit their garden to see why everything tastes so fresh. Order the grilled octopus & prawns and the baba ghanoush, but save room for Turkish coffee.",
+	"t" : "9. Mandolin Aegean Bistro",
+	"uuid" : "Episode4110117788001110936"
+}

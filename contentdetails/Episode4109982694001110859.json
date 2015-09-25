@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3450/3965454539001_4120268551001_Screen-Shot-2015-03-18-at-3-33-28-PM.jpg?pubId=3965454539001",
+			"oigid" : -1783591093,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/FFBFHM87RFHI/m3u8/FFBFHM87RFHI.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "High quality ingredients come together for the highest possible purpose in the signature burger with bacon, cheese and garlic aioli at 8oz Burger and Co. on Capital Hill.",
+	"t" : "4. 8oz Burger",
+	"uuid" : "Episode4109982694001110859"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 62,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/585/3965454539001_4134736884001_4134525939001-th.jpg?pubId=3965454539001",
+			"oigid" : -1596727003,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/BCTJFYZJQQJW/m3u8/BCTJFYZJQQJW.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "American-style bistro Jackson & Rye serves up delicious breakfast dishes like sausage patties, grits and country-style potatoes that will give you a newfound appreciation for Southern cuisine.",
+	"t" : "6. Bring on the Brunch",
+	"uuid" : "Episode4134525939001110821"
+}

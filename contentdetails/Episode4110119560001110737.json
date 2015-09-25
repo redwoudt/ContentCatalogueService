@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3671/3965454539001_4159357846001_5.jpg?pubId=3965454539001",
+			"oigid" : 1655362257,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/SHQH0EN2OP8O/m3u8/SHQH0EN2OP8O.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Hue Ky Mi Gia cooks great rice noodle dishes in the International District. They’re all about options here: all noodles can be ordered either dry or as a soup, and the pan-fried chicken wings are amazing, too.",
+	"t" : "6. Hue Ky Mi Gia",
+	"uuid" : "Episode4110119560001110737"
+}

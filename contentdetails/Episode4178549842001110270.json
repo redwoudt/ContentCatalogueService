@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 288,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2916/3965454539001_4179688117001_Torta-de-Natal-de-Frutas-Vermelhas---Vamos-pra-Coz.jpg?pubId=3965454539001",
+			"oigid" : 187520254,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/7BF3FEHLPAH5/m3u8/7BF3FEHLPAH5.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Essa é a torta perfeita para comemorar o Natal e agradar a todos. Ela é cheia de sabor e é adoçada somente com pasta de tâmaras. Se quiser, finalize a sua torta de frutas vermelhas com um delicioso chantilly!",
+	"t" : "15. Torta de Natal de Frutas Vermelhas",
+	"uuid" : "Episode4178549842001110270"
+}

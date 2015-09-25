@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3026/3965454539001_4122292554001_3965454539001-4110126238001-X2j8lE1USZS8RrVtESqnAQ.jpg?pubId=3965454539001",
+			"oigid" : 791899514,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/GKEH0JNPQREW/m3u8/GKEH0JNPQREW.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Always-bustling Five Points is the spot for authentic New York style pizza in the heart of East Nashville. The must-order garlic knots – crispy, chewy and knock-your-socks-off garlicky -- pair perfectly with a beer.",
+	"t" : "3. Five Points Pizza",
+	"uuid" : "Episode4110117761001110906"
+}

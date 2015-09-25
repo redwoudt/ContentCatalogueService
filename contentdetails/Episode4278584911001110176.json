@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 261,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1771/3965454539001_4278957927001_73american.jpg?pubId=3965454539001",
+			"oigid" : 468043424,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/0IGEE0R466UP/m3u8/0IGEE0R466UP.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Difícil achar alguém que não lembre da torta de maçã de \"American Pie\". Nesse episódio, Isadora prepara a receita da clássica cena do filme.",
+	"t" : "73. Torta de Maçã de \"American Pie\"",
+	"uuid" : "Episode4278584911001110176"
+}

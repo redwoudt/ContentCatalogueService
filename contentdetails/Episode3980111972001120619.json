@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 96,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/687/3965454539001_3989958514001_TF033-Morir.jpg?pubId=3965454539001",
+			"oigid" : 1338511723,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/QNLT1J969Z9N/m3u8/QNLT1J969Z9N.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Some describe this drink from the Dominican Republic as an orange creamsicle in liquid form - we just describe it as awesome.",
+	"t" : "Morir Soñando",
+	"uuid" : "Episode3980111972001120619"
+}

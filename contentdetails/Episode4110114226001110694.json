@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3033/3965454539001_4159113568001_4.jpg?pubId=3965454539001",
+			"oigid" : -1632155994,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/PEWIATX71LSQ/m3u8/PEWIATX71LSQ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "What do you order at Uneeda Burger? There’s only one answer. Try the French-inspired “Monsieur” with black forest ham, Gruyère, Dijon and truffle fries. Open-air in the summer, cozy in the winter and family-friendly, this place is burger nirvana.",
+	"t" : "6. Uneeda Burger",
+	"uuid" : "Episode4110114226001110694"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 168,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2993/3965454539001_4230382921001_24.jpg?pubId=3965454539001",
+			"oigid" : 1202428533,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/0DIMFUNDTN2U/m3u8/0DIMFUNDTN2U.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora ensina a tão famosa cerveja amanteigada do filme Harry Potter. O resultado é uma deliciosa bebida com gostinho de caramelo.",
+	"t" : "Cerveja Amanteigada de \"Harry Potter \" | Comida de Cinema",
+	"uuid" : "Episode4178398173001120373"
+}

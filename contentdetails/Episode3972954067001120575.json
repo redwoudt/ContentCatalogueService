@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 398,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3928/3965454539001_3991367891001_RVNG015-SAURKRAUT.jpg?pubId=3965454539001",
+			"oigid" : -1718356161,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/ETVIRRTSVDCT/m3u8/ETVIRRTSVDCT.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This week Laura gets her hands dirty showing us how to make some homemade sauerkraut.",
+	"t" : "Red Cabbage Sauerkraut",
+	"uuid" : "Episode3972954067001120575"
+}

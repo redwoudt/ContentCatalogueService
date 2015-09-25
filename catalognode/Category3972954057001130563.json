@@ -1,0 +1,191 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3712/3965454539001_4093947751001_RVNG025-BONDI-CHILLISLICE.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954057001120563",
+			"sy" : "This week Laura teams up with Guy Turland of \"Day Tripper\" for the cutest collaboration of all time. Guy shows Laura how to make a raw Coconut Chili Slice (or \"cake\" if you don't speak Australian).",
+			"t" : "Coconut Chili Slice"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3032/3965454539001_3991465279001_RVNG027-OJAI-ROADTRIP.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954055001120565",
+			"sy" : "Woah! Laura broke out of the studio and hit the streets in our extra special NOT LIVE season finale. Come along for the ride in our first-ever California road trip.",
+			"t" : "Ojai Road Trip!"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3032/3965454539001_3991465271001_RVNG023-VDAY-CANDY.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954059001120566",
+			"sy" : "Need a little inspiration for the Raw Vegan Valentine in your life? Laura's got a lip-smackin' lolli you're all gonna love.",
+			"t" : "Valentine's Day Candy"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3032/3965454539001_3991465275001_RVNG024-CauliflowerPizza.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954058001120567",
+			"sy" : "It's pizza time! This all-veggie, guilt-free masterpiece is the perfect thing for that movie night you've been wanting to have.",
+			"t" : "Cauliflower Pizza"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201502/451/3965454539001_4049950466001_RVNG022-BeetLasagna.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954060001120568",
+			"sy" : "Does a dairy-free, grain-free pasta dish sound impossible? It's not! Laura's got another raw, vegan trick up her sleeve guaranteed to impress at your next dinner party.",
+			"t" : "Beet Lasagna"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/960/3965454539001_3991418456001_RVNG021-CEREAL.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954061001120569",
+			"sy" : "Grab a seat, Laura's making breakfast. These groats, with a bonus apple crumble and cream, are a great alternative to those humdrum smoothies and can be served warm during cold winter months.",
+			"t" : "Breakfast Cereal"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1960/3965454539001_3991418443001_RVNG020-MovieSnacks.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954062001120570",
+			"sy" : "Laura and Jimmy Wong talk movies and make some healthy, delicious alternatives to the gross stuff you often find at movie theaters.",
+			"t" : "Movie Snacks Featuring Jimmy Wong"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/896/3965454539001_3991404736001_RVNG018-LAVENDER-BEET-CHEESECAKE-XMAS.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954064001120571",
+			"sy" : "This beautiful raw, vegan cheesecake is appropriate for all kinds of gatherings.",
+			"t" : "Lavender & Beet \"Cheesecake\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1960/3965454539001_3991418451001_RVNG019-WINTER-VEGGIES.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954063001120572",
+			"sy" : "Stumped as to what you can do with winter vegetables? Well, Laura Miller's got a few awesome ideas for you.",
+			"t" : "Winter Vegetables"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/576/3965454539001_3991418832001_RVNG017-BROWNIE.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954065001120573",
+			"sy" : "What's better than rich, fudgy chocolate brownies? How bout rich, fudgy chocolate brownies topped with chocolate ganache? And did we mention they're Raw and Vegan?",
+			"t" : "Chocolate Brownies with Ganache"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201502/1827/3965454539001_4049964170001_RVNG016-DIPS.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954066001120574",
+			"sy" : "Stressed about what to bring to this year's holiday party? This week Laura whips up 3 easy and delicious dips that are bound to impress your pickiest party-goers.",
+			"t" : "Party Dips"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3928/3965454539001_3991367891001_RVNG015-SAURKRAUT.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954067001120575",
+			"sy" : "This week Laura gets her hands dirty showing us how to make some homemade sauerkraut.",
+			"t" : "Red Cabbage Sauerkraut"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3192/3965454539001_3991371223001_RVNG014-PASTA.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954068001120576",
+			"sy" : "This pasta ain't your nona's recipe - but it's also way better for you. Add in some amazing sauce and raw vegan \"meatballs\" and you've got yourself a meal. Buon Appetito!",
+			"t" : "Zucchini Pasta and Meatballs"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/400/3965454539001_3991404682001_RVNG013-Halloween.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954069001120577",
+			"sy" : "This week Laura hosts a very special guest in her spoooky Halloween Special...",
+			"t" : "Spooky Halloween Special ft. Vegan Black Metal Chef"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/400/3965454539001_3991404678001_RVNG012-Banana.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954070001120578",
+			"sy" : "Welcome to Season 2! This week Laura Miller makes soft serve -- no dairy, no nuts, no fancy ice cream contraption... you're gonna go bananas for this.",
+			"t" : "Banana Ice Cream"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/76/3965454539001_3976282586001_RVNG011-PEACH-LAV-POPS.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954049001120579",
+			"sy" : "One of Laura's Recipes with only a few ingredients? Crazy, right. Good thing these guys are delicious.",
+			"t" : "Peach Lavender Popsicles"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3932/3965454539001_3976278239001_RVNG009-RASP-TART.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954048001120580",
+			"sy" : "Do you have a surplus of walnuts? Do you love using seasonal fruit? Then this is the raw tart for you.",
+			"t" : "Raspberry Tart"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/76/3965454539001_3976282582001_RVNG010-NUGGETS.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954050001120581",
+			"sy" : "Are these the same thing you'll find at a fast food joint? No way. Are they better for you though? Without a doubt. Plus, they're a ton of fun to make.",
+			"t" : "Not Chicken Nuggets"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3076/3965454539001_3976282571001_RVNG008-WRAPS.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954045001120582",
+			"sy" : "Laura prepares the perfect dish to bring to a party - they probably won't even know it's vegan.",
+			"t" : "Spicy Mango Chili Wraps"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3812/3965454539001_3976277731001_RVNG006-GREEN-SHAKE.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954053001120583",
+			"sy" : "Green shakes come in many flavors, but the key is that they are all packed with nutrients that help your day get off to a great start. This week, Laura shows how to make a Blackberry Green Shake.",
+			"t" : "Blackberry Green Shake"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/812/3965454539001_3976277738001_RVNG007-MINT-ICECREAM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954051001120584",
+			"sy" : "Yup, vegans get a summer as well. So why not try this tasty ice cream ... if for no other reason than using a hatchet on a coconut.",
+			"t" : "Mint Chip Ice Cream"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/932/3965454539001_3976278228001_RVNG005-VEGAN-TACOS.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954046001120585",
+			"sy" : "While they aren't authentic, these tacos are a tasty and healthy alternative for those who don't dig on the carne asada.",
+			"t" : "Vegan Tacos"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/932/3965454539001_3976278220001_RVNG003-TOMATO-TART.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954047001120586",
+			"sy" : "You can buy tomatoes at all times of the year, but there's really nothing like a ripe Summer tomato. With that in mind, Laura shows you how to make a delicious, savory tomato tart. Spoiler: it's delicious.",
+			"t" : "Vegan Tomato Tart"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1932/3965454539001_3976278225001_RVNG004-TRUFFLES.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954044001120587",
+			"sy" : "The chocolate truffles we all know and love are pretty bad for us - no one will argue that. So this week, Laura's making raw truffles that not only taste great, but are packed with nutrients as well.",
+			"t" : "Chocolate Truffles"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3932/3965454539001_3976278215001_RVNG002-AVOCADO-PUDDING.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954054001120588",
+			"sy" : "Laura Miller shows you how to make an amazing chocolate pudding with an unlikely ingredient: avocados. The flavor and texture alone should get you to make this - but add in how nutritious it is for you and there's no reason not to try this out!",
+			"t" : "Chocolate Avocado Pudding"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2420/3965454539001_3976277710001_RVNG001-KALE-CHIPS.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954052001120589",
+			"sy" : "Raw. Vegan. Not Gross, hosted by Laura Miller, a chef with a mission to make Raw, Vegan food approachable and great-tasting. This week, she's showing you how to make Kale Chips.",
+			"t" : "Kale Chips"
+		}
+	],
+	"imageUri" : "",
+	"nodeid" : "Category3972954057001130563",
+	"nodetype" : "MENU",
+	"t" : "Tastemade/Raw. Vegan. Not Gross."
+}

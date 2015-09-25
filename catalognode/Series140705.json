@@ -1,0 +1,51 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3265/3965454539001_4159555157001_6-3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119590001110699",
+			"sy" : "",
+			"t" : "7. Ercilia's Restaurant"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1681/3965454539001_4159518731001_5.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114264001110700",
+			"sy" : "Tucked in among D.C.’s townhouses, you’ll find El Rinconcito II, which features a huge menu including cheese-, bean- and pork-filled pupusas. The portions are huge (leftover pupusas for breakfast!) and the prices are low.",
+			"t" : "6. El Rinconcito II"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2089/3965454539001_4159552922001_2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114262001110701",
+			"sy" : "The tamales, plantains and yucca at Don Juan are all fantastic, but the pupusas here are the main draw. Or you can come for late-night Spanish karaoke (complete with disco ball!).",
+			"t" : "3. Don Juan Restaurant"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2089/3965454539001_4159552930001_4.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114263001110702",
+			"sy" : "One of DC’s best-kept secrets, Judy Restaurant serves scrumptious Salvadorean dishes like lomo saltado and pork puposas – wash it all down with an authentic Salvadorean cerveza.",
+			"t" : "5. Judy restaurant"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1349/3965454539001_4110136149001_I9LVtzzZQWCIEeFf9hv08Q-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119588001110703",
+			"sy" : "Nothing says American food like tortillas…right? Head to Tortilla Café and try a little of everything: tamales, yucca fries, fajitas, and, of course, a decadently cheesy pupusa. Have your order ready because the line is long and people want to eat.",
+			"t" : "1. Tortilla Cafe"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/681/3965454539001_4159518714001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119589001110704",
+			"sy" : "Little-known holes in the wall are hard to find these days, but Gloria’s Restaurant fits the bill. Here you can get three pupusas, sides and passion fruit juice, all for under 10 bucks, or try the Gloria’s Special for a real treat.",
+			"t" : "2. Gloria's Restaurant"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/Qvlzj3lPgGOaSqc6QO2cE/c02c32daed7697b51a4537d41a15357f/connected-devices-thumbnail-washington-dc-best-pupusas.png",
+	"nodeid" : "Series140705",
+	"nodetype" : "MENU",
+	"t" : "Best Pupusas in DC"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 364,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/839/3965454539001_4230438654001_44courtesan.jpg?pubId=3965454539001",
+			"oigid" : -1682927520,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/2IPKWZG1OP1W/m3u8/2IPKWZG1OP1W.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Esse doce francês era o favorito do personagem Gustave, do divertido \"O Grande Hotel Budapeste\", de Wes Anderson. Neste episódio do Comida de Cinema, Isadora vive a confeiteira da Mendl's, que preparava o doce no filme, ensinando tudo passo a passo.",
+	"t" : "Courtesan au Chocolat de \"O Grande Hotel Budapeste\"",
+	"uuid" : "Episode4178549780001120352"
+}

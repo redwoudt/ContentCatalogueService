@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 178,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3076/3965454539001_3976282571001_RVNG008-WRAPS.jpg?pubId=3965454539001",
+			"oigid" : 2051447622,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/ZX3LTH8JW8XT/m3u8/ZX3LTH8JW8XT.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Laura prepares the perfect dish to bring to a party - they probably won't even know it's vegan.",
+	"t" : "Spicy Mango Chili Wraps",
+	"uuid" : "Episode3972954045001120582"
+}

@@ -1,0 +1,534 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3691/3965454539001_4278947751001_75sufle.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4278584913001110172",
+			"sy" : "Nesse Comida de Cinema, Isadora fica encantada com o clássico \"Sabrina\", dos anos 50. Ela prepara a receita do delicioso Suflê de Queijo que Sabrina faz no filme.",
+			"t" : "75. Suflê de Queijo de \"Sabrina\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3525/3965454539001_4278957945001_74revenge.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4278584912001110175",
+			"sy" : "Uma receita super simples e deliciosa de um filme que influenciou muita gente: \"V de Vingança\". Isadora recria o clássico café de manhã que V prepara no filme.",
+			"t" : "74. Ovos na Cestinha de \"V de Vingança\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1771/3965454539001_4278957927001_73american.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4278584911001110176",
+			"sy" : "Difícil achar alguém que não lembre da torta de maçã de \"American Pie\". Nesse episódio, Isadora prepara a receita da clássica cena do filme.",
+			"t" : "73. Torta de Maçã de \"American Pie\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3581/3965454539001_4278938548001_72kung.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4278584910001110177",
+			"sy" : "Depois de assistir o filme de desenho animado \"Kung Fu Panda\", Isadora se apaixonou pelo pãozinho chinês do filme e ensina a receita nesse episódio.",
+			"t" : "72. Pãozinho Chinês de \"Kung Fu Panda\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3581/3965454539001_4278938544001_71petit.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4278584909001110179",
+			"sy" : "Apaixonada pelo incrível filme francês \"Os Intocáveis\", Isadora prepara um Petit Gateau de chocolate delicioso que vai deixar qualquer um com água na boca.",
+			"t" : "71. Petit Gateau de \"Os Intocáveis\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3461/3965454539001_4278835001001_70omelete.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4278584908001110183",
+			"sy" : "Isadora repete a receita do delicioso omelete com um toque indiano do filme \"A 100 Passos de um Sonho\". Uma receita simples, mas que deixa um sabor incrível.",
+			"t" : "70. Omelete de \"A 100 Passos de um Sonho\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/2627/3965454539001_4278841332001_68burger.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4278584907001110184",
+			"sy" : "Isadora prepara o delicioso Big Kahuna Burger, refeição icônica que aparece no filme \"Pulp Fiction\", dirigido pelo mestre Quentin Tarantino.",
+			"t" : "68. Big Kahuna Burger de \"Pulp Fiction\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/397/3965454539001_4278834954001_67tapenade.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4278584906001110185",
+			"sy" : "Isadora prepara uma receita simples e deliciosa nesse Comida de Cinema: Tapenade de Coco com Curry. A inspiração para o aperitivo veio da comédia Esquadrão Classe A.",
+			"t" : "67. Tapenade de Coco com Curry de \"Esquadrão Classe A\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1199/3965454539001_4230488473001_69foolsgold.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549808001110407",
+			"sy" : "Inspirada na comédia romântica \"Será Que?\", Isadora prepara um sanduíche que promete tirar o fôlego de qualquer um e ainda alimentar uma turma de amigos.",
+			"t" : "67. Sanduíche Fool's Gold de \"Será Que?\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2199/3965454539001_4230488464001_65manga.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549792001110409",
+			"sy" : "A inspiração de Isadora nesse Comida de Cinema vem de \"Coraline\", um filme incrível de animação. O Milkshake de Manga que a garota pede no filme é a receita de hoje.",
+			"t" : "65. Milkshake de Manga de \"Coraline\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/199/3965454539001_4230488470001_66gazpacho.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549786001110410",
+			"sy" : "O filme brasileiro \"Confia em Mim\" foi a inspiração para esse Comida de Cinema. Isadora ensina a receita de um delicioso Gazpacho de Melancia que a Mari, protagonista da história, prepara para um crítico.",
+			"t" : "66. Gazpacho de Melancia de \"Confia em Mim\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3675/3965454539001_4185511921001_Screen-Shot-2015-04-20-at-6-24-26-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549799001110411",
+			"sy" : "Isadora prepara uma das receitas de \"18 Comidas\", filme galego que conta várias histórias que acontecem ao redor da mesa, envolvendo vários pratos diferentes.",
+			"t" : "64. Peixe em Crosta de Sal de \"18 Comidas\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2033/3965454539001_4230488437001_61peru.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549800001110412",
+			"sy" : "Tomada pelo espírito natalino, Isadora prepara uma refeição digna do filme \"Milagre na Rua 34\", que conta a história de uma menina que quer continuar acreditando em Papai Noel.",
+			"t" : "61. Peru de Natal de \"Milagre na Rua 34\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1033/3965454539001_4230488456001_62valente.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4185051211001110413",
+			"sy" : "Nesse episódio de Comida de Cinema, Isadora Becker preparar os Bolinhos Escoceses do filme animado \"Valente\". Eles são deliciosos e perfeitos para um lanche a qualquer hora do dia.",
+			"t" : "62. Bolinhos Escoceses de \"Valente\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3697/3965454539001_4230457393001_63ponche.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549802001110414",
+			"sy" : "O filme \"Across The Universe\" é um musical só com músicas dos Beatles e foi a inspiração de Isadora nesse Comida de Cinema. Ela prepara o Ponche Rosa que é servido no filme, um drink que deixa todo mundo bem louco",
+			"t" : "63. Ponche Rosa de \"Across The Universe\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2457/3965454539001_4230438714001_59benhe.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4185051212001110415",
+			"sy" : "Isadora prepara uma receita baseada em um clássico da Disney: Beignets de \"A Princesa e o Sapo\". No filme, Tiana é uma cozinheira de mão cheia e essa receita vai te mostrar o porquê.",
+			"t" : "59. Beignets de \"A Princesa e o Sapo\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/697/3965454539001_4230457366001_60salmao.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549806001110416",
+			"sy" : "\"A Vida é Bela\" é um filme lindo e a inspiração de Isadora nesse Comida de Cinema. Ela prepara o delicioso salmão com salada verde que Guido serve em uma das cenas.",
+			"t" : "60. Salmão de \"A Vida é Bela\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2803/3965454539001_4185446532001_Screen-Shot-2015-04-20-at-6-17-03-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178398171001110417",
+			"sy" : "Nesse episódio, Isadora se inspirou no clássico \"Uma Linda Mulher\", estrelado por Julia Roberts. Ela ensina a preparar os deliciosos canapés da festa que inicia o filme.",
+			"t" : "58. Canapés de \"Uma Linda Mulher\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2033/3965454539001_4230488425001_56bombas.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178398169001110418",
+			"sy" : "Isadora se inspira no filme \"Simplesmente Irresistível\" e prepara as famosas Bombas de Creme Carameladas do filme. Uma delícia de fazer e saborear!",
+			"t" : "56. Bombas de Creme de \"Simplesmente Irresistível\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2599/3965454539001_4230457358001_57tortapessego.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549822001110419",
+			"sy" : "Isadora Becker prepara uma receita que envolve uma grande história de amor: a Torta de Pêssego do filme \"Refém da Paixão\". Perfeita para unir corações!",
+			"t" : "57. Torta de Pêssedo de \"Refém da Paixão\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/921/3965454539001_4230428926001_54bonnie.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549788001110420",
+			"sy" : "Nesse episódio de Comida de Cinema, Isadora Becker se inspira no famoso filme do casal de criminosos \"Bonnie & Clyde\" e prepara o delicioso hambúrguer que os dois saboreiam em uma das cenas.",
+			"t" : "54. Hambúrguer de \"Bonnie & Clyde\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2457/3965454539001_4230438710001_55lasanha.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549789001110421",
+			"sy" : "Nesse episódio de Comida de Cinema, Isadora ensina o prato favorito (e muito saboroso) de um dos gatos mais queridos e fofos do cinema, o \"Garfield\".",
+			"t" : "55. Lasanha Bolonhesa de \"Garfield\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/457/3965454539001_4230438696001_52alice.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178398177001110422",
+			"sy" : "Isadora se inspirou em um filme clássico que fez a infância de muita gente e é adorado até hoje: Alice no País das Maravilhas. No vídeo, ela ensina a preparar a poção que faz Alice crescer e os biscoitos que a encolhem.",
+			"t" : "52. Cookies e Poção de \"Alice no País das Maravilhas\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/921/3965454539001_4230428922001_53brownie.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178398170001110423",
+			"sy" : "O romance \"Um Lugar Chamado Nothing Hill\" inspira Isadora no Comida de Cinema. Ela ensina a preparar um brownie de chocolate com doce de leite delicioso que vai dar competição pelo último pedaço.",
+			"t" : "53. Brownie de \"Um Lugar Chamado Notting Hill\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1599/3965454539001_4230457335001_50bonecalux.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549784001110424",
+			"sy" : "Isadora ensina como fazer o Folhado Dinamarquês delicioso que Holly Golightly saboreia na primeira cena do clássico do cinema \"Bonequinha de Luxo\".",
+			"t" : "50. Folhado Dinamarquês de \"Bonequinha de Luxo\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2457/3965454539001_4230438694001_51arancini.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4185119025001110425",
+			"sy" : "O filme \"Roubo a Máfia\" foi a inspiração de Isadora nesse Comida de Cinema. Big Al, o chefão de uma das famílias, ensina seu neto a preparar Arancinis, que são deliciosas bolinhas de arroz de risoto recheadas e fritas.",
+			"t" : "51. Arancini de \"Roubo a Máfia\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1375/3965454539001_4230428907001_48waltermitty.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178398168001110426",
+			"sy" : "Isadora Becker ensina a famosa receita de Bolo de Tangerina do filme \"A Vida Secreta de Walter Mitty\". A massa fica super fofa e deliciosa. A decoração de fatias da fruta confitadas é de comer com os olhos!",
+			"t" : "48. Bolo de Tangerina de \"Walter Mitty\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3599/3965454539001_4230457329001_49chopsuey.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178398174001110427",
+			"sy" : "Isadora ensina duas receitas inspiradas pelo clássico Ghostbusters. A primeira é o delicioso macarrão Chop Suey que os personagens comem num jantar e a segunda, uns s'mores em homenagem ao Homem de Marshmallows",
+			"t" : "49. Chop Suey + S'Mores de \"Ghostbusters\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/375/3965454539001_4230428900001_46puttanesca.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549813001110428",
+			"sy" : "Isadora prepara a receita do delicioso Spaghetti à Puttanesca que os meninos Baudelaire preparam ao terrível tio Count Olaf no filme \"Desventuras em Série\".",
+			"t" : "46. Spaghetti à Puttanesca de \"Desventuras em Série\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1375/3965454539001_4230428903001_47cubanos.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549809001110429",
+			"sy" : "Isadora ensina a reproduzir em casa o famoso sanduíche cubano do filme \"Chef\", que ajuda a acender o amor pela gastronomia em qualquer um.",
+			"t" : "47. Sanduíches Cubanos de \"Chef\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/839/3965454539001_4230438654001_44courtesan.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549780001110430",
+			"sy" : "Esse doce francês era o favorito do personagem Gustave, do divertido \"O Grande Hotel Budapeste\", de Wes Anderson. Neste episódio do Comida de Cinema, Isadora vive a confeiteira da Mendl's, que preparava o doce no filme, ensinando tudo passo a passo.",
+			"t" : "44. Courtesan au Chocolat de \"O Grande Hotel Budapeste\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/839/3965454539001_4230438662001_45onigiri.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549797001110431",
+			"sy" : "Isadora ensina a preparar os poderosos Onigiris do filme \"A Viagem de Chihiro\". Esse é um prato delicioso que vai reconfortar qualquer um.",
+			"t" : "45. Onigiri de \"A Viagem de Chihiro\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1857/3965454539001_4230428863001_42pastrami.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549807001110432",
+			"sy" : "Esse episódio do Comida de Cinema junta dois clássicos: a cena em que Meg Ryan finge ter um orgasmo e o sanduíche de pastrami do Katz, em Nova Iorque.",
+			"t" : "42. Sanduíche de Pastrami do Katz, de \"Harry e Sally\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3857/3965454539001_4230428869001_43risotto.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549805001110433",
+			"sy" : "Em \"A Culpa é das Estrelas\", adaptação para o cinema do livro homônimo, os personagens principais comem um risotto de cenoura roxa. Mesmo sendo difícil de encontrar esta cenoura aqui no Brasil, Isadora Becker ensina como preparar um igualzinho ao do",
+			"t" : "43. Risotto Roxo de \"A Culpa é das Estrelas\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3975/3965454539001_4230386310001_40blueberry.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549819001110434",
+			"sy" : "Essa Torta de Mirtilos dá nome ao filme \"Um Beijo Roubado\", que no original é \"My Blueberry Nights\". Com uma bola de sorvete de creme, fica incrível!",
+			"t" : "40. Torta de Blueberry de \"Um Beijo Roubado\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3393/3965454539001_4230438631001_41mariantonieta.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178398167001110435",
+			"sy" : "Isadora Becker se inspira no lindo \"Maria Antonieta\", de Sofia Coppola, e prepara um bolo digno de história: Bolo de Rosas com Chocolate Branco e Framboesas. Maravilhoso!",
+			"t" : "41. Bolo de Rosas com Chocolate Branco e Framboesas de \"Maria Antonieta\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3975/3965454539001_4230386306001_38matrix.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178398176001110436",
+			"sy" : "Os cookies do oráculo aparecem duas vezes na trilogia Matrix e é essa receita super saborosa que Isadora Becker prepara nesse episódio.",
+			"t" : "38. Cookies do Oráculo de \"Matrix\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/975/3965454539001_4230386309001_39ragu.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549803001110437",
+			"sy" : "Isadora ensina uma receita super saborosa e perfeita para uma janta inspirada por um dos maiores filmes de todos os tempos: O Poderoso Chefão.",
+			"t" : "39. Ragú de Linguiça de \"O Poderoso Chefão\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2215/3965454539001_4230408582001_37lembas.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549790001110438",
+			"sy" : "Isadora ensina a preparar sua versão das lembas élficas de \"O Senhor dos Anéis\". Além de nutritivo, esse pãozinho fica super gostoso.",
+			"t" : "37. Lembas de \"O Senhor dos Anéis\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/215/3965454539001_4230408576001_35bridget.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549810001110439",
+			"sy" : "Em \"O Diário Bridget Jones\", a protagonista faz uma sopa que fica azul por conta do barbante usado para amarrar o bouquet garni. Neste episódio, Isadora ensina uma deliciosa sopa de alho-poró e aipo que, com umas gotas de corante, fica igual a do fil",
+			"t" : "35. Sopa Azul de \"Bridget Jones\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2215/3965454539001_4230408578001_36croissant.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549783001110440",
+			"sy" : "Esse Croissant au Chocolat, além de ser muito delicioso, vem de uma das cenas mais divertidas do filme \"Simplesmente Complicado\".",
+			"t" : "36. Croissant au Chocolat de \"Simplesmente Complicado\" | Comida de Cinema"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/439/3965454539001_4230428840001_34cassoulet.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178398172001110441",
+			"sy" : "\"Os Sabores do Palácio\" é um filme que conta a história de uma cozinheira que vira chef pessoal do presidente da França. Ele pede que ela faça preparações com sabores de avó. O Cassoulet é uma espécie de feijoada francesa com feijão branco.",
+			"t" : "34. Cassoulet de \"Os Sabores do Palácio\" | Comida de Cinema"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/439/3965454539001_4230428836001_32coqauvin.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178398178001110442",
+			"sy" : "Essa receita é do filme brasileiro \"O Contador de Histórias\", sobre um menino que passou a infância na Febem e depois foi adotado por uma pedagoga francesa. Em uma das cenas, ela faz para ele esse tradicional prato francês de frango ao vinho.",
+			"t" : "32. Coq Au Vin de \"O Contador de Histórias\" |"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/975/3965454539001_4230386293001_33toast.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549821001110443",
+			"sy" : "Torta de Limão com Merengue é um doce sensacional. E Isadora vai ensiná-la de um jeito bem mais fácil do que parece ser no filme \"Toast\".",
+			"t" : "33. Torta de Limão de \"Toast\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3239/3965454539001_4230382970001_30bolognesa.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549814001110444",
+			"sy" : "Isadora reproduz a receita do delicioso Spaghetti Bolonhesa que aparece em várias cenas do conceituado \"Azul é a Cor Mais Quente\".",
+			"t" : "30. Spaghetti Bolonhesa de \"Azul é a Cor Mais Quente\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2017/3965454539001_4230408563001_31bananasplit.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4185051221001110445",
+			"sy" : "Isadora ensina uma versão mais incrementada e deliciosa do sorvete que Kevin come no hotel de \"Esqueceram de Mim 2\".",
+			"t" : "31. Banana Split de \"Esqueceram de Mim\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2017/3965454539001_4230408539001_28creme.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549782001110446",
+			"sy" : "O fabuloso Crème Brûlée de Amélie Poulain é muito mais fácil de fazer do que parece. E neste vídeo, Isadora ensina um truque para criar a casquinha crocante mesmo sem ter um maçarico de cozinha.",
+			"t" : "28. Crème Brûlée de \"Amélie Poulain\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3239/3965454539001_4230382966001_29historias.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549820001110447",
+			"sy" : "Isadora ensina a torta de chocolate preparada por Minny em \"Histórias Cruzadas\". Esta, claro, sem aquele ingrediente especial que ela coloca numa das cenas do filme.",
+			"t" : "29. Torta de Chocolate da Minny de \"Histórias Cruzadas\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2993/3965454539001_4230382929001_26meatpir.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549824001110448",
+			"sy" : "Isadora Becker reproduz as tortinhas de carne da Sra. Lovett de \"Sweeney Todd\". Só que aqui, claro, elas são feitas com carne bovina e não humana.",
+			"t" : "26. Tortinha de Carne de \"Sweeney Todd\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1279/3965454539001_4230408535001_27manjar.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549791001110449",
+			"sy" : "Isadora incorpora a Feiticeira Branca e ensina a preparar o famoso Manjar Turco, doce mais conhecido como \"goma árabe\". Em Crônicas de Nárnia, é isso que Edmundo escolhe comer quando a feiticeira lhe oferece qualquer coisa.",
+			"t" : "27. Manjar Turco de \"Crônicas de Nárnia\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/993/3965454539001_4230382927001_25bolobranco.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178398165001110450",
+			"sy" : "Isadora Becker ensina a fazer o bolo branco do filme Django Livre. Essa receita só leva ingredientes claros, o que simboliza a segregação racial no filme.",
+			"t" : "25. Bolo Branco de \"Django Livre\" | Comida de Cinema"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3721/3965454539001_4230368316001_23espangles.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549796001110451",
+			"sy" : "O melhor sanduíche do mundo é o lanchinho noturno do chef interpretado por Adam Sandler em \"Espanglês\". Aprenda a receita original!",
+			"t" : "23. O Melhor Sanduíche do Mundo de \"Espanglês\" | Comida de Cinema"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2993/3965454539001_4230382921001_24.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178398173001110452",
+			"sy" : "Isadora ensina a tão famosa cerveja amanteigada do filme Harry Potter. O resultado é uma deliciosa bebida com gostinho de caramelo.",
+			"t" : "24. Cerveja Amanteigada de \"Harry Potter \" | Comida de Cinema"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/39/3965454539001_4230386226001_21gazpacho.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549785001110453",
+			"sy" : "Com uma receita digna de Pedro Almodóvar, Isadora Becker faz o Gazpacho delicioso do filme \"Mulheres à Beira de um Ataque de Nervos\".",
+			"t" : "21. Gazpacho de \"Muheres à Beira de um Ataque de Nervos\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3993/3965454539001_4230382918001_22picuch.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549798001110454",
+			"sy" : "As famosas panquecas da Dona Picucha, do telefilme brasileiro \"Doce de Mãe\" são explicadas passo a passo por Isadora Becker.",
+			"t" : "22. Panquecas Flambadas de \"Doce de Mãe\" | Comida de Cinema"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3293/3965454539001_4185367842001_Screen-Shot-2015-04-20-at-5-14-29-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549812001110455",
+			"sy" : "Uma receita super fácil e muito deliciosa para prearar em qualquer refeição: spaghetti ao pesto do filme \"Simplesmente Martha\".",
+			"t" : "20. Spaghetti ao Pesto de \"Simplesmente Martha\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/721/3965454539001_4230368305001_18oasispie.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549823001110456",
+			"sy" : "Neste episódio, a receita é do filme Garçonete (2007), em que Jenna inventa várias tortas com nomes engraçados. A escolhida por Isadora combina morangos, chocolate e um toque especial de gengibre e noz-moscada.",
+			"t" : "18. Torta Oásis de Chocolate com Morango de \"Garçonete\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2293/3965454539001_4185367839001_Screen-Shot-2015-04-20-at-5-13-35-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549795001110457",
+			"sy" : "O filme \"O Sentido da Vida\", do grupo Monty Python, foi a inspiração desse episódio. Isadora Becker prepara uma receita deliciosa: mousse de salmão!",
+			"t" : "19. Mousse de Salmão de \"O Sentido da Vida\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/629/3965454539001_4185410511001_Screen-Shot-2015-04-20-at-5-11-48-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549817001110458",
+			"sy" : "Um delicioso Tiramissù inspirado pelo filme \"O Filho da Noiva\" é a receita que Isadora Becker ensina nesse episódio.",
+			"t" : "16. Tiramissu de \"O Filho da Noiva\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2629/3965454539001_4185410513001_Screen-Shot-2015-04-20-at-5-12-37-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549816001110459",
+			"sy" : "Inspirada pela comédia \"Casamento Grego\", Isadora Becker prepara spanakopita: pasteizinhos de massa filo com recheio de espinafre e queijo de cabra ou de ovelha. Bem crocantes, uma delícia!",
+			"t" : "17. Spanakopita de \"Casamento Grego\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1573/3965454539001_4185358353001_Screen-Shot-2015-04-20-at-5-10-42-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549801001110460",
+			"sy" : "De todas as comidas que Elizabeth Gilbert comeu em \"Comer, Rezar, Amar\", Isadora Becker escolheu a pizza margherita para reproduzir desde o início.",
+			"t" : "14. Pizza Margherita de \"Comer, Rezar, Amar\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/643/3965454539001_4185327586001_Screen-Shot-2015-04-20-at-5-11-13-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178398175001110461",
+			"sy" : "Isadora Becker se inspira no filme \"A Festa de Babette\" e prepara as codornas recheadas em sarcófago de massa folhada do filme. Uma delícia!",
+			"t" : "15. Codornas de \"A Festa de Babette\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/721/3965454539001_4230368297001_12matilda.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178398166001110462",
+			"sy" : "Nada como um delicioso bolo de chocolate, com recheio de chocolate e cobertura de chocolate! E tudo isso inspirado no filme \"Matilda\", de 1996.",
+			"t" : "12. Bolo de Chocolate de \"Matilda\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2939/3965454539001_4185367817001_Screen-Shot-2015-04-20-at-4-36-05-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4185024685001110463",
+			"sy" : "\"O que há, tigresa?\", de Woody Allen, foi a dublagem de um filme japonês com diálogos diferentes. A trama virou uma comédia sobre a disputa entre quadrilhas buscando a receita perfeita de salada de ovos. E é isso que Isadora prepara nesse episódio!",
+			"t" : "13. Sanduíche de Salada de Ovos de \"O que há, tigresa?\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1653/3965454539001_4185327559001_Screen-Shot-2015-04-20-at-4-28-30-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549815001110464",
+			"sy" : "Dama e Vagabundo são os protagonistas de uma das cenas mais clássicas dos filmes de animação infantis. O spaghetti com almôndegas dividido no mesmo prato é a receita que Isadora ensina neste episódio do Comida de Cinema!",
+			"t" : "11. Spaghetti com Âlmondegas de \"A Dama e o Vagabundo\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1653/3965454539001_4185327555001_Screen-Shot-2015-04-20-at-4-26-55-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4185119035001110465",
+			"sy" : "Uma das cenas mais tensas de \"Bastardos Inglórios\", de 2009, é também uma das mais tensas. Isadora ensina a receita do Apfelstrudel pedido pelo coronel Hans Landa no filme.",
+			"t" : "9. Apfelstrudel de \"Bastardos Inglórios\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/939/3965454539001_4185367807001_Screen-Shot-2015-04-20-at-4-27-52-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549787001110466",
+			"sy" : "No filme \"Comer, Beber, Viver\", tudo gira em torno da mesa. Com o cutelo de Chu, Isadora prepara deliciosos guiozas, pastéizinhos orientais que podem ser de porco, frango ou vegetarianos.",
+			"t" : "10. Guioza de \"Comer, Beber, Viver\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2653/3965454539001_4185327554001_Screen-Shot-2015-04-20-at-4-25-57-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549793001110467",
+			"sy" : "Isadora Becker ensina a preparar uma deliciosa moqueca de peixe, inspirada no filme \"Sabor da Paixão\", que encantaria qualquer um com seu delicioso cheiro e sabor.",
+			"t" : "8. Moqueca de Peixe de \"Sabor da Paixão\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3303/3965454539001_4230382886001_6moussebranc.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549794001110468",
+			"sy" : "Inspirada no filme de 2009, \"Soul Kitchen\", Isadora Becker prepara uma receita de Mousse de Chocolate Branco com Canela para adoçar qualquer refeição.",
+			"t" : "6. Mousse de Chocolate Branco e Canela de \"Soul Kitchen\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2575/3965454539001_4230368289001_7tomatesfritos.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549818001110469",
+			"sy" : "\"Tomates Verdes Fritos\" é um filme que conta a emocionante história de amizade entre quatro mulheres e Isadora prepara a delícia  de receita que leva o mesmo nome.",
+			"t" : "7. Tomates Verdes Fritos de \"Tomates Verdes Fritos\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1303/3965454539001_4230382880001_5bouef.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178398163001110470",
+			"sy" : "O Boeuf Bourguignon do filme \"Julie e Julia\" é um prato para deixar qualquer um cheio de coragem. E com muita água na boca!",
+			"t" : "5. Boeuf Bourguignon de \"Julie e Julia\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3579/3965454539001_4185327505001_3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549825001110471",
+			"sy" : "Chocolate é tão gostoso que é capaz de transformar vidas! Isadora Becker ensina a fazer deliciosas trufas com chá Earl Grey, inspiradas no filme Chocolate, de 2000.",
+			"t" : "3. Trufas de Chocolate de \"Chocolate\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/575/3965454539001_4230368271001_4coxinha.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549781001110472",
+			"sy" : "A coxinha é um salgado muito popular da culinária brasileira e, baseada no filme \"Estômago\", de 2007, Isadora Becker ensina a receita.",
+			"t" : "4. Coxinha de \"Estômago\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2993/3965454539001_4230341961001_2sopa.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549811001110473",
+			"sy" : "Isadora Becker prepara uma deliciosa sopa chinesa, inspirada nas cenas do filme Amor à Flor da Pele (2000), do diretor Wong Kar-Wai. Além de vegetais e macarrão, ela leva anis-estrelado, alho e pimenta.",
+			"t" : "2. Sopa Chinesa de \"Amor à Flor da Pele\""
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2881/3965454539001_4230347983001_1ratatouille.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549804001110474",
+			"sy" : "Ratatouille é uma deliciosa receita francesa de diversos legumes. Inspirada na animação que leva o mesmo nome do prato, Isadora Becker ensina a sua versão deste clássico.",
+			"t" : "1. Receita de \"Ratatouille\" do filme"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/47M4Ey97UsUIkmouOAUmMQ/a6020bbd4cb149bf8bdb3afcd4ccd19f/connected-devices-thumbnail-comida-cinema.png",
+	"nodeid" : "Series140475",
+	"nodetype" : "MENU",
+	"t" : "Comida de Cinema"
+}

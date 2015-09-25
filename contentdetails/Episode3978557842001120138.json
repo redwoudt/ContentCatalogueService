@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 217,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2254/3965454539001_4001431082001_SF021-PORK-POLENTA.jpg?pubId=3965454539001",
+			"oigid" : 187530122,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/Q6C7CZN79BBW/m3u8/Q6C7CZN79BBW.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Barry make a pork and creamy polenta dish with balsamic apples...mmmmmmm.",
+	"t" : "Pork and Creamy Polenta",
+	"uuid" : "Episode3978557842001120138"
+}

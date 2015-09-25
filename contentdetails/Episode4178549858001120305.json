@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 139,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1929/3965454539001_4230341892001_7IMG-8795.jpg?pubId=3965454539001",
+			"oigid" : -992338895,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/LC4OV6R2VAKP/m3u8/LC4OV6R2VAKP.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Pronta em 10 minutos, essa receita de camarões ao alho é perfeita para comer como um petisco à noite após um dia na beira da praia. Com páprica picante, cebolinha verde e limão, seus sabores vão fazer você se sentir na Austrália.",
+	"t" : "Camarões no Alho",
+	"uuid" : "Episode4178549858001120305"
+}

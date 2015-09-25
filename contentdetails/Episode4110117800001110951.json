@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 70,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2746/3965454539001_4121865267001_Screen-Shot-2015-03-19-at-9-15-08-AM.jpg?pubId=3965454539001",
+			"oigid" : 1137193895,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/L2DT2H9YBQE0/m3u8/L2DT2H9YBQE0.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Dinner and entertainment come together at Ted’s at the YoungArts building. Must-order items include the tomatoes and burrata, the pork bao buns and cheesecake for dessert. Check out the lineup of musical acts on their website before you come.",
+	"t" : "2. Ted's At YoungArts",
+	"uuid" : "Episode4110117800001110951"
+}

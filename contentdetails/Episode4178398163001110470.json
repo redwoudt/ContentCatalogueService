@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 232,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1303/3965454539001_4230382880001_5bouef.jpg?pubId=3965454539001",
+			"oigid" : -207646778,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/F46CMUK5ZLVT/m3u8/F46CMUK5ZLVT.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "O Boeuf Bourguignon do filme \"Julie e Julia\" é um prato para deixar qualquer um cheio de coragem. E com muita água na boca!",
+	"t" : "5. Boeuf Bourguignon de \"Julie e Julia\"",
+	"uuid" : "Episode4178398163001110470"
+}

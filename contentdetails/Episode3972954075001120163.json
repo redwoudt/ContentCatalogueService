@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 466,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/244/3965454539001_3974669621001_biteclub-b.jpg?pubId=3965454539001",
+			"oigid" : 1986676131,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/RIBS4C4WAODD/m3u8/RIBS4C4WAODD.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Perfect for your next party: snacks inspired by Kick-Ass 2. We've got a Hit Girl-colored vegetable plate paired with a sheet of breakable sugar glass, just perfect for smashing over the head of a special someone. ;)",
+	"t" : "Kick-Ass 2 — Hit Girl Veggie Plate and Breakable Sugar Glass",
+	"uuid" : "Episode3972954075001120163"
+}

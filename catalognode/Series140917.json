@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2594/3965454539001_4121864096001_Screen-Shot-2015-03-19-at-9-25-14-AM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114290001110910",
+			"sy" : "The mojito comes with real sugar cane and the Cuban coffee is strong and sweet at Versailles. And don’t hold back from ordering the creamy flan for dessert. They’re open until 3am, so you can get your sugar fix well into the wee hours.",
+			"t" : "7. Versailles Restaurant"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1883/3965454539001_4110143342001_O0lEVi1dT8SZUpP8mmjypw-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119628001110911",
+			"sy" : "The coffee is delicious and the pastries to-die-for at Panther Coffee: One of their cappuccinos accompanied by a chocolate croissant is as close as you’ll ever get to morning perfection.",
+			"t" : "8. Panther Coffee"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/165/3965454539001_4110143146001_NHe-UEC7QnC7-xwsni0ABg-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114288001110912",
+			"sy" : "Coffee lovers who are tired of Starbucks should definitely check out Alaska Coffee Roasting and order the white chocolate mocha. But this place isn’t all about the java – try the pulled pork sandwich with spinach, barbecue sauce and onions.",
+			"t" : "5. Alaska Coffee Roasting Co."
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3845/3965454539001_4117352171001_Screen-Shot-2015-03-17-at-12-08-30-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114289001110913",
+			"sy" : "A great little find in Wilton Manors, The Alchemist serves great coffee and even better hot cocoa – you can even make your own by stirring chocolate shavings into hot frothy milk. Perfection.",
+			"t" : "6. The Alchemist"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/211/3965454539001_4117325334001_Screen-Shot-2015-03-17-at-12-06-20-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117794001110914",
+			"sy" : "Threefold Café serves up delicious homey eats in a cool, hip setting. Try the popular Pope Benedict on top of hash browns with a cauliflower puree. But be warned: Popular dishes sell out pretty early, so get there at opening time.",
+			"t" : "4. Threefold Cafe"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2675/3965454539001_4110143108001_XQNaQFu-TZygyFrKYI6tyA-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117793001110915",
+			"sy" : "Take a break from shopping on Lincoln Road and head to Café Charlotte for great Argentinean food. The skirt steak is grilled to perfection before your eyes and the fried yucca tastes better than French fries.",
+			"t" : "2. Cafe Charlotte"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2883/3965454539001_4110143116001_J-laXBwoQOym4m8d0qLAiQ-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119627001110916",
+			"sy" : "Miracle Mile’s Café Curuba serves Counterculture and Panther coffee, along with plenty of yummy things to eat. Order the refreshing quinoa salad if you’re in the mood for something light, or a chorizo sandwich for something heartier.",
+			"t" : "3. Cafe Curuba"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/1zMsaLl6zuOkYQioAIU6Io/dbaf9178b555269187f66d2a0a8692c8/connected-devices-thumbnail-miami-best-coffee.jpg",
+	"nodeid" : "Series140917",
+	"nodetype" : "MENU",
+	"t" : "Best Coffee Spots"
+}

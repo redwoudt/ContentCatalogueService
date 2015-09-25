@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 157,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1984/3965454539001_4301033809001_25macarraofacil.jpg?pubId=3965454539001",
+			"oigid" : -1653595590,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/W5IKPC899VYM/m3u8/W5IKPC899VYM.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Um macarrão delicioso que vai salvar a vida naqueles dias corridos.",
+	"t" : "25. Macarrão Fácil",
+	"uuid" : "Episode4298553037001110074"
+}

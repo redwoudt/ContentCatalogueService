@@ -1,0 +1,65 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1177/3965454539001_4158538240001_8.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982686001110795",
+			"sy" : "Ooh La La Dessert Boutique has it all: cookies, cakes, pie, gelato, cupcakes and more. Choosing just one thing is nearly impossible, so don’t be shy about ordering a table full of treats the size of your head. Cupcake specials change daily.",
+			"t" : "10. Ooh La La Dessert Boutique"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1689/3965454539001_4158522364001_6.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117741001110796",
+			"sy" : "Charming French bakery Dolce Delights is famous for their macarons and petite cakes — you have to try the chocolate mint with an Oreo crust. Dolce also offers coffee, smoothies, panini and even recently started serving wine.",
+			"t" : "7. Dolce Delights"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3689/3965454539001_4158522378001_7.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117742001110797",
+			"sy" : "Serving up cake balls, macarons, mini pies, cupcakes and more in City Center, Sweet is a true dessert lovers’ happy place. After you try their Key lime mini pie, you’re sure to be sweet on Sweet.",
+			"t" : "8. Sweet"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1113/3965454539001_4158538160001_4.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114217001110798",
+			"sy" : "A cute little dessert boutique in River Oaks, Macaron by Patisse serves the best macarons in Houston, and the flavors change seasonally. For a uniquely decadent treat, try the gelato and macaron pushup pops.",
+			"t" : "4. Macaron by Patisse"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1313/3965454539001_4158533249001_5.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114218001110799",
+			"sy" : "Michael’s Cookie Jar opened with the noble mission of making the best all-butter cookies in the city of Houston. The cookies are divided into four categories — Americana, seasonal, fancy and decorated. You can’t go wrong with any of them!",
+			"t" : "6. Michael's Cookie Jar"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2983/3965454539001_4158533212001_3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982685001110800",
+			"sy" : "True to its name, everything at The Chocolate Bar is made with chocolate, from the huge selection of cheesecakes to the to–die-for creamy truffle ice cream.",
+			"t" : "3. The Chocolate Bar"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3625/3965454539001_4158522302001_2-1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114216001110801",
+			"sy" : "Crave Cupcakes has your quick sugar fix covered. Whether you order a classic flavor like vanilla with chocolate frosting, or something a little different like pumpkin or red velvet, all the cupcakes are made with delicious, artisanal ingredients.",
+			"t" : "2. Crave Cupcakes"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/543/3965454539001_4158481457001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982684001110802",
+			"sy" : "The chocolate croissant bread pudding with bourbon caramel sauce more than lives up to they hype at Red’s Dessert Dive. Dollars to donuts you’ll end up taking a box of extra goodies home.",
+			"t" : "1. Red Dessert Dive"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/5bEpLGjEfSYGiO4SIUqAkg/7485466de183cc10961ae9eedd6e8796/connected-devices-thumbnail-houston-best-desserts.png",
+	"nodeid" : "Series140804",
+	"nodetype" : "MENU",
+	"t" : "Delectable Sweets for Your Sweet Tooth"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 285,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/877/3965454539001_4003473578001_wildrabbit.jpg?pubId=3965454539001",
+			"oigid" : 367399294,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/TUFK5LYR0CXC/m3u8/TUFK5LYR0CXC.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "In this very special episode of SortedFood @ The Source, Barry and Ben leave the Sorted kitchen and head to Borough Market in London to talk rabbit meat. WARNING - if you're as squeamish as Barry, watch at your own risk.",
+	"t" : "Wild Rabbit",
+	"uuid" : "Episode3978557825001120126"
+}

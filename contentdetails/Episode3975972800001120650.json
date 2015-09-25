@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 106,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3209/3965454539001_3994345803001_maxresdefault.jpg?pubId=3965454539001",
+			"oigid" : 1137203594,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/HCQW9MZ0OCG1/m3u8/HCQW9MZ0OCG1.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A thick, warm, chocolate-based drink from Mexico that's unlike any hot chocolate you've ever tasted. Grab your molinillos, it's champurrado time!",
+	"t" : "Champurrado (Mexican Hot Chocolate)",
+	"uuid" : "Episode3975972800001120650"
+}

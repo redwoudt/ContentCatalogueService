@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 258,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201502/1913/3965454539001_4067047059001_HF-SWEDEN-SEEDEDBREAD-STILL.jpg?pubId=3965454539001",
+			"oigid" : -1042221618,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/8SEG4DW3F5EL/m3u8/8SEG4DW3F5EL.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Whether it's the base for an open faced sandwich or just toasted and buttered, this delicious and slightly bread will steal the show.",
+	"t" : "6. Seeded Bread",
+	"uuid" : "Episode4066675218001110478"
+}

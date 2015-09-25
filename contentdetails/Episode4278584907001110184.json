@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 141,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/2627/3965454539001_4278841332001_68burger.jpg?pubId=3965454539001",
+			"oigid" : 763010728,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/MD2ZU743X6AT/m3u8/MD2ZU743X6AT.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora prepara o delicioso Big Kahuna Burger, refeição icônica que aparece no filme \"Pulp Fiction\", dirigido pelo mestre Quentin Tarantino.",
+	"t" : "68. Big Kahuna Burger de \"Pulp Fiction\"",
+	"uuid" : "Episode4278584907001110184"
+}

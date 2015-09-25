@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 349,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2900/3965454539001_4179732720001_Ab-bora-Recheada-com-Camar-o---Vamos-pra-Cozinha--.jpg?pubId=3965454539001",
+			"oigid" : 1367389458,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/R22H1EIJVW12/m3u8/R22H1EIJVW12.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Estas abóboras recheadas com quinua e camarão servem como uma refeição completa e são perfeitas para aquele almoço de domingo com a família.",
+	"t" : "5. Abóbora Recheada com Camarão",
+	"uuid" : "Episode4178549826001110290"
+}

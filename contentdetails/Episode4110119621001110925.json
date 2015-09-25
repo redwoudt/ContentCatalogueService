@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 83,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/883/3965454539001_4110140002001_Y-WvgT30S7WKaXTLS-RqHQ-th.jpg?pubId=3965454539001",
+			"oigid" : -1769146995,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/18P5PFUJ4MEW/m3u8/18P5PFUJ4MEW.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "At Segundo Muelle in Coral Gables you can enjoy some familiar flavors in unfamiliar ways, such as lomo risotto and a Bloody Mary made with tiger milk and a fried prawn. Come for live music on Fridays and Saturdays.",
+	"t" : "4. Segundo Muelle",
+	"uuid" : "Episode4110119621001110925"
+}

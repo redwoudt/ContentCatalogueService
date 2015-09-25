@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1113/3965454539001_4158538160001_4.jpg?pubId=3965454539001",
+			"oigid" : -2042221298,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/40EKXTTV0QQE/m3u8/40EKXTTV0QQE.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A cute little dessert boutique in River Oaks, Macaron by Patisse serves the best macarons in Houston, and the flavors change seasonally. For a uniquely decadent treat, try the gelato and macaron pushup pops.",
+	"t" : "4. Macaron by Patisse",
+	"uuid" : "Episode4110114217001110798"
+}

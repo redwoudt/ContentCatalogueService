@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 247,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1978/3965454539001_4001431121001_SF035-COFFEE-BEEF.jpg?pubId=3965454539001",
+			"oigid" : -927568001,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/QBM8RB1X60XS/m3u8/QBM8RB1X60XS.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Jamie make a coffee-marinated beef dish with an amazing maple coleslaw.",
+	"t" : "Coffee Beef and Maple Slaw",
+	"uuid" : "Episode3978557828001120127"
+}

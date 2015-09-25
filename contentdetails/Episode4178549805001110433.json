@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 209,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3857/3965454539001_4230428869001_43risotto.jpg?pubId=3965454539001",
+			"oigid" : 1842226081,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/BH76V91UPUX4/m3u8/BH76V91UPUX4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Em \"A Culpa é das Estrelas\", adaptação para o cinema do livro homônimo, os personagens principais comem um risotto de cenoura roxa. Mesmo sendo difícil de encontrar esta cenoura aqui no Brasil, Isadora Becker ensina como preparar um igualzinho ao do",
+	"t" : "43. Risotto Roxo de \"A Culpa é das Estrelas\"",
+	"uuid" : "Episode4178549805001110433"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 79,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2161/3965454539001_4158745059001_6.jpg?pubId=3965454539001",
+			"oigid" : 101310713,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/PQTZK6TQEOT8/m3u8/PQTZK6TQEOT8.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Lucille’s serves up fried soul food gold in the heart of the Museum District. Depending on what’s in season, you may find fried green tomatoes or red snapper on the menu. Try to get a table on the charming patio, nestled into the chef’s herb garden.",
+	"t" : "5. Lucille's",
+	"uuid" : "Episode4109982683001110777"
+}

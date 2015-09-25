@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 67,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/422/3965454539001_4121922707001_Screen-Shot-2015-03-19-at-9-58-08-AM.jpg?pubId=3965454539001",
+			"oigid" : -466730605,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/QTF74QWVPWGB/m3u8/QTF74QWVPWGB.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "For a tasty lunch with a side of people watching, head to Spris on Lincoln Road. They offer an extensive pizza menu, along with other Italian & Mediterranean dishes. Quick service makes this a perfect lunch spot for office workers with limited time.",
+	"t" : "4. Spris",
+	"uuid" : "Episode4110114283001110931"
+}

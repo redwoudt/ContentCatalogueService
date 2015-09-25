@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2603/3965454539001_4117525413001_Screen-Shot-2015-03-17-at-1-28-02-PM.jpg?pubId=3965454539001",
+			"oigid" : -517057707,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/UVOR1SBVFVL8/m3u8/UVOR1SBVFVL8.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A nationally awarded independent coffee shop in the heart of downtown Nashville, Crema sources their beans directly from growers around the world to make a darn good cup of coffee. Crema’s baristas even offer coffee classes.",
+	"t" : "7. Crema",
+	"uuid" : "Episode4110114240001110869"
+}

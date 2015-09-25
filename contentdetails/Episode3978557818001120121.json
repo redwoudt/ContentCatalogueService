@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 266,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2413/3965454539001_4003458754001_Italian-pulledpork.jpg?pubId=3965454539001",
+			"oigid" : 1957333881,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/HN7DBX80MUE4/m3u8/HN7DBX80MUE4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Barry make amazing Pulled Pork sandwiches with an Italian twist.",
+	"t" : "Italian Pulled Pork",
+	"uuid" : "Episode3978557818001120121"
+}

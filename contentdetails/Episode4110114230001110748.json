@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1131/3965454539001_4110120208001_qYGZNs-9SzmIrG1yUEYhqA-th.jpg?pubId=3965454539001",
+			"oigid" : -1927123236,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/XXW16FG6Y5TE/m3u8/XXW16FG6Y5TE.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "If you’ve got a big appetite, the veggie burrito at Gorditos has you covered. Top it with the killer chipotle salsa and you’re good to go for the rest of the night.",
+	"t" : "2. Gorditos Healthy Mexican Food",
+	"uuid" : "Episode4110114230001110748"
+}

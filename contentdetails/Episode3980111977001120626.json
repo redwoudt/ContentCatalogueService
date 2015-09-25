@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 123,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/351/3965454539001_3989965008001_TF025-Aojiru.jpg?pubId=3965454539001",
+			"oigid" : 2043544434,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/CWOMPKTEQTDM/m3u8/CWOMPKTEQTDM.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This drink would fit right in at any new, hip juicing bar ... though it was actually developed by a Japanese doctor in the 1940's, who knew then what people know now: these ingredients are a nutrient powerhouse.",
+	"t" : "Aojiru (Japanese Kale Drink)",
+	"uuid" : "Episode3980111977001120626"
+}

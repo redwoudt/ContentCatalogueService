@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 490,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1498/3965454539001_4293202776001_Ticino---Switzerland.jpg?pubId=3965454539001",
+			"oigid" : -668483793,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/8TCSF11VWVLR/m3u8/8TCSF11VWVLR.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "we explore Ticino, the Italian speaking Canton of southern Switzerland for a week of paragliding, bungee jumping, canyoning, a Film Festival and an after party.",
+	"t" : "Ticino, Switzerland",
+	"uuid" : "Episode4291346708001120047"
+}

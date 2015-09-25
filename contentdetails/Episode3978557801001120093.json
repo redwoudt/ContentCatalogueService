@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 238,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1941/3965454539001_4003473651001_crepe-cake.jpg?pubId=3965454539001",
+			"oigid" : 2137203037,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/GT2GYQ94I84H/m3u8/GT2GYQ94I84H.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Sorted Food makes an epic stack of crepes, layered with cream, fresh apples and butterscotch sauce.",
+	"t" : "Apple and Butterscotch Crepe Cake",
+	"uuid" : "Episode3978557801001120093"
+}

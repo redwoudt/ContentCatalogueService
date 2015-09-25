@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 70,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1693/3965454539001_4117525392001_Screen-Shot-2015-03-17-at-1-22-37-PM.jpg?pubId=3965454539001",
+			"oigid" : -222090404,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/29Z4J4S3S8D8/m3u8/29Z4J4S3S8D8.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Dose serves up delicious breakfast sandwiches, pastries and coffee in many wonderful manifestations. The rosemary, egg and ham sandwich and blueberry raisin bran muffins come highly recommended. Beat the crowd by calling in your order ahead of time.",
+	"t" : "1. Dose Coffee and Tea",
+	"uuid" : "Episode4110114236001110876"
+}

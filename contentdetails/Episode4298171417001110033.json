@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 210,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/944/3965454539001_4302648639001_Twister-New-No-text.jpg?pubId=3965454539001",
+			"oigid" : 389282321,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/7CNVZR9QXGC4/m3u8/7CNVZR9QXGC4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Love BBQ chicken pizza? Love things that are twisted? Inspired by the blockbusting movie TWISTER! These bbq chicken twists are so good you won't care that there's a cow flying by... and that's saying something.",
+	"t" : "3. Twister | BBQ Chicken Pizza Twists",
+	"uuid" : "Episode4298171417001110033"
+}

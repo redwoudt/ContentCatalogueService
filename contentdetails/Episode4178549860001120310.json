@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 176,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2127/3965454539001_4230327789001_5mykonoslimpo.jpg?pubId=3965454539001",
+			"oigid" : 1007661110,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/9N3XW8IUH76S/m3u8/9N3XW8IUH76S.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Mykonos é uma das praias mais lindas da Europa, e sua beleza inspira Isadora a fazer um arroz de lula e hortelã com um toque de um ingrediente que remete bem ao Mediterrâneo: limão siciliano.",
+	"t" : "Arroz de Lula e Hortelã",
+	"uuid" : "Episode4178549860001120310"
+}

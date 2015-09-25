@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 331,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1638/3965454539001_4293174244001_Craft-Beer-LONDON-2.jpg?pubId=3965454539001",
+			"oigid" : -1668483785,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/6K9KDAMCK25P/m3u8/6K9KDAMCK25P.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Let us take you on a pub crawl through London to show you the best of the beer scene - from traditional pubs to trend-setting craft breweries!",
+	"t" : "London, England",
+	"uuid" : "Episode4291346707001120055"
+}

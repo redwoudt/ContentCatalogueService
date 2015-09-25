@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/726/3965454539001_4156952426001_2.jpg?pubId=3965454539001",
+			"oigid" : 338956082,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/KEXJ9FGO6UHM/m3u8/KEXJ9FGO6UHM.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Champagne tastes on a lemonade budget? Get an hour of luxury for less at Harrod’s; the food court is home to the most beautiful café, Galvin Demoiselle, where you can easily while away an hour or two enjoying a deluxe hot chocolate.",
+	"t" : "2. Galvin Demoiselle",
+	"uuid" : "Episode4134530374001110834"
+}

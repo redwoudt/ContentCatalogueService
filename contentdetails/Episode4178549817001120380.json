@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 165,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/629/3965454539001_4185410511001_Screen-Shot-2015-04-20-at-5-11-48-PM.jpg?pubId=3965454539001",
+			"oigid" : 957334140,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/AXZJFWO2RHS8/m3u8/AXZJFWO2RHS8.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Um delicioso Tiramissù inspirado pelo filme \"O Filho da Noiva\" é a receita que Isadora Becker ensina nesse episódio.",
+	"t" : "Tiramissu de \"O Filho da Noiva\"",
+	"uuid" : "Episode4178549817001120380"
+}

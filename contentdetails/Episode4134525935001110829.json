@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 68,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/678/3965454539001_4157011856001_5.jpg?pubId=3965454539001",
+			"oigid" : -1301759699,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/JRVMF0LJ66OI/m3u8/JRVMF0LJ66OI.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Cheer yourself up with a spot of tea and cake at Camellia’s. The menu is extensive,  and we recommend you try the antioxidant-rich white tea and decadent orange cake.You’ll want to stay all day, so linger in the tea shop, where you can purchase all t",
+	"t" : "8. Camellia's Tea House",
+	"uuid" : "Episode4134525935001110829"
+}

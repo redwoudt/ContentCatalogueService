@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 3599,
+			"hd" : false,
+			"imageUri" : "http://skychnl-tastemade.s3.amazonaws.com/9BNJL7MN/thumbs/1110530.jpg",
+			"oigid" : -2135881004,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/NBCOIKSQFUCS/m3u8/NBCOIKSQFUCS.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Vitamin See",
+	"t" : "7. Now Playing",
+	"uuid" : "Episode4257929393001110228"
+}

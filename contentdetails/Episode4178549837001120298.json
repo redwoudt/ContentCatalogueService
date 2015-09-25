@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 242,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1500/3965454539001_4179685209001_Sopa-de-Ab-bora-e-Cenoura---Vamos-Pra-Cozinha--02.jpg?pubId=3965454539001",
+			"oigid" : -517502422,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/VFXOOZ7OJCI2/m3u8/VFXOOZ7OJCI2.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Sopa de abóbora aquece a alma e o coração. Você faz esse prato tão simples e fácil em menos de 20 minutos e assim que estiver pronto se delicia com o seu amor.",
+	"t" : "Sopa de Abóbora e Cenoura",
+	"uuid" : "Episode4178549837001120298"
+}

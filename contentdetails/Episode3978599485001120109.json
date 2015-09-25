@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 215,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1482/3965454539001_4001343547001_SF013-PANNA-COTTA.jpg?pubId=3965454539001",
+			"oigid" : -330184339,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5EEV9I6ES8MJ/m3u8/5EEV9I6ES8MJ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A SortedFood take on a traditional panna cotta.",
+	"t" : "White Chocolate Panna Cotta",
+	"uuid" : "Episode3978599485001120109"
+}

@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/251/3965454539001_4117463599001_Screen-Shot-2015-03-17-at-1-02-32-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119573001110894",
+			"sy" : "A delicious array of succulent meats & locally sourced vegetables on the changing-daily menu means your favorites at Margot are likely to change everyday, as well. Tip: Sister restaurant Marche is just around the corner and serves a fabulous brunch.",
+			"t" : "6. Margot Cafe and Bar"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3349/3965454539001_4110123694001_Ek14xg1hRyCbQE8SbcZxjw-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119574001110895",
+			"sy" : "If you’re feeling French…or just love a good brunch, head to Marche Artisan Foods on a Sunday morning. The French toast drizzled in maple syrup and sun-dried tomato and kale quiche are so good you may turn into a Francophile.",
+			"t" : "7. Marche Artisan Foods"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/45/3965454539001_4117463590001_Screen-Shot-2015-03-17-at-1-00-55-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117759001110896",
+			"sy" : "The Treehouse’s lamb neck in a chimichurri rojo sauce is so ridiculously moist that it practically dissolves on the fork before you can get it into your mouth. Come and get it now, it would be “tree-son” not to.",
+			"t" : "5. The Treehouse Restaurant"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2930/3965454539001_4122616046001_3965454539001-4110125719001-DwFMEFKHSeGV4chYwId7Og.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117757001110897",
+			"sy" : "What do you order at Otaku South at Pop? It’s pretty simple, really: Start with the bourbon miso meatballs and pork belly buns and then get the lemon chicken paitan ramen and top it with red chili oil.",
+			"t" : "3. Otaku South at Pop"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3530/3965454539001_4122642257001_3965454539001-4110126319001-w9YK-VWKQAiepDFW4l0oDQ.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117758001110898",
+			"sy" : "Serving legit, locally sourced food with a menu that changes just often enough to keep things exciting, Lockeland Table can satisfy just about any craving. Pork and shrimp dumplings, wood-fired pizzas, and bone-in pork loin are all winners.",
+			"t" : "4. Lockeland Table"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1490/3965454539001_4122602306001_3965454539001-4110126278001-0ZtrsUWTR8O41tsUSxAEDA.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114247001110899",
+			"sy" : "From the quiche to the shrimp and crab cakes to the pasta du jour, everything at Porter House Bistro is so delicately and deliciously prepared, you’ll be hard-pressed not to lick your plate.",
+			"t" : "1. Porter House Bistro"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/742/3965454539001_4122602315001_3965454539001-4110125781001-qy-8QYGDQ5mwOTK9KIWPKA.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117756001110900",
+			"sy" : "Part of Japanese tavern and ramen house Izakaya, Two Ten Jack serves sweet, tender, juicy yakitori – go for the chicken negima.  The shishito peppers are a must-order, as well, but beware: One in every 10 is super spicy.",
+			"t" : "2. Two Ten Jack"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/6GrNLWyyNquSgSu2GeI8iC/19168a7090f4a319826eeef574979e12/connected-devices-thumbnail-nashville-best-east-restaurants.jpg",
+	"nodeid" : "Series140902",
+	"nodetype" : "MENU",
+	"t" : "Best East Restaurants"
+}

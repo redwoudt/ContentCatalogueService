@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2862/3965454539001_4120147682001_Screen-Shot-2015-03-18-at-2-37-36-PM.jpg?pubId=3965454539001",
+			"oigid" : 396278002,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/AXDSBBXXZ0YG/m3u8/AXDSBBXXZ0YG.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Get a group of friends together for Southeast Asian-inspired tapas in the heart of Houston’s Museum District at Ambrosia. Save a little money during happy hour, when all of the drinks are $6.",
+	"t" : "4. Ambrosia",
+	"uuid" : "Episode4109982679001110770"
+}

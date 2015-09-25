@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 342,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1301/3965454539001_4108372594001_DT010--Pulled-Chicken-Sandwich---Day-Tripper-by-Bondi-Har2.jpg?pubId=3965454539001",
+			"oigid" : 367399417,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/YY03NHA2258F/m3u8/YY03NHA2258F.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Chef Guy Turland takes us to a secluded beach to whip up a giant pulled chicken rillette sandwich.",
+	"t" : "Pulled Chicken Sandwich",
+	"uuid" : "Episode4045960825001120249"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 79,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2675/3965454539001_4110138555001_whudYGo1RjiCchSYyHGA7A-th.jpg?pubId=3965454539001",
+			"oigid" : -387969620,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/4AQRJ1N2K1A0/m3u8/4AQRJ1N2K1A0.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You used to only be able to find Ivan Ramen in Japan, but now they’ve come to New York, and everything looks so good you’ll probably end up over ordering. Regardless, you should definitely order the ramen with big chunks of pork and a few starters.",
+	"t" : "5. Ivan Ramen",
+	"uuid" : "Episode4110117777001110956"
+}

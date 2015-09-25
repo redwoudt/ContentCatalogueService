@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 191,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1437/3965454539001_4219238563001_HF-CABIN-KALESTEW-V3-GFX-00-00-05-08-Still001.jpg?pubId=3965454539001",
+			"oigid" : -1596717318,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/YIFJCJR81GVM/m3u8/YIFJCJR81GVM.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A hearty, simmering stew is the perfect way to feed a crowd coming in from the cold.  Kale and White Bean Stew is savory and light, and the perfect “dip” for fresh garlic toast.",
+	"t" : "Kale and White Bean Stew",
+	"uuid" : "Episode4001048939001120506"
+}

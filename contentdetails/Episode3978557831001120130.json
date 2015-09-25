@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 212,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2466/3965454539001_4001423444001_SF032-MEZE.jpg?pubId=3965454539001",
+			"oigid" : 2072432002,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/TWDSJDVS6RFI/m3u8/TWDSJDVS6RFI.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Mike take on a homemade Greek meze. Even though these dishes by themselves are quite simple, together they create an amazing food platter.",
+	"t" : "Greek Meze",
+	"uuid" : "Episode3978557831001120130"
+}

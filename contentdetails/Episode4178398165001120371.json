@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 317,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/993/3965454539001_4230382927001_25bolobranco.jpg?pubId=3965454539001",
+			"oigid" : 1792363123,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5AGMHEPXE275/m3u8/5AGMHEPXE275.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora Becker ensina a fazer o bolo branco do filme Django Livre. Essa receita só leva ingredientes claros, o que simboliza a segregação racial no filme.",
+	"t" : "Bolo Branco de \"Django Livre\" | Comida de Cinema",
+	"uuid" : "Episode4178398165001120371"
+}

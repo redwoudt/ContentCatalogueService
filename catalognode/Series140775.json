@@ -1,0 +1,72 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3433/3965454539001_4158882570001_8.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117738001110764",
+			"sy" : "A fun setting and cuisine inspired by fresh local ingredients make Pondicheri a top Indian food destination in Houston. Highly recommended dishes include the dosas, butter chicken, sautéed grains, vegetable curry and smoked eggplant.",
+			"t" : "9. Pondicheri"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1943/3965454539001_4158843542001_5-1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982680001110766",
+			"sy" : "Mom-and-pop-owned Himalaya Restaurant in the Hillcroft area may be one of the best Indian restaurants in Houston. Try the stellar chicken tikka masala, and be sure to order the super garlicky naan.",
+			"t" : "7. Himalaya Restaurant and Catering"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2753/3965454539001_4158874689001_7.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117737001110767",
+			"sy" : "For Indian cuisine that’s cooked with heart and served in a fine dining setting, the only place to go is Kiran’s, where Chef Kiran has been feeding happy patrons for 10 years. Must-order dishes include the chicken saag and sea bass panipuri.",
+			"t" : "8. Kiran's"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3335/3965454539001_4158831860001_3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117735001110768",
+			"sy" : "Enjoy British pub food with an Indian twist alongside your craft beers and cocktails at Queen Vic. Delicious and hearty dishes include chicken tikka masala, the royale with cheese, lamb curry poutine and the sausage roll.",
+			"t" : "5. Houston's Best Indian Food"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2570/3965454539001_4120159097001_Screen-Shot-2015-03-18-at-2-40-58-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117736001110769",
+			"sy" : "It was named the best Indian restaurant in the country by Travel + Leisure magazine, so you know you’re in for something incredible at Indika. Contemporary and creative dishes include pork belly chaat, seared scallops and ghost pepper vindaloo.",
+			"t" : "6. Indika"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2862/3965454539001_4120147682001_Screen-Shot-2015-03-18-at-2-37-36-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982679001110770",
+			"sy" : "Get a group of friends together for Southeast Asian-inspired tapas in the heart of Houston’s Museum District at Ambrosia. Save a little money during happy hour, when all of the drinks are $6.",
+			"t" : "4. Ambrosia"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3354/3965454539001_4120149687001_Screen-Shot-2015-03-18-at-2-34-59-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114212001110771",
+			"sy" : "Pepper Tree Veggie Cuisine is famous in Houston for their “mock meat” selections. Order your items a la carte or come for the weekday lunch buffet (offered all day on weekends) to try a little of everything.",
+			"t" : "2. Pepper Tree Veggie Cuisine"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1681/3965454539001_4158781431001_2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114213001110772",
+			"sy" : "Shri Balaji Bhavan boasts a huge all-vegetarian menu of authentic South Indian cuisine. The saag paneer and masala dosa are especially good here. And if things get too spicy, you’ll find delicious relief in a sweet lassi or mango shake.",
+			"t" : "3. Shri Balaji Bhavan"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2353/3965454539001_4158794407001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982678001110773",
+			"sy" : "One of Sugarland’s hidden gems for authentic Indian food, Great W’kana Café serves up incredibly tender and flavorful chicken tikka that goes great with their garlic naan.",
+			"t" : "1. Great W'kana Cafe"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/1jSVVRt9DQAuKcIA646gg4/bcda9e122d3387fee8a798d72ec26a8f/connected-devices-thumbnail-houston-best-indian-food.png",
+	"nodeid" : "Series140775",
+	"nodetype" : "MENU",
+	"t" : "Houston's Best Indian Food"
+}

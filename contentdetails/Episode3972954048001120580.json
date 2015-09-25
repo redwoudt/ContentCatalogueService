@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 270,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3932/3965454539001_3976278239001_RVNG009-RASP-TART.jpg?pubId=3965454539001",
+			"oigid" : 756480324,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/THLXMHJLPGK1/m3u8/THLXMHJLPGK1.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Do you have a surplus of walnuts? Do you love using seasonal fruit? Then this is the raw tart for you.",
+	"t" : "Raspberry Tart",
+	"uuid" : "Episode3972954048001120580"
+}

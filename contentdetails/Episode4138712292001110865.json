@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 954,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2434/3965454539001_4138778780001_vlcsnap-2015-03-27-12h16m16s172.jpg?pubId=3965454539001",
+			"oigid" : -56665263,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/7HPYDPV77MN4/m3u8/7HPYDPV77MN4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Harry and Bruce put on their raincoats and head to Seattle for amazing food, cocktails and a ridiculous amount of coffee.",
+	"t" : "9. 24 Seattle Restaurants in 24 Hours",
+	"uuid" : "Episode4138712292001110865"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 230,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2558/3965454539001_4001466208001_SF029-PAELLA.jpg?pubId=3965454539001",
+			"oigid" : 777464707,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/XXVURDQ8LFD6/m3u8/XXVURDQ8LFD6.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "In this episode of Sorted Food @ The Table, Ben and Jamie make a Sorted twist on the iconic Spanish Paella.",
+	"t" : "Paella",
+	"uuid" : "Episode3978557834001120131"
+}

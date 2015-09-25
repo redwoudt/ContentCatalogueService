@@ -1,0 +1,72 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2810/3965454539001_4121865343001_Screen-Shot-2015-03-19-at-9-34-34-AM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117788001110936",
+			"sy" : "Mandolin Aegean Bistro serves delicious, organic Mediterranean food in a beautiful setting – you can visit their garden to see why everything tastes so fresh. Order the grilled octopus & prawns and the baba ghanoush, but save room for Turkish coffee.",
+			"t" : "9. Mandolin Aegean Bistro"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/675/3965454539001_4110142036001_QBdhhtcWSC2x0QwRK3oVog-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117787001110937",
+			"sy" : "Let the fun – and the feasting -- begin at Bourbon Steak’s happy hour! Order the foie gras special if they have it and any of the excellent burgers.",
+			"t" : "8. Bourbon Steak"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/883/3965454539001_4110142009001_idmyzkbURzWzfnec1JTfKQ-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119617001110938",
+			"sy" : "It’s your pick at Lagniappe, where you get to choose your own meats and cheeses directly from the fridge to make your own charcuterie board. The wine and atmosphere are fantastic, so come here for a good time!",
+			"t" : "7. Lagniappe"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1883/3965454539001_4110137715001_Q0Hqo22-R06tEjE9aJceUQ-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119616001110939",
+			"sy" : "Relatively new on the Miami food scene, 27 at The Freehand is making waves and really good food. Order several shareable plates like the vegetable lasagna, kimchi fried rice and red snapper ceviche topped with popcorn.",
+			"t" : "6. 27 Restaurant"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3486/3965454539001_4121865320001_Screen-Shot-2015-03-19-at-9-18-58-AM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114281001110940",
+			"sy" : "La Terrasse serves the usual French cuisine classics like foie gras, duck confit, escargots, crème brulee and French fries, of course! The rack of lamb and truffle pasta are standouts, as well, so you really can’t go wrong ordering anything.",
+			"t" : "4. La Terrasse"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1675/3965454539001_4110141989001_v7vlKnhnQ3iMRMHV0hq7iA-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117786001110941",
+			"sy" : "One of the best restaurants on the entire strip for carnivores, Meat Market specializes in certified Angus beef. The velvety, creamy beef carpaccio is so addictive you may have to order two.",
+			"t" : "5. Meat Market"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3981/3965454539001_4117414490001_Screen-Shot-2015-03-17-at-12-32-59-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117785001110942",
+			"sy" : "Prime Italian is the perfect spot for a girls dinner out. The freshly made pasta is amazing and the seafood is always delicious…but you’ll need to save a lot of room for dessert and the fried Oreos.",
+			"t" : "2. Prime Italian"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2883/3965454539001_4110142017001_12wlHeu0Q46J7lFxvhzezw-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119615001110943",
+			"sy" : "Uvaggio is one of the best wine bars in all of Miami, and the food is divine, as well. You must order the butternut squash gnocchi with garlic and sage crumble, apples and hazelnuts, along with the yoghurt naan bread.",
+			"t" : "3. Uvaggio"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1638/3965454539001_4121864115001_Screen-Shot-2015-03-19-at-9-29-02-AM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114280001110944",
+			"sy" : "Indomania in South Beach serves delectably complex and multilayered Indonesian food. The shrimp curry and shrimp crackers are knockouts, but order the buffet of 18 different dishes to get a taste of virtually the whole menu.",
+			"t" : "1. Indomania"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/3Y9LipmVhSMECwYqG48kgQ/1504da4dce3d0decee7d1125bbbd2199/connected-devices-thumbnail-miami-best-date-spot.jpg",
+	"nodeid" : "Series140946",
+	"nodetype" : "MENU",
+	"t" : "Great Date Spots"
+}

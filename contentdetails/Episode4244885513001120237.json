@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 3603,
+			"hd" : false,
+			"imageUri" : "http://skychnl-tastemade.s3.amazonaws.com/9BNJL7MN/thumbs/1085880.jpg",
+			"oigid" : 1900012013,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/WZF97R97ZX8M/m3u8/WZF97R97ZX8M.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Now Playing - Little Tokyo",
+	"t" : "Little Tokyo",
+	"uuid" : "Episode4244885513001120237"
+}

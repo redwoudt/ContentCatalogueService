@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2467/3965454539001_4110115706001_8S-wsz6zTu2iKhJ9jl90OQ-th.jpg?pubId=3965454539001",
+			"oigid" : 1446604479,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/3SIBW1316GZH/m3u8/3SIBW1316GZH.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "If you love Cajun food or just fresh seafood, Crawfish Shack Seafood is a must-stop on Buford Highway. Go all out and order the “Shacktastic,” with crawfish, snow crab, mussels and more. And on the weekends, there are beignets!",
+	"t" : "5. Crawfish Shack Seafood",
+	"uuid" : "Episode4109935723001110207"
+}

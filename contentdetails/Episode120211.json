@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/2KrikKngtGM6uCIMKmAYWK/055b785a87a68dce335ef439ee111ef8/connected-devices-thumbnail-atlanta-best-buford-highway.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Buford Highway is loaded with international gems, from Cajun Vietnamese at Crawfish Shack to cheap tacos at Taco Veloz. Finish off a great meal with a bubble tea from the super popular Malaysian Bakery the Sweet Hut. Take a trip around the world without leaving Atlanta.",
+	"t" : "The Best of Buford Highway",
+	"uuid" : "Episode120211"
+}

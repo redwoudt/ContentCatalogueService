@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 67,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1349/3965454539001_4185223417001_5.jpg?pubId=3965454539001",
+			"oigid" : 777909121,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/ZFLFSTVUTOAM/m3u8/ZFLFSTVUTOAM.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Linguiça de bacalhau existe sim, e essa delícia é servida no Galeto Sat's. Em sua receita vai cebola, pimentões (verde, amarelo e vermelho), azeitona, ovos, alho e azeite. É um petisco de dar água na boca.",
+	"t" : "5. Linguiça de Bacalhau (Galeto Sat's)",
+	"uuid" : "Episode4173356237001110401"
+}

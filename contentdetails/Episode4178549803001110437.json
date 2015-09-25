@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 253,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/975/3965454539001_4230386309001_39ragu.jpg?pubId=3965454539001",
+			"oigid" : -157773915,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/M00OEU8K484P/m3u8/M00OEU8K484P.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora ensina uma receita super saborosa e perfeita para uma janta inspirada por um dos maiores filmes de todos os tempos: O Poderoso Chefão.",
+	"t" : "39. Ragú de Linguiça de \"O Poderoso Chefão\"",
+	"uuid" : "Episode4178549803001110437"
+}

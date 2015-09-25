@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/4UggZCVXAsGOqE2QAaWO4A/3df337c49d8a8cf2fa1d8cf114ac912c/connected-devices-thumbnail-los-angeles-best-gut-bomb.jpg",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Sometimes you just have to go for it. These spots are where Angelenos go to pack it all in, from AYCE sushi at Midori in the Valley to the gut-busting, late-night sandwiches at Fat Sal's in Westwood. Come hungry!",
+	"t" : "Best Gut Bomb Spots",
+	"uuid" : "Episode120992"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/338/3965454539001_4120503966001_Screen-Shot-2015-03-18-at-6-06-43-PM.jpg?pubId=3965454539001",
+			"oigid" : -294310466,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/G36XF6JYT8DK/m3u8/G36XF6JYT8DK.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Angelo’s Pizzeria is located next to the Ed Sullivan Theater, and when Madonna claimed she’d never tried pizza before, David Letterman took her here. If it’s good enough for Madonna, it’s good enough for you.",
+	"t" : "2. Angelo's Pizzeria",
+	"uuid" : "Episode4110119601001110974"
+}

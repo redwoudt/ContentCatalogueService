@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 127,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3945/3965454539001_3989965017001_TF027-Pog.jpg?pubId=3965454539001",
+			"oigid" : 1043544432,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/Q527PYPX8AI2/m3u8/Q527PYPX8AI2.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "It's Summer. You should be in Hawaii. We should all be in Hawaii. Though if you can't get there, why not make this stellar drink from the Aloha State.",
+	"t" : "POG",
+	"uuid" : "Episode3980111976001120624"
+}

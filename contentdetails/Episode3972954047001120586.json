@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 228,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/932/3965454539001_3976278220001_RVNG003-TOMATO-TART.jpg?pubId=3965454539001",
+			"oigid" : -243519670,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5OFB2LZBUKCB/m3u8/5OFB2LZBUKCB.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You can buy tomatoes at all times of the year, but there's really nothing like a ripe Summer tomato. With that in mind, Laura shows you how to make a delicious, savory tomato tart. Spoiler: it's delicious.",
+	"t" : "Vegan Tomato Tart",
+	"uuid" : "Episode3972954047001120586"
+}

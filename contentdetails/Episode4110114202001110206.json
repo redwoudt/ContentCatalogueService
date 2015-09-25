@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 68,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2101/3965454539001_4110115684001_IrE9ZyAeQwKENDtkcfPDIg-th.jpg?pubId=3965454539001",
+			"oigid" : 137647294,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/AH7ZDB5X9U2H/m3u8/AH7ZDB5X9U2H.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "When the weather outside is frightful, Bo Bo Garden’s three-kind dumpling noodle soup will warm you up from the inside out. The crispy chicken with garlic is yummy, too, and killer lunch deals start at just $5.",
+	"t" : "4. Bo Bo Garden",
+	"uuid" : "Episode4110114202001110206"
+}

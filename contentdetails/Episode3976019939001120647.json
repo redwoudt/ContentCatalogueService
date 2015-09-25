@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 111,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/87/3965454539001_3994345855001_maxresdefault.jpg?pubId=3965454539001",
+			"oigid" : -1596717177,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/EZ6FY6UT4DKM/m3u8/EZ6FY6UT4DKM.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A delicious hot Mexican fruit punch that is perfect on a cold night. Filled with sweet and tangy fruit flavors, this is one of our new favorite winter drinks.",
+	"t" : "Ponche Navideño (Hot Mexican Fruit Punch)",
+	"uuid" : "Episode3976019939001120647"
+}

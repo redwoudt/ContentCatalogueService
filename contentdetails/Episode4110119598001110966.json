@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 59,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3349/3965454539001_4110138657001_MSCFet0ASA6mm2Oy2HW3Ig-th.jpg?pubId=3965454539001",
+			"oigid" : 1000656822,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/AITX7NV8SYQO/m3u8/AITX7NV8SYQO.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "For a lip-schmacking good time, come to Schmackary in Hell’s Kitchen, aka the best cookie joint in New York City. Colossal cookies in an array of flavors are served in a super-cute, fun, gay-friendly environment.",
+	"t" : "1. Schmackary's",
+	"uuid" : "Episode4110119598001110966"
+}

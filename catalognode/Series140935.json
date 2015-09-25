@@ -1,0 +1,51 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3835/3965454539001_4117385379001_Screen-Shot-2015-03-17-at-12-40-24-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117790001110929",
+			"sy" : "Harry’s Pizzeria serves a different kind of pizza and soup every day of the week, so always check out the specials. And be sure to get the out-of-this-world polenta fries served with tomato jam.",
+			"t" : "6. Harry's Pizzeria"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1042/3965454539001_4121921886001_Screen-Shot-2015-03-19-at-9-54-36-AM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119620001110930",
+			"sy" : "A darling of foodies and food writers, Proof Pizza lives up to its reputation with phenomenal dishes like the foie gras pasta, angel hair with crab, and any of the pizzas – the crust is definitely something to write home about.",
+			"t" : "7. Pizzapalooza Miami"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/422/3965454539001_4121922707001_Screen-Shot-2015-03-19-at-9-58-08-AM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114283001110931",
+			"sy" : "For a tasty lunch with a side of people watching, head to Spris on Lincoln Road. They offer an extensive pizza menu, along with other Italian & Mediterranean dishes. Quick service makes this a perfect lunch spot for office workers with limited time.",
+			"t" : "4. Spris"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/165/3965454539001_4110142745001_sO3DheBnSzKWZD0rKqvkmw-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114284001110932",
+			"sy" : "For Neapolitan-style pizza in Little River, head to Iron Side. A ton of great white and red sauce pizza options offers something to please everybody, and the fresh artichoke, parmesan and pine nut salad is fantastic, too.",
+			"t" : "5. Iron Side Pizza"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2254/3965454539001_4121921874001_Screen-Shot-2015-03-19-at-9-51-30-AM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117789001110933",
+			"sy" : "Just because pizza is the cuisine of choice for stoners, lazy people & drunks doesn’t mean it isn’t awesome. Steve’s Pizza serves up slices with a perfectly soft and crunchy crust and a sweet, tangy sauce. If you love meat, order the Steve’s Special.",
+			"t" : "3. Steve's Pizza"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1315/3965454539001_4117414512001_Screen-Shot-2015-03-17-at-12-36-47-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119618001110934",
+			"sy" : "There’s a reason Frankie’s has been around or almost 60 years: Whether you top it with jalapeno, pepperoni, green peppers, or all three, it’s gonna be good. If you’re pressed for time to make dinner, you can even order a half-baked or frozen pie.",
+			"t" : "2. Frankie's Pizza"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/2WSrSjuHW80CsY8OSg8WkW/916149e7a6b37e886cb98ae85cdc4901/connected-devices-thumbnail-miami-best-pizza.jpg",
+	"nodeid" : "Series140935",
+	"nodetype" : "MENU",
+	"t" : "Pizzapalooza"
+}

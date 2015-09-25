@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1883/3965454539001_4110143342001_O0lEVi1dT8SZUpP8mmjypw-th.jpg?pubId=3965454539001",
+			"oigid" : 935885695,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/KMY8S9LMJN2X/m3u8/KMY8S9LMJN2X.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The coffee is delicious and the pastries to-die-for at Panther Coffee: One of their cappuccinos accompanied by a chocolate croissant is as close as you’ll ever get to morning perfection.",
+	"t" : "8. Panther Coffee",
+	"uuid" : "Episode4110119628001110911"
+}

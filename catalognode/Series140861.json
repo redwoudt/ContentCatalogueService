@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/719/3965454539001_4159126379001_6.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982696001110691",
+			"sy" : "Are you brave enough to try chef Joe’s 12th Man Burger at Brave Horse Tavern? Twelve ounces and 12 ingredients for 12 dollars. You’ll want to take some of it home to save room for a Seahawks Jello shot.",
+			"t" : "7. Brave Horse Tavern"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2471/3965454539001_4159082604001_2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114225001110692",
+			"sy" : "You can’t go wrong with fish and chips or a bleu cheese bacon burger, onion rings with Mill sauce and milkshake at Red Mill Totem House. On a nice day, take it to go so you can eat across the street and watch the ships go by at the Ballard Locks.",
+			"t" : "2. Red Mill Totem House"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1263/3965454539001_4159113555001_3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117743001110693",
+			"sy" : "When it starts to rain in Seattle, this is the spot to tuck into a burger … which means you’ll be eating a lot of burgers. Tater tots and a vanilla crème soda make your Rain City Burger experience complete.",
+			"t" : "3. Rain City Burgers"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3033/3965454539001_4159113568001_4.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114226001110694",
+			"sy" : "What do you order at Uneeda Burger? There’s only one answer. Try the French-inspired “Monsieur” with black forest ham, Gruyère, Dijon and truffle fries. Open-air in the summer, cozy in the winter and family-friendly, this place is burger nirvana.",
+			"t" : "6. Uneeda Burger"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1761/3965454539001_4159082593001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114224001110695",
+			"sy" : "Here’s what you order at Burger Boss: The Dub-C Burger (AKA double cheeseburger) and crinkle cut fries with Boss sauce. Prices are low to begin with, and if you sign up for the VIP club, you’ll get free fries when the Seahawks win a game.",
+			"t" : "1. Burger Boss"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3450/3965454539001_4120268551001_Screen-Shot-2015-03-18-at-3-33-28-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982694001110859",
+			"sy" : "High quality ingredients come together for the highest possible purpose in the signature burger with bacon, cheese and garlic aioli at 8oz Burger and Co. on Capital Hill.",
+			"t" : "4. 8oz Burger"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3450/3965454539001_4120268555001_Screen-Shot-2015-03-18-at-3-35-47-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4109982695001110860",
+			"sy" : "Are you ready for the most incredible, juicy, perfect burger you’ve ever tasted? L’il Woody’s delivers with big and small versions of their classically delicious meat and bread creation.",
+			"t" : "5. Li'l Woody's"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/1CcZRd5nSI6O6oKgK0Q8kQ/b0398d9768e4260135e086fe2b101d04/connected-devices-thumbnail-seattle-best-burgers.png",
+	"nodeid" : "Series140861",
+	"nodetype" : "MENU",
+	"t" : "Top Bodacious Burgers"
+}

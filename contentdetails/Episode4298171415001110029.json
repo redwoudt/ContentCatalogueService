@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 666,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3967/3965454539001_4303804737001_The-Birds-New-Thumb-no-text.jpg?pubId=3965454539001",
+			"oigid" : -1610717683,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/RE7NOIPMHQLH/m3u8/RE7NOIPMHQLH.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Recipe inspired by the movie 'The Birds'. Citrus Sage Roast Chicken with Chai Couscous.",
+	"t" : "5. The Birds | Citrus Sage Roast Chicken with Chai Couscous",
+	"uuid" : "Episode4298171415001110029"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 199,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2174/3965454539001_4001351124001_SF008-TURKEY-PIE.jpg?pubId=3965454539001",
+			"oigid" : -992339054,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/DD5RWV7NNU3Q/m3u8/DD5RWV7NNU3Q.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Jamie make Moroccan Turkey Pie.",
+	"t" : "Moroccan Turkey Pie",
+	"uuid" : "Episode3978557858001120146"
+}

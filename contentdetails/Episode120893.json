@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/2qNKQNUnRGqGEgOCCQ00mA/7553dcc79d4bef008deffc8036c5ba04/connected-devices-thumbnail-nashville-best-hot-now.jpg",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Some delicious and inventive restaurants are opening up every month in Music City. Here's a handful that have had the town buzzing with reservation requests. Get out your pencil and start checking them off your to-go list. See you there!",
+	"t" : "Buzzworthy Restaurants",
+	"uuid" : "Episode120893"
+}

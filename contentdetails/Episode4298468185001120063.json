@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 471,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/2639/3965454539001_4298499059001_financiers.jpg?pubId=3965454539001",
+			"oigid" : 317526335,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/IWW9LZA0WA0T/m3u8/IWW9LZA0WA0T.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Financiers são bolinhos feitos com farinha de amêndoas. Essa é a receita francesa que a jornalista Uiara Araújo ensina no Rendez-vous à Paris de hoje.",
+	"t" : "Financiers",
+	"uuid" : "Episode4298468185001120063"
+}

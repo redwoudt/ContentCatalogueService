@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 69,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3433/3965454539001_4158882570001_8.jpg?pubId=3965454539001",
+			"oigid" : -733264148,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/QE3VTJM3M78K/m3u8/QE3VTJM3M78K.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A fun setting and cuisine inspired by fresh local ingredients make Pondicheri a top Indian food destination in Houston. Highly recommended dishes include the dosas, butter chicken, sautéed grains, vegetable curry and smoked eggplant.",
+	"t" : "9. Pondicheri",
+	"uuid" : "Episode4110117738001110764"
+}

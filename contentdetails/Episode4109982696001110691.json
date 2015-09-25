@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/719/3965454539001_4159126379001_6.jpg?pubId=3965454539001",
+			"oigid" : 216408739,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/7E465JS6LHH7/m3u8/7E465JS6LHH7.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Are you brave enough to try chef Joe’s 12th Man Burger at Brave Horse Tavern? Twelve ounces and 12 ingredients for 12 dollars. You’ll want to take some of it home to save room for a Seahawks Jello shot.",
+	"t" : "7. Brave Horse Tavern",
+	"uuid" : "Episode4109982696001110691"
+}

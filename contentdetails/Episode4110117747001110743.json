@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1937/3965454539001_4159174923001_6.jpg?pubId=3965454539001",
+			"oigid" : -323198761,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5F3MK21CDJHQ/m3u8/5F3MK21CDJHQ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You can get breakfast for dinner or dinner for breakfast at Mecca Café, making it the perfect hangover cure spot. Go all out and order the Deck Hand: three poached eggs, crispy hash browns, sausage, bacon and flapjacks. Need a little hair of the dog?",
+	"t" : "5. Mecca Cafe",
+	"uuid" : "Episode4110117747001110743"
+}

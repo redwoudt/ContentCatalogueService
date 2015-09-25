@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3uvyU4Q91mMCkEmSoOKUAq/fbcb66b583351eb7c8462dc977be04bf/connected-devices-thumbnail-los-angeles-best-ramen.jpg",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "If slurping noodles is one of your most cherished past times, this list of ramen hot spots in L.A. will make you say \"arigato\" eight times over! Dip over to Tsujita LA in Little Osaka for tsukemen or stroll into a market for Santouka in Mar Vista.",
+	"t" : "Ramen Run",
+	"uuid" : "Episode121000"
+}

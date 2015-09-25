@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 262,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2781/3965454539001_3978706688001_SF054-DUCK.jpg?pubId=3965454539001",
+			"oigid" : 1547268466,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/AKS2RNHYNLMW/m3u8/AKS2RNHYNLMW.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Barry from Sorted Food make Peking Duck with homemade plum sauce and pancakes.",
+	"t" : "Crispy Peking Duck & Pancakes",
+	"uuid" : "Episode3978557809001120114"
+}

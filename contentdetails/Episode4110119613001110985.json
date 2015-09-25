@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1830/3965454539001_4120495867001_Screen-Shot-2015-03-18-at-5-49-18-PM.jpg?pubId=3965454539001",
+			"oigid" : -1179212343,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/DJF561W160EO/m3u8/DJF561W160EO.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Il Mulino Prime serves mouth-watering steak from Tokyo to New York. Order the orecchiette pasta with broccoli rabe and sausage and a New York steak with signature sauce.",
+	"t" : "6. Il Mulino Prime",
+	"uuid" : "Episode4110119613001110985"
+}

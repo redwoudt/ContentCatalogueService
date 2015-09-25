@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 189,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1857/3965454539001_4230428863001_42pastrami.jpg?pubId=3965454539001",
+			"oigid" : -452741216,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/XL01A120CNYG/m3u8/XL01A120CNYG.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Esse episódio do Comida de Cinema junta dois clássicos: a cena em que Meg Ryan finge ter um orgasmo e o sanduíche de pastrami do Katz, em Nova Iorque.",
+	"t" : "42. Sanduíche de Pastrami do Katz, de \"Harry e Sally\"",
+	"uuid" : "Episode4178549807001110432"
+}

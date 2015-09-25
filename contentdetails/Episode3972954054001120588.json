@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 129,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3932/3965454539001_3976278215001_RVNG002-AVOCADO-PUDDING.jpg?pubId=3965454539001",
+			"oigid" : -1833454260,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/SOM94I6Y7HQO/m3u8/SOM94I6Y7HQO.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Laura Miller shows you how to make an amazing chocolate pudding with an unlikely ingredient: avocados. The flavor and texture alone should get you to make this - but add in how nutritious it is for you and there's no reason not to try this out!",
+	"t" : "Chocolate Avocado Pudding",
+	"uuid" : "Episode3972954054001120588"
+}

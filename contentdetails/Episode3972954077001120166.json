@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 361,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2032/3965454539001_3991465294001_BC007-HUNGER-GAMES-PIG.jpg?pubId=3965454539001",
+			"oigid" : -308291162,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/9IMAKEO27WMY/m3u8/9IMAKEO27WMY.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "2012's The Hunger Games gives us lots of fodder for food. Volunteer as tribute and check out Katniss Lamb Stew (it's Capitol-approved), and stick around for a recreation of the famous Gamemaker's pig scene!",
+	"t" : "The Hunger Games — Gamemaker's Pig and Katniss Lamb Stew",
+	"uuid" : "Episode3972954077001120166"
+}

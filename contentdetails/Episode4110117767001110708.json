@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2031/3965454539001_4159555131001_4.jpg?pubId=3965454539001",
+			"oigid" : -1798035276,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/BJ0DPZZ7LC6S/m3u8/BJ0DPZZ7LC6S.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Some of Ye Chon’s greatest hits include the pork belly, kimchi pancake and any kind of hot noodle dish, but you really can’t go wrong with anything on the menu. And it’s open 24 hours, so you can get your Korean BBQ fix anytime you may need it.",
+	"t" : "5. Ye Chon Restaurant",
+	"uuid" : "Episode4110117767001110708"
+}

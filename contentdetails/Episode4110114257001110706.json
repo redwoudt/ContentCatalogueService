@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2615/3965454539001_4159518702001_6.jpg?pubId=3965454539001",
+			"oigid" : -696927054,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5N0U3GGBS2O4/m3u8/5N0U3GGBS2O4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Authentic Korean food with a modern twist can be found in the Mount Vernon Triangle neighborhood at Mandu. Come for the bibimbap, Korean barbecue tacos and one of the best happy hours in town.",
+	"t" : "6. Mandu",
+	"uuid" : "Episode4110114257001110706"
+}

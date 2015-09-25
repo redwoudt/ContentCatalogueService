@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 68,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/863/3965454539001_4159079149001_5.jpg?pubId=3965454539001",
+			"oigid" : -1222090520,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/UQFA6SR0HPX4/m3u8/UQFA6SR0HPX4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Take your coffee game up a notch by ordering the tasting flight at Slate Coffee Roasters. Try a four-course selection of a pour-over, a deconstructed latte, a cold brew and a dessert course served with specialty roasts from Ethiopia and Rwanda.",
+	"t" : "6. Slate Coffee Bar",
+	"uuid" : "Episode4110114235001110760"
+}

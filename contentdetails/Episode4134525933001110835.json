@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2585/3965454539001_4134736430001_4134525933001-th.jpg?pubId=3965454539001",
+			"oigid" : 993207603,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5S1B8BYLCMDD/m3u8/5S1B8BYLCMDD.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Perfect sweet pick me ups at cakery extraordinaire Hummingbird Bakery.",
+	"t" : "3. Hummingbird Bakery",
+	"uuid" : "Episode4134525933001110835"
+}

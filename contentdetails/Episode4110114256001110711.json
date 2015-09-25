@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2390/3965454539001_4120370369001_Screen-Shot-2015-03-18-at-4-21-11-PM.jpg?pubId=3965454539001",
+			"oigid" : -1696927049,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/NWEC3CZIKDVR/m3u8/NWEC3CZIKDVR.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The sizzling hot and spicy tofu soup is enough reason to visit Lighthouse Tofu in Annandale, but be sure to round out your meal with the delicious seafood pancake, bibimbap and galbi.",
+	"t" : "1. Lighthouse Tofu",
+	"uuid" : "Episode4110114256001110711"
+}

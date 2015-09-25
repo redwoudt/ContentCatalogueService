@@ -1,0 +1,30 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/2639/3965454539001_4298499059001_financiers.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4298468185001120063",
+			"sy" : "Financiers são bolinhos feitos com farinha de amêndoas. Essa é a receita francesa que a jornalista Uiara Araújo ensina no Rendez-vous à Paris de hoje.",
+			"t" : "Financiers"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/479/3965454539001_4298454149001_peixemeuniere.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4291346716001120064",
+			"sy" : "\"À la Meunière\" é o peixe empanado na farinha de trigo e regado com um molho de manteiga e limão. No episódio de hoje, a jornalista Uiara Araújo visita a peixaria Ô de Mer para comprar linguado para depois ensinar como fazer essa receita francesa.",
+			"t" : "Peixe à la Meunière"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/2639/3965454539001_4298499047001_tartetatin.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4291346717001120066",
+			"sy" : "Neste primeiro episódio, a jornalista Uiara Araújo visita o Marché des Enfants Rouges para comprar maçãs e fazer uma Tarte Tatin.",
+			"t" : "Tarte Tatin"
+		}
+	],
+	"imageUri" : "",
+	"nodeid" : "Category4298468185001130063",
+	"nodetype" : "MENU",
+	"t" : "Tastemade Brasil/Rendez Vous a Paris"
+}

@@ -1,0 +1,801 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "",
+			"nodeid" : "",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "thirsty-for"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4290562359001130003",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Featured Episodes"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4290562359001130003",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Thirsty For..."
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "tastemade-tv"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4318697131001130004",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Tastemade TV"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/vX2xc1eifQyKCaqk0sMEe/72d4a1060f9a158d380e87249ff52169/connected-devices-thumbnail-prato-do-dia.png",
+			"nodeid" : "Series140014",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Mohamad Hindi conquistou milhares de fãs como participante do Masterchef Brasil e Luanda Gazoni é dona do site TorradaTorrada. Juntos, os dois vão preparar receitas populares e gostosas, feitas do jeito certo.",
+			"t" : "Prato Do Dia"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4308864532001130008",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade Brasil/Prato Do Dia"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category130014",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade Brasil/S&#233;ries Originais"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/D27l6xdUgoEUEkSEkOuOO/7f41235a6ac6b5ccabebaff6650a9535/connected-devices-thumbnail-a-brit-and-a-broad.png",
+			"nodeid" : "Series140248",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "A Brit and A Broad, hosted by Macca Sherifi and Brianna Wiens, is all about bringing people and places to you at home in a stylish travel video blog.",
+			"t" : "A Brit and a Broad"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4313869328001130016",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/A Brit and a Broad"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "local-flight"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4305734786001130018",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Local Flight"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3q0eyNairCKQY68OQY8iq/b69dfc80b37bf1c72e3d789dae7fd3b0/connected-devices-thumbnail-feeling-pekish.png",
+			"nodeid" : "Series140039",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Feeling Peckish highlights wicked ingredients, easy recipes and young independent artists cooking on a budget. Of course, combining film and food.",
+			"t" : "Feeling Peckish"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4298171410001130021",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Feeling Peckish"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category130039",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Cooking Shows"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6pUxRDMEGQEKaUKskm2wQO/80f304c63d1e33c417f611a26a45148c/connected-devices-thumbnail-vaga-brothers.png",
+			"nodeid" : "Series140060",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Travel with Marko and Alex Ayling: brothers, backpackers, and bloggers on a mission to discover the world by meeting with other young people.",
+			"t" : "Vagabrothers"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4291346703001130041",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Vagabrothers"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category130060",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Food Adventure Shows"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3C41alnuqI8kUU40Cu8i0y/3e52f4165277ab1885e882fb49999881/connected-devices-thumbnail-rendez-vous-a-paris.png",
+			"nodeid" : "Series140067",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "“Rendez-vous\" significa encontro. Em cada episódio, Uiara Araújo, jornalista especializada em gastronomia, visita proprietários de lojas de ingredientes em Paris para depois usá-los em clássicas receitas francesas.",
+			"t" : "Rendez Vous a Paris"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4298468185001130063",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade Brasil/Rendez Vous a Paris"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4298553040001130068",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade Brasil/Vamos pra Cozinha"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6DsXJDCMgMyGWUiIAkK0ag/4f2ecec14e8370f6a1dbaa8ad091b3bf/connected-devices-thumbnail-vamos-pra-cozinha.png",
+			"nodeid" : "Series140301",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Danielle Noce ensina como fazer receitas maravilhosas para quem quer comer mais saudável, mas não abre mão do sabor. Aprenda a fazer Trufas de Frutas Secas para não fugir da dieta, Suco Verde e Amarelo para começar o dia cheio de energia, Sorbet de Manga para se nutrir e se refrescar, Smoothie Chocolatudo que não tem lactose, Macarrão Fácil para salvar a vida naqueles dias corridos e ainda um Folhado de Espinafre com Ricota para comer algo diferente e saudável sem ter muito trabalho na cozinha.",
+			"t" : "Vamos pra Cozinha"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1dhXeCJRSMwM82SU8aYcME/2090ec9eab3572124cd1219f26fd5f4f/connected-devices-thumbnail-tastemade-tv.png",
+			"nodeid" : "Series140197",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Tastemade TV — Brasil",
+			"t" : "Tastemade TV — Brasil"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4300657389001130086",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade Brasil/Tastemade TV"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4300657389001130087",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade Brasil/Epis&#243;dios em Destaque"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4300657389001130087",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade Brasil/Tastemade TV &#8212; Brasil"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category3978557833001130088",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Sorted Food @ The Table"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "in-the-kitchen-garden-cupcakes"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category3972954074001130162",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Bite Club"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category3972954074001130162",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Featured Show"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/47M4Ey97UsUIkmouOAUmMQ/a6020bbd4cb149bf8bdb3afcd4ccd19f/connected-devices-thumbnail-comida-cinema.png",
+			"nodeid" : "Series140475",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "As saborosas receitas que aparecem nos filmes são reproduzidas por Isadora na série \"Comida de Cinema\". Vestida como os personagens das histórias, a apresentadora fala sobre os filmes enquanto ensina como fazer delícias práticas e populares, como o Bolo de Chocolate de \"Matilda\" e a Cerveja Amanteigada de \"Harry Potter\". Pratos mais complexos, como as Codornas de \"A Festa de Babette\" e a Mousse de Salmão de \"O Sentido da Vida\", também fazem parte da lista de 75 episódios.",
+			"t" : "Comida de Cinema"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4278584913001130173",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade Brasil/Comida de Cinema"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/326CJkTFwAuEMaEUyOA8c8/9d15f13d661a50bb371e8db805da9740/connected-devices-thumbnail-highlights.png",
+			"nodeid" : "Series140188",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Hand picked videos from our Tastemade library.",
+			"t" : "Highlights"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category130188",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Highlight Episodes"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1dhXeCJRSMwM82SU8aYcME/2090ec9eab3572124cd1219f26fd5f4f/connected-devices-thumbnail-tastemade-tv.png",
+			"nodeid" : "Series140203",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Highlight Episodes",
+			"t" : "Highlight Episodes"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/2KrikKngtGM6uCIMKmAYWK/055b785a87a68dce335ef439ee111ef8/connected-devices-thumbnail-atlanta-best-buford-highway.png",
+			"nodeid" : "Series140211",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Buford Highway is loaded with international gems, from Cajun Vietnamese at Crawfish Shack to cheap tacos at Taco Veloz. Finish off a great meal with a bubble tea from the super popular Malaysian Bakery the Sweet Hut. Take a trip around the world without leaving Atlanta.",
+			"t" : "The Best of Buford Highway"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category130211",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Video City Guides/Atlanta"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/2WPu9aj35m4a8K2Y8yYOe/bb7e748ada78d9879aa9dcbd7118908a/connected-devices-thumbnail-atlanta-best-southern-biscuits.png",
+			"nodeid" : "Series140219",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "A true southern breakfast means hot fresh biscuits. Atlanta's best are fresh, steamy, flaky and buttery. Add a side of grits and it's the ultimate South in your mouth.",
+			"t" : "The Most Delicious Southern Biscuits"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1VIXvyH2PiUKuq6kYoeCmI/ea7b333d4b6d57102d8b33cfc00c4d07/connected-devices-thumbnail-atlanta-best-bbq.png",
+			"nodeid" : "Series140225",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Smoked meat goodness is legendary in Atlanta, so it's hard to know where to start. From the smoked wings at Fox Brothers BBQ in Edgewood to the legendary brisket and mac & cheese at Community Q in Decatur, you can't go wrong.",
+			"t" : "Badass BBQ"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "raw-vegan-not-gross"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4045960825001130249",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Day Tripper"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3ILxZBTDVKA2uM8gCo6ig6/91e7fe678d2ca235fb39b26ce46f2049/connected-devices-thumbnail-praias-do-mundo.png",
+			"nodeid" : "Series140318",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Isadora leva você a uma viagem pelas praias mais bonitas do mundo através de oito receitas deliciosas. Os pratos são inspirados em lugares como Garopaba (SC) e Trancoso (BA), além de outros litorais famosos, como Mykonos (Grécia) e Shark Bay (Austrália). Aprenda a fazer desde um saboroso Pastel de Camarão a até um Drink de Goiaba e Lichia. Todos os episódios vem com o barulho do mar, para inspirar quem está perto e fazer quem está longe se sentir na praia.",
+			"t" : "Praias do Mundo"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4178549857001130304",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade Brasil/Praias do Mundo"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4173356242001130319",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade Brasil/Cozinha de Boteco &#8212; S&#227;o Paulo"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category4173356237001130324",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade Brasil/Cozinha de Boteco &#8212; Rio de Janeiro"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/cjIL7Y3SVMiOWSQaQ8euY/d5d06e1f14fd62f0f5ce89380c4d82d4/connected-devices-thumbnail-cozinha-de-boteco-sp.png",
+			"nodeid" : "Series140402",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Petiscos a preços acessíveis e em fartas porções para dividir com os amigos são apresentados pelo casal Carol e Duca na série \"Cozinha de Boteco\". Com foco na cidade de São Paulo, os episódios mostram iguarias criativas e deliciosas, como a Coxinha da Dadá (Z Carniceria), os Mini Acarajés (Sotero), as Tulipas Recheadas (Deep Bar 611), o Croquete de Mortadela (Bar do Mané) e a Linguiça Bêbada (Caiubier). Curiosos ainda podem conferir as técnicas utilizadas na preparação de cada prato.",
+			"t" : "Cozinha de Boteco — São Paulo"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/4KpqjHIXbao2aUI4IoySkm/91741de934fb7d8ea33e13fe7a75cd73/connected-devices-thumbnail-cozinha-de-boteco-rj.png",
+			"nodeid" : "Series140408",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Petiscos a preços acessíveis e em fartas porções para dividir com os amigos são apresentados pelo casal Carol e Duca na série \"Cozinha de Boteco\". Com foco na cidade do Rio de Janeiro, os episódios mostram iguarias criativas e deliciosas, como o Infarto Completo (Cachambeer), o Bolinho de Feijoada (Aconchego Carioca), o Bolinho de Queijo com Macarrão (Botto Bar) e a Linguiça de Bacalhau (Galeto Sat's). Curiosos ainda podem conferir as técnicas utilizadas na preparação de cada prato.",
+			"t" : "Cozinha de Boteco — Rio de Janeiro"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/57ZSmkeUyskWuSsS4EA8K6/bad02fedf63356d97158ec7ec92eb5da/connected-devices-thumbnail-hungry-for.png",
+			"nodeid" : "Series140516",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "We show you the best cuisines from around the world, one menu at a time.",
+			"t" : "Hungry For..."
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category3998983190001130483",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Hungry For..."
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category3972982208001130531",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Perennial Plate in the Kitchen"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "day-of-gluttony"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category3972982167001130552",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Coastal"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category3972954057001130563",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Raw. Vegan. Not Gross."
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category3980311468001130685",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Day of Gluttony"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/61myPycY7uagkuCswK0kW6/fd3ab0647daee879e55b3ac3a87cbe00/connected-devices-thumbnail-washington-dc-best-soul-food.png",
+			"nodeid" : "Series140733",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "From the fried chicken at Astro Doughnuts to the BBQ at Hill Country Backyard Barbecue, we promise you'll be smiling all the way home with a full belly and a warm heart at these great D.C. restaurants for soul food.",
+			"t" : "Soul Food Hot Spots"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1CcZRd5nSI6O6oKgK0Q8kQ/b0398d9768e4260135e086fe2b101d04/connected-devices-thumbnail-seattle-best-burgers.png",
+			"nodeid" : "Series140861",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Dining on a tight budget can be a challenge, but it’s also a sport. Our team of penny pinchers get a thrill out of scoring incredible deals on burgers at Dick’s, the right-size burritos at Tacos Chukis and loading up on affordable dim sum at Sun Ya in the International District.",
+			"t" : "Top Bodacious Burgers"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/Qvlzj3lPgGOaSqc6QO2cE/c02c32daed7697b51a4537d41a15357f/connected-devices-thumbnail-washington-dc-best-pupusas.png",
+			"nodeid" : "Series140705",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Looking to get into DC's off-the-beaten-path dining scene? The Salvadorian culinary community in DC is topnotch, and we've got our list of the 7 best pupusas here.",
+			"t" : "Best Pupusas in DC"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category130705",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Video City Guides/Washington DC"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/EiCMXJ9TJmwUmcGG604Wa/a4189fda55b5cee8ce19218bc7f81cf6/connected-devices-thumbnail-washington-dc-best-korean-bbq.png",
+			"nodeid" : "Series140713",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Late-night, midday or even for brunch, you can't go wrong with incredible Korean barbecue. Luckily, in the DMV we have access to one of the top Korean culinary communities in the nation — Annandale, Virginia! Check out our top picks spanning from DC to VA.",
+			"t" : "Korean Barbecue"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/7b2WwRiQ1yCEAi0KQ0i4qE/ff007e9833640cdc586b6935bb779284/connected-devices-thumbnail-washington-dc-best-coffee.png",
+			"nodeid" : "Series140722",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Navigating the world without your invigorating cup of joe? Don't worry, we have your back with these top spots to perk up. You don't want to miss the #protips at these selected locations, too!",
+			"t" : "Perk Up Coffee Spots"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6bEIyFWpLGmEq2OGSUYaYm/03a6e9b72b37c7da5f5221dd25e1f2ef/connected-devices-thumbnail-washington-dc-best-cocktails.png",
+			"nodeid" : "Series140731",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "As DC's notable beverage scene grows, it's difficult to keep tabs on where to grab the craftiest cocktails. Lucky for you, we've scouted the top talent from around the city at these fine establishments. From Sherry to Pisco to Pre-Prohibition Cocktails, DC prides itself on its cutting-edge cocktail game.",
+			"t" : "Craftiest Cocktails"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/59iZEQJ8aIs6UuOsa646qw/8a687ea7c001d45baa85f0dab06e2450/connected-devices-thumbnail-seattle-best-international-district-restaurants.png",
+			"nodeid" : "Series140742",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "The city's International District, including Chinatown and Little Saigon, is truly one of the tastiest neighborhoods to dine around. From the awesome dumplings at Ping's and the knockout banh mi at Saigon Deli to the slurp-able soups at Hue Ky Mi Gia and Samurai, there are lots of big flavors to savor.",
+			"t" : "Exploring the International District"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1LDbgKaVGw0yGKMwY2swaE/63391aabac87d915bc0ff505504cd2d3/connected-devices-thumbnail-seattle-best-hangover-food.png",
+			"nodeid" : "Series140750",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "The prescription for the morning after is to shake it off with a big ol’ breakfast and a Bloody. The Mecca Cafe will take care of that aching head with a tall stack of pancakes, and Kona Kitchen’s ultra-rich eggs Benedict gives you strength to power through until the next happy hour. And those succulent cheesesteaks at Calozzi’s will cure anything that ails you.",
+			"t" : "Hangover Helpers"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category130742",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Video City Guides/Seattle"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1znJVLpddqWeIayKEWUWsS/954d7d6de385b46b712e542a965d5251/connected-devices-thumbnail-seattle-best-cheap-eats.png",
+			"nodeid" : "Series140757",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Dining on a tight budget can be a challenge, but it’s also a sport. Our team of penny pinchers get a thrill out of scoring incredible deals on burgers at Dick’s, the right-size burritos at Tacos Chukis and loading up on affordable dim sum at Sun Ya in the International District.",
+			"t" : "Best Cheap Eats"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/WGQYLi08O4GceWqcwwMYK/893bfe0a48435ebf6e2b27a4fa9156d8/connected-devices-thumbnail-seattle-best-coffee.png",
+			"nodeid" : "Series140765",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "We’re in the center of the universe when it comes to espresso drinks, so coffeehouses with personality rate high on the rave meter. Grab a velvety latte while your barista spins vinyl at Analog or enjoy coffee and wine at the way charming Vif in Fremont. If pastries are a priority, hit up Uptown Espresso and ETG, aka Espresso to Go.",
+			"t" : "Perk Up: Top Coffee Spots"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1jSVVRt9DQAuKcIA646gg4/bcda9e122d3387fee8a798d72ec26a8f/connected-devices-thumbnail-houston-best-indian-food.png",
+			"nodeid" : "Series140775",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "They say that Indian food, once you have it, is quite addicting, so what are you waiting for? Head to Pondicheri in Upper Kirby for a breakfast thali, then go fine dining at Kiran’s in The Galleria. Can’t stop, won’t stop.",
+			"t" : "Houston's Best Indian Food"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/Q01MCypy2ywyqKMqKWCsW/223758ab64cffe89e12a3e14c4a5aab3/connected-devices-thumbnail-houston-best-patios.png",
+			"nodeid" : "Series140782",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Just spend a day at Cottonwood in the Heights or chill on the backyard patio at Lucille’s in the Museum District, and we think you’ll agree: We have fabulous patios in Houston. Go find one.",
+			"t" : "Top Patios in Houston"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category130775",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Video City Guides/Houston"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6wbvJwaaPuK82EUq6omQew/bb48b1739af414dea09c8483866f3ecd/connected-devices-thumbnail-houston-best-coffee.png",
+			"nodeid" : "Series140794",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "It’s never been easier to get a fantastic cup of ‘joe in Houston. For your a great flat white, Blacksmith in Montrose is about as perfect as it gets. Meanwhile, not far away in the ‘trose, Siphon Coffee beckons with a chill environment and siphon coffeemakers that light up the room.",
+			"t" : "Perk Up! 12 Hot Houston Coffee Spots"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/5bEpLGjEfSYGiO4SIUqAkg/7485466de183cc10961ae9eedd6e8796/connected-devices-thumbnail-houston-best-desserts.png",
+			"nodeid" : "Series140804",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "From the cutest of cupcakes crafted with artisanal products at Crave Cupcakes in Uptown Park, to Ooh La La Dessert Boutique in Town & Country Village, your sweet tooth can rejoice in these sweet somethings.",
+			"t" : "Delectable Sweets for Your Sweet Tooth"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/4IJXuGiLbyM62C28esuWMc/179deeff9effd97d043d7af2ed1fb6d8/connected-devices-thumbnail-houston-best-sandwiches.png",
+			"nodeid" : "Series140811",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "You can’t go wrong with anything on the menu at Local Foods in the Rice Village, or with one of the fantastic specimens at Common Bond in Montrose. When it comes to sandwiches, Houston’s got you covered.",
+			"t" : "Best Sandwiches in Houston"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6H5cHyeqhG84yssscUmASS/96671a7bbb90814d0bd7c86625185582/connected-devices-thumbnail-london-best-pub-grub.png",
+			"nodeid" : "Series140819",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Londoners love a good pub and we've got the best here for you. Enjoy top notch roast dinners, including yorkshire puddings the size of your face, at The Pig & Buthcher, The Easton or The Copper Cow. Or if you fancy something a bit different grab a pizza at The Crate Brewery, which brews its own beer, or indulge in Italian tapas at hip The Ape & Bird. It's what Sunday afternoons were made for!",
+			"t" : "Top Pub Grub"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category130819",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Video City Guides/London"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/4pj2i6xiMEiqQ2k08QGeyC/a8688f1e0fb880b61839ed8b0c087df9/connected-devices-thumbnail-london-best-brunch.png",
+			"nodeid" : "Series140828",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Eggs, pancakes, a full English breakfast? There's something for all varieties of brunch lovers in London. Build up an appetite with a quick dip before enjoying your full English at The Lido Cafe, or if you're feeling slightly delicate a big, bold breakie at The Breakfast Club or a spicy bacon naan at Dishoom will sort you right out.",
+			"t" : "Bring on the Brunch"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1LV8rsAbfKWCQc6kgCi8Wq/449fd4503f47f7937705f0c947e540d8/connected-devices-thumbnail-london-best-tea-and-cake.png",
+			"nodeid" : "Series140837",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Brits know their tea and they love their cakes! Devour melt-in-the-mouth brownies at bakery Konditor & Cook, or hybrid cakes at Bea of Bloomsbury. However, if you're looking for pure indulgence, you can't beat a fancy afternoon tea among the palm trees at The Landmark London, or mix it up at Sketch, known as much for it's tea as it's legendary toilets!",
+			"t" : "Time for Tea & Cake"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/2289EnxX1aQieg8iQa4Icu/256d88d2aecd5f79f194c0c5a039af8e/connected-devices-thumbnail-london-best-coffee.png",
+			"nodeid" : "Series140846",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Calling all caffeine fiends, we've got a treat for you in London. Get your coffee buzz among the hustle and bustle of Borough Market, at London's famous Monmouth Coffee, or if you like to enjoy your quality coffee in style, get down to trendy Farringdon and watch it being ground in front of you at Workshop Coffee Co.",
+			"t" : "Perk Up at Top Coffee Spots"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/58wiuMQ57Gwg0iYIIws4eU/143154e971a7e137e036a37d2caa2d03/connected-devices-thumbnail-london-best-hot-now.png",
+			"nodeid" : "Series140853",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "London's food scene has never been so hot! If you want topnotch dining you can't reach much higher heights then Oblix in London's tallest building, The Shard, or Duck & Waffle on the 40th floor of The Heron Tower, open 24 hours. If you want to keep things on ground level, enjoy brunch with a string quartet or cocktails at the trendy Shoreditch boutique Ace Hotel, or eat amongst world-famous Damien Hirst art work at Tramshed. You're in foodie heaven.",
+			"t" : "Buzzworthy London Restaurants"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/5Hf7nf9SZaqkWUCCMeCecm/af62e06c14bb1e8a1096569caabb9528/connected-devices-thumbnail-nashville-coffee-.jpg",
+			"nodeid" : "Series140878",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Need a cuppa joe? Some high octane rocket fuel? A little leaded java? These Nashville brewers can kickstart your day whether you're in West End, East Nashville, Hillsboro or So Bro. Here's some of our favorite places serving cups of lightning.",
+			"t" : "Best Coffee Spots"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/2ksVamdKqwUGaKMOmS02yc/441d40d6ea49953fcf5e205f33a2f1b7/connected-devices-thumbnail-nashville-best-meat-and-three.jpg",
+			"nodeid" : "Series140885",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Wanna eat like you do at your Grandma's house on Sunday? Pork chops, meatloaf, roast beef, or BBQ with the yummiest, carb-iest and cheesiest sides. Visit these cafeterias or family-style dining rooms and wash down the guilty pleasures with some Southern sweet tea.",
+			"t" : "Meat ‘n’ Three"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category130878",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Video City Guides/Nashville"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/2qNKQNUnRGqGEgOCCQ00mA/7553dcc79d4bef008deffc8036c5ba04/connected-devices-thumbnail-nashville-best-hot-now.jpg",
+			"nodeid" : "Series140893",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Some delicious and inventive restaurants are opening up every month in Music City. Here's a handful that have had the town buzzing with reservation requests. Get out your pencil and start checking them off your to-go list. See you there!",
+			"t" : "Buzzworthy Restaurants"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6GrNLWyyNquSgSu2GeI8iC/19168a7090f4a319826eeef574979e12/connected-devices-thumbnail-nashville-best-east-restaurants.jpg",
+			"nodeid" : "Series140902",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "The bridges in and out can get heavy on game nights but here are 7 great reasons to trek on over to Nashville's newest food-loving area. The sun and our appetites rise in the EAST!",
+			"t" : "Best East Restaurants"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3BSLycFZYsogEgQiqo2OCy/98c8ba6b94556d0d8736a707d957e2a8/connected-devices-thumbnail-nashville-best-pizza.jpg",
+			"nodeid" : "Series140909",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Thin crust, thick crust, New York, Chicago, Margherita, Ham & Pineapple. Whatever your preference, Nashville has an impressive devotion to creating great pizza. Here's some of our go-to's when we need Italian ambrosia in the form of a cheesy, tangy pizza pie.",
+			"t" : "Pizzapalooza"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1zMsaLl6zuOkYQioAIU6Io/dbaf9178b555269187f66d2a0a8692c8/connected-devices-thumbnail-miami-best-coffee.jpg",
+			"nodeid" : "Series140917",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "More than just a beverage, coffee is the centerpiece of Miami culture. So much so, Miami even has it's own official coffee break time, aka #305Cafecito. Loyal Miamians can choose to sip $2 Cuban cafecitos at the famous Versailles, experiment with caffeine concoctions at The Alchemist, or even consort with hipsters all day at Panther coffee. ¡Salud!",
+			"t" : "Best Coffee Spots"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category130917",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Video City Guides/Miami"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/hDemM0etXieOgIKIEOGGo/1a99182c51bf1f0f65a3d57cd2adf344/connected-devices-thumbnail-miami-best-seafood.jpg",
+			"nodeid" : "Series140928",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "One of the many benefits of living in a coastal city is the abundance of fresh seafood. Venture down the River District at Garcia's and Casablanca, or stroll along South Beach at De Rodriguez on Ocean and Joe's Take Away. A maritime aphrodisiac is never too far away.",
+			"t" : "Seafood And Eat It"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/2WSrSjuHW80CsY8OSg8WkW/916149e7a6b37e886cb98ae85cdc4901/connected-devices-thumbnail-miami-best-pizza.jpg",
+			"nodeid" : "Series140935",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Whether you are soulmates, haven't yet DTR'd (define the relationship), or just met on Tinder, Miami offers a variety of venues to suit any courtship level. Cozy up in Mandolin's charming garden, people-watch at Meat Market on Lincoln Road, or share wine and charcuterie to the sound of live tunes at Lagniappe — these date night options make your evening memorable, even if your date isn't.",
+			"t" : "Pizzapalooza"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3Y9LipmVhSMECwYqG48kgQ/1504da4dce3d0decee7d1125bbbd2199/connected-devices-thumbnail-miami-best-date-spot.jpg",
+			"nodeid" : "Series140946",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Whether you are soulmates, haven't yet DTR'd (define the relationship), or just met on Tinder, Miami offers a variety of venues to suit any courtship level. Cozy up in Mandolin's charming garden, people-watch at Meat Market on Lincoln Road, or share wine and charcuterie to the sound of live tunes at Lagniappe — these date night options make your evening memorable, even if your date isn't.",
+			"t" : "Great Date Spots"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3p3ruqHWZqoYcAYca4Oscg/64cc7ccd4cb33d34dae17dec719ccdd2/connected-devices-thumbnail-miami-best-hot-now.jpg",
+			"nodeid" : "Series140952",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "From #SobeWFF Burger Bash award winner Pincho Factory in Coral Gables to Scott Conant's new restaurant Corsair in Aventura, these buzzworthy locales are really giving Miami something to talk about.",
+			"t" : "Buzzworthy/Hot Now"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/5ZOVwGyoGA8M2oGY0qoC6G/030ad736696ef04c70ce86d7f3c72aaf/connected-devices-thumbnail-new-york-best-ramen.png",
+			"nodeid" : "Series140959",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Because it's always the right time for a steaming bowl of soup filled to the brim with pork, a soft boiled egg and bouncy noodles. From Momofuku Noodle Bar's nouveau ramen to classic Japanese ramen in Midtown East to an actual ramen burger downtown, these Tastemakers have you covered. Oodles of noodles are coming your way!",
+			"t" : "Rockin’ Ramen"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category130959",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Video City Guides/New York"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6PKj4lWZqgwIgW0cIOwaQM/36b1db1962c0b9561284d399ba55d43c/connected-devices-thumbnail-new-york-best-sugar-buzz.png",
+			"nodeid" : "Series140968",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Life is short, so make it sweet for certain with uptown doughnuts, downtown macarons and the world-class pudding from Sugar Sweet Sunshine.",
+			"t" : "Sugar Buzz"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/Lw340Wo7YW2WM6q2AoMya/07b07a5f0844991d4e6f3ec1400bf835/connected-devices-thumbnail-new-york-best-pizza.png",
+			"nodeid" : "Series140976",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "The city that never sleeps also never stops eating pizza. From the traditional pie shops of the West Village to Motorino's Brussels sprouts and pancetta pizza, the iconic dish is here to stay. Oh, and don't miss the place where Madonna ate her first slice — Angelo's.",
+			"t" : "Pizzapalooza"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1SNsgP0KfeMwkCCawAI6oa/d50eb6f2d9fb824e2023c8f0d93bdef0/connected-devices-thumbnail-new-york-best-breakfast.png",
+			"nodeid" : "Series140984",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "From dumplings on the Lower East Side to Toad in a Hole in Brooklyn, we have you covered! Savory, sweet and everything in between — plus, the spill on how to avoid the super long waits at Clinton Street Baking Company. Waking up has never been so delicious!",
+			"t" : "Breakfast Beat"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/22hnYnRqyYeOaOkmuW2yiI/11ae2fdfca1c815a006eb7bfe82beba5/connected-devices-thumbnail-new-york-best-date-spots.png",
+			"nodeid" : "Series140991",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Put on those fancy duds and pull out the smooth moves. From West Village hit Charlie Bird to Daniel Boulud's pâté and charcuterie on the Upper West Side, there's a date spot here for everyone. Don't miss Brandy Library for a tasting flight to kick off the night.",
+			"t" : "Date Night"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/4UggZCVXAsGOqE2QAaWO4A/3df337c49d8a8cf2fa1d8cf114ac912c/connected-devices-thumbnail-los-angeles-best-gut-bomb.jpg",
+			"nodeid" : "Series140992",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "Sometimes you just have to go for it. These spots are where Angelenos go to pack it all in, from AYCE sushi at Midori in the Valley to the gut-busting, late-night sandwiches at Fat Sal's in Westwood. Come hungry!",
+			"t" : "Best Gut Bomb Spots"
+		},
+		{
+			"imageUri" : "",
+			"nodeid" : "Category130992",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "",
+			"t" : "Tastemade/Video City Guides/Los Angeles"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3uvyU4Q91mMCkEmSoOKUAq/fbcb66b583351eb7c8462dc977be04bf/connected-devices-thumbnail-los-angeles-best-ramen.jpg",
+			"nodeid" : "Series141000",
+			"nodetype" : "MENU",
+			"renderhints" : "{ \"template\": \"3COL\" , \"imagetype\": \"16-9\" }",
+			"sy" : "If slurping noodles is one of your most cherished past times, this list of ramen hot spots in L.A. will make you say \"arigato\" eight times over! Dip over to Tsujita LA in Little Osaka for tsukemen or stroll into a market for Santouka in Mar Vista.",
+			"t" : "Ramen Run"
+		}
+	],
+	"imageUri" : "http://skychnl-tastemade.s3.amazonaws.com/9BNJL7MN/thumbs/1217154.jpg",
+	"nodeid" : "Channel150001",
+	"nodetype" : "MENU",
+	"t" : "Now Playing — Carne Diem"
+}

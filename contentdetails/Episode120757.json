@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1znJVLpddqWeIayKEWUWsS/954d7d6de385b46b712e542a965d5251/connected-devices-thumbnail-seattle-best-cheap-eats.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Dining on a tight budget can be a challenge, but it’s also a sport. Our team of penny pinchers get a thrill out of scoring incredible deals on burgers at Dick’s, the right-size burritos at Tacos Chukis and loading up on affordable dim sum at Sun Ya in the International District.",
+	"t" : "Best Cheap Eats",
+	"uuid" : "Episode120757"
+}

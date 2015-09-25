@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 200,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/921/3965454539001_4230428922001_53brownie.jpg?pubId=3965454539001",
+			"oigid" : -1797581417,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/BZIO598ANEI2/m3u8/BZIO598ANEI2.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "O romance \"Um Lugar Chamado Nothing Hill\" inspira Isadora no Comida de Cinema. Ela ensina a preparar um brownie de chocolate com doce de leite delicioso que vai dar competição pelo último pedaço.",
+	"t" : "53. Brownie de \"Um Lugar Chamado Notting Hill\"",
+	"uuid" : "Episode4178398170001110423"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 116,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1355/3965454539001_4185192115001_3.jpg?pubId=3965454539001",
+			"oigid" : -517058177,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/TUHPPMTTJ966/m3u8/TUHPPMTTJ966.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "As tulipas do Deep Bar 611 são asas de frango recheadas com bacon, queijo coalho, linguiça portuguesa, picles, cenoura e nabo, além de serem empanadas na farinha de rosca para depois serem fritas e servidas com molhos de sua preferência.",
+	"t" : "3. Tulipas Recheadas (Deep Bar 611)",
+	"uuid" : "Episode4173356240001110399"
+}

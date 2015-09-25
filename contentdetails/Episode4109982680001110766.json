@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 57,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1943/3965454539001_4158843542001_5-1.jpg?pubId=3965454539001",
+			"oigid" : 1396277998,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/66Z6DHVVFBUW/m3u8/66Z6DHVVFBUW.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Mom-and-pop-owned Himalaya Restaurant in the Hillcroft area may be one of the best Indian restaurants in Houston. Try the stellar chicken tikka masala, and be sure to order the super garlicky naan.",
+	"t" : "7. Himalaya Restaurant and Catering",
+	"uuid" : "Episode4109982680001110766"
+}

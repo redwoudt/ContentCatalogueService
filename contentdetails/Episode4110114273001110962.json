@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 67,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1165/3965454539001_4110138813001_nQm2K0XfSVKxYbNGPUmBAA-th.jpg?pubId=3965454539001",
+			"oigid" : -1876795982,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/AX27TQKYSOK0/m3u8/AX27TQKYSOK0.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "For colorful cupcakes, a tantalizing array of puddings (try the banana) and more dessert delicacies, head Sugar Sweet Sunshine – they’re even open until 10pm to cover your after-dark sugar fix.",
+	"t" : "4. Sugar Sweet Sunshine",
+	"uuid" : "Episode4110114273001110962"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 66,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/251/3965454539001_4117463599001_Screen-Shot-2015-03-17-at-1-02-32-PM.jpg?pubId=3965454539001",
+			"oigid" : 1770460526,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/IE28KEA7NZ81/m3u8/IE28KEA7NZ81.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A delicious array of succulent meats & locally sourced vegetables on the changing-daily menu means your favorites at Margot are likely to change everyday, as well. Tip: Sister restaurant Marche is just around the corner and serves a fabulous brunch.",
+	"t" : "6. Margot Cafe and Bar",
+	"uuid" : "Episode4110119573001110894"
+}

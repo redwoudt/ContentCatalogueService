@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/693/3965454539001_4313923636001_Ep-6---honduras.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4313869328001110015",
+			"sy" : "Honduras seems to come with a lot of travel warnings, but that didn't stop Macca and Brianna from travelling there and seeing it for themselves.",
+			"t" : "7. Honduras"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3348/3965454539001_4250200313001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4250134924001110235",
+			"sy" : "Macca and Brianna begin their adventure in Vancouver, Canada, before travelling from Mexico City all the way down through Central America to Panama City.",
+			"t" : "1. The adventure starts here"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1770/3965454539001_4239256418001_EP04-guatemala.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4239042835001110238",
+			"sy" : "Guatemala is a bit of a favourite amongst backpackers with nothing but good times to be had, as Macca and Brianna found out for themselves.",
+			"t" : "5. Guatemala"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/290/3965454539001_4243037515001_Belize-1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4239042834001110239",
+			"sy" : "Brianna and Macca head to Caye Caulker, Belize for a little island time. The pair go on a Raggamuffin Tour, sailing and snorkelling along the Caribbean coast, eating and drinking the local fare and soak in the laid back island vibes.",
+			"t" : "4. Caye Caulker, Belize"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3770/3965454539001_4239256412001_EP03-oaxaca.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4239042833001110243",
+			"sy" : "In this episode Macca and Brianna get a little taste of Oaxaca, a city that's famous for its food.",
+			"t" : "3. Oaxaca, Mexico"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2290/3965454539001_4243037509001_Mexico-city2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4239042832001110244",
+			"sy" : "In this episode Macca and Brianna wander the streets of Mexico City, taking in all that it has to offer.",
+			"t" : "2. Mexico City, Mexico"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/6/3965454539001_4243037520001_Vancouver-1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4239042831001110245",
+			"sy" : "Macca Sherifi meets Brianna Wiens in Vancouver for the first time as A Brit and A Broad kick off the start of their adventure travelling through Central America.",
+			"t" : "1. Vancouver, Canada"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/D27l6xdUgoEUEkSEkOuOO/7f41235a6ac6b5ccabebaff6650a9535/connected-devices-thumbnail-a-brit-and-a-broad.png",
+	"nodeid" : "Series140248",
+	"nodetype" : "MENU",
+	"t" : "A Brit and a Broad"
+}

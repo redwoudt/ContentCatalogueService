@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 191,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1174/3965454539001_4001351119001_SF010-WILD-MUSHROOM-NOODLES.jpg?pubId=3965454539001",
+			"oigid" : -740249707,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/63G6GS33YRJZ/m3u8/63G6GS33YRJZ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Mike make a delicious vegetarian noodle dish made from wild mushrooms, and the guys contemplate what really makes a mushroom \"wild\".",
+	"t" : "Wild Mushroom Noodles",
+	"uuid" : "Episode3978599476001120149"
+}

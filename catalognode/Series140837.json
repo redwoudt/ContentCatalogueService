@@ -1,0 +1,65 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/678/3965454539001_4157011856001_5.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134525935001110829",
+			"sy" : "Cheer yourself up with a spot of tea and cake at Camellia’s. The menu is extensive,  and we recommend you try the antioxidant-rich white tea and decadent orange cake.You’ll want to stay all day, so linger in the tea shop, where you can purchase all t",
+			"t" : "8. Camellia's Tea House"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/802/3965454539001_4156968073001_3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134502312001110830",
+			"sy" : "Sip champagne and enjoy an afternoon tea of beautiful scones and delicate pastries in the beautiful lobby of the Landmark. It’s the perfect place to take your mum.",
+			"t" : "6. The Landmark London"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1594/3965454539001_4157002664001_4.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134525934001110831",
+			"sy" : "Get your savory and your sweet with the beautiful and stylish dishes at Sketch. Don’t leave without checking out the trippy multicolor-lighted bathrooms.",
+			"t" : "7. Sketch"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2999/3965454539001_4134736434001_4134530375001-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134530375001110832",
+			"sy" : "Go hybrid at Bea's Of Bloomsbury. The famous cafe is known for it's afternoon teas, townies & duffins. #cake #bloomsbury #tea #h",
+			"t" : "4. Bea's Of Bloomsbury"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3607/3965454539001_4134736439001_4134502311001-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134502311001110833",
+			"sy" : "The cakes at Konditor & Cook are legendary. The perfect place to order your cake from for a big birthday or wedding #cake #lunch",
+			"t" : "5. Time for Tea & Cake"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/726/3965454539001_4156952426001_2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134530374001110834",
+			"sy" : "Champagne tastes on a lemonade budget? Get an hour of luxury for less at Harrod’s; the food court is home to the most beautiful café, Galvin Demoiselle, where you can easily while away an hour or two enjoying a deluxe hot chocolate.",
+			"t" : "2. Galvin Demoiselle"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2585/3965454539001_4134736430001_4134525933001-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134525933001110835",
+			"sy" : "Perfect sweet pick me ups at cakery extraordinaire Hummingbird Bakery.",
+			"t" : "3. Hummingbird Bakery"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3726/3965454539001_4156952415001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134525932001110836",
+			"sy" : "",
+			"t" : "1. Time for Tea & Cake"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/1LV8rsAbfKWCQc6kgCi8Wq/449fd4503f47f7937705f0c947e540d8/connected-devices-thumbnail-london-best-tea-and-cake.png",
+	"nodeid" : "Series140837",
+	"nodetype" : "MENU",
+	"t" : "Time for Tea & Cake"
+}

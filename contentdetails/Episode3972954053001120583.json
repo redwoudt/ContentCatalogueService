@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 216,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3812/3965454539001_3976277731001_RVNG006-GREEN-SHAKE.jpg?pubId=3965454539001",
+			"oigid" : 1461513031,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/V3OVXWDODOEV/m3u8/V3OVXWDODOEV.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Green shakes come in many flavors, but the key is that they are all packed with nutrients that help your day get off to a great start. This week, Laura shows how to make a Blackberry Green Shake.",
+	"t" : "Blackberry Green Shake",
+	"uuid" : "Episode3972954053001120583"
+}

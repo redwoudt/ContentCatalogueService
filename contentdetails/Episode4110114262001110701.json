@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2089/3965454539001_4159552922001_2.jpg?pubId=3965454539001",
+			"oigid" : 8105645,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/V1WRZ7S9O1NC/m3u8/V1WRZ7S9O1NC.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The tamales, plantains and yucca at Don Juan are all fantastic, but the pupusas here are the main draw. Or you can come for late-night Spanish karaoke (complete with disco ball!).",
+	"t" : "3. Don Juan Restaurant",
+	"uuid" : "Episode4110114262001110701"
+}

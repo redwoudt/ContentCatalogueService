@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 356,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/478/3965454539001_4122851436001_3965454539001-4097712446001-3965454539001-3972984043001-CST002-SF-CRAB-SANDWICH-copy.jpg?pubId=3965454539001",
+			"oigid" : -1207636592,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/452W9JYVVMIJ/m3u8/452W9JYVVMIJ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Byron is in San Francisco checking out the iconic Ferry Building and making a Dungeness Crab Sandwich in this episode of Coastal.",
+	"t" : "San Francisco Crab Sandwich",
+	"uuid" : "Episode3972982162001120656"
+}

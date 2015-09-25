@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 270,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1375/3965454539001_4230428903001_47cubanos.jpg?pubId=3965454539001",
+			"oigid" : 1547268701,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/U8DSCMWLWWL4/m3u8/U8DSCMWLWWL4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora ensina a reproduzir em casa o famoso sanduíche cubano do filme \"Chef\", que ajuda a acender o amor pela gastronomia em qualquer um.",
+	"t" : "Sanduíches Cubanos de \"Chef\"",
+	"uuid" : "Episode4178549809001120349"
+}

@@ -1,0 +1,51 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1675/3965454539001_4110138565001_U0UYJMJLR-6Yg1Ie43ZtTA-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117778001110953",
+			"sy" : "Who will win the “Super Bowl” of ramen – Totto or their neighbor Hide-Chan? Totto’s showy pork belly in creamy chicken broth matched up against Hide-Chan’s classic tonkatsu bone broth w/ aromatic black garlic oil…and it’s a tie, which means YOU win.",
+			"t" : "8. The Real Super Bowl"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3165/3965454539001_4110138561001_DKyKoQiHRxGH3j3MOdR99w-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114271001110954",
+			"sy" : "Could that really be a ramen burger? As a matter of fact, it is. A juicy beef patty and slice of bacon sandwiched between two crispy ramen patties equals pure bliss at Ramen Co.",
+			"t" : "6. RAMEN Co by Keizo Shimamoto"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2349/3965454539001_4110138627001_LqYCy0y4R5C52I8bXHjd4A-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119597001110955",
+			"sy" : "Whether your Japanese delicacy of choice is ramen or gyoza, Dojo has you covered. The tonkatsu comes with delectably tender pork and the gyoza are pan fried to golden perfection. Grab a seat by the ramen bar if you can to see the chefs in action.",
+			"t" : "4. Dojo"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2675/3965454539001_4110138555001_whudYGo1RjiCchSYyHGA7A-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117777001110956",
+			"sy" : "You used to only be able to find Ivan Ramen in Japan, but now they’ve come to New York, and everything looks so good you’ll probably end up over ordering. Regardless, you should definitely order the ramen with big chunks of pork and a few starters.",
+			"t" : "5. Ivan Ramen"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1675/3965454539001_4110138612001_1qEOCirVRSOvI79S2m8Y9Q-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117774001110957",
+			"sy" : "The best ramen always seems to be served at tiny holes in the wall and the little six-seat Naruto Ramen is no exception. Go for the succulent seafood miso butter ramen and you’ll leave with a full, happy belly.",
+			"t" : "1. Naruto Ramen"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1942/3965454539001_4120567417001_Screen-Shot-2015-03-18-at-6-15-19-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117776001110958",
+			"sy" : "You’ve got to order ramen when you come to Momofuku – the momofuku with pork belly and spicy miso with chicken are two standouts. And if for some reason you aren’t in the mood for ramen, you can pre-order two whole fried chickens for lunch or dinner.",
+			"t" : "3. Momofuku Noodle Bar"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/5ZOVwGyoGA8M2oGY0qoC6G/030ad736696ef04c70ce86d7f3c72aaf/connected-devices-thumbnail-new-york-best-ramen.png",
+	"nodeid" : "Series140959",
+	"nodetype" : "MENU",
+	"t" : "Rockin’ Ramen"
+}

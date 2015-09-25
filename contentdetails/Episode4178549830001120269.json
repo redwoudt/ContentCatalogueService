@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 191,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2228/3965454539001_4179699047001_Macarr-o-com-Cogumelos-e-Aspargos---Vamos-pra-Cozi.jpg?pubId=3965454539001",
+			"oigid" : 1072432141,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/LYB749I1884U/m3u8/LYB749I1884U.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Macarrão é sempre uma receita rápida e prática ideal para o dia a dia. Nessa versão vegetariana, Dani coloca cogumelos e aspargos para dar um sabor especial.",
+	"t" : "Macarrão com Cogumelos e Aspargos",
+	"uuid" : "Episode4178549830001120269"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2037/3965454539001_4117769765001_Screen-Shot-2015-03-17-at-3-26-56-PM.jpg?pubId=3965454539001",
+			"oigid" : 1115754957,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/CO1BGC6MCVSU/m3u8/CO1BGC6MCVSU.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Iron Chef winner Marc Forgione’s namesake restaurant is one of the most well praised in Tribeca. He combines the flavors of Italy and Southeast Asia to create dishes that are sometimes sweet, sometimes spicy, and always good.",
+	"t" : "3. Marc Forgione",
+	"uuid" : "Episode4110119611001110989"
+}

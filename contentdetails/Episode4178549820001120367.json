@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 248,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3239/3965454539001_4230382966001_29historias.jpg?pubId=3965454539001",
+			"oigid" : -337633169,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/PSDKCT1XBOSV/m3u8/PSDKCT1XBOSV.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora ensina a torta de chocolate preparada por Minny em \"Histórias Cruzadas\". Esta, claro, sem aquele ingrediente especial que ela coloca numa das cenas do filme.",
+	"t" : "Torta de Chocolate da Minny de \"Histórias Cruzadas\"",
+	"uuid" : "Episode4178549820001120367"
+}

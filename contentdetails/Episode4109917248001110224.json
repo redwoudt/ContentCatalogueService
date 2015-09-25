@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 64,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3515/3965454539001_4110113979001_njb-6vL8Rh29Xi4aelGuuQ-th.jpg?pubId=3965454539001",
+			"oigid" : -1106992944,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/M9KIPOUO2KLI/m3u8/M9KIPOUO2KLI.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Lest you think Roswell’s Swallow at the Hollow is all about the baby back ribs, be sure to order the sweet potatoes from across the street at Greenwood’s, as well — the two restaurants share a menu. And save room for pie!",
+	"t" : "1. Swallow At The Hollow",
+	"uuid" : "Episode4109917248001110224"
+}

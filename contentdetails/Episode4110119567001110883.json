@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1766/3965454539001_4122666819001_3965454539001-4110121138001-OiK-gqF-THqBNHHIXOmEIA.jpg?pubId=3965454539001",
+			"oigid" : 65427811,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/9A7EJSN1LDIY/m3u8/9A7EJSN1LDIY.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "For real deal Southern cooking and all-day breakfast, head on over to Wendell Smith’s. Home fries, biscuits, maybe a side of sweet potatoes and greens? Go for all of it. Save room for pecan pie – it tastes like pure heaven.",
+	"t" : "3. Wendell Smith's Restaurant",
+	"uuid" : "Episode4110119567001110883"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/47M4Ey97UsUIkmouOAUmMQ/a6020bbd4cb149bf8bdb3afcd4ccd19f/connected-devices-thumbnail-comida-cinema.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "As saborosas receitas que aparecem nos filmes são reproduzidas por Isadora na série \"Comida de Cinema\". Vestida como os personagens das histórias, a apresentadora fala sobre os filmes enquanto ensina como fazer delícias práticas e populares, como o Bolo de Chocolate de \"Matilda\" e a Cerveja Amanteigada de \"Harry Potter\". Pratos mais complexos, como as Codornas de \"A Festa de Babette\" e a Mousse de Salmão de \"O Sentido da Vida\", também fazem parte da lista de 75 episódios.",
+	"t" : "Comida de Cinema",
+	"uuid" : "Episode120475"
+}

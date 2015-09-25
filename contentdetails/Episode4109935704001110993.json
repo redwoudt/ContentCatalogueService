@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1234/3965454539001_4122012202001_vlcsnap-2015-03-19-10h15m43s227.jpg?pubId=3965454539001",
+			"oigid" : -373525551,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/ZEGMDAYRKC77/m3u8/ZEGMDAYRKC77.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Patience pays off at Tsujita LA. They boil their broth for 60 hours to achieve rich, thick and creamy perfection, with just the right balance of sweetness. Customers need to be patient, too, since there’s usually a line … and you better bring cash.",
+	"t" : "7. Tsujita LA Artisan Noodle",
+	"uuid" : "Episode4109935704001110993"
+}

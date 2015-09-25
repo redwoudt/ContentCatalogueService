@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1433/3965454539001_4158472968001_5.jpg?pubId=3965454539001",
+			"oigid" : 547713299,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/79W5X9GIT5PX/m3u8/79W5X9GIT5PX.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Local Foods serves beautiful salads and sandwiches — the crunchy chicken is an instant classic. Wash it down with the bursting-with-flavor orange grapefruit and mint ade. Don’t worry if you can’t find a seat inside; the patio is plenty charming.",
+	"t" : "8. Local Foods",
+	"uuid" : "Episode4110114211001110803"
+}

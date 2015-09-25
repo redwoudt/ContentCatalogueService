@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 3502,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2765/3965454539001_4187529048001_TASTEMADE-GREEN-thumbnail-120x68.jpg?pubId=3965454539001",
+			"oigid" : -596273008,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/EPP7UHVPCUIX/m3u8/EPP7UHVPCUIX.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Now playing",
+	"t" : "1. \"Go Green\"",
+	"uuid" : "Episode4187398343001110672"
+}

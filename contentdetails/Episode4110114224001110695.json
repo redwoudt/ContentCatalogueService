@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 70,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1761/3965454539001_4159082593001_1.jpg?pubId=3965454539001",
+			"oigid" : 662811303,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/RFLJU6R1G0HP/m3u8/RFLJU6R1G0HP.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Here’s what you order at Burger Boss: The Dub-C Burger (AKA double cheeseburger) and crinkle cut fries with Boss sauce. Prices are low to begin with, and if you sign up for the VIP club, you’ll get free fries when the Seahawks win a game.",
+	"t" : "1. Burger Boss",
+	"uuid" : "Episode4110114224001110695"
+}

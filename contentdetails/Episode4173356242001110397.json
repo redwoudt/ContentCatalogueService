@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 67,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3883/3965454539001_4185223379001_5.jpg?pubId=3965454539001",
+			"oigid" : 1482941821,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/6QO4PHG042KB/m3u8/6QO4PHG042KB.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Linguiça flambada na cachaça acompanhada de purê de mandioca (feito com leite e manteiga de garrafa) e servido com pão, molho rosê e geleia de pimenta. Essa é a deliciosa Linguiça Bêbada do Caiubier.",
+	"t" : "5. Linguiça Bêbada (Caiubier)",
+	"uuid" : "Episode4173356242001110397"
+}

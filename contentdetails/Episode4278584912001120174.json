@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 78,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3525/3965454539001_4278957945001_74revenge.jpg?pubId=3965454539001",
+			"oigid" : 1468053422,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/DQS3F7ZXY68R/m3u8/DQS3F7ZXY68R.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Uma receita super simples e deliciosa de um filme que influenciou muita gente: \"V de Vingança\". Isadora recria o clássico café de manhã que V prepara no filme.",
+	"t" : "Ovos na Cestinha de \"V de Vingança\"",
+	"uuid" : "Episode4278584912001120174"
+}

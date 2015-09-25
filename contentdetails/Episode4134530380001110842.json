@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/790/3965454539001_4156952370001_4.jpg?pubId=3965454539001",
+			"oigid" : 2043988794,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/ZJ6VA9HO6O9O/m3u8/ZJ6VA9HO6O9O.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Where better to get your coffee than in an old, converted, underground male lavatory? The Attendant is certainly one of the most unusual places to order a gingerbread latte and salted caramel brownie, but fear not – it’s classy and clean.",
+	"t" : "4. The Attendant",
+	"uuid" : "Episode4134530380001110842"
+}

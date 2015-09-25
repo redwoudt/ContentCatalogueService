@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 234,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/215/3965454539001_4230408576001_35bridget.jpg?pubId=3965454539001",
+			"oigid" : -1747708505,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/LERXZ8E8MHE1/m3u8/LERXZ8E8MHE1.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Em \"O Diário Bridget Jones\", a protagonista faz uma sopa que fica azul por conta do barbante usado para amarrar o bouquet garni. Neste episódio, Isadora ensina uma deliciosa sopa de alho-poró e aipo que, com umas gotas de corante, fica igual a do fil",
+	"t" : "35. Sopa Azul de \"Bridget Jones\"",
+	"uuid" : "Episode4178549810001110439"
+}

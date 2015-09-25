@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1313/3965454539001_4158533249001_5.jpg?pubId=3965454539001",
+			"oigid" : -1042221297,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/KF0IS1QM39U6/m3u8/KF0IS1QM39U6.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Michael’s Cookie Jar opened with the noble mission of making the best all-butter cookies in the city of Houston. The cookies are divided into four categories — Americana, seasonal, fancy and decorated. You can’t go wrong with any of them!",
+	"t" : "6. Michael's Cookie Jar",
+	"uuid" : "Episode4110114218001110799"
+}

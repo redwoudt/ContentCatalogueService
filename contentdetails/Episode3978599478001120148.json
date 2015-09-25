@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 217,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/174/3965454539001_4001351118001_SF011-BRAISED-BEEF-PASTA.jpg?pubId=3965454539001",
+			"oigid" : 1259750292,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/LQ0YJ2Y4SJWS/m3u8/LQ0YJ2Y4SJWS.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Mike make a homemade pasta designed to impress that special someone - or at the very least the other guys at the table.",
+	"t" : "Braised Beef and Homemade Pasta",
+	"uuid" : "Episode3978599478001120148"
+}

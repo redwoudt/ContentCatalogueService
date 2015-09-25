@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/593/3965454539001_4159460247001_7.jpg?pubId=3965454539001",
+			"oigid" : 295623866,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/24SRYML9BH2D/m3u8/24SRYML9BH2D.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Exceptional espresso means Peregrine is always packed, so come on a weekday if you can. Always ask for the special, which is sure to be amazing.",
+	"t" : "7. Peregrine Espresso",
+	"uuid" : "Episode4110119593001110714"
+}

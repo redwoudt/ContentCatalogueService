@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3883/3965454539001_4110137680001_-e3CwATGQsqxQzEehURB5A-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119614001110983",
+			"sy" : "You can count on great ambience and fantastic food when you order dinner at Charlie Bird. Try the pumpkin and duck ravioli with a side of Brussels sprouts with parmesan and cauliflower with a hint of lemon.",
+			"t" : "7. Charlie Bird"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1830/3965454539001_4120495867001_Screen-Shot-2015-03-18-at-5-49-18-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119613001110985",
+			"sy" : "Il Mulino Prime serves mouth-watering steak from Tokyo to New York. Order the orecchiette pasta with broccoli rabe and sausage and a New York steak with signature sauce.",
+			"t" : "6. Il Mulino Prime"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3349/3965454539001_4117788917001_Screen-Shot-2015-03-17-at-3-28-37-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119612001110986",
+			"sy" : "At Jack’s Wife Freda you’ll want to start with the duck wing appetizer – the meat is so tender it falls off the bone -- followed by the fish of the day. Come to the newer West Village location before word gets out.",
+			"t" : "4. Jack's Wife Freda"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3165/3965454539001_4110137689001_A6QOBdRXTkO-ct4QW32Jpw-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114279001110987",
+			"sy" : "Enjoy a French getaway without the price of airfare at Bar Boulud. Start with a nice glass of wine and the pate before considering the other amazing menu options.",
+			"t" : "5. Bar Boulud"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/37/3965454539001_4117769759001_Screen-Shot-2015-03-17-at-3-24-43-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119610001110988",
+			"sy" : "Come study up on your spirits at Brandy Library, where it’s never stuffy and they’re happy to educate. More than 1600 spirits makes theirs one of the largest collections in the country.",
+			"t" : "2. Brandy Library"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2037/3965454539001_4117769765001_Screen-Shot-2015-03-17-at-3-26-56-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119611001110989",
+			"sy" : "Iron Chef winner Marc Forgione’s namesake restaurant is one of the most well praised in Tribeca. He combines the flavors of Italy and Southeast Asia to create dishes that are sometimes sweet, sometimes spicy, and always good.",
+			"t" : "3. Marc Forgione"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/762/3965454539001_4120486983001_Screen-Shot-2015-03-18-at-5-52-16-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119609001110990",
+			"sy" : "Pylos in the heart of the East Village serves wonderful Greek cuisine that you really must try. Five or six appetizers should be enough to keep two people happy – no need to even order an entrée.",
+			"t" : "1. Pylos"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/22hnYnRqyYeOaOkmuW2yiI/11ae2fdfca1c815a006eb7bfe82beba5/connected-devices-thumbnail-new-york-best-date-spots.png",
+	"nodeid" : "Series140991",
+	"nodetype" : "MENU",
+	"t" : "Date Night"
+}

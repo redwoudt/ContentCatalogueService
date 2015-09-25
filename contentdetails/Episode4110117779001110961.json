@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 69,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/675/3965454539001_4110138755001_GYRglN6pSsKjbbnDA1PD1Q-th.jpg?pubId=3965454539001",
+			"oigid" : 1612030385,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/9J5DUZ7N7EJK/m3u8/9J5DUZ7N7EJK.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Sugar and caffeine make for a tasty midday pick-me-up at Culture Espresso Bar. Try the flat white with a touch of almond milk, but if you want one of their famous cookies, don’t show up until after 11:30am. Bonus: They’ve got free wi-fi.",
+	"t" : "7. Culture Espresso Bar",
+	"uuid" : "Episode4110117779001110961"
+}

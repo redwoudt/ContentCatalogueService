@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 199,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1653/3965454539001_4185327555001_Screen-Shot-2015-04-20-at-4-26-55-PM.jpg?pubId=3965454539001",
+			"oigid" : 641372097,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/SO5LJUFRK033/m3u8/SO5LJUFRK033.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Uma das cenas mais tensas de \"Bastardos Inglórios\", de 2009, é também uma das mais tensas. Isadora ensina a receita do Apfelstrudel pedido pelo coronel Hans Landa no filme.",
+	"t" : "9. Apfelstrudel de \"Bastardos Inglórios\"",
+	"uuid" : "Episode4185119035001110465"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1VIXvyH2PiUKuq6kYoeCmI/ea7b333d4b6d57102d8b33cfc00c4d07/connected-devices-thumbnail-atlanta-best-bbq.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Smoked meat goodness is legendary in Atlanta, so it's hard to know where to start. From the smoked wings at Fox Brothers BBQ in Edgewood to the legendary brisket and mac & cheese at Community Q in Decatur, you can't go wrong.",
+	"t" : "Badass BBQ",
+	"uuid" : "Episode120225"
+}

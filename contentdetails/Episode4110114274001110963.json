@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2165/3965454539001_4110138647001_D4pUCwmbSvGThmYi7kU2BQ-th.jpg?pubId=3965454539001",
+			"oigid" : -876795981,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/M8JT8SX8W75O/m3u8/M8JT8SX8W75O.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Get your gobble, gobble on with Momofuku Milk Bar’s Thanksgiving Day croissant, pumpkin pie cake ball truffles and hot chocolate with extra marshmallows. Come on Cake Walk Saturday, which is like an adult game of musical chairs.",
+	"t" : "5. Momofuku Milk Bar",
+	"uuid" : "Episode4110114274001110963"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 445,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3393/3965454539001_4230438631001_41mariantonieta.jpg?pubId=3965454539001",
+			"oigid" : -502614109,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/PMLL4KNX2A8P/m3u8/PMLL4KNX2A8P.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora Becker se inspira no lindo \"Maria Antonieta\", de Sofia Coppola, e prepara um bolo digno de história: Bolo de Rosas com Chocolate Branco e Framboesas. Maravilhoso!",
+	"t" : "41. Bolo de Rosas com Chocolate Branco e Framboesas de \"Maria Antonieta\"",
+	"uuid" : "Episode4178398167001110435"
+}

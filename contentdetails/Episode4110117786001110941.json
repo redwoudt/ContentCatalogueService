@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1675/3965454539001_4110141989001_v7vlKnhnQ3iMRMHV0hq7iA-th.jpg?pubId=3965454539001",
+			"oigid" : 22095773,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/6NT32OTJBPPT/m3u8/6NT32OTJBPPT.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "One of the best restaurants on the entire strip for carnivores, Meat Market specializes in certified Angus beef. The velvety, creamy beef carpaccio is so addictive you may have to order two.",
+	"t" : "5. Meat Market",
+	"uuid" : "Episode4110117786001110941"
+}

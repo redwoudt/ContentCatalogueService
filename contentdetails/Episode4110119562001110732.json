@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 66,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1329/3965454539001_4159375003001_8.jpg?pubId=3965454539001",
+			"oigid" : -639605044,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/2LVNB2U9041C/m3u8/2LVNB2U9041C.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A combination market and restaurant in the International District, Ping’s serves some of the best dumplings in Seattle. The soup dumplings and pork and chive dumplings are standouts, but do yourself a favor and take the proprietress’ advice.",
+	"t" : "9. Ping's Dumpling House",
+	"uuid" : "Episode4110119562001110732"
+}

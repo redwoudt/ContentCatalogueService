@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 156,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/8/3965454539001_4162243164001_vlcsnap-2015-04-09-00h07m57s221.jpg?pubId=3965454539001",
+			"oigid" : -1754703190,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/T2VSDGNUSJ3Y/m3u8/T2VSDGNUSJ3Y.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This conconut, pistacio and cinnamon topped Israeli concoction is part drink, part dessert, and all delicious.",
+	"t" : "1. Sachlav",
+	"uuid" : "Episode4162146548001110698"
+}

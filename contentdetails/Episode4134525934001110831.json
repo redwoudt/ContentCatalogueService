@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 63,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1594/3965454539001_4157002664001_4.jpg?pubId=3965454539001",
+			"oigid" : 1993207599,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/4KZIOTSQGV8N/m3u8/4KZIOTSQGV8N.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Get your savory and your sweet with the beautiful and stylish dishes at Sketch. Don’t leave without checking out the trippy multicolor-lighted bathrooms.",
+	"t" : "7. Sketch",
+	"uuid" : "Episode4134525934001110831"
+}

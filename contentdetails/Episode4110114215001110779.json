@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1135/3965454539001_4158745043001_3.jpg?pubId=3965454539001",
+			"oigid" : 252745979,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/J0ZNUWQIGM8S/m3u8/J0ZNUWQIGM8S.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A former neighborhood icehouse dating back to 1959, D & T Drive Inn is now an awesome outdoor patio restaurant with 50 beers on tap and a tantalizing menu that isn’t good for the indecisive or anyone on a diet. Go big and order the gumbo.",
+	"t" : "3. D&T Drive Inn",
+	"uuid" : "Episode4110114215001110779"
+}

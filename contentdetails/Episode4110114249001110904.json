@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2131/3965454539001_4110125730001_1-x0C-CNRPycqAtiQwJZyg-th.jpg?pubId=3965454539001",
+			"oigid" : -106992264,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/S9D1N61AO92A/m3u8/S9D1N61AO92A.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Bring your own bottle of wine to DeSano Pizza Bakery, and then sit back to watch the experts toss dough as you enjoy an evening of awesome wood-fired pizza with family and friends.",
+	"t" : "5. DeSano Pizza Bakery",
+	"uuid" : "Episode4110114249001110904"
+}

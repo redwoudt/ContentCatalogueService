@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3879/3965454539001_4159449804001_5.jpg?pubId=3965454539001",
+			"oigid" : 885558470,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/KGSE46S0X7HS/m3u8/KGSE46S0X7HS.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Chinese, Japanese and Peruvian flavors come together beautifully at Jose Andres’ China Chilcano, from the lomo saltado to the siu mai. Be sure to sit at the ceviche bar and ask for the sweetie drops.",
+	"t" : "6. China Chilcano",
+	"uuid" : "Episode4110119585001110726"
+}

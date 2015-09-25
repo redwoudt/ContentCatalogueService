@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 214,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/892/3965454539001_4179730118001_Quibe-Assado---Vamos-pra-Cozinha--08.jpg?pubId=3965454539001",
+			"oigid" : 777454860,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/G94O962TGAX1/m3u8/G94O962TGAX1.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Quibe assado é a mistura perfeita entre comida indulgente e relativamente saudável. Uma porção pequena servida com salada, serve como uma refeição completa para te satisfazer durante o dia.",
+	"t" : "8. Quibe Assado",
+	"uuid" : "Episode4178549834001110284"
+}

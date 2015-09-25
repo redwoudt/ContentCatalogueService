@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2983/3965454539001_4158533212001_3.jpg?pubId=3965454539001",
+			"oigid" : 2101310736,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/UNS88KVPB4QZ/m3u8/UNS88KVPB4QZ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "True to its name, everything at The Chocolate Bar is made with chocolate, from the huge selection of cheesecakes to the to–die-for creamy truffle ice cream.",
+	"t" : "3. The Chocolate Bar",
+	"uuid" : "Episode4109982685001110800"
+}

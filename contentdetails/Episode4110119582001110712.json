@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 53,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2417/3965454539001_4159449855001_1.jpg?pubId=3965454539001",
+			"oigid" : -2114441544,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/2SUPK8AQF849/m3u8/2SUPK8AQF849.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The Korean chicken at BonChon – from the wings to the drumsticks to the white meat breast strips – is the answer to your golden-fried dreams. Be sure to order it with the soy garlic sauce for the full experience.",
+	"t" : "2. BonChon Chicken",
+	"uuid" : "Episode4110119582001110712"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 134,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/609/3965454539001_3989958536001_TF040-MATCHA.jpg?pubId=3965454539001",
+			"oigid" : 2072432485,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/1SV8LCKNPAMP/m3u8/1SV8LCKNPAMP.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "From Kit Kat's to Starbucks, Matcha is popping up everywhere these days. This week, we present the traditional method for making this amazingly creamy, full bodied tea.",
+	"t" : "Matcha",
+	"uuid" : "Episode3975972831001120613"
+}

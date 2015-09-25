@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 177,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/199/3965454539001_4230488470001_66gazpacho.jpg?pubId=3965454539001",
+			"oigid" : 22105162,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/47CQXQPFKG7T/m3u8/47CQXQPFKG7T.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "O filme brasileiro \"Confia em Mim\" foi a inspiração para esse Comida de Cinema. Isadora ensina a receita de um delicioso Gazpacho de Melancia que a Mari, protagonista da história, prepara para um crítico.",
+	"t" : "Gazpacho de Melancia de \"Confia em Mim\"",
+	"uuid" : "Episode4178549786001120330"
+}

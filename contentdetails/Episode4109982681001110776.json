@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/642/3965454539001_4120195024001_Screen-Shot-2015-03-18-at-2-56-17-PM.jpg?pubId=3965454539001",
+			"oigid" : -1898689288,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/P22CAMCYZP3W/m3u8/P22CAMCYZP3W.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Boasting one of Houston’s best outdoor patios, Tiny Boxwoods is a no-brainer brunch destination on a gorgeous Sunday.  The food — whether you order the Caesar salad, burger and fries, or goat cheese and pancetta pizza — lives up to the setting.",
+	"t" : "4. Tiny Boxwoods",
+	"uuid" : "Episode4109982681001110776"
+}

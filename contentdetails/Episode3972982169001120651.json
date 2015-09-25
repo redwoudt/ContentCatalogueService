@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 462,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2976/3965454539001_4093779215001_series-coastal-e09.jpg?pubId=3965454539001",
+			"oigid" : 1497396107,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/OBJ3U8WEDXPY/m3u8/OBJ3U8WEDXPY.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Byron is in Rhode Island foraging for sea life with Chef James of North Restaurant and then cooking up a basted Striped Bass and Potato Salad.",
+	"t" : "Rhode Island Striped Bass",
+	"uuid" : "Episode3972982169001120651"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 145,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/287/3965454539001_3989965076001_TF037-Sorrel.jpg?pubId=3965454539001",
+			"oigid" : 1633479015,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/9J3JUTTXXUOE/m3u8/9J3JUTTXXUOE.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Sorrel is favorite in the Caribbean (and many other parts of the world, where they call it Hibiscus Tea, Agua de Jamaica ... the list goes on).",
+	"t" : "Sorrel",
+	"uuid" : "Episode3980111968001120615"
+}

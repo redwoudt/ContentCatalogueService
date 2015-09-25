@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 3603,
+			"hd" : false,
+			"imageUri" : "http://skychnl-tastemade.s3.amazonaws.com/9BNJL7MN/thumbs/1020301.jpg",
+			"oigid" : 1331960836,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/DB11JGY98OV0/m3u8/DB11JGY98OV0.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Now Playing",
+	"t" : "2. Now Playing - Back to Roots",
+	"uuid" : "Episode4204643113001110532"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 120,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1127/3965454539001_4230327778001_3drinklimpo.jpg?pubId=3965454539001",
+			"oigid" : -1287316185,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/X7MODHB4FDM6/m3u8/X7MODHB4FDM6.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "O Havaí inspira Isadora a fazer um drink perfeito para se tomar na beira da praia aproveitando o sol. O sabor especial vem da mistura de uma fruta do ocidente, a goiaba, e outra do oriente, a lichia.",
+	"t" : "3. Drink Havaiano de Goiaba e Lichia",
+	"uuid" : "Episode4178549862001110311"
+}

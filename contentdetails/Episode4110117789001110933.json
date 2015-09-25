@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2254/3965454539001_4121921874001_Screen-Shot-2015-03-19-at-9-51-30-AM.jpg?pubId=3965454539001",
+			"oigid" : -1272871531,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/JC8N97DLCCGX/m3u8/JC8N97DLCCGX.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Just because pizza is the cuisine of choice for stoners, lazy people & drunks doesn’t mean it isn’t awesome. Steve’s Pizza serves up slices with a perfectly soft and crunchy crust and a sweet, tangy sauce. If you love meat, order the Steve’s Special.",
+	"t" : "3. Steve's Pizza",
+	"uuid" : "Episode4110117789001110933"
+}

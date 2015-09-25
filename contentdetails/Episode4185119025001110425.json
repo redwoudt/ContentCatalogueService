@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 153,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2457/3965454539001_4230438694001_51arancini.jpg?pubId=3965454539001",
+			"oigid" : -768693351,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/NK2K624JQCOM/m3u8/NK2K624JQCOM.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "O filme \"Roubo a Máfia\" foi a inspiração de Isadora nesse Comida de Cinema. Big Al, o chefão de uma das famílias, ensina seu neto a preparar Arancinis, que são deliciosas bolinhas de arroz de risoto recheadas e fritas.",
+	"t" : "51. Arancini de \"Roubo a Máfia\"",
+	"uuid" : "Episode4185119025001110425"
+}

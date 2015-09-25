@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 74,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/303/3965454539001_4159425807001_7.jpg?pubId=3965454539001",
+			"oigid" : 1885558467,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/98K5EV0V3CG8/m3u8/98K5EV0V3CG8.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "It may look like random apartment buildings from the outside, but 2 Birds 1 Stone is actually an awesome bar with great food, too. If proprietor and cocktail master Adam Bernbach is behind the bar, be sure to take advantage & order something special.",
+	"t" : "8. 2 Birds 1 Stone",
+	"uuid" : "Episode4110119586001110723"
+}

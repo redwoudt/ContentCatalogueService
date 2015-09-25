@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/73/3965454539001_4158588310001_5.jpg?pubId=3965454539001",
+			"oigid" : 1806343429,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/OE8VGX7578I8/m3u8/OE8VGX7578I8.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Inspired by the outdoor cafes of Austin, Onion Creek may be the answer to your patio-dining dreams. Crowd-pleasing entrees and snacks like pizza, burgers, salads, nachos and fried pickles, plus a DJ spinning every Wednesday night.",
+	"t" : "5. Onion Creek Coffee House",
+	"uuid" : "Episode4109982689001110789"
+}

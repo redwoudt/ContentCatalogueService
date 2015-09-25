@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 177,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/39/3965454539001_4230386226001_21gazpacho.jpg?pubId=3965454539001",
+			"oigid" : -977904715,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/J6PLZ5YSW8JI/m3u8/J6PLZ5YSW8JI.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Com uma receita digna de Pedro Almodóvar, Isadora Becker faz o Gazpacho delicioso do filme \"Mulheres à Beira de um Ataque de Nervos\".",
+	"t" : "21. Gazpacho de \"Muheres à Beira de um Ataque de Nervos\"",
+	"uuid" : "Episode4178549785001110453"
+}

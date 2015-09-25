@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 57,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1195/3965454539001_4117769721001_Screen-Shot-2015-03-17-at-3-15-13-PM.jpg?pubId=3965454539001",
+			"oigid" : 2123204026,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/L3TW5R9ELYT3/m3u8/L3TW5R9ELYT3.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "If you want to find really good pizza in the Financial District, head Underground. Skip the dollar-a-slice joints and pony up a bit more to get a truly delicious slice of authentically New York, greasy pepperoni pizza – you’re worth it.",
+	"t" : "6. Underground Pizza",
+	"uuid" : "Episode4110114277001110970"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 650,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3342/3965454539001_4293255435001_vlcsnap-2015-06-11-19h27m21s32.jpg?pubId=3965454539001",
+			"oigid" : 1971767945,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/ONGO0KG1U9G4/m3u8/ONGO0KG1U9G4.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "In this episode of Local Flight, Shawn and Brian Means of Dirty Habit get a taste of Matcha green tea during a traditional Japanese Tea Ceremony and take what they learned back to the bar to create their own innovative tea cocktail.",
+	"t" : "2. Matcha Green Tea Cocktail",
+	"uuid" : "Episode4293084745001110153"
+}

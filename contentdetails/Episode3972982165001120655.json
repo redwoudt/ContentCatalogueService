@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 448,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3960/3965454539001_4093723918001_series-coastal-e05.jpg?pubId=3965454539001",
+			"oigid" : 1792363407,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/VKL50KW5PGYN/m3u8/VKL50KW5PGYN.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Byron is in Cayucos, CA learning about Abalone, meeting up with Chef Jensen Lorenzen of The Cass House Inn, and making Steamed Mussels.",
+	"t" : "Cayucos Steamed Mussels",
+	"uuid" : "Episode3972982165001120655"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 59,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1263/3965454539001_4159113555001_3.jpg?pubId=3965454539001",
+			"oigid" : -28231515,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/VJMRB0JIRSV3/m3u8/VJMRB0JIRSV3.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "When it starts to rain in Seattle, this is the spot to tuck into a burger … which means you’ll be eating a lot of burgers. Tater tots and a vanilla crème soda make your Rain City Burger experience complete.",
+	"t" : "3. Rain City Burgers",
+	"uuid" : "Episode4110117743001110693"
+}

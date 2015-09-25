@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 145,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2177/3965454539001_3990005208001_TF042-PricklyPearLimeade.jpg?pubId=3965454539001",
+			"oigid" : 1734587233,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/7CCUNXY32OYN/m3u8/7CCUNXY32OYN.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "When you're drifting along, with the tumbling tumbleweeds, you might set your eyes on a prickly pear, and not know what to do with it. Well, the answer is, this.",
+	"t" : "Prickly Pear Limeade",
+	"uuid" : "Episode3980311457001120609"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 57,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2353/3965454539001_4158794407001_1.jpg?pubId=3965454539001",
+			"oigid" : -603721995,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/WYN7HLZWLXBB/m3u8/WYN7HLZWLXBB.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "One of Sugarland’s hidden gems for authentic Indian food, Great W’kana Café serves up incredibly tender and flavorful chicken tikka that goes great with their garlic naan.",
+	"t" : "1. Great W'kana Cafe",
+	"uuid" : "Episode4109982678001110773"
+}

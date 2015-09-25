@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 497,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3828/3965454539001_3976066785001_BC001-ALIEN-CHESTBURSTER-CAKE.jpg?pubId=3965454539001",
+			"oigid" : -2013323861,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/TMGGOI5RMFN8/m3u8/TMGGOI5RMFN8.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This week's inspiration is the classic 1979 film Alien, so join us as Jack and Laura cook up some amazing dishes inspired by the film, including alien eggs and an edible chestburster cake!",
+	"t" : "Alien — Chestburster Cake and Edible Alien Eggs",
+	"uuid" : "Episode3972954071001120171"
+}

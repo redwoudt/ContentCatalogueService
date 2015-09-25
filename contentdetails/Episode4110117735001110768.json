@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3335/3965454539001_4158831860001_3.jpg?pubId=3965454539001",
+			"oigid" : 561703152,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/LIF5RMYIG98B/m3u8/LIF5RMYIG98B.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Enjoy British pub food with an Indian twist alongside your craft beers and cocktails at Queen Vic. Delicious and hearty dishes include chicken tikka masala, the royale with cheese, lamb curry poutine and the sausage roll.",
+	"t" : "5. Houston's Best Indian Food",
+	"uuid" : "Episode4110117735001110768"
+}

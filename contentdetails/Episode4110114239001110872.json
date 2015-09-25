@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3562/3965454539001_4122670989001_3965454539001-4110121101001---WbA7lvS4e-SZ7DFrx37A.jpg?pubId=3965454539001",
+			"oigid" : -1517057704,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/IXNRWA79KI7O/m3u8/IXNRWA79KI7O.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The Post in East Nashville serves up great coffee and breakfast, including lots of gluten-free options. Come to the Bluegrass brunch on Sunday for waffles…with or without gluten.",
+	"t" : "4. The Post",
+	"uuid" : "Episode4110114239001110872"
+}

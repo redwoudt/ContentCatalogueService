@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 199,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3174/3965454539001_4001351125001_SF007-JERK-CHICKEN.jpg?pubId=3965454539001",
+			"oigid" : 302628243,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/M0EBBW49234P/m3u8/M0EBBW49234P.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Barry make Jerk Chicken with Crispy Potato Skins and Coleslaw - a spicy dish that's great to share with friends.",
+	"t" : "Jerk Chicken",
+	"uuid" : "Episode3978557855001120147"
+}

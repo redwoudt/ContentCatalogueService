@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/37/3965454539001_4117769759001_Screen-Shot-2015-03-17-at-3-24-43-PM.jpg?pubId=3965454539001",
+			"oigid" : 115754956,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/AI5O3RHR258W/m3u8/AI5O3RHR258W.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Come study up on your spirits at Brandy Library, where it’s never stuffy and they’re happy to educate. More than 1600 spirits makes theirs one of the largest collections in the country.",
+	"t" : "2. Brandy Library",
+	"uuid" : "Episode4110119610001110988"
+}

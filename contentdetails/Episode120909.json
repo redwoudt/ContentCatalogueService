@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3BSLycFZYsogEgQiqo2OCy/98c8ba6b94556d0d8736a707d957e2a8/connected-devices-thumbnail-nashville-best-pizza.jpg",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Thin crust, thick crust, New York, Chicago, Margherita, Ham & Pineapple. Whatever your preference, Nashville has an impressive devotion to creating great pizza. Here's some of our go-to's when we need Italian ambrosia in the form of a cheesy, tangy pizza pie.",
+	"t" : "Pizzapalooza",
+	"uuid" : "Episode120909"
+}

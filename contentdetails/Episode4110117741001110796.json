@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 64,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1689/3965454539001_4158522364001_6.jpg?pubId=3965454539001",
+			"oigid" : -2028231412,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/0Q6K5RGR7Y8X/m3u8/0Q6K5RGR7Y8X.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Charming French bakery Dolce Delights is famous for their macarons and petite cakes — you have to try the chocolate mint with an Oreo crust. Dolce also offers coffee, smoothies, panini and even recently started serving wine.",
+	"t" : "7. Dolce Delights",
+	"uuid" : "Episode4110117741001110796"
+}

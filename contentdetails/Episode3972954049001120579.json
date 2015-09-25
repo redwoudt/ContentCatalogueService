@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 233,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/76/3965454539001_3976282586001_RVNG011-PEACH-LAV-POPS.jpg?pubId=3965454539001",
+			"oigid" : 1756480323,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/MK6X15ADHVYK/m3u8/MK6X15ADHVYK.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "One of Laura's Recipes with only a few ingredients? Crazy, right. Good thing these guys are delicious.",
+	"t" : "Peach Lavender Popsicles",
+	"uuid" : "Episode3972954049001120579"
+}

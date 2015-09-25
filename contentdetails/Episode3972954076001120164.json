@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 452,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/336/3965454539001_3991418486001_BC006-PACIFIC-RIM-KAIJU-SALAD.jpg?pubId=3965454539001",
+			"oigid" : -1308291164,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5JZ1ZQL6P9ZX/m3u8/5JZ1ZQL6P9ZX.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This week's recipes are inspired by the Giant Robots vs Giant Monsters extravaganza, Pacific Rim, and in honor of Guillermo Del Toro, we're making a Kaiju salad poised to battle an atmospheric plate of Deep-Sea Scallops.",
+	"t" : "Pacific Rim — Kaiju Salad and Deep Sea Scallops",
+	"uuid" : "Episode3972954076001120164"
+}

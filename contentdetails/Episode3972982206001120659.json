@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 558,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1606/3965454539001_4119664591001_series-local-flight-e11.jpg?pubId=3965454539001",
+			"oigid" : -157309549,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/NZNRYHSCJA4K/m3u8/NZNRYHSCJA4K.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Shawn is in Miami visiting one of the country's best bartenders at The Drunken Dragon, and grabbing a unique ingredient from Little Havana.",
+	"t" : "Sugarcane Cocktail — Miami",
+	"uuid" : "Episode3972982206001120659"
+}

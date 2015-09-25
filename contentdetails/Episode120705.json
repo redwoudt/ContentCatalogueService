@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/Qvlzj3lPgGOaSqc6QO2cE/c02c32daed7697b51a4537d41a15357f/connected-devices-thumbnail-washington-dc-best-pupusas.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Looking to get into DC's off-the-beaten-path dining scene? The Salvadorian culinary community in DC is topnotch, and we've got our list of the 7 best pupusas here.",
+	"t" : "Best Pupusas in DC",
+	"uuid" : "Episode120705"
+}

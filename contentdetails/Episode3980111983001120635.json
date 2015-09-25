@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 124,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1897/3965454539001_4134348463001_vlcsnap-2015-03-25-14h28m48s125.jpg?pubId=3965454539001",
+			"oigid" : -546390149,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/WXJB7JM0JC7J/m3u8/WXJB7JM0JC7J.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Whether it's for its beautiful color, its health benefits, or because you just want to be refreshed, this sweet Summertime beverage is something you have to try.",
+	"t" : "Chicha Morada",
+	"uuid" : "Episode3980111983001120635"
+}

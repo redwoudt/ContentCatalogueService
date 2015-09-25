@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 62,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1529/3965454539001_4159460184001_1.jpg?pubId=3965454539001",
+			"oigid" : 201964746,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/J34XU0NOWM30/m3u8/J34XU0NOWM30.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Jack Rose is known for its whiskey selection, but their seafood dishes will blow you out of the water – order the amazing oysters and scallops. And if you’re new to whiskey, order the tasting flight to find you really love.",
+	"t" : "1. Jack Rose Dining Saloon",
+	"uuid" : "Episode4110117769001110730"
+}

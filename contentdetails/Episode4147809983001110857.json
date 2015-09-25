@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 3603,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/716/3965454539001_4148018027001_th-551c6140e4b0ae45c4b12466-1083021587001.jpg?pubId=3965454539001",
+			"oigid" : -546399927,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/MPPA948BJ8LX/m3u8/MPPA948BJ8LX.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "No description",
+	"t" : "2. Now Playing",
+	"uuid" : "Episode4147809983001110857"
+}

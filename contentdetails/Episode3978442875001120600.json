@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 165,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1815/3965454539001_3990015729001_TF054-MILO-DINO.jpg?pubId=3965454539001",
+			"oigid" : -1172207784,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/ARM3J5H9J8T7/m3u8/ARM3J5H9J8T7.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Most Americans don't know Milo, but pretty much every other kid around the globe loves it. It's a delicious drink, not to mention has a lot of potential for ... experimentation.",
+	"t" : "Milo Dinosaur",
+	"uuid" : "Episode3978442875001120600"
+}

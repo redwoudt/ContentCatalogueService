@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 74,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/131/3965454539001_4110121061001_ZmRkmdluRNyaepn8uSXD9g-th.jpg?pubId=3965454539001",
+			"oigid" : -1812024993,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/X44B8E915KGJ/m3u8/X44B8E915KGJ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Monell’s is housed in a Victorian that’s been standing since 1880. The menu changes daily and includes hearty dishes like mashed potatoes, green beans, country dumpling, ribs and fried chicken.",
+	"t" : "6. Monell's Dining and Catering",
+	"uuid" : "Episode4110114243001110879"
+}

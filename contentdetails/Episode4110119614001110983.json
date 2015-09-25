@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3883/3965454539001_4110137680001_-e3CwATGQsqxQzEehURB5A-th.jpg?pubId=3965454539001",
+			"oigid" : -179212345,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/70U02ZDOOI7E/m3u8/70U02ZDOOI7E.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You can count on great ambience and fantastic food when you order dinner at Charlie Bird. Try the pumpkin and duck ravioli with a side of Brussels sprouts with parmesan and cauliflower with a hint of lemon.",
+	"t" : "7. Charlie Bird",
+	"uuid" : "Episode4110119614001110983"
+}

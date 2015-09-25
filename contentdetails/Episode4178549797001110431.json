@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 209,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/839/3965454539001_4230438662001_45onigiri.jpg?pubId=3965454539001",
+			"oigid" : -1862806625,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/SEV64EL55LFT/m3u8/SEV64EL55LFT.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora ensina a preparar os poderosos Onigiris do filme \"A Viagem de Chihiro\". Esse é um prato delicioso que vai reconfortar qualquer um.",
+	"t" : "45. Onigiri de \"A Viagem de Chihiro\"",
+	"uuid" : "Episode4178549797001110431"
+}

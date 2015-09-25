@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2530/3965454539001_4122666840001_3965454539001-4110125786001-Jw7aasPMTOWH1Bnf8EW-LQ.jpg?pubId=3965454539001",
+			"oigid" : -812024995,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/6P6Z1DKAHPWB/m3u8/6P6Z1DKAHPWB.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The menu at Arnold’s changes every day, but you can usually get the awesome roast beef. The mac and cheese, smoked chicken and pork chops are all fantastic, as well, and the moist, delicious pecan pie is an absolute must.",
+	"t" : "7. Arnold's Country Kitchen",
+	"uuid" : "Episode4110114244001110877"
+}

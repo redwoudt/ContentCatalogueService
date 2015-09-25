@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 66,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3165/3965454539001_4110138649001_N-GhFwscRfiiI8JPOGxUkQ-th.jpg?pubId=3965454539001",
+			"oigid" : 123204016,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/8K6CGNTOVDR8/m3u8/8K6CGNTOVDR8.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "If the way to a woman’s heart is through macarons, Bisous Ciao is about to give your love life a boost. Seasonal flavors like spicy pumpkin are fantastic, as are delicately flavored classics like rose and salted caramel.",
+	"t" : "6. Bisous Ciao Macarons",
+	"uuid" : "Episode4110114275001110960"
+}

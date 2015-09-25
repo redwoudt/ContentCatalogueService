@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 238,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3332/3965454539001_4179732749001_Falafel---Vamos-pra-Cozinha--13.jpg?pubId=3965454539001",
+			"oigid" : 72432149,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/KISZGUSWFY9E/m3u8/KISZGUSWFY9E.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Falafel é uma deliciosa receita para juntar os amigos e servir um lanche saudável no final de semana. Dani ensina esse prato ótimo nesse episódio.",
+	"t" : "Falafel",
+	"uuid" : "Episode4178549829001120277"
+}

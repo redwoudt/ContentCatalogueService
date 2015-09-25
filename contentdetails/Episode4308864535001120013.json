@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 371,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/485/3965454539001_4313515862001_canjica-brulee.jpg?pubId=3965454539001",
+			"oigid" : -1869791987,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/N7FB87YIMIW2/m3u8/N7FB87YIMIW2.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Luanda e Mohamad preparam uma Canjica Brûlée em homenagem às festas juninas desse mês. Nada melhor que um prato temático, né?",
+	"t" : "Canjica Brûlée",
+	"uuid" : "Episode4308864535001120013"
+}

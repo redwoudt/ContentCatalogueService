@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 141,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3579/3965454539001_4185327505001_3.jpg?pubId=3965454539001",
+			"oigid" : 367399560,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/NC5HC4FXGSDB/m3u8/NC5HC4FXGSDB.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Chocolate é tão gostoso que é capaz de transformar vidas! Isadora Becker ensina a fazer deliciosas trufas com chá Earl Grey, inspiradas no filme Chocolate, de 2000.",
+	"t" : "Trufas de Chocolate de \"Chocolate\"",
+	"uuid" : "Episode4178549825001120392"
+}

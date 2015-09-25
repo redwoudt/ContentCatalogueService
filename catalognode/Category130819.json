@@ -1,0 +1,44 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6H5cHyeqhG84yssscUmASS/96671a7bbb90814d0bd7c86625185582/connected-devices-thumbnail-london-best-pub-grub.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120819",
+			"sy" : "Londoners love a good pub and we've got the best here for you. Enjoy top notch roast dinners, including yorkshire puddings the size of your face, at The Pig & Buthcher, The Easton or The Copper Cow. Or if you fancy something a bit different grab a pizza at The Crate Brewery, which brews its own beer, or indulge in Italian tapas at hip The Ape & Bird. It's what Sunday afternoons were made for!",
+			"t" : "Top Pub Grub"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/4pj2i6xiMEiqQ2k08QGeyC/a8688f1e0fb880b61839ed8b0c087df9/connected-devices-thumbnail-london-best-brunch.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120828",
+			"sy" : "Eggs, pancakes, a full English breakfast? There's something for all varieties of brunch lovers in London. Build up an appetite with a quick dip before enjoying your full English at The Lido Cafe, or if you're feeling slightly delicate a big, bold breakie at The Breakfast Club or a spicy bacon naan at Dishoom will sort you right out.",
+			"t" : "Bring on the Brunch"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1LV8rsAbfKWCQc6kgCi8Wq/449fd4503f47f7937705f0c947e540d8/connected-devices-thumbnail-london-best-tea-and-cake.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120837",
+			"sy" : "Brits know their tea and they love their cakes! Devour melt-in-the-mouth brownies at bakery Konditor & Cook, or hybrid cakes at Bea of Bloomsbury. However, if you're looking for pure indulgence, you can't beat a fancy afternoon tea among the palm trees at The Landmark London, or mix it up at Sketch, known as much for it's tea as it's legendary toilets!",
+			"t" : "Time for Tea & Cake"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/2289EnxX1aQieg8iQa4Icu/256d88d2aecd5f79f194c0c5a039af8e/connected-devices-thumbnail-london-best-coffee.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120846",
+			"sy" : "Calling all caffeine fiends, we've got a treat for you in London. Get your coffee buzz among the hustle and bustle of Borough Market, at London's famous Monmouth Coffee, or if you like to enjoy your quality coffee in style, get down to trendy Farringdon and watch it being ground in front of you at Workshop Coffee Co.",
+			"t" : "Perk Up at Top Coffee Spots"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/58wiuMQ57Gwg0iYIIws4eU/143154e971a7e137e036a37d2caa2d03/connected-devices-thumbnail-london-best-hot-now.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120853",
+			"sy" : "London's food scene has never been so hot! If you want topnotch dining you can't reach much higher heights then Oblix in London's tallest building, The Shard, or Duck & Waffle on the 40th floor of The Heron Tower, open 24 hours. If you want to keep things on ground level, enjoy brunch with a string quartet or cocktails at the trendy Shoreditch boutique Ace Hotel, or eat amongst world-famous Damien Hirst art work at Tramshed. You're in foodie heaven.",
+			"t" : "Buzzworthy London Restaurants"
+		}
+	],
+	"imageUri" : "",
+	"nodeid" : "Category130819",
+	"nodetype" : "MENU",
+	"t" : "Tastemade/Video City Guides/London"
+}

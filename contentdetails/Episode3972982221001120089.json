@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 204,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3108/3965454539001_3976321432001_SF002-PEAR-LATTICE.jpg?pubId=3965454539001",
+			"oigid" : 1957787993,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/KH2AXD6Z4V9Z/m3u8/KH2AXD6Z4V9Z.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Barry go after the group's sweet tooth with a delicious pear and cranberry lattice.",
+	"t" : "Pear and Cranberry Lattice",
+	"uuid" : "Episode3972982221001120089"
+}

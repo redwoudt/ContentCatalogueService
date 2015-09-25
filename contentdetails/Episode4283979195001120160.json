@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 159,
+			"hd" : false,
+			"imageUri" : "http://skychnl-tastemade.s3.amazonaws.com/9BNJL7MN/thumbs/1160883.jpg",
+			"oigid" : 1727591840,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/64EJAKADZC5B/m3u8/64EJAKADZC5B.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This tea-like Peruvian drink has been sold on the streets of Lima for over a hundred years and is renowned for is't refreshing taste and medicinal properties.",
+	"t" : "Emoliente",
+	"uuid" : "Episode4283979195001120160"
+}

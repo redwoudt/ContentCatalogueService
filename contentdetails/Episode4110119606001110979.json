@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 57,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3883/3965454539001_4110139381001_HKvkb1OaS5WXEofCW-aWGw-th.jpg?pubId=3965454539001",
+			"oigid" : 410722243,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/WTV6HV8CRF1I/m3u8/WTV6HV8CRF1I.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Whether you top your toasted-everything bagel with tofu scallion cream cheese or bacon, eggs and cheese, you can count on Terrace to serve the best bagels in Brooklyn. Prospect Park is just a block away.",
+	"t" : "3. Terrace Bagels",
+	"uuid" : "Episode4110119606001110979"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 63,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/879/3965454539001_4159449819001_3.jpg?pubId=3965454539001",
+			"oigid" : -1286861632,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/4R64FLQUQXE1/m3u8/4R64FLQUQXE1.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Tryst is a coffee house, cafe and a full bar rolled up into one cozy package, so you really can have it all here -- from a latte and apple pie to a beer and nachos.",
+	"t" : "3. Washington, D.C. Perk Up Coffee Spots",
+	"uuid" : "Episode4110114265001110720"
+}

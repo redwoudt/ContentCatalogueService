@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3851/3965454539001_4117751973001_Screen-Shot-2015-03-17-at-3-12-03-PM.jpg?pubId=3965454539001",
+			"oigid" : 1123204025,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/NKODG29IUN93/m3u8/NKODG29IUN93.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Plenty of places vie for the title of best pizza in New York, and Saluggi’s is definitely a contender because they make their own mozzarella. Whether you order classic pepperoni, or any other pie, the fresh taste of handmade mozzarella shines through",
+	"t" : "5. Saluggi's",
+	"uuid" : "Episode4110114276001110969"
+}

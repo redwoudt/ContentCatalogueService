@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 131,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1687/3965454539001_3989958517001_TF026-MoroccanMintTea.jpg?pubId=3965454539001",
+			"oigid" : 453609843,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/RKJXZJ3LD1HE/m3u8/RKJXZJ3LD1HE.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Even in the dead of Summer, people are drinking this sweet, full bodied tea. And though the ingredients are simple, the technique takes some practice - thankfully the end result is worth it.",
+	"t" : "Moroccan Mint Tea",
+	"uuid" : "Episode3980111984001120627"
+}

@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/vX2xc1eifQyKCaqk0sMEe/72d4a1060f9a158d380e87249ff52169/connected-devices-thumbnail-prato-do-dia.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120014",
+			"sy" : "Mohamad Hindi conquistou milhares de fãs como participante do Masterchef Brasil e Luanda Gazoni é dona do site TorradaTorrada. Juntos, os dois vão preparar receitas populares e gostosas, feitas do jeito certo.",
+			"t" : "Prato Do Dia"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3C41alnuqI8kUU40Cu8i0y/3e52f4165277ab1885e882fb49999881/connected-devices-thumbnail-rendez-vous-a-paris.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120067",
+			"sy" : "“Rendez-vous\" significa encontro. Em cada episódio, Uiara Araújo, jornalista especializada em gastronomia, visita proprietários de lojas de ingredientes em Paris para depois usá-los em clássicas receitas francesas.",
+			"t" : "Rendez Vous a Paris"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6DsXJDCMgMyGWUiIAkK0ag/4f2ecec14e8370f6a1dbaa8ad091b3bf/connected-devices-thumbnail-vamos-pra-cozinha.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120301",
+			"sy" : "Danielle Noce ensina como fazer receitas maravilhosas para quem quer comer mais saudável, mas não abre mão do sabor. Aprenda a fazer Trufas de Frutas Secas para não fugir da dieta, Suco Verde e Amarelo para começar o dia cheio de energia, Sorbet de Manga para se nutrir e se refrescar, Smoothie Chocolatudo que não tem lactose, Macarrão Fácil para salvar a vida naqueles dias corridos e ainda um Folhado de Espinafre com Ricota para comer algo diferente e saudável sem ter muito trabalho na cozinha.",
+			"t" : "Vamos pra Cozinha"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3ILxZBTDVKA2uM8gCo6ig6/91e7fe678d2ca235fb39b26ce46f2049/connected-devices-thumbnail-praias-do-mundo.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120318",
+			"sy" : "Isadora leva você a uma viagem pelas praias mais bonitas do mundo através de oito receitas deliciosas. Os pratos são inspirados em lugares como Garopaba (SC) e Trancoso (BA), além de outros litorais famosos, como Mykonos (Grécia) e Shark Bay (Austrália). Aprenda a fazer desde um saboroso Pastel de Camarão a até um Drink de Goiaba e Lichia. Todos os episódios vem com o barulho do mar, para inspirar quem está perto e fazer quem está longe se sentir na praia.",
+			"t" : "Praias do Mundo"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/cjIL7Y3SVMiOWSQaQ8euY/d5d06e1f14fd62f0f5ce89380c4d82d4/connected-devices-thumbnail-cozinha-de-boteco-sp.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120402",
+			"sy" : "Petiscos a preços acessíveis e em fartas porções para dividir com os amigos são apresentados pelo casal Carol e Duca na série \"Cozinha de Boteco\". Com foco na cidade de São Paulo, os episódios mostram iguarias criativas e deliciosas, como a Coxinha da Dadá (Z Carniceria), os Mini Acarajés (Sotero), as Tulipas Recheadas (Deep Bar 611), o Croquete de Mortadela (Bar do Mané) e a Linguiça Bêbada (Caiubier). Curiosos ainda podem conferir as técnicas utilizadas na preparação de cada prato.",
+			"t" : "Cozinha de Boteco — São Paulo"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/4KpqjHIXbao2aUI4IoySkm/91741de934fb7d8ea33e13fe7a75cd73/connected-devices-thumbnail-cozinha-de-boteco-rj.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120408",
+			"sy" : "Petiscos a preços acessíveis e em fartas porções para dividir com os amigos são apresentados pelo casal Carol e Duca na série \"Cozinha de Boteco\". Com foco na cidade do Rio de Janeiro, os episódios mostram iguarias criativas e deliciosas, como o Infarto Completo (Cachambeer), o Bolinho de Feijoada (Aconchego Carioca), o Bolinho de Queijo com Macarrão (Botto Bar) e a Linguiça de Bacalhau (Galeto Sat's). Curiosos ainda podem conferir as técnicas utilizadas na preparação de cada prato.",
+			"t" : "Cozinha de Boteco — Rio de Janeiro"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/47M4Ey97UsUIkmouOAUmMQ/a6020bbd4cb149bf8bdb3afcd4ccd19f/connected-devices-thumbnail-comida-cinema.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120475",
+			"sy" : "As saborosas receitas que aparecem nos filmes são reproduzidas por Isadora na série \"Comida de Cinema\". Vestida como os personagens das histórias, a apresentadora fala sobre os filmes enquanto ensina como fazer delícias práticas e populares, como o Bolo de Chocolate de \"Matilda\" e a Cerveja Amanteigada de \"Harry Potter\". Pratos mais complexos, como as Codornas de \"A Festa de Babette\" e a Mousse de Salmão de \"O Sentido da Vida\", também fazem parte da lista de 75 episódios.",
+			"t" : "Comida de Cinema"
+		}
+	],
+	"imageUri" : "",
+	"nodeid" : "Category130014",
+	"nodetype" : "MENU",
+	"t" : "Tastemade Brasil/S&#233;ries Originais"
+}

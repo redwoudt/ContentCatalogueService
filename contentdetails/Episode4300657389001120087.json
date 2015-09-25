@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 3681,
+			"hd" : false,
+			"imageUri" : "http://skychnl-tastemade.s3.amazonaws.com/9BNJL7MN/thumbs/1181057.jpg",
+			"oigid" : -1840903849,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/VFPAHY3L1LG2/m3u8/VFPAHY3L1LG2.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Delícias Vegetarianas",
+	"t" : "No Ar Agora",
+	"uuid" : "Episode4300657389001120087"
+}

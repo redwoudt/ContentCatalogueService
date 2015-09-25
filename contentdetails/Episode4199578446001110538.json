@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 325,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1280/3965454539001_4199611702001_1.jpg?pubId=3965454539001",
+			"oigid" : -675488246,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/L2FB82AV7SY9/m3u8/L2FB82AV7SY9.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You want a one-pot vegan chili? We have that recipe! Deliciously simple and enough to feed an army, this is going to become your go-to for potlucks or even a midweek favorite.",
+	"t" : "12. Vegan Chili",
+	"uuid" : "Episode4199578446001110538"
+}

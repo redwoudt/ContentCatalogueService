@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 211,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1181/3965454539001_4219345323001_Lomo.jpg?pubId=3965454539001",
+			"oigid" : 1137647578,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/4C3MOF92MPEG/m3u8/4C3MOF92MPEG.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This traditional stir fry mixes some delicious Peruvian flavors with marinated beef and french fries in a truly unique dish",
+	"t" : "2. Lomo Saltado",
+	"uuid" : "Episode4015832203001110490"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 281,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3993/3965454539001_4230382918001_22picuch.jpg?pubId=3965454539001",
+			"oigid" : -862796682,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/XU1DFQF9EJFJ/m3u8/XU1DFQF9EJFJ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "As famosas panquecas da Dona Picucha, do telefilme brasileiro \"Doce de Mãe\" são explicadas passo a passo por Isadora Becker.",
+	"t" : "Panquecas Flambadas de \"Doce de Mãe\" | Comida de Cinema",
+	"uuid" : "Episode4178549798001120374"
+}

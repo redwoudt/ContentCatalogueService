@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 67,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/326/3965454539001_4120370415001_Screen-Shot-2015-03-18-at-4-50-16-PM.jpg?pubId=3965454539001",
+			"oigid" : -1999343286,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/3CC2TZEP0K23/m3u8/3CC2TZEP0K23.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Order the barbecue sampler platter at DCity Smokehouse because the smoked turkey, ribs, and especially the brisket, are all too good to miss. Don’t forget to eat your veggies: fried Brussels sprouts. Items sell out quick on Fridays and Saturdays.",
+	"t" : "3. DCity Smokehouse",
+	"uuid" : "Episode4110119595001110858"
+}

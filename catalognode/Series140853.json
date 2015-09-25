@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/446/3965454539001_4156871821001_3.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134502318001110845",
+			"sy" : "A premier sourdough pizza experience awaits at any of Franco Manca’s locations. The pizza never disappoints with its perfectly chewy dough, lovely cheese and excellent tomato sauce.",
+			"t" : "7. Franco Manca"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/674/3965454539001_4156886021001_2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134530378001110847",
+			"sy" : "Mark Hix’s Tramshed is all about serving delicious meat to be shared in a fun atmosphere. And while the ribeye is fantastic, the real star may be the caramel fondue with donuts and marshmallows for dessert",
+			"t" : "5. Tramshed"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2999/3965454539001_4134736849001_4134530379001-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134530379001110848",
+			"sy" : "The Dim Sum Sunday experience at Hakkasan means insane food, mouthwatering cocktails and incredible dim sum, of course. You’re sure to come back.",
+			"t" : "6. Hakkasan"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3585/3965454539001_4134736894001_4134525940001-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134525940001110849",
+			"sy" : "Sensational Italian food can be found in Soho at Bocca di Lupo. You have to order the burrata, the tagliatelle and mussels, and be sure to get order extra bread to sop up all the broth.",
+			"t" : "3. Bocca Di Lupo"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/90/3965454539001_4156824980001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134502317001110850",
+			"sy" : "Chef Jason Atherton is serving amazing food and delicious cocktails in Berners Tavern at Edition Hotel. Book the private dining room if you can for a more intimate experience.",
+			"t" : "4. Berners Tavern"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/418/3965454539001_4156599017001_3965454539001-4134738208001-4134530377001.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134530377001110851",
+			"sy" : "Honey & Co. serves delicious Middle Eastern food in a small, intimate and friendly setting. Try the delectable rabbit with sourdough toast and don’t forget to order a slice of cheesecake for dessert.",
+			"t" : "2. Honey & Co"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/607/3965454539001_4134736840001_4134502316001-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4134502316001110852",
+			"sy" : "If you’re looking for a delicious way to detox in a stylish setting, head to the juice bar at the Ace Hotel in Shoreditch. Order the banana and soy or avocado and greens smoothie for a healthy, tasty treat.",
+			"t" : "1. Ace Hotel"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/58wiuMQ57Gwg0iYIIws4eU/143154e971a7e137e036a37d2caa2d03/connected-devices-thumbnail-london-best-hot-now.png",
+	"nodeid" : "Series140853",
+	"nodetype" : "MENU",
+	"t" : "Buzzworthy London Restaurants"
+}

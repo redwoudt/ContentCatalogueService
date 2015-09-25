@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 283,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3133/3965454539001_4108299707001_DT005-Wagyu-Beef-Sliders---Day-Tripper-by-Bondi-Harvest.jpg?pubId=3965454539001",
+			"oigid" : 418180605,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/R1N9008F63Y0/m3u8/R1N9008F63Y0.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "We take a trip up Palm Beach to find a killer spot to cook up some Wagyu Beef sliders.",
+	"t" : "Wagyu Beef Sliders",
+	"uuid" : "Episode3972198271001120253"
+}

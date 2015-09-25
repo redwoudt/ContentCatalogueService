@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 67,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2642/3965454539001_4157086695001_1.jpg?pubId=3965454539001",
+			"oigid" : -891694302,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/OL96TOEISNOD/m3u8/OL96TOEISNOD.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "",
+	"t" : "2. Copper Cow",
+	"uuid" : "Episode4134525944001110818"
+}

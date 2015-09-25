@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 171,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1033/3965454539001_4230488456001_62valente.jpg?pubId=3965454539001",
+			"oigid" : 547712909,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/SV1YA4Q0KHOV/m3u8/SV1YA4Q0KHOV.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Nesse episódio de Comida de Cinema, Isadora Becker preparar os Bolinhos Escoceses do filme animado \"Valente\". Eles são deliciosos e perfeitos para um lanche a qualquer hora do dia.",
+	"t" : "62. Bolinhos Escoceses de \"Valente\"",
+	"uuid" : "Episode4185051211001110413"
+}

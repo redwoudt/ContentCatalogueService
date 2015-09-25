@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 194,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1340/3965454539001_4179730097001_Sorbet-de-Manga---Vamos-pra-Cozinha--16.jpg?pubId=3965454539001",
+			"oigid" : 482497551,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/EJ0H1825QKZ6/m3u8/EJ0H1825QKZ6.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "No calor, é ótimo fazer receitas fáceis, com muito sabor, refrescantes e saudáveis. E esse sorbet é exatamente a combinação ideal de todos esses ingredientes. É uma receita muito prática de fazer e que só leva um ingrediente!",
+	"t" : "Sorbet de Manga",
+	"uuid" : "Episode4178549838001120271"
+}

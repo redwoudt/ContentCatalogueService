@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 167,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2881/3965454539001_4230347983001_1ratatouille.jpg?pubId=3965454539001",
+			"oigid" : 842226122,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/P1QVI1ODCYTX/m3u8/P1QVI1ODCYTX.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ratatouille é uma deliciosa receita francesa de diversos legumes. Inspirada na animação que leva o mesmo nome do prato, Isadora Becker ensina a sua versão deste clássico.",
+	"t" : "1. Receita de \"Ratatouille\" do filme",
+	"uuid" : "Episode4178549804001110474"
+}

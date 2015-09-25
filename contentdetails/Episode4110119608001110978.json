@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 56,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2338/3965454539001_4120503948001_Screen-Shot-2015-03-18-at-5-59-55-PM.jpg?pubId=3965454539001",
+			"oigid" : -1884245054,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/H7351673Z53J/m3u8/H7351673Z53J.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The aptly named Tasty Dumpling is rumored to have the best dumplings in all of Manhattan. Order five pork and chive dumplings for just $1.25. If they weren’t so greasy, you might end up eating them for every meal.",
+	"t" : "5. Tasty Dumpling",
+	"uuid" : "Episode4110119608001110978"
+}

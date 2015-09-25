@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2302/3965454539001_4120101148001_Screen-Shot-2015-03-18-at-2-22-14-PM.jpg?pubId=3965454539001",
+			"oigid" : 1691245334,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/DIXH1HO0NOOG/m3u8/DIXH1HO0NOOG.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The Lord of the Rings décor and huge beer selection is reason enough to come to Hobbit Café. Fortunately, the food is great, too. Come hungry and order the soup of the day and fire-roasted burger with carrot cake for dessert.",
+	"t" : "4. Hobbit Cafe",
+	"uuid" : "Episode4109982676001110806"
+}

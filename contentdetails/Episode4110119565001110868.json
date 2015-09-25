@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 70,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/670/3965454539001_4122671012001_3965454539001-4110121368001-cZW8FRVrSnOyGjkVNWGBmw.jpg?pubId=3965454539001",
+			"oigid" : -1934572204,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/44FRCH94RD0R/m3u8/44FRCH94RD0R.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Barista Parlor is oozing with ambience and serves great food, to boot – don’t miss out on the speedy biscuit with ham and maple syrup and the oatmeal topped with apple butter. But the main event here is still the coffee.",
+	"t" : "9. Barista Parlor",
+	"uuid" : "Episode4110119565001110868"
+}

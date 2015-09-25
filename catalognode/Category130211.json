@@ -1,0 +1,30 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/2KrikKngtGM6uCIMKmAYWK/055b785a87a68dce335ef439ee111ef8/connected-devices-thumbnail-atlanta-best-buford-highway.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120211",
+			"sy" : "Buford Highway is loaded with international gems, from Cajun Vietnamese at Crawfish Shack to cheap tacos at Taco Veloz. Finish off a great meal with a bubble tea from the super popular Malaysian Bakery the Sweet Hut. Take a trip around the world without leaving Atlanta.",
+			"t" : "The Best of Buford Highway"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/2WPu9aj35m4a8K2Y8yYOe/bb7e748ada78d9879aa9dcbd7118908a/connected-devices-thumbnail-atlanta-best-southern-biscuits.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120219",
+			"sy" : "A true southern breakfast means hot fresh biscuits. Atlanta's best are fresh, steamy, flaky and buttery. Add a side of grits and it's the ultimate South in your mouth.",
+			"t" : "The Most Delicious Southern Biscuits"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1VIXvyH2PiUKuq6kYoeCmI/ea7b333d4b6d57102d8b33cfc00c4d07/connected-devices-thumbnail-atlanta-best-bbq.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120225",
+			"sy" : "Smoked meat goodness is legendary in Atlanta, so it's hard to know where to start. From the smoked wings at Fox Brothers BBQ in Edgewood to the legendary brisket and mac & cheese at Community Q in Decatur, you can't go wrong.",
+			"t" : "Badass BBQ"
+		}
+	],
+	"imageUri" : "",
+	"nodeid" : "Category130211",
+	"nodetype" : "MENU",
+	"t" : "Tastemade/Video City Guides/Atlanta"
+}

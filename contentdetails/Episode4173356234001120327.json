@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1877/3965454539001_4185192139001_2.jpg?pubId=3965454539001",
+			"oigid" : 2072886343,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/70DL3ZHRAI6R/m3u8/70DL3ZHRAI6R.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "O Bolinho de Feijoada do Aconchego Carioca tem sua massa feita com feijão preto cozido, caldo de carnes e farinha de mandioca. O recheio é de couve  bacon. O resultado é uma delícia.",
+	"t" : "Bolinho de Feijoada (Aconchego Carioca)",
+	"uuid" : "Episode4173356234001120327"
+}

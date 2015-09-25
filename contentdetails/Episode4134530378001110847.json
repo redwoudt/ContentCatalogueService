@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/674/3965454539001_4156886021001_2.jpg?pubId=3965454539001",
+			"oigid" : 43988799,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/TTHC3I6ZC3YW/m3u8/TTHC3I6ZC3YW.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Mark Hix’s Tramshed is all about serving delicious meat to be shared in a fun atmosphere. And while the ribeye is fantastic, the real star may be the caramel fondue with donuts and marshmallows for dessert",
+	"t" : "5. Tramshed",
+	"uuid" : "Episode4134530378001110847"
+}

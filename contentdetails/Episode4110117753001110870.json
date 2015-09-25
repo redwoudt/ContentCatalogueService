@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/702/3965454539001_4122666872001_3965454539001-4110121363001-ViXrBU2NR7aFD5TDBG9Jyg.jpg?pubId=3965454539001",
+			"oigid" : 1381834070,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/QV7J9TOJ6WMH/m3u8/QV7J9TOJ6WMH.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "So much more than just locally roasted, organic, fair trade coffee, Bongo Java also serves food that goes way beyond your typical coffeehouse fare. Follow up your fancy cheeseburger with a tasty vegan muffin (even if it sounds counterintuitive).",
+	"t" : "8. Bongo Java",
+	"uuid" : "Episode4110117753001110870"
+}

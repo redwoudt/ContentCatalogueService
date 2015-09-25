@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 99,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2883/3965454539001_4185223378001_4.jpg?pubId=3965454539001",
+			"oigid" : 482951744,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/Q5PJ08R3YHXJ/m3u8/Q5PJ08R3YHXJ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "O Croquete de Mortadela do Bar do Mané, no Mercado Municipal de São Paulo, é uma saborosa alternativa aos tradicionais sanduíches e bolinhos de bacalhau das redondezas.",
+	"t" : "Croquete de Mortadela (Bar do Mané)",
+	"uuid" : "Episode4173356241001120320"
+}

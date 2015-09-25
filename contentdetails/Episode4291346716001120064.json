@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 363,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/479/3965454539001_4298454149001_peixemeuniere.jpg?pubId=3965454539001",
+			"oigid" : -1258418368,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/1CHGT94F8B0R/m3u8/1CHGT94F8B0R.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "\"À la Meunière\" é o peixe empanado na farinha de trigo e regado com um molho de manteiga e limão. No episódio de hoje, a jornalista Uiara Araújo visita a peixaria Ô de Mer para comprar linguado para depois ensinar como fazer essa receita francesa.",
+	"t" : "Peixe à la Meunière",
+	"uuid" : "Episode4291346716001120064"
+}

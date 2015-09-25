@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/569/3965454539001_4158631816001_8.jpg?pubId=3965454539001",
+			"oigid" : -488623871,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/97QVFOUVFMNR/m3u8/97QVFOUVFMNR.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The folks at farm-to-table restaurant Down House know how to keep their customers happy with quality food and a fun atmosphere. You’re sure to be pleased by the smoked Gouda grilled cheese, kimchi burger, or pretty much anything else on the seasonal.",
+	"t" : "8. Down House",
+	"uuid" : "Episode4109982691001110785"
+}

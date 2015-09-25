@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/4pj2i6xiMEiqQ2k08QGeyC/a8688f1e0fb880b61839ed8b0c087df9/connected-devices-thumbnail-london-best-brunch.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Eggs, pancakes, a full English breakfast? There's something for all varieties of brunch lovers in London. Build up an appetite with a quick dip before enjoying your full English at The Lido Cafe, or if you're feeling slightly delicate a big, bold breakie at The Breakfast Club or a spicy bacon naan at Dishoom will sort you right out.",
+	"t" : "Bring on the Brunch",
+	"uuid" : "Episode120828"
+}

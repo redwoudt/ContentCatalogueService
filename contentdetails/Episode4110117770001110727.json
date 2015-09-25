@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/929/3965454539001_4159425789001_3.jpg?pubId=3965454539001",
+			"oigid" : 1201964743,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/PSKBKZ5AI3BC/m3u8/PSKBKZ5AI3BC.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Offering 25 different kinds of bourbon, along with beer and wine and great food, Barrel makes a great neighborhood watering hole. You must order the fried chicken biscuits with gravy, and don’t forget to get a cocktail.",
+	"t" : "3. Barrel",
+	"uuid" : "Episode4110117770001110727"
+}

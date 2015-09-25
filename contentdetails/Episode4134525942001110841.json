@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 66,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3790/3965454539001_4156952359001_3.jpg?pubId=3965454539001",
+			"oigid" : 1403273017,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/FMYKXZYMMVGW/m3u8/FMYKXZYMMVGW.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "When the hour is ungodly and you need a shot of caffeine straight to your brain, head to Monmouth Coffee Company. This place is well established and well known, so be prepared to wait a half an hour on the weekend or after 10am on a weekday.",
+	"t" : "3. Monmouth Coffee Company",
+	"uuid" : "Episode4134525942001110841"
+}

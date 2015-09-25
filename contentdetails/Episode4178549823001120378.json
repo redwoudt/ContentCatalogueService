@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 214,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/721/3965454539001_4230368305001_18oasispie.jpg?pubId=3965454539001",
+			"oigid" : -1632600454,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/7BIP85P4WIVJ/m3u8/7BIP85P4WIVJ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Neste episódio, a receita é do filme Garçonete (2007), em que Jenna inventa várias tortas com nomes engraçados. A escolhida por Isadora combina morangos, chocolate e um toque especial de gengibre e noz-moscada.",
+	"t" : "Torta Oásis de Chocolate com Morango de \"Garçonete\"",
+	"uuid" : "Episode4178549823001120378"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2577/3965454539001_4159126423001_3.jpg?pubId=3965454539001",
+			"oigid" : 971768545,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/B8N9A2AN2T09/m3u8/B8N9A2AN2T09.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Tacos Chukis in the Capitol Hill neighborhood is quick, easy, tasty and inexpensive — what else could you ask for? Grab a couple of friends so you can try it all: the house tacos, baby burritos, pork quesadilla and chicken tamales.",
+	"t" : "3. Tacos Chukis",
+	"uuid" : "Episode4110117744001110753"
+}

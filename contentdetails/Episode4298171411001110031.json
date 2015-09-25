@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 288,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/264/3965454539001_4300233072001_Birdman-thumbnail-TM.jpg?pubId=3965454539001",
+			"oigid" : -1315750385,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/H6GNRU4UI4UD/m3u8/H6GNRU4UI4UD.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Cute and crisp Ginger-bird-men recipe inspired by one of this year’s top movies -Birdman! An incredibly clever and moving film which has the added technique of appearing as though it’s all one shot.",
+	"t" : "4. Birdman | Ginger-Bird-Men",
+	"uuid" : "Episode4298171411001110031"
+}

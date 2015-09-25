@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 67,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1349/3965454539001_4110138732001_zjPiVXyvQTGr3JZp4mSb-A-th.jpg?pubId=3965454539001",
+			"oigid" : -1294310467,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/1KKGRJZI42TL/m3u8/1KKGRJZI42TL.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "With locations in Williamsburg and East Village, Motorino is a dependable neighborhood pizzeria where you can count on everything to be perfectly satisfying.",
+	"t" : "1. Motorino",
+	"uuid" : "Episode4110119600001110973"
+}

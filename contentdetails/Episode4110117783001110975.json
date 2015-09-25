@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3037/3965454539001_4117769756001_Screen-Shot-2015-03-17-at-3-22-42-PM.jpg?pubId=3965454539001",
+			"oigid" : 1317063103,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/OS6L5JQ8YFUR/m3u8/OS6L5JQ8YFUR.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Located inside the Essex Street Market, Shopsin’s serves a legendary mac and cheese pancake that is perfectly salty, sweet and crisp around the edges, along with other crazy-decadent delicacies like donut sliders.",
+	"t" : "7. Shopsin's",
+	"uuid" : "Episode4110117783001110975"
+}

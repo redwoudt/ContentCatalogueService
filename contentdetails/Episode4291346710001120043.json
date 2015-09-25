@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 536,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1522/3965454539001_4293130103001_Ottawa.jpg?pubId=3965454539001",
+			"oigid" : 1331516203,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/NGDFNN9NNNSG/m3u8/NGDFNN9NNNSG.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Canada's capital has undergone a food and drink renaissance that's transformed the city for locals and visitors alike.",
+	"t" : "Ottawa, Canada",
+	"uuid" : "Episode4291346710001120043"
+}

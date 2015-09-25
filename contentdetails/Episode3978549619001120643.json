@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 128,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3344/3965454539001_3994268878001_maxresdefault.jpg?pubId=3965454539001",
+			"oigid" : 525830019,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5U13MSPS1RMT/m3u8/5U13MSPS1RMT.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Celebrate Chinese New Year in style, with this traditional Beijing sweet drink.",
+	"t" : "Chinese Almond Tea",
+	"uuid" : "Episode3978549619001120643"
+}

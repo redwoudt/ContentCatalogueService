@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 202,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3402/3965454539001_4225469164001_vlcsnap-2015-05-08-08h04m23s120.jpg?pubId=3965454539001",
+			"oigid" : 1907461351,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/77QGXJJOLQLT/m3u8/77QGXJJOLQLT.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Yuquitas are the quintessential Peruvian snack.  Similar to French Fries, but made with the South American Yuca, this dish will get your Peruvian dinner party off to a rockin start.",
+	"t" : "Yuquitas Fritas (Yuca Fries)",
+	"uuid" : "Episode4007655178001120487"
+}

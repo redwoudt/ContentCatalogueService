@@ -1,0 +1,44 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/59iZEQJ8aIs6UuOsa646qw/8a687ea7c001d45baa85f0dab06e2450/connected-devices-thumbnail-seattle-best-international-district-restaurants.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120742",
+			"sy" : "The city's International District, including Chinatown and Little Saigon, is truly one of the tastiest neighborhoods to dine around. From the awesome dumplings at Ping's and the knockout banh mi at Saigon Deli to the slurp-able soups at Hue Ky Mi Gia and Samurai, there are lots of big flavors to savor.",
+			"t" : "Exploring the International District"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1LDbgKaVGw0yGKMwY2swaE/63391aabac87d915bc0ff505504cd2d3/connected-devices-thumbnail-seattle-best-hangover-food.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120750",
+			"sy" : "The prescription for the morning after is to shake it off with a big ol’ breakfast and a Bloody. The Mecca Cafe will take care of that aching head with a tall stack of pancakes, and Kona Kitchen’s ultra-rich eggs Benedict gives you strength to power through until the next happy hour. And those succulent cheesesteaks at Calozzi’s will cure anything that ails you.",
+			"t" : "Hangover Helpers"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1znJVLpddqWeIayKEWUWsS/954d7d6de385b46b712e542a965d5251/connected-devices-thumbnail-seattle-best-cheap-eats.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120757",
+			"sy" : "Dining on a tight budget can be a challenge, but it’s also a sport. Our team of penny pinchers get a thrill out of scoring incredible deals on burgers at Dick’s, the right-size burritos at Tacos Chukis and loading up on affordable dim sum at Sun Ya in the International District.",
+			"t" : "Best Cheap Eats"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/WGQYLi08O4GceWqcwwMYK/893bfe0a48435ebf6e2b27a4fa9156d8/connected-devices-thumbnail-seattle-best-coffee.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120765",
+			"sy" : "We’re in the center of the universe when it comes to espresso drinks, so coffeehouses with personality rate high on the rave meter. Grab a velvety latte while your barista spins vinyl at Analog or enjoy coffee and wine at the way charming Vif in Fremont. If pastries are a priority, hit up Uptown Espresso and ETG, aka Espresso to Go.",
+			"t" : "Perk Up: Top Coffee Spots"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/1CcZRd5nSI6O6oKgK0Q8kQ/b0398d9768e4260135e086fe2b101d04/connected-devices-thumbnail-seattle-best-burgers.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120861",
+			"sy" : "Dining on a tight budget can be a challenge, but it’s also a sport. Our team of penny pinchers get a thrill out of scoring incredible deals on burgers at Dick’s, the right-size burritos at Tacos Chukis and loading up on affordable dim sum at Sun Ya in the International District.",
+			"t" : "Top Bodacious Burgers"
+		}
+	],
+	"imageUri" : "",
+	"nodeid" : "Category130742",
+	"nodetype" : "MENU",
+	"t" : "Tastemade/Video City Guides/Seattle"
+}

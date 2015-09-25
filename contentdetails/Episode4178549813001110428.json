@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 177,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/375/3965454539001_4230428900001_46puttanesca.jpg?pubId=3965454539001",
+			"oigid" : 1252291484,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/ZEUTR9BOXEZB/m3u8/ZEUTR9BOXEZB.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora prepara a receita do delicioso Spaghetti à Puttanesca que os meninos Baudelaire preparam ao terrível tio Count Olaf no filme \"Desventuras em Série\".",
+	"t" : "46. Spaghetti à Puttanesca de \"Desventuras em Série\"",
+	"uuid" : "Episode4178549813001110428"
+}

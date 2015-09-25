@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 377,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/576/3965454539001_3991418832001_RVNG017-BROWNIE.jpg?pubId=3965454539001",
+			"oigid" : 576611133,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/AT5O9TX0EYLB/m3u8/AT5O9TX0EYLB.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "What's better than rich, fudgy chocolate brownies? How bout rich, fudgy chocolate brownies topped with chocolate ganache? And did we mention they're Raw and Vegan?",
+	"t" : "Chocolate Brownies with Ganache",
+	"uuid" : "Episode3972954065001120573"
+}

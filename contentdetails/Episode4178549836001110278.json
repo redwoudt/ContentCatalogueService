@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 215,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1900/3965454539001_4179732699001_Sandu-che-de-Cogumelo---Vamos-pra-Cozinha--11.jpg?pubId=3965454539001",
+			"oigid" : -1517512442,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/D478A8QY2FJO/m3u8/D478A8QY2FJO.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Dani Noce ensina um delicioso sanduíche de shitake com creme de ricota espinafre. Para completar, ainda vai um lindo ovo poché por cima. Fica incrível!",
+	"t" : "11. Sanduíche de Cogumelo",
+	"uuid" : "Episode4178549836001110278"
+}

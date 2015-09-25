@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 194,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/6/3965454539001_4243037520001_Vancouver-1.jpg?pubId=3965454539001",
+			"oigid" : 2072422117,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/9RZS229T11RO/m3u8/9RZS229T11RO.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Macca Sherifi meets Brianna Wiens in Vancouver for the first time as A Brit and A Broad kick off the start of their adventure travelling through Central America.",
+	"t" : "1. Vancouver, Canada",
+	"uuid" : "Episode4239042831001110245"
+}

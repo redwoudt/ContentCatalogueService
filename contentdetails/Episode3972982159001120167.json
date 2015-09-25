@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 412,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2684/3965454539001_3974672252001_biteclub-c.jpg?pubId=3965454539001",
+			"oigid" : 87330215,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/CQXX8WQXLSF2/m3u8/CQXX8WQXLSF2.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This week, Jack and Laura have the time of their lives....and make dishes to pay homage to 1987's Dirty Dancing! These recipes are light and tasty — no need to worry about feeling weighed down during dance practice.",
+	"t" : "Dirty Dancing — \"Baby\" Vegetables and Watermelon Plate",
+	"uuid" : "Episode3972982159001120167"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2031/3965454539001_4158694955001_9.jpg?pubId=3965454539001",
+			"oigid" : 511376130,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/L130BAK465V7/m3u8/L130BAK465V7.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You have to keep an eye out for Southside Espresso, a hidden gem tucked away on a side street. The super-chill atmosphere makes this a great place to sip a cappuccino and work on your laptop for a couple of hours… or you can go another way and enjoy.",
+	"t" : "9. Southside Espresso",
+	"uuid" : "Episode4109982692001110786"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 84,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3479/3965454539001_4158874726001_1.jpg?pubId=3965454539001",
+			"oigid" : 1676801259,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/TZNA6BY37PR3/m3u8/TZNA6BY37PR3.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The pastries baked in-house go great with Uptown Espresso’s proprietary Velvet Foam coffee roast, which is as smooth & delicious as it sounds. There are locations all over the city, but visit the Pier 70 cafe located next to the sculpture garden.",
+	"t" : "1. Uptown Espresso and Bakery",
+	"uuid" : "Episode4110117749001110763"
+}

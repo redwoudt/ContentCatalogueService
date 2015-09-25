@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 256,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1355/3965454539001_4003473599001_goat-cheese.jpg?pubId=3965454539001",
+			"oigid" : -1042666133,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/AQY6C6NIDLKD/m3u8/AQY6C6NIDLKD.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Barry turn pannacotta on it's head and make a savory version with a black pepper shortbread biscuit and a tart gooseberry purée.",
+	"t" : "Goat Cheese Pannacotta",
+	"uuid" : "Episode3978557815001120107"
+}

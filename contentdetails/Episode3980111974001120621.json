@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 107,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1687/3965454539001_3989958493001_TF030-GreekFrappe.jpg?pubId=3965454539001",
+			"oigid" : -956455571,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/V0JR00PNBXP3/m3u8/V0JR00PNBXP3.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Though not a drink of antiquity, The Greeks have been sipping on this refreshing boost of caffeine for years ... and for good reason, it's delicious!",
+	"t" : "Greek Frappe",
+	"uuid" : "Episode3980111974001120621"
+}

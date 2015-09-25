@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 78,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1879/3965454539001_4159449818001_2.jpg?pubId=3965454539001",
+			"oigid" : -2093002561,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/2T5F7WV7PRU9/m3u8/2T5F7WV7PRU9.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Located above Union Market, Dolcezza serves amazingly fresh, handcrafted, small batch gelato – try the hazelnut and vanilla bean flavors – along with gorgeous pastries and a rotating roster of Stumptown coffees.",
+	"t" : "2. Dolcezza Gelato Factory And Coffee Lab",
+	"uuid" : "Episode4110117771001110719"
+}

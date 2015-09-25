@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2727/3965454539001_4158631804001_7.jpg?pubId=3965454539001",
+			"oigid" : -1488623868,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/U4DVYDATFBU3/m3u8/U4DVYDATFBU3.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Tamales, French toast and fresh-squeezed OJ make for a complete and delicious breakfast at Brasil. You can find parking on the residential streets behind the restaurant.",
+	"t" : "7. Brasil",
+	"uuid" : "Episode4109982690001110788"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 216,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2939/3965454539001_4185367817001_Screen-Shot-2015-04-20-at-4-36-05-PM.jpg?pubId=3965454539001",
+			"oigid" : 2101320318,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/DNMO6ITIOVA1/m3u8/DNMO6ITIOVA1.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "\"O que há, tigresa?\", de Woody Allen, foi a dublagem de um filme japonês com diálogos diferentes. A trama virou uma comédia sobre a disputa entre quadrilhas buscando a receita perfeita de salada de ovos. E é isso que Isadora prepara nesse episódio!",
+	"t" : "Sanduíche de Salada de Ovos de \"O que há, tigresa?\"",
+	"uuid" : "Episode4185024685001120382"
+}

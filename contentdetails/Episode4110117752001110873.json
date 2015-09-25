@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3557/3965454539001_4110120725001_CHeq-j-fQDC2IRvc25uEsg-th.jpg?pubId=3965454539001",
+			"oigid" : 381834073,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/H3GCDCE6U7H6/m3u8/H3GCDCE6U7H6.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Head to Headquarters for killer espresso and Cafe Americano, along with vegan offerings, muffins and other tasty pastries. You’ll find a lovely patio out back if it’s too crowded inside.",
+	"t" : "5. Headquarters",
+	"uuid" : "Episode4110117752001110873"
+}

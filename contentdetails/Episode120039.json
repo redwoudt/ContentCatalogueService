@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3q0eyNairCKQY68OQY8iq/b69dfc80b37bf1c72e3d789dae7fd3b0/connected-devices-thumbnail-feeling-pekish.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Feeling Peckish highlights wicked ingredients, easy recipes and young independent artists cooking on a budget. Of course, combining film and food.",
+	"t" : "Feeling Peckish",
+	"uuid" : "Episode120039"
+}

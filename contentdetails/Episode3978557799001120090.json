@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 242,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2333/3965454539001_4003550824001_walnut-coffee.jpg?pubId=3965454539001",
+			"oigid" : 137203034,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/C8RWGV222X66/m3u8/C8RWGV222X66.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Sorted Food makes a coffee and walnut treat, inspired by Momofuku's famous Crack Pie.",
+	"t" : "Coffee and Walnut Crack Pie",
+	"uuid" : "Episode3978557799001120090"
+}

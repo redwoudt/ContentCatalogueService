@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 102,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3687/3965454539001_3989958523001_TF035-AssirAlAvoca.jpg?pubId=3965454539001",
+			"oigid" : -661488278,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/25BCSUY8RFZC/m3u8/25BCSUY8RFZC.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This smoothie is not only delicious, but packed with nutrients that keep you energized throughout the day - it's a double win.",
+	"t" : "Moroccan Assir Al Avoca",
+	"uuid" : "Episode3980111970001120618"
+}

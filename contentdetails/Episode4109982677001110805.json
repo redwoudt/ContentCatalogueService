@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 52,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/689/3965454539001_4158481419001_4.jpg?pubId=3965454539001",
+			"oigid" : -1603721963,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/URJA9NDLPCRY/m3u8/URJA9NDLPCRY.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Get ready to load up on carbs because Common Bond serves flavorful sandwiches and what may be the best croissant you’ve ever had. Arrive early because the secret’s out about these incredible pastries — you’ll want to get yours before they run out.",
+	"t" : "7. Common Bond Cafe and Bakery",
+	"uuid" : "Episode4109982677001110805"
+}

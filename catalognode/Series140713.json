@@ -1,0 +1,58 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2615/3965454539001_4159518702001_6.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114257001110706",
+			"sy" : "Authentic Korean food with a modern twist can be found in the Mount Vernon Triangle neighborhood at Mandu. Come for the bibimbap, Korean barbecue tacos and one of the best happy hours in town.",
+			"t" : "6. Mandu"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3675/3965454539001_4110135005001_-eYPn1drQhWBXJ-vl5I3Iw-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117768001110707",
+			"sy" : "What makes Korean food taste so incredibly delicious inside of a taco? TaKorean has the answer. You’re going to want to try a little of everything, so order the three tacos for $9 and get three different meats with three different toppings.",
+			"t" : "7. TaKorean"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2031/3965454539001_4159555131001_4.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117767001110708",
+			"sy" : "Some of Ye Chon’s greatest hits include the pork belly, kimchi pancake and any kind of hot noodle dish, but you really can’t go wrong with anything on the menu. And it’s open 24 hours, so you can get your Korean BBQ fix anytime you may need it.",
+			"t" : "5. Ye Chon Restaurant"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/615/3965454539001_4159518676001_2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117766001110709",
+			"sy" : "Whether you come to Sorak Garden for bibimbap or do-it-yourself barbecued meats (or both!), be sure to order the barley tea, which pairs beautifully with the banchan dishes.",
+			"t" : "3. Sorak Garden"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2158/3965454539001_4120369574001_Screen-Shot-2015-03-18-at-4-30-36-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119583001110710",
+			"sy" : "Annandale is informally known as “Little Korea,” and Honey Pig fits right in here with their stellar Korean barbecue and highly efficient service. You can’t go wrong with classics like bulgogi and kalbi beef ribs, all cooked right at your table.",
+			"t" : "4. Honey Pig Gooldaegee Korean Grill"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2390/3965454539001_4120370369001_Screen-Shot-2015-03-18-at-4-21-11-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114256001110711",
+			"sy" : "The sizzling hot and spicy tofu soup is enough reason to visit Lighthouse Tofu in Annandale, but be sure to round out your meal with the delicious seafood pancake, bibimbap and galbi.",
+			"t" : "1. Lighthouse Tofu"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2417/3965454539001_4159449855001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119582001110712",
+			"sy" : "The Korean chicken at BonChon – from the wings to the drumsticks to the white meat breast strips – is the answer to your golden-fried dreams. Be sure to order it with the soy garlic sauce for the full experience.",
+			"t" : "2. BonChon Chicken"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/EiCMXJ9TJmwUmcGG604Wa/a4189fda55b5cee8ce19218bc7f81cf6/connected-devices-thumbnail-washington-dc-best-korean-bbq.png",
+	"nodeid" : "Series140713",
+	"nodetype" : "MENU",
+	"t" : "Korean Barbecue"
+}

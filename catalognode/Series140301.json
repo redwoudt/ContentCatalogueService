@@ -1,0 +1,205 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1048/3965454539001_4301033892001_Screen-Shot-2015-06-16-at-4-38-02-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4298553040001110069",
+			"sy" : "A Dani Noce ensina um smoothie delicioso, que não leva lactose. Perfeito para adoçar as tardes durante a semana!",
+			"t" : "28. Smoothie Chocolatudo"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3024/3965454539001_4301032827001_27frangokerala.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4298553039001110070",
+			"sy" : "Frango Kerala é delicioso bem temperado e apimentado para um almoço.",
+			"t" : "27. Frango Kerala"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/272/3965454539001_4301032807001_26pannacotta.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4298553038001110073",
+			"sy" : "Uma Pannacotta saudável e super deliciosa para o lanche da tarde.",
+			"t" : "26. Pannacotta"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1984/3965454539001_4301033809001_25macarraofacil.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4298553037001110074",
+			"sy" : "Um macarrão delicioso que vai salvar a vida naqueles dias corridos.",
+			"t" : "25. Macarrão Fácil"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1272/3965454539001_4301032790001_24frangochines.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4298553036001110075",
+			"sy" : "Um prato bem colorido e cheio de sabor: frango chinês com legumes e amendoim!",
+			"t" : "24. Franco Chinês"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/1208/3965454539001_4301032878001_Screen-Shot-2015-06-16-at-4-34-18-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4298553035001110077",
+			"sy" : "Essa é uma sopa de lentilha muito especial e que tem um sabor marcante. Além disso, a mistura da sopa com a deliciosa coalhada seca e a refrescância das folhinhas de coentro me fazem lembrar que existe aconchego na vida.",
+			"t" : "23. Sopa de Lentilha"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/48/3965454539001_4301033875001_Screen-Shot-2015-06-16-at-4-28-39-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4298553034001110079",
+			"sy" : "Essa pizza com molho pesto é uma alternativa para o clássico molho de tomate e fica uma delícia!",
+			"t" : "22. Pizza Pesto"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3264/3965454539001_4300953973001_21folhado.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4298553033001110083",
+			"sy" : "Folhado de Espinafre e Ricota é uma opção leve e deliciosa para você que quer comer algo diferente e gostoso sem ter muito trabalho na cozinha!",
+			"t" : "21. Folhado de Espinafre e Ricota"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/2832/3965454539001_4301103891001_Screen-Shot-2015-06-16-at-4-40-04-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4298553032001110084",
+			"sy" : "A Terrine de Frutas Vermelhas é uma ótima opção vegana para aqueles que não querem abandonar a sobremesa e ainda deixar tudo mais saudável com muitas frutas!",
+			"t" : "20. Terrine de Frutas com Ágar-Ágar"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/956/3965454539001_4179730070001_Clafoutis-de-Tomatinho-e-Queijo-Feta---Vamos-pra-C.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549828001110263",
+			"sy" : "Clafoutis salgado com tomatinhos, queijo feta e manjericão é a opção perfeita para um acompanhamento rápido ou para servir a noite com uma saladinha.",
+			"t" : "19. Clafoutis de Tomatinho e Queijo Feta"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2892/3965454539001_4179730112001_Masala-de-Camarao---Vamos-pra-Cozinha--18.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549831001110266",
+			"sy" : "Masala é um prato tipicamente indiano onde o tempero garam masala dá um sabor único e especial à preparação. Normalmente ele é feito com algum tipo de carne frita no ghee, que é uma manteiga clarificada, para realçar o sabor do garam masala.",
+			"t" : "18. Masala de Camarão"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2228/3965454539001_4179699047001_Macarr-o-com-Cogumelos-e-Aspargos---Vamos-pra-Cozi.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549830001110267",
+			"sy" : "Macarrão é sempre uma receita rápida e prática ideal para o dia a dia. Nessa versão vegetariana, Dani coloca cogumelos e aspargos para dar um sabor especial.",
+			"t" : "17. Macarrão com Cogumelos e Aspargos"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1340/3965454539001_4179730097001_Sorbet-de-Manga---Vamos-pra-Cozinha--16.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549838001110268",
+			"sy" : "No calor, é ótimo fazer receitas fáceis, com muito sabor, refrescantes e saudáveis. E esse sorbet é exatamente a combinação ideal de todos esses ingredientes. É uma receita muito prática de fazer e que só leva um ingrediente!",
+			"t" : "16. Sorbet de Manga"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2916/3965454539001_4179688117001_Torta-de-Natal-de-Frutas-Vermelhas---Vamos-pra-Coz.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549842001110270",
+			"sy" : "Essa é a torta perfeita para comemorar o Natal e agradar a todos. Ela é cheia de sabor e é adoçada somente com pasta de tâmaras. Se quiser, finalize a sua torta de frutas vermelhas com um delicioso chantilly!",
+			"t" : "15. Torta de Natal de Frutas Vermelhas"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3140/3965454539001_4179726802001_Batatas-Gratinadas---Vamos-pra-Cozinha--14.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549827001110272",
+			"sy" : "Batatas Gratinadas são super deliciosas e servem como acompanhamento ou entrada de qualquer refeição. Nesse episódio de Vamos Pra Cozinha, Dani ensina uma receita perfeita desse prato.",
+			"t" : "14. Batatas Gratinadas"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3332/3965454539001_4179732749001_Falafel---Vamos-pra-Cozinha--13.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549829001110274",
+			"sy" : "Falafel é uma deliciosa receita para juntar os amigos e servir um lanche saudável no final de semana. Dani ensina esse prato ótimo nesse episódio.",
+			"t" : "13. Falafel"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/76/3965454539001_4179726755001_Salada-de-Quinua---Vamos-pra-Cozinha--12.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549835001110276",
+			"sy" : "Uma salada morna de quinua com couve e um tofu defumado gralhado é tudo que você precisa para fazer um jantar leve e saudável.",
+			"t" : "12. Salada de Quinua"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1900/3965454539001_4179732699001_Sandu-che-de-Cogumelo---Vamos-pra-Cozinha--11.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549836001110278",
+			"sy" : "Dani Noce ensina um delicioso sanduíche de shitake com creme de ricota espinafre. Para completar, ainda vai um lindo ovo poché por cima. Fica incrível!",
+			"t" : "11. Sanduíche de Cogumelo"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/156/3965454539001_4179726794001_Torradas-Del-cia---Vamos-Pra-Cozinha--10.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549841001110282",
+			"sy" : "Nesse episódio, Dani Noce mostra duas torradas deliciosas para você aproveitar como um jantar rápido ou como um bom lanche da tarde.",
+			"t" : "10. Torradas Delíca"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2380/3965454539001_4179688143001_Suco-Verde-e-Amarelo---Vamos-pra-Cozinha--09.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549839001110283",
+			"sy" : "Este é um ótimo suco para começar o dia com muita energia e vitalidade. Além disso, ele te sacia por bastante tempo o que ajuda a não chegar na hora do almoço com tanta fome",
+			"t" : "9. Suco Verde e Amarelo"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/892/3965454539001_4179730118001_Quibe-Assado---Vamos-pra-Cozinha--08.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549834001110284",
+			"sy" : "Quibe assado é a mistura perfeita entre comida indulgente e relativamente saudável. Uma porção pequena servida com salada, serve como uma refeição completa para te satisfazer durante o dia.",
+			"t" : "8. Quibe Assado"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1916/3965454539001_4179688126001_Verrine-de-Granola-e-Iogurte----Vamos-pra-Cozinha-.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549844001110288",
+			"sy" : "Fazer a sua própria granola é inesquecível, pois você pode colocar os ingredientes que você mais gosta e que te fazem bem. Para completar a felicidade, faça essa verrine com iogurte grego, geleia de morango sem açúcar e frutas vermelhas frescas",
+			"t" : "7. Verrine de Granola e Iogurte"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1004/3965454539001_4179699011001_Muffin-de-Abobrinha-com-Couve-flor---Vamos-pra-Coz.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549832001110289",
+			"sy" : "Os muffins de abobrinha e couve-flor são uma opção saudável para quem quer matar a fome da tarde com aquele lanchinho que fica faltando antes do jantar, ou pode ser trocado pela quiche e ser servido com uma saladinha como uma opção mais leve.",
+			"t" : "6. Muffin de Abobrinha com Couve Flor"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2900/3965454539001_4179732720001_Ab-bora-Recheada-com-Camar-o---Vamos-pra-Cozinha--.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549826001110290",
+			"sy" : "Estas abóboras recheadas com quinua e camarão servem como uma refeição completa e são perfeitas para aquele almoço de domingo com a família.",
+			"t" : "5. Abóbora Recheada com Camarão"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1156/3965454539001_4179726789001_Tomates-Recheados---Vamos-pra-Cozinha--04.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549840001110292",
+			"sy" : "Essa é uma receita que serve perfeitamente como acompanhamento para uma carne ou até mesmo como janta se você quiser balancear a sua alimentação.",
+			"t" : "4. Tomates Recheados"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2500/3965454539001_4179685206001_Trufa-de-Frutas-Secas---Vamos-pra-Cozinha--03.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549843001110294",
+			"sy" : "A trufa de frutas secas é uma ótima opção para matar aquela vontade de algo doce, não sair da dieta e ainda se nutrir. Então tenha algumas sempre por perto.",
+			"t" : "3. Trufa de Frutas Secas"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1500/3965454539001_4179685209001_Sopa-de-Ab-bora-e-Cenoura---Vamos-Pra-Cozinha--02.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549837001110296",
+			"sy" : "Sopa de abóbora aquece a alma e o coração. Você faz esse prato tão simples e fácil em menos de 20 minutos e assim que estiver pronto se delicia com o seu amor.",
+			"t" : "2. Sopa de Abóbora e Cenoura"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3076/3965454539001_4179726750001_Pudim-de-Chia---Vamos-Pra-Cozinha--01.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549833001110300",
+			"sy" : "Esse pudim é uma alternativa saudável e deliciosa para quem quer comer algo doce após o almoço ou ainda um lanchinho da tarde. Inclusive o mesmo pudim serve para fazer um picolé fácil e delicioso.",
+			"t" : "1. Pudim de Chia"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/6DsXJDCMgMyGWUiIAkK0ag/4f2ecec14e8370f6a1dbaa8ad091b3bf/connected-devices-thumbnail-vamos-pra-cozinha.png",
+	"nodeid" : "Series140301",
+	"nodetype" : "MENU",
+	"t" : "Vamos pra Cozinha"
+}

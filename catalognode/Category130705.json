@@ -1,0 +1,44 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/Qvlzj3lPgGOaSqc6QO2cE/c02c32daed7697b51a4537d41a15357f/connected-devices-thumbnail-washington-dc-best-pupusas.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120705",
+			"sy" : "Looking to get into DC's off-the-beaten-path dining scene? The Salvadorian culinary community in DC is topnotch, and we've got our list of the 7 best pupusas here.",
+			"t" : "Best Pupusas in DC"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/EiCMXJ9TJmwUmcGG604Wa/a4189fda55b5cee8ce19218bc7f81cf6/connected-devices-thumbnail-washington-dc-best-korean-bbq.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120713",
+			"sy" : "Late-night, midday or even for brunch, you can't go wrong with incredible Korean barbecue. Luckily, in the DMV we have access to one of the top Korean culinary communities in the nation — Annandale, Virginia! Check out our top picks spanning from DC to VA.",
+			"t" : "Korean Barbecue"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/7b2WwRiQ1yCEAi0KQ0i4qE/ff007e9833640cdc586b6935bb779284/connected-devices-thumbnail-washington-dc-best-coffee.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120722",
+			"sy" : "Navigating the world without your invigorating cup of joe? Don't worry, we have your back with these top spots to perk up. You don't want to miss the #protips at these selected locations, too!",
+			"t" : "Perk Up Coffee Spots"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6bEIyFWpLGmEq2OGSUYaYm/03a6e9b72b37c7da5f5221dd25e1f2ef/connected-devices-thumbnail-washington-dc-best-cocktails.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120731",
+			"sy" : "As DC's notable beverage scene grows, it's difficult to keep tabs on where to grab the craftiest cocktails. Lucky for you, we've scouted the top talent from around the city at these fine establishments. From Sherry to Pisco to Pre-Prohibition Cocktails, DC prides itself on its cutting-edge cocktail game.",
+			"t" : "Craftiest Cocktails"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/61myPycY7uagkuCswK0kW6/fd3ab0647daee879e55b3ac3a87cbe00/connected-devices-thumbnail-washington-dc-best-soul-food.png",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120733",
+			"sy" : "From the fried chicken at Astro Doughnuts to the BBQ at Hill Country Backyard Barbecue, we promise you'll be smiling all the way home with a full belly and a warm heart at these great D.C. restaurants for soul food.",
+			"t" : "Soul Food Hot Spots"
+		}
+	],
+	"imageUri" : "",
+	"nodeid" : "Category130705",
+	"nodetype" : "MENU",
+	"t" : "Tastemade/Video City Guides/Washington DC"
+}

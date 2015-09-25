@@ -1,0 +1,65 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2169/3965454539001_4230327798001_8cocadalimpo.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549857001110302",
+			"sy" : "Inspirada pela praia de Trancoso, Isadora ensina como fazer um dos mais famosos doces baianos: a cocada. Fazer essa receita é simples e são necessários apenas três ingredientes: coco, açúcar e água.",
+			"t" : "8. Cocada"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1929/3965454539001_4230341892001_7IMG-8795.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549858001110303",
+			"sy" : "Pronta em 10 minutos, essa receita de camarões ao alho é perfeita para comer como um petisco à noite após um dia na beira da praia. Com páprica picante, cebolinha verde e limão, seus sabores vão fazer você se sentir na Austrália.",
+			"t" : "7. Camarões no Alho"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3369/3965454539001_4230314692001_6jerchickenlimpo.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549859001110307",
+			"sy" : "Jerk Chicken é uma receita tradicional da Jamaica. Nela, as coxas de frango são marinadas em uma mistura cheia de temperos incríveis para depois serem assadas no forno, na frigideira ou também em uma churrasqueira.",
+			"t" : "6. Jerk Chicken"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2127/3965454539001_4230327789001_5mykonoslimpo.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549860001110308",
+			"sy" : "Mykonos é uma das praias mais lindas da Europa, e sua beleza inspira Isadora a fazer um arroz de lula e hortelã com um toque de um ingrediente que remete bem ao Mediterrâneo: limão siciliano.",
+			"t" : "5. Arroz de Lula e Hortelã"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2927/3965454539001_4230314685001_4batatas.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549861001110309",
+			"sy" : "Prática e muito saborosa, essa receita de batatas temperadas é inspirada nas Ilhas Maldivas. O tempero fica por conta do gengibre e do curry, além de ser acompanhada de cebola, alho e pimenta dedo-de-moça.",
+			"t" : "4. Batatas Temperadas"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1127/3965454539001_4230327778001_3drinklimpo.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549862001110311",
+			"sy" : "O Havaí inspira Isadora a fazer um drink perfeito para se tomar na beira da praia aproveitando o sol. O sabor especial vem da mistura de uma fruta do ocidente, a goiaba, e outra do oriente, a lichia.",
+			"t" : "3. Drink Havaiano de Goiaba e Lichia"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1367/3965454539001_4230341876001_2pxnabrasathumblimpo.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549864001110315",
+			"sy" : "Inspirada pelas praias da Tailândia, Isadora ensina a receita de um peixe inteiro na brasa. Para acompanhar, um molho cheio de sabores com gengibre, shoyu, pimenta, alho e coentro.",
+			"t" : "2. Peixe na Brasa com Molho Tailandês"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/105/3965454539001_4230327760001_1pastelsthumblimpo.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4178549863001110316",
+			"sy" : "O primeiro episódio da série Praias do Mundo tem inspiração na catarinense Garopaba. O tradicional pastel de camarão temperado com cominho é a receita que Isadora ensina neste episódio, preparando tudo desde a massa.",
+			"t" : "1. Pastel de Camarão"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/3ILxZBTDVKA2uM8gCo6ig6/91e7fe678d2ca235fb39b26ce46f2049/connected-devices-thumbnail-praias-do-mundo.png",
+	"nodeid" : "Series140318",
+	"nodetype" : "MENU",
+	"t" : "Praias do Mundo"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 243,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1300/3965454539001_3976319209001_SF001-SQUID-INK-RISOTTO.jpg?pubId=3965454539001",
+			"oigid" : 957788014,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/MLKZ3IBU493B/m3u8/MLKZ3IBU493B.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Ben and Jamie make an under-the-sea italian recipe of squid ink risotto, roasted tomatos, and seaweed garlic bread.",
+	"t" : "Squid Ink Risotto",
+	"uuid" : "Episode3972982220001120110"
+}

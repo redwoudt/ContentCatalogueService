@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 560,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/592/3965454539001_4164205551001_RVNG-THUMB.jpg?pubId=3965454539001",
+			"oigid" : -1668493144,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/YVTKP7YMTDV7/m3u8/YVTKP7YMTDV7.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Hey brah, Laura and her gang are hitting the beach for a surf picnic and some energy-fueled, power snack favorites.  Two gnarly recipes and one epic coconut lesson... it's gonna be totally tubular.",
+	"t" : "10. Energy Balls and Nori Power Sticks at the beach.",
+	"uuid" : "Episode4164157707001110696"
+}

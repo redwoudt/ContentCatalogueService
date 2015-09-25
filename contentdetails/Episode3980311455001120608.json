@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 134,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/719/3965454539001_3989970750001_TF044-BlueCornAtole.jpg?pubId=3965454539001",
+			"oigid" : -265412768,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/JSS8WFF3Q778/m3u8/JSS8WFF3Q778.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "When it's the time of year where you need a delicious, warming drink in your arsenal ... trust us, this is it.",
+	"t" : "Blue Corn Atole",
+	"uuid" : "Episode3980311455001120608"
+}

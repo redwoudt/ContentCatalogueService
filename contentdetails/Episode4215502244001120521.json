@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 3603,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1148/3965454539001_4215785950001_150505-TastemadeTV-Cinco-De-Mayo-new-120.jpg?pubId=3965454539001",
+			"oigid" : -812015351,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/35H8C7Q4E8UB/m3u8/35H8C7Q4E8UB.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "150505_TMTV Cinco De Mayo",
+	"t" : "4. Now Playing - Cinco De Mayo",
+	"uuid" : "Episode4215502244001120521"
+}

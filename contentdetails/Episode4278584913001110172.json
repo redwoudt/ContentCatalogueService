@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 217,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3691/3965454539001_4278947751001_75sufle.jpg?pubId=3965454539001",
+			"oigid" : -1826923876,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/8ZM7QZQVC2I9/m3u8/8ZM7QZQVC2I9.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Nesse Comida de Cinema, Isadora fica encantada com o clássico \"Sabrina\", dos anos 50. Ela prepara a receita do delicioso Suflê de Queijo que Sabrina faz no filme.",
+	"t" : "75. Suflê de Queijo de \"Sabrina\"",
+	"uuid" : "Episode4278584913001110172"
+}

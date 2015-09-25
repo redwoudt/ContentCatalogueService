@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 295,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3594/3965454539001_4293174214001_Geneva-2---Switzerland.jpg?pubId=3965454539001",
+			"oigid" : 331506217,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/88Y13UBTGIJ2/m3u8/88Y13UBTGIJ2.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "We head to Switerzland to spend a week in Geneva, one of the world's most cosmopolitan and international cities in the world!",
+	"t" : "2. Geneva, Switzerland",
+	"uuid" : "Episode4291346709001110057"
+}

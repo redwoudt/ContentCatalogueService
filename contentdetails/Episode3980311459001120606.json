@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 104,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3815/3965454539001_3990015711001_TF049-Switchel.jpg?pubId=3965454539001",
+			"oigid" : -560380066,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/6LFQ9VOB9OQP/m3u8/6LFQ9VOB9OQP.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Often drank by farmers during harvest, Switchel is pretty much an old school energy drink. So why not dip back into a bit of American history, and give this full flavored drink a try.",
+	"t" : "Switchel",
+	"uuid" : "Episode3980311459001120606"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 141,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2653/3965454539001_4185327554001_Screen-Shot-2015-04-20-at-4-25-57-PM.jpg?pubId=3965454539001",
+			"oigid" : -1567839293,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/RXBYG6AU9EET/m3u8/RXBYG6AU9EET.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Isadora Becker ensina a preparar uma deliciosa moqueca de peixe, inspirada no filme \"Sabor da Paixão\", que encantaria qualquer um com seu delicioso cheiro e sabor.",
+	"t" : "8. Moqueca de Peixe de \"Sabor da Paixão\"",
+	"uuid" : "Episode4178549793001110467"
+}

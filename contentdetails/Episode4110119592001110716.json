@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 62,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1417/3965454539001_4159449834001_6-1.jpg?pubId=3965454539001",
+			"oigid" : -704376132,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5LJZPCQF148Z/m3u8/5LJZPCQF148Z.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "What’s that adorable coffeehouse around the corner? It’s La Colombe, where they serve a terrific iced coffee with a shot of espresso that goes great with any of their yummy baked goods. They even offer tasting classes on Fridays.",
+	"t" : "6. La Colombe",
+	"uuid" : "Episode4110119592001110716"
+}

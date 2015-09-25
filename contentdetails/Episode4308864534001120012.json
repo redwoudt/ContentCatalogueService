@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 427,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/3042/3965454539001_4308888141001_cheese-bacon-love.jpg?pubId=3965454539001",
+			"oigid" : 1425175308,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/93KZV2GGEU6P/m3u8/93KZV2GGEU6P.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Luanda e Mohamad preparam um Cheese Bacon delicioso para preparar para a janta de dia dos namorados, mesmo que você esteja solteiro!",
+	"t" : "Cheese Bacon Love",
+	"uuid" : "Episode4308864534001120012"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/318/3965454539001_4121921812001_Screen-Shot-2015-03-19-at-9-38-26-AM.jpg?pubId=3965454539001",
+			"oigid" : 727128463,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/3II3RFO0KD5S/m3u8/3II3RFO0KD5S.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Enjoy a beautiful night outside with friends by the Miami River at Casablanca, where they serve fantastic fresh seafood like phenomenal paella and crispy coconut shrimp Come during happy hour for half-priced oysters.",
+	"t" : "1. Casablanca Seafood Bar and Grill",
+	"uuid" : "Episode4110117791001110927"
+}

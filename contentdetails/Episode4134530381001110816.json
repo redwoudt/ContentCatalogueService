@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3130/3965454539001_4157102536001_2.jpg?pubId=3965454539001",
+			"oigid" : -1250978528,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/2QQ8V5ACU5XV/m3u8/2QQ8V5ACU5XV.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The Easton serves a pint and a roast with plenty of style and charm. The roasts are savory and delicious, and the starters and sweet puddings are fantastic as well. What better way to spend a dreary day?",
+	"t" : "3. The Easton",
+	"uuid" : "Episode4134530381001110816"
+}

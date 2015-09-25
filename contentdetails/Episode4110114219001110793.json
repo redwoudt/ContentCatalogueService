@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 84,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/865/3965454539001_4158573749001_2.jpg?pubId=3965454539001",
+			"oigid" : -42221303,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/NQEOJ0DJTUGA/m3u8/NQEOJ0DJTUGA.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Coffee and caffeine are a potent mix, and Midtown’s Double Trouble has them both. Come between 4pm to 8pm Monday through Friday for happy hour — you’ll be glad you did.",
+	"t" : "2. Double Trouble",
+	"uuid" : "Episode4110114219001110793"
+}

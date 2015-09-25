@@ -1,0 +1,79 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1463/3965454539001_4021259354001_maxresdefault.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954074001120162",
+			"sy" : "This week's film is the Disney remake of The Lone Ranger. Join us as Jack and Laura wrangle dishes inspired by the film, including a Texas Chili Con Carne and Candy Silver Bullets.",
+			"t" : "The Lone Ranger — Texas Chili and Candy Silver Bullets"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/244/3965454539001_3974669621001_biteclub-b.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954075001120163",
+			"sy" : "Perfect for your next party: snacks inspired by Kick-Ass 2. We've got a Hit Girl-colored vegetable plate paired with a sheet of breakable sugar glass, just perfect for smashing over the head of a special someone. ;)",
+			"t" : "Kick-Ass 2 — Hit Girl Veggie Plate and Breakable Sugar Glass"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/336/3965454539001_3991418486001_BC006-PACIFIC-RIM-KAIJU-SALAD.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954076001120164",
+			"sy" : "This week's recipes are inspired by the Giant Robots vs Giant Monsters extravaganza, Pacific Rim, and in honor of Guillermo Del Toro, we're making a Kaiju salad poised to battle an atmospheric plate of Deep-Sea Scallops.",
+			"t" : "Pacific Rim — Kaiju Salad and Deep Sea Scallops"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2712/3965454539001_3991481323001_BC010-SEX-CITY-SUSHI.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972982158001120165",
+			"sy" : "This time, we're making recipes that give a nod to one of Laura's favorite films, 2008's Sex and The City. Loom forward to a posh, alcohol-soaked duck recipe and a sushi spread displayed on a human platter.",
+			"t" : "Sex and The City — Human Sushi Platter and Manhattan Duck"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2032/3965454539001_3991465294001_BC007-HUNGER-GAMES-PIG.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954077001120166",
+			"sy" : "2012's The Hunger Games gives us lots of fodder for food. Volunteer as tribute and check out Katniss Lamb Stew (it's Capitol-approved), and stick around for a recreation of the famous Gamemaker's pig scene!",
+			"t" : "The Hunger Games — Gamemaker's Pig and Katniss Lamb Stew"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2684/3965454539001_3974672252001_biteclub-c.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972982159001120167",
+			"sy" : "This week, Jack and Laura have the time of their lives....and make dishes to pay homage to 1987's Dirty Dancing! These recipes are light and tasty — no need to worry about feeling weighed down during dance practice.",
+			"t" : "Dirty Dancing — \"Baby\" Vegetables and Watermelon Plate"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3200/3965454539001_3991465300001_BC009-PULP-FICTION-BURGER.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972982157001120168",
+			"sy" : "We're making recipes from the iconic Quentin Tarantino film, Pulp Fiction. Big Kahuna Burger, check. Five Dollar Shake, check. Adrenaline Cocktail served in a syringe - you bet.",
+			"t" : "Pulp Fiction — Adrenaline Shot Cocktail & Big Kahuna Burger"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1228/3965454539001_3976146433001_BC002-MAN-OF-STELL-CANDY.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954072001120169",
+			"sy" : "This week's inspiration is Zach Snyder's Superman film, Man of Steel. Join us as Jack and Laura cook up Kryptonite Candy and and Superman Fried Chicken. It's a bird! It's a... It's just delicious.",
+			"t" : "Man of Steel — Kryptonite Candy and Superman Fried Chicken"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3612/3965454539001_3974672255001_biteclub-a.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972982160001120170",
+			"sy" : "We're making recipes inspired by one of the greatest summer blockbusters of all time - 1993's Jurassic Park. Journey back to Isla Nublar with Edible Amber and T-Rex Goat Ribs. Dino babies not included (unfortunately).",
+			"t" : "Jurassic Park — Edible Amber and T-Rex Goat Ribs"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3828/3965454539001_3976066785001_BC001-ALIEN-CHESTBURSTER-CAKE.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3972954071001120171",
+			"sy" : "This week's inspiration is the classic 1979 film Alien, so join us as Jack and Laura cook up some amazing dishes inspired by the film, including alien eggs and an edible chestburster cake!",
+			"t" : "Alien — Chestburster Cake and Edible Alien Eggs"
+		}
+	],
+	"imageUri" : "",
+	"nodeid" : "Category3972954074001130162",
+	"nodetype" : "MENU",
+	"t" : "Tastemade/Featured Show"
+}

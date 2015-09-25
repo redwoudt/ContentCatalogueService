@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 231,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2033/3965454539001_4230488437001_61peru.jpg?pubId=3965454539001",
+			"oigid" : 1137203279,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/OMI7JPMYXJ1P/m3u8/OMI7JPMYXJ1P.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Tomada pelo espírito natalino, Isadora prepara uma refeição digna do filme \"Milagre na Rua 34\", que conta a história de uma menina que quer continuar acreditando em Papai Noel.",
+	"t" : "Peru de Natal de \"Milagre na Rua 34\"",
+	"uuid" : "Episode4178549800001120335"
+}

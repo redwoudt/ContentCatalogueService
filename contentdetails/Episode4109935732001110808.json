@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 76,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1666/3965454539001_4120105968001_Screen-Shot-2015-03-18-at-2-20-33-PM.jpg?pubId=3965454539001",
+			"oigid" : 1856670488,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/XP41R3S9BTMB/m3u8/XP41R3S9BTMB.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Whether you want to dine in or grab it to go, Les Givral’s is reliably quick, convenient and delicious. Order the pho, banh mi and Vietnamese coffee … and don’t be dismayed by the long line; it moves fast and the food comes out quickly.",
+	"t" : "3. Les Givral's",
+	"uuid" : "Episode4109935732001110808"
+}

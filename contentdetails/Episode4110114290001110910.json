@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2594/3965454539001_4121864096001_Screen-Shot-2015-03-19-at-9-25-14-AM.jpg?pubId=3965454539001",
+			"oigid" : -2056665218,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/NV9G6DG04SKP/m3u8/NV9G6DG04SKP.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The mojito comes with real sugar cane and the Cuban coffee is strong and sweet at Versailles. And don’t hold back from ordering the creamy flan for dessert. They’re open until 3am, so you can get your sugar fix well into the wee hours.",
+	"t" : "7. Versailles Restaurant",
+	"uuid" : "Episode4110114290001110910"
+}

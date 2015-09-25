@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 155,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/177/3965454539001_3990005202001_TF041-Alouda.jpg?pubId=3965454539001",
+			"oigid" : -1560380061,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/AIHWXODY67WH/m3u8/AIHWXODY67WH.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A cousin to Falooda, Alouda is inescapable as you walk down the streets of Port Louis. It's refreshing, delicious, and filling.",
+	"t" : "Alouda",
+	"uuid" : "Episode3980311458001120611"
+}

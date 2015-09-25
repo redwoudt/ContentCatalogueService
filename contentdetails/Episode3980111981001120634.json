@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 134,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/1473/3965454539001_3987784436001_TF018-YerbaMate.jpg?pubId=3965454539001",
+			"oigid" : 1748577146,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/T6GK1VVKN14F/m3u8/T6GK1VVKN14F.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Yerba Mate is a type of tea, but it goes way beyond being just a tea. Earthy, pungent, and steeped in ritual, it's something you must try.",
+	"t" : "Yerba Mate",
+	"uuid" : "Episode3980111981001120634"
+}

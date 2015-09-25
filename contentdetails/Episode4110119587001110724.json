@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1303/3965454539001_4159425810001_8.jpg?pubId=3965454539001",
+			"oigid" : -1409408828,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/BXIMX2KK2BX6/m3u8/BXIMX2KK2BX6.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Barmini is the No. 1 cocktail bar in the city, so it’s not easy to get a seat, but it’s absolutely worth the wait. Forget about the menu and trust the bartenders to create something beautiful – they’ll never let you down.",
+	"t" : "9. Barmini",
+	"uuid" : "Episode4110119587001110724"
+}

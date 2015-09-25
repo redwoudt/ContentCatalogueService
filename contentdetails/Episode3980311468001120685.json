@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 1084,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3991/3965454539001_4124366429001_DOG005-NYC3-1.jpg?pubId=3965454539001",
+			"oigid" : -150314579,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/NR00LIUH4B9E/m3u8/NR00LIUH4B9E.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The Day of Gluttony takes over the Big Apple, as Harry and Bruce skate their way across the city looking for the best food and drink in New York City.",
+	"t" : "24 New York City Restaurants in 24 Hours",
+	"uuid" : "Episode3980311468001120685"
+}

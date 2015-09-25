@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1329/3965454539001_4159374987001_6.jpg?pubId=3965454539001",
+			"oigid" : 676801230,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/3LOFNHQOBA5J/m3u8/3LOFNHQOBA5J.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "King Noodle’s congee — a type of rice porridge — makes the ultimate cold weather comfort food. Order some Chinese donuts for dipping if you really want to treat yourself.",
+	"t" : "7. King Noodle",
+	"uuid" : "Episode4110117748001110734"
+}

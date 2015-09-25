@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 125,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/919/3965454539001_3987731077001_TF015-MangoLassi.jpg?pubId=3965454539001",
+			"oigid" : -754693251,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/W51AABFUU1JD/m3u8/W51AABFUU1JD.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Whether for breakfast, lunch, or any time really, this refreshing Indian drink, is sure to cool you off and fill your tummy.",
+	"t" : "Mango Lassi",
+	"uuid" : "Episode3978376549001120637"
+}

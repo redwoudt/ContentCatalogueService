@@ -1,0 +1,44 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/5Hf7nf9SZaqkWUCCMeCecm/af62e06c14bb1e8a1096569caabb9528/connected-devices-thumbnail-nashville-coffee-.jpg",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120878",
+			"sy" : "Need a cuppa joe? Some high octane rocket fuel? A little leaded java? These Nashville brewers can kickstart your day whether you're in West End, East Nashville, Hillsboro or So Bro. Here's some of our favorite places serving cups of lightning.",
+			"t" : "Best Coffee Spots"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/2ksVamdKqwUGaKMOmS02yc/441d40d6ea49953fcf5e205f33a2f1b7/connected-devices-thumbnail-nashville-best-meat-and-three.jpg",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120885",
+			"sy" : "Wanna eat like you do at your Grandma's house on Sunday? Pork chops, meatloaf, roast beef, or BBQ with the yummiest, carb-iest and cheesiest sides. Visit these cafeterias or family-style dining rooms and wash down the guilty pleasures with some Southern sweet tea.",
+			"t" : "Meat ‘n’ Three"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/2qNKQNUnRGqGEgOCCQ00mA/7553dcc79d4bef008deffc8036c5ba04/connected-devices-thumbnail-nashville-best-hot-now.jpg",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120893",
+			"sy" : "Some delicious and inventive restaurants are opening up every month in Music City. Here's a handful that have had the town buzzing with reservation requests. Get out your pencil and start checking them off your to-go list. See you there!",
+			"t" : "Buzzworthy Restaurants"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6GrNLWyyNquSgSu2GeI8iC/19168a7090f4a319826eeef574979e12/connected-devices-thumbnail-nashville-best-east-restaurants.jpg",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120902",
+			"sy" : "The bridges in and out can get heavy on game nights but here are 7 great reasons to trek on over to Nashville's newest food-loving area. The sun and our appetites rise in the EAST!",
+			"t" : "Best East Restaurants"
+		},
+		{
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/3BSLycFZYsogEgQiqo2OCy/98c8ba6b94556d0d8736a707d957e2a8/connected-devices-thumbnail-nashville-best-pizza.jpg",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode120909",
+			"sy" : "Thin crust, thick crust, New York, Chicago, Margherita, Ham & Pineapple. Whatever your preference, Nashville has an impressive devotion to creating great pizza. Here's some of our go-to's when we need Italian ambrosia in the form of a cheesy, tangy pizza pie.",
+			"t" : "Pizzapalooza"
+		}
+	],
+	"imageUri" : "",
+	"nodeid" : "Category130878",
+	"nodetype" : "MENU",
+	"t" : "Tastemade/Video City Guides/Nashville"
+}

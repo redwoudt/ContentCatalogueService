@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 77,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3967/3965454539001_4159374977001_4.jpg?pubId=3965454539001",
+			"oigid" : 655362256,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/6UPBNGTHUXCJ/m3u8/6UPBNGTHUXCJ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Morning, noon or night, Honey Court serves up great seafood, dim sum and more. Pork and shrimp wonton soup makes a delicious late-night snack.",
+	"t" : "5. Honey Court Seafood Restaurant",
+	"uuid" : "Episode4110119559001110736"
+}

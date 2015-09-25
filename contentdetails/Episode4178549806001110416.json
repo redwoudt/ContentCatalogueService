@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 150,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/697/3965454539001_4230457366001_60salmao.jpg?pubId=3965454539001",
+			"oigid" : -1452741232,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/XKQT74MUACJI/m3u8/XKQT74MUACJI.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "\"A Vida é Bela\" é um filme lindo e a inspiração de Isadora nesse Comida de Cinema. Ela prepara o delicioso salmão com salada verde que Guido serve em uma das cenas.",
+	"t" : "60. Salmão de \"A Vida é Bela\"",
+	"uuid" : "Episode4178549806001110416"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1255/3965454539001_4158485844001_3.jpg?pubId=3965454539001",
+			"oigid" : -452286697,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/4RAI9UOVFE6N/m3u8/4RAI9UOVFE6N.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "The Eatsie Boys are three dudes who grew up in Houston and love food almost as much as they love their city. Standout sandwiches include the Philly cheesesteak and Frank the Pretzel, & you’ll definitely want to save room for their decadent ice cream.",
+	"t" : "6. Eatsie Boys",
+	"uuid" : "Episode4110114210001110807"
+}

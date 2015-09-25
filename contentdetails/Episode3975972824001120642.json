@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 123,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/3073/3965454539001_3987745140001_masalachai.jpg?pubId=3965454539001",
+			"oigid" : -632600190,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/7NKBGL50HL7R/m3u8/7NKBGL50HL7R.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "With a rich cultural history and complex taste, Masala Chai is one of the most delicious teas in existence. Enjoy!",
+	"t" : "Masala Chai",
+	"uuid" : "Episode3975972824001120642"
+}

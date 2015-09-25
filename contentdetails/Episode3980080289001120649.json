@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 115,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3089/3965454539001_4134348286001_vlcsnap-2015-03-25-14h35m51s229.jpg?pubId=3965454539001",
+			"oigid" : 1238311817,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/5B5U66CTPTBW/m3u8/5B5U66CTPTBW.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Hey baby, it's cold outside. Warm yourself up with this delicious homemade apple cider recipe, courtesy of the Tastemade original series.",
+	"t" : "Homemade Apple Cider",
+	"uuid" : "Episode3980080289001120649"
+}

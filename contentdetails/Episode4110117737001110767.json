@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 72,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2753/3965454539001_4158874689001_7.jpg?pubId=3965454539001",
+			"oigid" : -1733264145,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/RN6UINNYOT8X/m3u8/RN6UINNYOT8X.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "For Indian cuisine that’s cooked with heart and served in a fine dining setting, the only place to go is Kiran’s, where Chef Kiran has been feeding happy patrons for 10 years. Must-order dishes include the chicken saag and sea bass panipuri.",
+	"t" : "8. Kiran's",
+	"uuid" : "Episode4110117737001110767"
+}

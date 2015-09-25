@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 66,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3981/3965454539001_4117414490001_Screen-Shot-2015-03-17-at-12-32-59-PM.jpg?pubId=3965454539001",
+			"oigid" : -977904226,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/SZLC7Z5OM8GE/m3u8/SZLC7Z5OM8GE.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Prime Italian is the perfect spot for a girls dinner out. The freshly made pasta is amazing and the seafood is always delicious…but you’ll need to save a lot of room for dessert and the fried Oreos.",
+	"t" : "2. Prime Italian",
+	"uuid" : "Episode4110117785001110942"
+}

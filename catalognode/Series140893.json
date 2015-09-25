@@ -1,0 +1,65 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3734/3965454539001_4122670929001_3965454539001-4110126276001--M83npDkSlGzMrqyNgaYDQ-1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117755001110884",
+			"sy" : "Where’s a true biscuit lover to go? The answer is pretty obvious. Whether you top it with a classic burger or fried chicken with sausage gravy, a flaky, buttery biscuit from Biscuit Love is sure to make you swoon.",
+			"t" : "8. Biscuit Love"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2274/3965454539001_4122707556001_3965454539001-4110125715001-rh1V9FUnSOG7aGzEbADoBg.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119572001110886",
+			"sy" : "Top Chef winner Richard Blais has opened a burger boutique in Nashville, and the food lives up to the hype. Do NOT miss out on the fries – they’re cooked in beef fat and the whole process takes 2 days…but they’ll probably all be gone in 2 minutes.",
+			"t" : "7. Flip Burger"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/3349/3965454539001_4110121308001_3kvroC6zTZSKjh2-5gFJTA-th.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119570001110887",
+			"sy" : "Come to Indian-inspired gastropub Chauhan Ale & Masala House and order the deliciously battered fish and chips with a carrot halwa whoopie pie for dessert. If you love to dance, check their Facebook page for info on Bollywood dance nights.",
+			"t" : "5. Buzzworthy Restaurants in Nashville"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2011/3965454539001_4117502271001_Screen-Shot-2015-03-17-at-1-15-53-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119571001110888",
+			"sy" : "The menu at Sinema is overseen by a “Top Chef” alum, so it’s going to change a lot, but be sure to get the stroganoff and the “surf, surf and surf” if you can. Dinner is amazing, but the Sunday brunch (with no reservations needed) is great too.",
+			"t" : "6. Sinema"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/466/3965454539001_4122666786001_3965454539001-4110125733001-BopbC7xmTNa7bVEo3CExJA.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114246001110889",
+			"sy" : "Combining a classy atmosphere with slap-yo-mama good food, Prima offers a one-of-a-kind dining experience in Nashville. The dynamic duo of lobster gnocchi and braised short ribs with a side of crispy sweet potatoes is a good place to start.",
+			"t" : "4. Prima"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/958/3965454539001_4122707560001_3965454539001-4110121368001-cZW8FRVrSnOyGjkVNWGBmw.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119568001110890",
+			"sy" : "Barista Parlor is oozing with ambience and serves great food, to boot – don’t miss out on the speedy biscuit with ham and maple syrup and the oatmeal topped with apple butter. But the main event here is still the coffee – they’ve got it all.",
+			"t" : "2. Barista Parlor"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1285/3965454539001_4117502251001_Screen-Shot-2015-03-17-at-1-11-05-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119569001110891",
+			"sy" : "The Sutler Saloon’s all-new menu includes can’t-miss gems like honey and bacon popcorn, Yukon gold potatoes with crème fraiche, and fried shallots with cheddar cheese. Check out Bluegrass Sundays & the cool event space downstairs.",
+			"t" : "3. The Sutler Saloon"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/530/3965454539001_4122642270001_3965454539001-4110121332001-5rEf4FMJRr6pmjHzWlbnCA.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114245001110892",
+			"sy" : "Whether it’s date night, friend night, or any night, prepare to get your mind blown by the amazingly prepared food at The 404 Kitchen. Must-order items include the black truffle burrata, dry aged beef tartar and, most importantly, the lamb sugo.",
+			"t" : "1. The 404 Kitchen"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/2qNKQNUnRGqGEgOCCQ00mA/7553dcc79d4bef008deffc8036c5ba04/connected-devices-thumbnail-nashville-best-hot-now.jpg",
+	"nodeid" : "Series140893",
+	"nodetype" : "MENU",
+	"t" : "Buzzworthy Restaurants"
+}

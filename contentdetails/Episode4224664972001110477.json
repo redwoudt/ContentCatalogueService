@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 340,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1638/3965454539001_4224625634001_RVNG-BORSCHT-Still2.jpg?pubId=3965454539001",
+			"oigid" : 1338501581,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/CB8T27E2O3JT/m3u8/CB8T27E2O3JT.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Soup fans this one's for you!  Laura's got not one, but two great recipes .  Learn how to make your own veggie stock and then incorporate it into a beautiful, delicious beet soup.",
+	"t" : "14. Borscht",
+	"uuid" : "Episode4224664972001110477"
+}

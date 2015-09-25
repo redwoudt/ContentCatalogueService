@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 70,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/3529/3965454539001_4159460194001_4.jpg?pubId=3965454539001",
+			"oigid" : 1303072968,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/KX5KTWPDJ436/m3u8/KX5KTWPDJ436.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "There’s only one place to go for sherry in D.C., and that place is Mockingbird Hill. A little bit of sherry, some Spanish tapas and a group of friends makes for a perfect evening.",
+	"t" : "4. Mockingbird Hill",
+	"uuid" : "Episode4110114259001110728"
+}

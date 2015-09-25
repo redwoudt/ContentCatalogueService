@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 156,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201501/2719/3965454539001_3989970756001_TF047-Qamaral.jpg?pubId=3965454539001",
+			"oigid" : 2029554527,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/63W78PUAFJ7Y/m3u8/63W78PUAFJ7Y.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "This drink is beloved throughout much of the Middle East, especially during Ramadan. If you don't like apricot, this isn't going to work out. But any apricot-phile is going to dig this.",
+	"t" : "Qamar Al-Din",
+	"uuid" : "Episode3980311453001120607"
+}

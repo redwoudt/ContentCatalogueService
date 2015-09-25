@@ -1,0 +1,51 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/367/3965454539001_4159425771001_5.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117773001110686",
+			"sy" : "Tucked away in an alley near the waterfront, Saturday Morning Café is Baltimore’s premier spot for Southern scratch cooking and that means you MUST order the chicken and waffles.",
+			"t" : "5. Saturday Morning Cafe"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/353/3965454539001_4159449781001_6-1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110114270001110687",
+			"sy" : "Boasting the ultimate street cred of being the oldest soul food restaurant in the world, Florida Avenue Grill serves a mean Sunday brunch – be sure to order the mind-blowing French toast. You can beat the morning rush by coming around noon or so.",
+			"t" : "6. Florida Avenue Grill"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/945/3965454539001_4159374619001_2.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110117772001110688",
+			"sy" : "Whoa. Did someone say “fried chicken and donut sandwich”? It may sound crazy, but order it and you won’t regret it. And then get another donut for dessert – the flavors change daily. Get there early because some flavors may run out.",
+			"t" : "2. Astro Doughnuts and Fried Chicken"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2367/3965454539001_4159425761001_4.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119596001110689",
+			"sy" : "Ben’s Next Door has it all – happy hour seven days a week and great soul food (the shrimp and grits and bread pudding are just like heaven). This place is popular, so get there early or make a reservation on the weekends.",
+			"t" : "4. Ben's Next Door"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/1329/3965454539001_4159375007001_1.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119594001110690",
+			"sy" : "Texas may be a long way from D.C., but you can get a taste of the Lone Star State at Hill Country Backyard Barbecue, where it’s tough to decide whether the true stars are the smoked meats or the tasty sides. Either way, you can’t go wrong.",
+			"t" : "1. Hill Country Backyard Barbecue"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/326/3965454539001_4120370415001_Screen-Shot-2015-03-18-at-4-50-16-PM.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4110119595001110858",
+			"sy" : "Order the barbecue sampler platter at DCity Smokehouse because the smoked turkey, ribs, and especially the brisket, are all too good to miss. Don’t forget to eat your veggies: fried Brussels sprouts. Items sell out quick on Fridays and Saturdays.",
+			"t" : "3. DCity Smokehouse"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/61myPycY7uagkuCswK0kW6/fd3ab0647daee879e55b3ac3a87cbe00/connected-devices-thumbnail-washington-dc-best-soul-food.png",
+	"nodeid" : "Series140733",
+	"nodetype" : "MENU",
+	"t" : "Soul Food Hot Spots"
+}

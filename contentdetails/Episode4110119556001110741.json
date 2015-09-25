@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 71,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2129/3965454539001_4159175115001_7.jpg?pubId=3965454539001",
+			"oigid" : 1950329557,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/U2DGTGMQZFLR/m3u8/U2DGTGMQZFLR.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Fried eggs and tater tots go great with bourbon at Radiator Whiskey. Come on a Wednesday for the Beast Feast — just be sure to order it in advance.",
+	"t" : "7. Radiator Whiskey",
+	"uuid" : "Episode4110119556001110741"
+}

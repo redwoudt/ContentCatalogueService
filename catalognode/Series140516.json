@@ -1,0 +1,135 @@
+{
+	"childnodes" : 
+	[
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201502/1913/3965454539001_4067047059001_HF-SWEDEN-SEEDEDBREAD-STILL.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4066675218001110478",
+			"sy" : "Whether it's the base for an open faced sandwich or just toasted and buttered, this delicious and slightly bread will steal the show.",
+			"t" : "6. Seeded Bread"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1694/3965454539001_4225439635001_vlcsnap-2015-05-08-08h00m35s158.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode3998983190001110482",
+			"sy" : "A staple up and down South America, this Peruvian Ceviche spices things up with some unique ingredients.",
+			"t" : "6. Peruvian Ceviche"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2402/3965454539001_4225469159001_vlcsnap-2015-05-08-07h55m01s155.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4003548750001110484",
+			"sy" : "These traditional South American sandwich cookies are perfect on the coffee table or as a way to end a Peruvian-inspired feast.",
+			"t" : "5. Alfajores"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3402/3965454539001_4225469164001_vlcsnap-2015-05-08-08h04m23s120.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4007655178001110486",
+			"sy" : "Yuquitas are the quintessential Peruvian snack.  Similar to French Fries, but made with the South American Yuca, this dish will get your Peruvian dinner party off to a rockin start.",
+			"t" : "4. Yuquitas Fritas (Yuca Fries)"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1341/3965454539001_4219308287001_quinua.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4014134605001110488",
+			"sy" : "Long before it was a trendy superfood, quinoa was one of the staples of Peruvian cuisine.  This traditional preparation brings some delicious regional flavors to this regional grain.",
+			"t" : "3. Quinua Atamalada"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1181/3965454539001_4219345323001_Lomo.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4015832203001110490",
+			"sy" : "This traditional stir fry mixes some delicious Peruvian flavors with marinated beef and french fries in a truly unique dish",
+			"t" : "2. Lomo Saltado"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1978/3965454539001_4225445190001_vlcsnap-2015-05-08-08h01m12s32.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4020788147001110492",
+			"sy" : "Crispy roast chicken is a staple all across South America .  Paired with a spicy, creamy sauce, this dish becomes Peruvian perfection.",
+			"t" : "1. Pollo Brasa"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/173/3965454539001_4219200949001_GINGERCOOKIES-V4-00-00-07-22-Still001.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4001048934001110495",
+			"sy" : "The weather outside might be frightful, but the smell from the oven is delightful! If winter has you in the kitchen baking these Chewy Ginger Cookies, then we say, “let it snow!”",
+			"t" : "6. Ginger Cookies"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2437/3965454539001_4219238578001_FARROSALAD-V6-DELIVERY-YOUTUBE-00-00-08-04-Still002.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4001048935001110496",
+			"sy" : "Winterize salad with hearty grains. This Roasted Root Vegetable & Farro Salad will keep you fueled and filled through the winter season.",
+			"t" : "5. Roasted Root Vegetable and Farro Salad"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/173/3965454539001_4219200941001_CHOCO-PUDDING-V7-00-00-07-07-Still003.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4001048936001110498",
+			"sy" : "After a day on the slopes, you deserve a treat! A childhood favorite gets a little heat; with this Spiced Chocolate Pudding you’re sure to keep warm all winter long.",
+			"t" : "4. Spiced Chocolate Pudding"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2173/3965454539001_4219200939001_CHKN-POTPIE-120814-v10-DELIVERY-YOUTUBE-00-00-06-07-Still004.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4001048937001110500",
+			"sy" : "A delicious and easy way to use up leftover roast chicken and feed a crowd? Chicken Pot Pie is a classic comfort food and the perfect meal to come in from the cold to.",
+			"t" : "3. Chicken Pot Pie"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/2891/3965454539001_4219226352001_HF-CABIN-PASTABAKE-v2-00-00-06-08-Still002.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4001048938001110502",
+			"sy" : "Cozy up in the cabin with a little Butternut Squash Pasta Bake. The perfect recipe for an après ski feast!",
+			"t" : "2. Butternut Squash Pasta Bake"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1437/3965454539001_4219238563001_HF-CABIN-KALESTEW-V3-GFX-00-00-05-08-Still001.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4001048939001110504",
+			"sy" : "A hearty, simmering stew is the perfect way to feed a crowd coming in from the cold.  Kale and White Bean Stew is savory and light, and the perfect “dip” for fresh garlic toast.",
+			"t" : "1. Kale and White Bean Stew"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/755/3965454539001_4218313809001_HF-SWEDEN-POTATOSALAD-RoughDraft-V1-Copy-01-00-00-08-08-Still002.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4063589693001110505",
+			"sy" : "The coveted new potato is used many Scandinavian dishes.  Though none is more popular than a traditional Swedish Potato Salad, or Färskpotatissalad.",
+			"t" : "5. Potato Salad"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3189/3965454539001_4218326432001_V4-APPLE-00-00-05-08-Still002.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4048962974001110508",
+			"sy" : "Braised cabbage meets apples and red onions in this delicious sweet and sour dish that's perfect for your Scandanavian feast.",
+			"t" : "4. Rødkål"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3939/3965454539001_4218302731001_V4-APPLE-00-00-05-14-Still003.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4043612347001110510",
+			"sy" : "The uniquely Scandanavian Lingonberry is the centerpiece of this delicious and creamy festive pudding.",
+			"t" : "3. Lingonberry Rice Pudding"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/1939/3965454539001_4218302741001_V5-WITH-MASTER-APPLE-00-00-05-00-Still003.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4035516773001110512",
+			"sy" : "Give your Ikea meatballs an upgrade with this homemade take on the icon Swedish dish.",
+			"t" : "2. Swedish Meatballs"
+		},
+		{
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3477/3965454539001_4218313840001_V4-WITH-MASTER-APPLE-00-00-07-23-Still003.jpg?pubId=3965454539001",
+			"nodetype" : "PROGRAMME",
+			"programmeid" : "Episode4030240764001110514",
+			"sy" : "We're creating the ultimate Swedish Smörgåsbord feast, starting with one of the most iconic dishes - a cured salmon delicacy known as Gravlax.",
+			"t" : "1. Gravlax"
+		}
+	],
+	"imageUri" : "https://images.contentful.com/za8hb1uldivj/57ZSmkeUyskWuSsS4EA8K6/bad02fedf63356d97158ec7ec92eb5da/connected-devices-thumbnail-hungry-for.png",
+	"nodeid" : "Series140516",
+	"nodetype" : "MENU",
+	"t" : "Hungry For..."
+}

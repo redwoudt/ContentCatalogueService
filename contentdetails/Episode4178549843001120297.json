@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 245,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2500/3965454539001_4179685206001_Trufa-de-Frutas-Secas---Vamos-pra-Cozinha--03.jpg?pubId=3965454539001",
+			"oigid" : 1187530281,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/0IAOF3AOAVX5/m3u8/0IAOF3AOAVX5.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A trufa de frutas secas é uma ótima opção para matar aquela vontade de algo doce, não sair da dieta e ainda se nutrir. Então tenha algumas sempre por perto.",
+	"t" : "Trufa de Frutas Secas",
+	"uuid" : "Episode4178549843001120297"
+}

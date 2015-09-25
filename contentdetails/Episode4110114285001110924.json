@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1165/3965454539001_4110140009001_AiRcDeG5QZaVBkMCWMhfZQ-th.jpg?pubId=3965454539001",
+			"oigid" : 1533269388,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/Q5Z5YDQKB8V0/m3u8/Q5Z5YDQKB8V0.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Come enjoy a beer and fresh Cuban seafood on the beach at Lighthouse Café in Key Biscayne. Whether you order the grouper or the mahi mahi, be sure to get it with a side of black beans and rice.",
+	"t" : "3. Lighthouse Cafe",
+	"uuid" : "Episode4110114285001110924"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 66,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/418/3965454539001_4156599017001_3965454539001-4134738208001-4134530377001.jpg?pubId=3965454539001",
+			"oigid" : -956011197,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/0LPC6FDPIW8Z/m3u8/0LPC6FDPIW8Z.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Honey & Co. serves delicious Middle Eastern food in a small, intimate and friendly setting. Try the delectable rabbit with sourdough toast and don’t forget to order a slice of cheesecake for dessert.",
+	"t" : "2. Honey & Co",
+	"uuid" : "Episode4134530377001110851"
+}

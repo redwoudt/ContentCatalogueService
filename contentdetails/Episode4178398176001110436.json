@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 220,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201505/3975/3965454539001_4230386306001_38matrix.jpg?pubId=3965454539001",
+			"oigid" : -92548700,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/9IOSL8VOW4EJ/m3u8/9IOSL8VOW4EJ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Os cookies do oráculo aparecem duas vezes na trilogia Matrix e é essa receita super saborosa que Isadora Becker prepara nesse episódio.",
+	"t" : "38. Cookies do Oráculo de \"Matrix\"",
+	"uuid" : "Episode4178398176001110436"
+}

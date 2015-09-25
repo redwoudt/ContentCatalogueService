@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 3603,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/2248/3965454539001_4130379095001_max-thumbnail-tastemade-tv.jpg?pubId=3965454539001",
+			"oigid" : 1662366982,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/EQNRAVYDCK39/m3u8/EQNRAVYDCK39.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "No description",
+	"t" : "Now Playing",
+	"uuid" : "Episode4129673822001120518"
+}

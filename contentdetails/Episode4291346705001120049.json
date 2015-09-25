@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 481,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201506/230/3965454539001_4293167496001_Chamonix---France.jpg?pubId=3965454539001",
+			"oigid" : 626483505,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/CNLKAD76OJCH/m3u8/CNLKAD76OJCH.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Base Jumping, Paragliding,Dog Sledding and Snowboarding!!! Join us for an extreme week in Chamonix, France.",
+	"t" : "Chamonix, France",
+	"uuid" : "Episode4291346705001120049"
+}

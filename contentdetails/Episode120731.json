@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 0,
+			"hd" : false,
+			"imageUri" : "https://images.contentful.com/za8hb1uldivj/6bEIyFWpLGmEq2OGSUYaYm/03a6e9b72b37c7da5f5221dd25e1f2ef/connected-devices-thumbnail-washington-dc-best-cocktails.png",
+			"oigid" : 0,
+			"provider" : "TasteMade",
+			"streamLink" : ""
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "As DC's notable beverage scene grows, it's difficult to keep tabs on where to grab the craftiest cocktails. Lucky for you, we've scouted the top talent from around the city at these fine establishments. From Sherry to Pisco to Pre-Prohibition Cocktails, DC prides itself on its cutting-edge cocktail game.",
+	"t" : "Craftiest Cocktails",
+	"uuid" : "Episode120731"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 75,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/130/3965454539001_4157102545001_3.jpg?pubId=3965454539001",
+			"oigid" : 878563615,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/FDIMBGTBC6EQ/m3u8/FDIMBGTBC6EQ.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "You could spend all day at The Crown and Anchor eating their delicious nachos, potato wedges, chips, sandwiches and burgers…and you’ll probably need a nap afterward.",
+	"t" : "5. The Crown And Anchor",
+	"uuid" : "Episode4134502323001110815"
+}

@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 73,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201503/1042/3965454539001_4121921886001_Screen-Shot-2015-03-19-at-9-54-36-AM.jpg?pubId=3965454539001",
+			"oigid" : 1525820306,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/MCLG4RP7ROL1/m3u8/MCLG4RP7ROL1.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "A darling of foodies and food writers, Proof Pizza lives up to its reputation with phenomenal dishes like the foie gras pasta, angel hair with crab, and any of the pizzas – the crust is definitely something to write home about.",
+	"t" : "7. Pizzapalooza Miami",
+	"uuid" : "Episode4110119620001110930"
+}

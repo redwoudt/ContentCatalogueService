@@ -1,0 +1,19 @@
+{
+	"formats" : 
+	[
+		{
+			"at" : "M",
+			"d" : 167,
+			"hd" : false,
+			"imageUri" : "https://brightcove.hs.llnwd.net/v1/unsecured/media/3965454539001/201504/2803/3965454539001_4185446532001_Screen-Shot-2015-04-20-at-6-17-03-PM.jpg?pubId=3965454539001",
+			"oigid" : -797581423,
+			"provider" : "TasteMade",
+			"streamLink" : "http://9bnjl7mn.skychnl.net/9BNJL7MN/Y52F44CE87C7/m3u8/Y52F44CE87C7.m3u8"
+		}
+	],
+	"seasonuuid" : "",
+	"seriesuuid" : "",
+	"sy" : "Nesse episódio, Isadora se inspirou no clássico \"Uma Linda Mulher\", estrelado por Julia Roberts. Ela ensina a preparar os deliciosos canapés da festa que inicia o filme.",
+	"t" : "58. Canapés de \"Uma Linda Mulher\"",
+	"uuid" : "Episode4178398171001110417"
+}
